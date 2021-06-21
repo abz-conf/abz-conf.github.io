@@ -1,0 +1,15 @@
+#
+#   Copyright (C) 2021 ABZ Conference <https://abz-conf.org>
+#   All rights reserved.
+#
+#   Developed by: Philipp Paulweber et al.
+#                 <https://github.com/abz-conf/abz-conf.github.io>
+#
+#   This file is part of abz-conf.github.io.
+#
+#   TODO
+#
+
+/.attic
+/.github/obj
+/.github/src/themes/academic
