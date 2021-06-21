@@ -1,0 +1,46 @@
+#
+#   Copyright (C) 2021 ABZ Conference <https://abz-conf.org>
+#   All rights reserved.
+#
+#   Developed by: Philipp Paulweber et al.
+#                 <https://github.com/abz-conf/abz-conf.github.io>
+#
+#   This file is part of abz-conf.github.io.
+#
+#   TODO
+#
+
+# https://help.github.com/en/articles/virtual-environments-for-github-actions#supported-virtual-environments
+
+name: github-pages
+
+on: [push]
+
+jobs:
+  github-pages:
+    runs-on: ubuntu-18.04
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+      with:
+        submodules: true
+    - name: Setup
+      run: |
+        wget https://github.com/gohugoio/hugo/releases/download/v0.68.3/hugo_extended_0.68.3_Linux-64bit.tar.gz
+        sudo mv hugo_extended_0.68.3_Linux-64bit.tar.gz /usr/bin/
+        (cd /usr/bin; sudo tar xvf hugo_extended_0.68.3_Linux-64bit.tar.gz)
+        hugo version
+    - name: Build
+      run: |
+        make build
+    - name: Deploy
+      run: |
+        make deploy
+        git config --local user.email ${{ github.event.pusher.email }}
+        git config --local user.name ${{ github.event.pusher.name }}
+        git add .
+        git commit -m "${{ github.event.head_commit.message }}"
+    - name: Publish
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
