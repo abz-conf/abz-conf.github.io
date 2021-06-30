@@ -26,14 +26,15 @@ jobs:
         submodules: true
     - name: Setup
       run: |
-        wget https://github.com/gohugoio/hugo/releases/download/v0.68.3/hugo_extended_0.68.3_Linux-64bit.tar.gz
-        sudo mv hugo_extended_0.68.3_Linux-64bit.tar.gz /usr/bin/
-        (cd /usr/bin; sudo tar xvf hugo_extended_0.68.3_Linux-64bit.tar.gz)
+        wget https://github.com/gohugoio/hugo/releases/download/v0.83.1/hugo_extended_0.83.1_Linux-64bit.tar.gz
+        sudo mv hugo_extended_0.83.1_Linux-64bit.tar.gz /usr/bin/
+        (cd /usr/bin; sudo tar xvf hugo_extended_0.83.1_Linux-64bit.tar.gz)
         hugo version
     - name: Build
       run: |
         make build
     - name: Deploy
+      if: github.ref == 'refs/heads/master'
       run: |
         make deploy
         git config --local user.email ${{ github.event.pusher.email }}
@@ -42,5 +43,6 @@ jobs:
         git commit -m "${{ github.event.head_commit.message }}"
     - name: Publish
       uses: ad-m/github-push-action@master
+      if: github.ref == 'refs/heads/master'
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
