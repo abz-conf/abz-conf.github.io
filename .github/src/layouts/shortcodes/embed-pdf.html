@@ -1,0 +1,16 @@
+
+<div id="pdfobject-viewer"></div>
+
+<script src="/js/pdfobject.min.js"></script>
+
+<script>
+  var url = "{{ .Get "url" }}";
+  PDFObject.embed( url, "#pdfobject-viewer" );
+</script>
+
+<style>
+.pdfobject-container
+{
+    height: 30rem;
+}
+</style>
