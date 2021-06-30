@@ -1,0 +1,109 @@
+#
+#   Copyright (C) 2021 ABZ Conference <https://abz-conf.org>
+#   All rights reserved.
+#
+#   Developed by: Philipp Paulweber et al.
+#                 <https://github.com/abz-conf/abz-conf.github.io>
+#
+#   This file is part of abz-conf.github.io.
+#
+#   abz-conf.github.io is licensed under a
+#   Creative Commons Attribution 4.0 International License.
+#
+#   You should have received a copy of the license along with this
+#   work. If not, see <http://creativecommons.org/licenses/by/4.0/>.
+#
+
+title = "ABZ"
+
+baseurl = "/"
+# baseurl = "https://abz-conf.org/"
+
+copyright = "Copyright &copy; {year} ABZ Conference"
+# copyright = "Copyright &copy; 2021-{year} ABZ Conference"
+
+theme = "academic"
+
+enableGitInfo = true
+
+defaultContentLanguage = "en"
+
+hasCJKLanguage = false  # `true` for Chinese/Japanese/Korean languages
+
+defaultContentLanguageInSubdir = false
+
+removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issues/5687
+
+summaryLength = 30
+
+paginate = 10
+
+enableEmoji = true
+
+footnotereturnlinkcontents = "<sup>^</sup>"
+
+ignoreFiles = [ "\\.org$", "\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+publishDir = "../obj/html"
+
+resourceDir = "../obj"
+
+# Workaround Hugo publishing taxonomy URLs as plurals - consistently use singular
+[permalinks]
+  event = "/:filename/" # events have no /event/ prefix
+  publication = "/publication/:filename/"
+  authors = "/author/:slug/"
+  project = "/case-study/:filename/"
+  tags = "/tag/:slug/"
+  categories = "/category/:slug/"
+#  publication_types = "/publication-type/:slug/"
+
+[outputs]
+  home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]
+  section = [ "HTML", "RSS" ]
+
+[mediaTypes."application/manifest+json"]
+  suffixes = ["webmanifest"]
+
+[outputFormats.WebAppManifest]
+  mediaType = "application/manifest+json"
+  rel = "manifest"
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    codeFences = false
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
+
+[imaging]
+  resampleFilter = "lanczos"
+  quality = 90
+  anchor = "smart"  # or 'center'
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  publication_type = "publication_types"
+  author = "authors"
+
+[caches]
+[caches.getjson]
+dir = ":cacheDir/:project"
+maxAge = -1
+[caches.getcsv]
+dir = ":cacheDir/:project"
+maxAge = -1
+[caches.images]
+dir = ":resourceDir/images"
+maxAge = -1
+[caches.assets]
+dir = ":resourceDir/assets"
+maxAge = -1
+[caches.modules]
+dir = ":cacheDir/modules"
+maxAge = -1

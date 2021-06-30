@@ -1,0 +1,30 @@
+#
+#   Copyright (C) 2021 ABZ Conference <https://abz-conf.org>
+#   All rights reserved.
+#
+#   Developed by: Philipp Paulweber et al.
+#                 <https://github.com/abz-conf/abz-conf.github.io>
+#
+#   This file is part of abz-conf.github.io.
+#
+#   abz-conf.github.io is licensed under a
+#   Creative Commons Attribution 4.0 International License.
+#
+#   You should have received a copy of the license along with this
+#   work. If not, see <http://creativecommons.org/licenses/by/4.0/>.
+#
+
+[en]
+  languageCode = "en-us"
+#  contentDir = "content/en"
+
+#[zh]
+#  languageCode = "zh-Hans"
+#  contentDir = "content/zh"
+#  title = "Chinese website title..."
+#  [zh.params]
+#    description = "Site description in Chinese..."
+#  [[zh.menu.main]]
+#    name = "Wo"
+#    url = "#about"
+#    weight = 1
