@@ -1,0 +1,29 @@
+#
+#   Copyright (C) 2021 ABZ Conference <https://abz-conf.org>
+#   All rights reserved.
+#
+#   Developed by: Philipp Paulweber et al.
+#                 <https://github.com/abz-conf/abz-conf.github.io>
+#
+#   This file is part of abz-conf.github.io.
+#
+#   abz-conf.github.io is licensed under a
+#   Creative Commons Attribution 4.0 International License.
+#
+#   You should have received a copy of the license along with this
+#   work. If not, see <http://creativecommons.org/licenses/by/4.0/>.
+#
+
+types = [ "pub_uncat",	      # 0
+          "pub_conf",	      # 1
+          "pub_journal",      # 2
+          "pub_preprint",     # 3
+          "pub_report",	      # 4
+          "pub_book",	      # 5
+          "pub_book_section", # 6
+          "pub_thesis",	      # 7
+          "pub_patent",	      # 8
+          "pub_case_study",   # 9
+          "pub_short_paper",  # 10
+          "pub_long_paper"    # 11
+        ]
