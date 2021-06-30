@@ -14,6 +14,13 @@
 #+options: toc:nil
 
 
-* abz-conf.github.io
+* =abz-conf.github.io=: ABZ Conference and Community Website
 
 TBA
+
+- =hugo= 0.83.1 (extended)
+
+- =.github/src/content= ...
+
+- =./= ... contains the generated website (do not modify!)
+
