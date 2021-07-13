@@ -16,9 +16,6 @@
 
 default: serve
 
-.github/src/themes/academic:
-	(cd .github/src/themes; ln -sf ../../lib/hugo-academic academic)
-
 build: .github/src/themes/academic
 	rm -rf .github/obj/html/*
 	(cd .github/src; hugo)
@@ -31,6 +28,14 @@ serve-with-drafts: build
 
 clean:
 	rm -rf .github/obj
+
+
+.github/lib/hugo-academic/.git:
+	git submodule update --init
+
+.github/src/themes/academic: .github/lib/hugo-academic/.git
+	(cd .github/src/themes; ln -sf ../../lib/hugo-academic academic)
+
 
 # the 'deploy' target gets called by the GitHub action workflow! do not call this manually or locally
 deploy: .github/src/themes/academic
