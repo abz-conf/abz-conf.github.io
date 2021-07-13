@@ -67,7 +67,7 @@ This document presents a description of the European Rail Traffic Management Sys
 
 ## Document
 
-{{< embed-pdf url="/hoang2018abz-cs.pdf" >}}
+{{< embed-pdf url="/data/abz18/hoang2018abz-cs.pdf" >}}
 
 ## Reference
 

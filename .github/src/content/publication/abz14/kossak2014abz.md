@@ -60,7 +60,7 @@ We present an ASM model for the case study given as a challenge for the ABZ'14 c
 
 ## Document
 
-{{< embed-pdf url="/kossak2014abz.pdf" >}}
+{{< embed-pdf url="/data/abz14/kossak2014abz.pdf" >}}
 
 ## Reference
 
@@ -111,7 +111,7 @@ We present an ASM model for the case study given as a challenge for the ABZ'14 c
 - **Model Archive:**
   Not available
 - **Presentation:**
-  [PPT](/kossak2014abz.pptx)
+  [PPT](/data/abz14/kossak2014abz.pptx)
 - **Used formal method:**
   [ASM](/method/asm)
 - **Resources and tools:**

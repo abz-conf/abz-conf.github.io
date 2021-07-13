@@ -35,10 +35,6 @@ links:
   url: https://doi.org/10.1007/s10009-015-0391-0
   icon_pack: fas
   icon: book
-- name: Source
-  url: https://link.springer.com/article/10.1007%2Fs10009-015-0391-0
-  icon_pack: fas
-  icon: database
 - name: Abstract
   url: "publication/mammar2015sttt/#abstract"
   icon_pack: fas

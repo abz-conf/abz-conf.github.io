@@ -60,7 +60,7 @@ Formal techniques, in particular formal specification languages and associated p
 
 ## Document
 
-{{< embed-pdf url="/boniol2016sttt.pdf" >}}
+{{< embed-pdf url="/data/sttt/boniol2016sttt.pdf" >}}
 
 ## Reference
 

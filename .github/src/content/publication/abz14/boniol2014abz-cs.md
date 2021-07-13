@@ -59,7 +59,7 @@ We propose this case study as a benchmark for techniques and tools dedicated to 
 
 ## Document
 
-{{< embed-pdf url="/boniol2014abz-cs.pdf" >}}
+{{< embed-pdf url="/data/abz14/boniol2014abz-cs.pdf" >}}
 
 ## Reference
 
