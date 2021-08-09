@@ -13,7 +13,7 @@ date: 2014-05-08
 publication_types:
 -  9 # case study
 
-publication: "4th International Conference on Rigorous State-Based Methods (ABZ'14)"
+publication: "4th International Conference on ASM, Alloy, B, TLA, VDM, and Z (ABZ'14)"
 publication_short: "ABZ'14"
 
 tags:
