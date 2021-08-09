@@ -14,7 +14,7 @@ date: 2018-05-08
 publication_types:
 -  9 # case study
 
-publication: "6th International Conference on Rigorous State-Based Methods (ABZ'18)"
+publication: "6th International Conference on ASM, Alloy, B, TLA, VDM, and Z (ABZ'18)"
 publication_short: "ABZ'18"
 
 tags:
