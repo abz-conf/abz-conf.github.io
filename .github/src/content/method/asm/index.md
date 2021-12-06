@@ -44,9 +44,13 @@ For an introductory **text book** with lecture slides see the _Modeling Book_ [4
 
 For **case studies** which illustrate typical applications of the method see the JBook [6] and provided [case studies](/case-studies) on this page.
 
-For **tools** which support the ASM method see ... TODO: various links, e.g. https://tydo.eu/AsmGofer
+For **tools** which support the ASM method see 
+* [Asmeta](https://asmeta.github.io/)
+* [CASM](https://casm-lang.org/)
+* [CoreASM](https://github.com/CoreASM)
+* [AsmGofer](https://tydo.eu/AsmGofer)
 
-For the **early history** -- of the development of the method and early applications in various fields of computer science -- up to 2003 see [7] (available from http://www.jucs.org/jucs_8_1/the_origins_and_the) and ... (TODO: link to Michigan Website). 
+For the **early history** -- of the development of the method and early applications in various fields of computer science -- up to 2003 see [7] (available from https://www.jucs.org/jucs_8_1/the_origins_and_the/Boerger_E.pdf) and http://web.eecs.umich.edu/gasm/subjects/montage.html. 
 
 The **epistemological motivation** for the definition of ASMs was to improve Turing's thesis, which has been proved in [2] from three natural axioms for sequential algorithms.
 For the further development of such axiomatic and corresponding ASM-characterizations of algorithmic concepts (e.g. recursive algorithms, reflective algorithms, synchronous parallel algorithms, concurrent algorithms, communicating algorithms, etc.) see [9].
