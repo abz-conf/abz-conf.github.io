@@ -12,21 +12,43 @@ header:
   image: ""
 ---
 
-Information disclosed under <TODO: geographical law act and § number>:
+Information disclosed under Digital Economy Law (575/2004), France:
+
+<!-- INFORMAZIONI AI SENSI DELL’ART. 7 DEL D.LGS 70/2003
+Ai sensi dell’art. 7 del d.lgs 70/03 “Attuazione della direttiva 2000/31/CE relativa a taluni aspetti giuridici dei servizi della società dell'informazione nel mercato interno, con particolare riferimento al commercio elettronico” si forniscono le seguenti notizie: -->
+
+<!-- 
+INFORMATIONEN GEMÄSS ITALIENISCHEM GESETZESDEKRET 70/2003, ART. 7
+
+Gemäß Art. 7 des italienischen Gesetzesdekrets Nr. 70/2003 „Durchführungsbestimmungen der Richtlinie 2000/31/EG über bestimmte rechtliche Aspekte der Dienste der Informationsgesellschaft im Binnenmarkt, insbesondere hinsichtlich des elektronischen Geschäftsverkehrs“ werden folgende Angaben gemacht:
+-->
 
 ### Contact
 
 <small>
-$T$$O$$D$$O$ <br>
-$T$$O$$D$$O$ <br>
-$T$$O$$D$$O$ <br>
-$T$$O$$D$$O$ <br>
-</small>
-<br>
+Prof. Elvinia Riccobene <br/>
 
-Owner:   <small> $T$$O$$D$$O$ $T$$O$$D$$O$ </small><br>
-E-Mail:  <small> $T$$O$$D$$O$$@$$T$$O$$D$$O$.$T$$O$$D$$O$ </small><br>
-Website: <small> $h$$t$$t$$p$$s$$:$$/$$/$$a$$b$$z$$-$$c$$o$$n$$f$$.$$o$$r$$g$ </small>
+Università degli Studi di Milano <br/>
+Dipartimento di Informatica <br/>
+via Celoria, 18 - 20135 Milano <br/>
+
+tel: $+$$3$$9$ $0$$2$ $5$$0$$3$$3$$0$$0$$5$$5$<br/>
+email: $e$$l$$v$$i$$n$$i$$a$$.$$r$$i$$c$$c$$o$$b$$e$$n$$e$$@$$u$$n$$i$$m$$i$$.$$i$$t$ <br/>
+</small>
+
+<small>
+Prof. Yamine AIT-AMEUR <br/>
+
+INPT-ENSEEIHT/IRIT <br/>
+Bat. F. Bureau F306 <br/>
+2, Rue Charles Camichel <br/>
+BP 7122  <br/>
+31071 Toulouse CEDEX 7 <br/> France <br/>
+
+tel: $($$+$$3$$3$$/$$0$$)$ $5$ $3$$4$ $3$$2$ $2$$2$ $5$$5$ <br/>
+email: $y$$a$$m$$i$$n$$e$$@$$n$$7$$.$$f$$r$ <br/>
+</small>
+Website: <small> https://abz-conf.org </small>
 
 ### Notice of liability
 
