@@ -15,7 +15,9 @@ header:
 ---
 
 The ASM method applies Abstract State Machines (ASMs) to support **_traceable rigorous design and analysis_** (by experimental testing and/or mathematical verification) of software-intensive systems. 
-The following three ingredients of the method support to **_develop executable code from specifications by stepwise refinement_** where at each step both mathematical verification of desired properties and experimental model validation by testing can be applied and fully documented to permit design for change:
+The following **_three ingredients_** of the method support to **_develop executable code from specifications by stepwise refinement_** where at each step both mathematical verification of desired properties and experimental model validation by testing can be applied and fully documented to permit design for change.
+
+<!-- @ppaulweber: update "the concept ..." -->
 
 - the concept of ASM 
   ------------------- 
