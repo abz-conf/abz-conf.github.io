@@ -24,10 +24,10 @@
   url = "events"
   weight = 20
 
-[[main]]
-  name = "Keynotes"
-  url = "keynotes"
-  weight = 30
+# [[main]] # TODO: FIXME: @ppaulweber: reenable 'keynotes' section ASAP
+#   name = "Keynotes"
+#   url = "keynotes"
+#  weight = 30
 
 [[main]]
   name = "Case Studies"
