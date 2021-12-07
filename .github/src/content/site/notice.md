@@ -71,4 +71,13 @@ This website uses no analytics software of any kind.
 The only cookie the website uses and stores is a `cookieconsent_status`.
 This cookie consent status is used to store that the page informed you about this page and does only appear the first time you visit this page.
 
-TODO: proper description/elaboration/clarification of twitter integration
+### Twitter Plugin
+
+Our website contains social plugins from https://twitter.com.
+These plugins are solely provided by Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA.
+When you visit the start page of our website that contains the social plugin, your browser establishes a direct connection to the servers of Twitter, which is used to retrieve the contents of the plugin.
+Through this process, Twitter is aware that you have visited this website.
+If you are logged in to Twitter while browsing this website, Twitter can match your visit with your account.
+By interacting with the plugin, this information is sent directly to Twitter and processed there.
+If you would like to opt out, please log out of Twitter before visiting this website.
+For the information on the purpose and scope of data collection and procession by Twitter, as well as your rights in this respect and settings options for protecting your privacy please visit Twitter’s privacy policy: https://twitter.com/privacy.
