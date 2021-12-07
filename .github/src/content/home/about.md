@@ -17,10 +17,11 @@ The ABZ conference is dedicated to the cross-fertilization of state-based and ma
 
 This conference aims for a vital exchange of knowledge and experience among the research communities around different formal methods.
 
-This website ... TODO
+This website is now intended to provide a central entry point into the ABZ community around the ABZ conference. Like the conference, it is intended to bring together on a single page the various rigorous state-based methods that form the core of the ABZ community and provide an overview for interested researchers.
 
-A new session dedicated to a shared real-life case study among all the methods is included since ABZ 2014.
+In addition to listing all past and upcoming events, it briefly describes the methods themselves and, where available, links to specific websites that provide more details about each state-based formal method. The database of all papers published in connection with ABZ provides a deeper insight into past and current research in this area.
+
+A session dedicated to a shared real-life case study among all the methods is included since ABZ 2014.
 The objective of this session was to enrich the set of [case studies](/case-studies) developed with ABZ [methods](/methods) with a practical and real-life case study.
 Here, we provide a detailed description of these [case studies](/case-studies) and the corresponding [publications](/publications).
-
-The [publications](/publications) provide the archived models, applied formal approaches, resources, and tools.
+The [publications](/publications) section provides the archived models, applied formal approaches, resources, and tools created or used in the context of the [case studies](/case-studies).
