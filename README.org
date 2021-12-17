@@ -31,4 +31,3 @@ TBA
 ** License
 
 This project uses for all textual information a CC-BY-4.0 license.
-
