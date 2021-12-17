@@ -22,7 +22,7 @@ on:
   push:
     branches-ignore:
       - 'push-action/**'
-  pull_request:
+
 
 jobs:
   github-pages:
@@ -42,16 +42,16 @@ jobs:
       run: |
         make build
     - name: Deploy
-      if: github.ref == 'refs/heads/master' && github.event.pull_request.merged == true
+      if: github.ref == 'refs/heads/master'
       run: |
         make deploy
         git config --local user.email ${{ github.event.pusher.email }}
         git config --local user.name ${{ github.event.pusher.name }}
         git add .
-        git commit -m "${{ github.event.head_commit.message }}"
+        git commit -m "${{ github.event.head_commit.message }} [actions skip]"
     - name: Publish
       uses: CasperWA/push-protected@v2
-      if: github.ref == 'refs/heads/master' && github.event.pull_request.merged == true
+      if: github.ref == 'refs/heads/master'
       with:
         token: ${{ secrets.ACCESS_TOKEN }}
         branch: master
