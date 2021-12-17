@@ -1,0 +1,50 @@
+#
+#   Copyright (C) 2021 ABZ Conference <https://abz-conf.org>
+#   All rights reserved.
+#
+#   Developed by: Philipp Paulweber et al.
+#                 <https://github.com/abz-conf/abz-conf.github.io>
+#
+#   This file is part of abz-conf.github.io.
+#
+#   abz-conf.github.io is licensed under a
+#   Creative Commons Attribution 4.0 International License.
+#
+#   You should have received a copy of the license along with this
+#   work. If not, see <http://creativecommons.org/licenses/by/4.0/>.
+#
+
+[[main]]
+  name = "Methods"
+  url = "methods"
+  weight = 10
+
+[[main]]
+  name = "Conferences"
+  url = "events"
+  weight = 20
+
+# [[main]] # TODO: FIXME: @ppaulweber: reenable 'keynotes' section ASAP
+#   name = "Keynotes"
+#   url = "keynotes"
+#  weight = 30
+
+[[main]]
+  name = "Case Studies"
+  url = "case-studies"
+  weight = 40
+
+[[main]]
+  name = "Publications"
+  url = "publications"
+  weight = 50
+
+[[main]]
+  name = "Committee"
+  url = "team"
+  weight = 60
+
+# [[main]]
+#   name = "Site Notice"
+#   url = "site/notice"
+#   weight = 100

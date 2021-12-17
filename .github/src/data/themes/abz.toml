@@ -14,6 +14,21 @@
 #   work. If not, see <http://creativecommons.org/licenses/by/4.0/>.
 #
 
-/.attic
-/.github/obj
-/.github/src/themes/academic
+# rgb(  78, 117, 146 ) # Hex: #4E7592 # blue dark
+# rgb( 130, 169, 200 ) # Hex: #82A9C8 # blue light 
+# rgb( 232, 155,  38 ) # Hex: #E89B26 # orange
+
+name = "abz"
+
+light = true
+
+primary = "#3E6592"
+
+menu_primary = "#f0f0f0"
+menu_title = "#000"
+menu_text = "#000"
+menu_text_active = "#E89B26"
+
+home_section_odd = "#fff"
+home_section_even = "#fafafa"
+#home_section_even = "#E89B26"

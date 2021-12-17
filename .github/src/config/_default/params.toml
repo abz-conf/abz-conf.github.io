@@ -1,0 +1,181 @@
+#
+#   Copyright (C) 2021 ABZ Conference <https://abz-conf.org>
+#   All rights reserved.
+#
+#   Developed by: Philipp Paulweber et al.
+#                 <https://github.com/abz-conf/abz-conf.github.io>
+#
+#   This file is part of abz-conf.github.io.
+#
+#   abz-conf.github.io is licensed under a
+#   Creative Commons Attribution 4.0 International License.
+#
+#   You should have received a copy of the license along with this
+#   work. If not, see <http://creativecommons.org/licenses/by/4.0/>.
+#
+
+theme = "abz"
+
+day_night = false
+
+font = "minimal"
+
+font_size = "M"
+
+site_type = "Organization"
+
+local_business_type = ""
+
+# org_name = "" # optional, defaults to 'title' from 'config.toml'
+
+description = "This is the official website of ABZ conference and community!"
+
+highlight = true
+highlight_languages = ["r"]  # support for highlighting additional languages
+highlight_style = "github"  # https://cdnjs.com/libraries/highlight.js/
+
+math = true
+
+diagram = false
+
+privacy_pack = true # cookie consent and anonymize IP
+
+edit_page = { repo_url = "https://github.com/abz-conf/abz-conf.github.io", content_dir = ".github/src/content", repo_branch = "master", editable = { docs = true, page = false, post = false } }
+
+favicon = "https://github.com/abz-conf/abz-conf.logo/raw/master/obj/favicon/48.png"
+
+logo = "https://github.com/abz-conf/abz-conf.logo/raw/master/src/badge.svg"
+
+email = "ppaulweber@ppaulweber.com" # TODO
+
+phone = ""
+
+# https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
+address = { street = "", city = "Vienna", region = "", postcode = "", country = "Austria", country_code = "AT" }
+
+# coordinates = {latitude = "", longitude = ""}
+
+# directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
+
+# office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
+
+# appointment_url = "https://calendly.com"
+
+contact_links = [
+#  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/USERNAME"},
+#  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
+#  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
+#  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
+#  {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
+  ]
+
+sharing_image = "https://github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png"
+
+twitter = "ABZ_Conference"
+
+date_format = "Jan 2, 2006"
+
+time_format = "15:04"
+
+address_format = "de"
+
+main_menu = {align = "l", show_logo = true}
+
+reading_time = false
+
+section_pager = false
+
+docs_section_pager = true
+
+sharing = true
+
+link_authors = true
+
+abstract_length = 135
+
+plugins_js  = [ # /assets/js/<NAME>.js
+# "NAME"
+]
+
+
+[avatar]
+  gravatar = true
+
+  shape = "circle"
+  # shape = "square"
+
+
+[address_formats]
+  en-us = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ' ', '']}
+  en-gb = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ', ', '']}
+  de = {order = ['street', 'postcode', 'city'], delimiters = ['<br>', ' ', '']}
+  fr-fr = {order = ['street', 'postcode', 'city'], delimiters = ['<br>', ' ', '']}
+  zh = {order = ['postcode', 'region', 'city', 'street'], delimiters = [' ', ' ', ' ', '']}
+
+
+[publications]
+  date_format = "January 2, 2006"
+
+  citation_style = "apa"
+  # citation_style = "mla"
+
+
+[projects]
+  # post_view = 1 # list
+  post_view = 2 # compact
+  # post_view = 3 # card
+
+  # talk_view = 1 # list
+  talk_view = 2 # compact
+  # talk_view = 3 # card
+
+  # publication_view = 1 # list
+  publication_view = 2 # compace
+  # publication_view = 3 # card
+  # publication_view = 4 # citation
+
+
+[comments]
+  engine = 0 # disabled
+  # engine = 1 # https://disqus.com
+  # engine = 2 # https://commento.io
+
+  commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
+
+  [comments.disqus]
+    shortname = ""  # shortname of Disqus dashboard.
+    show_count = true
+
+  [comments.commento]
+    url = "" # e.g. "https://commento.?.com"
+
+
+[search]
+  # engine = 0 # disabled
+  engine = 1 # academic (built-in)
+  # engine = 2 # https://www.algolia.com
+
+  [search.algolia]
+    app_id = ""
+    api_key = ""
+    index_name = ""
+    show_logo = false
+
+
+[map]
+  # engine = 0 # disabled
+  # engine = 1 # Google Maps, api_key @ https://developers.google.com/maps/documentation/javascript/get-api-key
+  engine = 2 # OpenStreetMap (Mapnik)
+  # engine = 3 # OpenStreetMap (Mapbox), api_key @  https://www.mapbox.com/studio/account/tokens
+
+  api_key = ""
+  zoom = 15
+
+
+[marketing]
+  google_analytics = ""
+  google_tag_manager = ""
+
+
+[cms]
+  netlify_cms = false

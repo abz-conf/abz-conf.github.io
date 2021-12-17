@@ -14,6 +14,17 @@
 #   work. If not, see <http://creativecommons.org/licenses/by/4.0/>.
 #
 
-/.attic
-/.github/obj
-/.github/src/themes/academic
+[en]
+  languageCode = "en-us"
+#  contentDir = "content/en"
+
+#[zh]
+#  languageCode = "zh-Hans"
+#  contentDir = "content/zh"
+#  title = "Chinese website title..."
+#  [zh.params]
+#    description = "Site description in Chinese..."
+#  [[zh.menu.main]]
+#    name = "Wo"
+#    url = "#about"
+#    weight = 1

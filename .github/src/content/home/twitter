@@ -1,0 +1,20 @@
+---
+title: Latest Tweets
+weight: 80
+---
+
+{{< rawhtml >}}
+<div style="text-align: center;">
+<meta name="twitter:dnt" content="on">
+<a
+class="twitter-timeline"
+data-dnt="true"
+data-theme="light"
+data-width="400"
+data-height="800"
+data-chrome="noheader nofooter transparent noscrollbar"
+href="https://twitter.com/ABZ_Conference">Tweets by @ABZ_Conference
+</a>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+{{< /rawhtml >}}

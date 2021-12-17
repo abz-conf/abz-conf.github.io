@@ -7,13 +7,27 @@
 # 
 #   This file is part of abz-conf.github.io.
 # 
-#   TODO
+#   abz-conf.github.io is licensed under a
+#   Creative Commons Attribution 4.0 International License.
+# 
+#   You should have received a copy of the license along with this
+#   work. If not, see <http://creativecommons.org/licenses/by/4.0/>.
 # 
 [[https://github.com/abz-conf/abz-conf.logo/raw/master/obj/headline.png]]
 
 #+options: toc:nil
 
 
-* abz-conf.github.io
+* =abz-conf.github.io=: ABZ Conference and Community Website
 
 TBA
+
+- =hugo= 0.83.1 (extended)
+
+- =.github/src/content= ...
+
+- =./= ... contains the generated website (do not modify!)
+
+** License
+
+This project uses for all textual information a CC-BY-4.0 license.
