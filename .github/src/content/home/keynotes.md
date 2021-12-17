@@ -4,7 +4,7 @@ subtitle: ""
 
 widget: pages
 headless: true
-active: true
+active: false
 weight: 80
 
 content:
