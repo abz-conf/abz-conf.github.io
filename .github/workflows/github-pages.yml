@@ -49,5 +49,5 @@ jobs:
       uses: ad-m/github-push-action@v0.6.0
       if: github.ref == 'refs/heads/master'
       with:
-        github_token: ${{ secrets.ACCESS_TOKEN }}
+        github_token: ${{ secrets.DEPLOY_IN_REPO }}
 #        github_token: ${{ secrets.GITHUB_TOKEN }}
