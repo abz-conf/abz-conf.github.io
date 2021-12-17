@@ -41,7 +41,7 @@ jobs:
       run: |
         make build
     - name: Deploy
-      if: github.ref == 'refs/heads/master'
+      if: github.ref == 'refs/heads/master' && github.event.pull_request.merged == true
       run: |
         make deploy
         git config --local user.email ${{ github.event.pusher.email }}
@@ -50,7 +50,7 @@ jobs:
         git commit -m "${{ github.event.head_commit.message }}"
     - name: Publish
       uses: CasperWA/push-protected@v2
-      if: github.ref == 'refs/heads/master'
+      if: github.ref == 'refs/heads/master' && github.event.pull_request.merged == true
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ secrets.ACCESS_TOKEN }}
         branch: master
