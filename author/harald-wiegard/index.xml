@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Harald Wiegard | ABZ</title><link>/author/harald-wiegard/</link><atom:link href="/author/harald-wiegard/index.xml" rel="self" type="application/rss+xml"/><description>Harald Wiegard</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2021 ABZ Conference</copyright><lastBuildDate>Sat, 15 Aug 2015 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Harald Wiegard</title><link>/author/harald-wiegard/</link></image><item><title>Validation of the ABZ landing gear system using ProB</title><link>/publication/ladenberger2015sttt/</link><pubDate>Sat, 15 Aug 2015 00:00:00 +0000</pubDate><guid>/publication/ladenberger2015sttt/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>In this article, we present our formalization of the ABZ landing gear case study in Event-B. The development was carried out using the Rodin platform and mainly used superposition refinement to structure the specification. To validate the model, we complemented proof with animation and model checking. For the latter, we used the ProB animator and model checker. Graphical representation of the model turned out to be crucial in the development and validation of the model; this was achieved using the visualization features provided by ProB and BMotion Studio. In addition, we discuss the positive and negative aspects of the Event-B language and tools which we encountered while working on the ABZ case study.&lt;/p>
+&lt;!-- ## Document
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "\/ladenberger2015sttt.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+-->
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@Article{Ladenberger2017,
+author=&amp;quot;Ladenberger, Lukas
+and Hansen, Dominik
+and Wiegard, Harald
+and Bendisposto, Jens
+and Leuschel, Michael&amp;quot;,
+title=&amp;quot;Validation of the ABZ landing gear system using ProB&amp;quot;,
+journal=&amp;quot;International Journal on Software Tools for Technology Transfer&amp;quot;,
+year=&amp;quot;2017&amp;quot;,
+month=&amp;quot;Apr&amp;quot;,
+day=&amp;quot;01&amp;quot;,
+volume=&amp;quot;19&amp;quot;,
+number=&amp;quot;2&amp;quot;,
+pages=&amp;quot;187--203&amp;quot;,
+abstract=&amp;quot;In this article, we present our formalization of the ABZ landing gear case study in Event-B. The development was carried out using the Rodin platform and mainly used superposition refinement to structure the specification. To validate the model, we complemented proof with animation and model checking. For the latter, we used the ProB animator and model checker. Graphical representation of the model turned out to be crucial in the development and validation of the model; this was achieved using the visualization features provided by ProB and BMotion Studio. In addition, we discuss the positive and negative aspects of the Event-B language and tools which we encountered while working on the ABZ case study.&amp;quot;,
+issn=&amp;quot;1433-2787&amp;quot;,
+doi=&amp;quot;10.1007/s10009-015-0395-9&amp;quot;,
+url=&amp;quot;https://doi.org/10.1007/s10009-015-0395-9&amp;quot;
+}
+&lt;/code>&lt;/pre>
+&lt;p>Model Archive : Not available
+Presentation : Not available
+Used formal method : ProB
+Resources and tools : ProB
+Required OS : Linux
+Website : Not available
+Remarks and recommendation : No&lt;/p></description></item><item><title>Validation of the ABZ Landing Gear System Using ProB</title><link>/publication/hansen2014abz/</link><pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate><guid>/publication/hansen2014abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>In this paper we present our formalisation of the ABZ landing gear case study in Event-B. The development was carried out using the Rodin platform and mainly used superposition refinement to structure the specification. To validate the model we complemented proof with animation and model checking. For the latter, we used the ProB animator and model checker. Graphical representation of the model turned out to be crucial in the development and validation of the model; this was achieved using a new version of BMotion Studio integrated into ProB 2.0.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/www3.hhu.de\/stups\/downloads\/pdf\/abz14casestudy.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@InProceedings{10.1007/978-3-319-07512-9_5,
+author=&amp;quot;Hansen, Dominik
+and Ladenberger, Lukas
+and Wiegard, Harald
+and Bendisposto, Jens
+and Leuschel, Michael&amp;quot;,
+editor=&amp;quot;Boniol, Fr{\'e}d{\'e}ric
+and Wiels, Virginie
+and Ait Ameur, Yamine
+and Schewe, Klaus-Dieter&amp;quot;,
+title=&amp;quot;Validation of the ABZ Landing Gear System Using ProB&amp;quot;,
+booktitle=&amp;quot;ABZ 2014: The Landing Gear Case Study&amp;quot;,
+year=&amp;quot;2014&amp;quot;,
+publisher=&amp;quot;Springer International Publishing&amp;quot;,
+address=&amp;quot;Cham&amp;quot;,
+pages=&amp;quot;66--79&amp;quot;,
+abstract=&amp;quot;In this paper we present our formalisation of the ABZ landing gear case study in Event-B. The development was carried out using the Rodin platform and mainly used superposition refinement to structure the specification. To validate the model we complemented proof with animation and model checking. For the latter, we used the ProB animator and model checker. Graphical representation of the model turned out to be crucial in the development and validation of the model; this was achieved using a new version of BMotion Studio integrated into ProB 2.0.&amp;quot;,
+isbn=&amp;quot;978-3-319-07512-9&amp;quot;
+}
+&lt;/code>&lt;/pre>
+&lt;h2 id="sources">Sources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Model Archive:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Presentation:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Used formal method:&lt;/strong>
+&lt;a href="/method/event-b">Event-B&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Resources and tools:&lt;/strong>
+ProB&lt;/li>
+&lt;li>&lt;strong>Required OS:&lt;/strong>
+Linux&lt;/li>
+&lt;li>&lt;strong>Website:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Remarks and recommendation:&lt;/strong>
+Not available&lt;/li>
+&lt;/ul></description></item></channel></rss>

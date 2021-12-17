@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jean-Raymond Abrial | ABZ</title><link>/author/jean-raymond-abrial/</link><atom:link href="/author/jean-raymond-abrial/index.xml" rel="self" type="application/rss+xml"/><description>Jean-Raymond Abrial</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2021 ABZ Conference</copyright><lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Jean-Raymond Abrial</title><link>/author/jean-raymond-abrial/</link></image><item><title>The ABZ-2018 Case Study with Event-B</title><link>/publication/abrial2018abz/</link><pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate><guid>/publication/abrial2018abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Usually, case studies dealing with train systems concentrate on the safety of trains circulating on tracks equipped with points and crossings and protected by means of traffic lights and speed limit sign postings as in [1, 2, 3]. Train drivers are supposed to follow such indications. The goal of formal approaches used in such case studies is to prove that trains may circulate safely on such tracks provided drivers act correctly. This is done by constructing models of such complex systems and by using formal proof techniques.&lt;/p>
+&lt;!-- ## Document
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "TODO";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+-->
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{abrial2018abz,
+title={The ABZ-2018 case study with Event-B},
+author={Abrial, Jean-Raymond},
+booktitle={International Conference on Abstract State Machines, Alloy, B, TLA, VDM, and Z},
+pages={322--337},
+year={2018},
+organization={Springer}
+}
+&lt;/code>&lt;/pre>
+&lt;h2 id="sources">Sources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Model Archive:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Presentation:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Used formal method:&lt;/strong>
+&lt;a href="/method/event-b">Event-B&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Resources and tools:&lt;/strong>
+Rodin&lt;/li>
+&lt;li>&lt;strong>Required OS:&lt;/strong>
+Linux, Mac, Windows&lt;/li>
+&lt;li>&lt;strong>Website:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Remarks and recommendation:&lt;/strong>
+Not available&lt;/li>
+&lt;/ul></description></item><item><title>Aircraft Landing Gear System: Approaches with Event-B to the Modeling of an Industrial System</title><link>/publication/su2014abz/</link><pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate><guid>/publication/su2014abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>This paper describes the modeling, done using the Event-B notation, of the aircraft landing gear case study that is proposed in a special track of the ABZ’2014 Conference. In the course of our development, we discovered some problems in our initial modeling approach. This has led us to propose a second approach and then a third one. Each approach is more efficient than the previous one in terms of proof obligations (roughly speaking: 2000, 1000, 500). All this will be described in this paper. We also try to go beyond this specific case study and give some thoughts about large industrial modeling.&lt;/p>
+&lt;!-- ## Document
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "\/su2014abz.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+-->
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@InProceedings{10.1007/978-3-319-07512-9_2,
+author=&amp;quot;Su, Wen
+and Abrial, Jean-Raymond&amp;quot;,
+editor=&amp;quot;Boniol, Fr{\'e}d{\'e}ric
+and Wiels, Virginie
+and Ait Ameur, Yamine
+and Schewe, Klaus-Dieter&amp;quot;,
+title=&amp;quot;Aircraft Landing Gear System: Approaches with Event-B to the Modeling of an Industrial System&amp;quot;,
+booktitle=&amp;quot;ABZ 2014: The Landing Gear Case Study&amp;quot;,
+year=&amp;quot;2014&amp;quot;,
+publisher=&amp;quot;Springer International Publishing&amp;quot;,
+address=&amp;quot;Cham&amp;quot;,
+pages=&amp;quot;19--35&amp;quot;,
+abstract=&amp;quot;This paper describes the modeling, done using the Event-B notation, of the aircraft landing gear case study that is proposed in a special track of the ABZ'2014 Conference. In the course of our development, we discovered some problems in our initial modeling approach. This has led us to propose a second approach and then a third one. Each approach is more efficient than the previous one in terms of proof obligations (roughly speaking: 2000, 1000, 500). All this will be described in this paper. We also try to go beyond this specific case study and give some thoughts about large industrial modeling.&amp;quot;,
+isbn=&amp;quot;978-3-319-07512-9&amp;quot;
+}
+&lt;/code>&lt;/pre>
+&lt;h2 id="sources">Sources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Model Archive:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Presentation:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Used formal method:&lt;/strong>
+&lt;a href="/method/event-b">Event-B&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Resources and tools:&lt;/strong>
+Rodin, ProB&lt;/li>
+&lt;li>&lt;strong>Required OS:&lt;/strong>
+Linux, Mac, Windows&lt;/li>
+&lt;li>&lt;strong>Website:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Remarks and recommendation:&lt;/strong>
+Not available&lt;/li>
+&lt;/ul></description></item></channel></rss>

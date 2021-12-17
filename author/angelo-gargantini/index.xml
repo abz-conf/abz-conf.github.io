@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Angelo Gargantini | ABZ</title><link>/author/angelo-gargantini/</link><atom:link href="/author/angelo-gargantini/index.xml" rel="self" type="application/rss+xml"/><description>Angelo Gargantini</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2021 ABZ Conference</copyright><lastBuildDate>Sun, 01 May 2016 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Angelo Gargantini</title><link>/author/angelo-gargantini/</link></image><item><title>How to Assure Correctness and Safety of Medical Software: The Hemodialysis Machine Case Study</title><link>/publication/arcaini2016abz/</link><pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate><guid>/publication/arcaini2016abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Medical devices are nowadays more and more software dependent, and software malfunctioning can lead to injuries or death for patients. Several standards have been proposed for the development and the validation of medical devices, but they establish general guidelines on the use of common software engineering activities without any indication regarding methods and techniques to assure safety and reliability. This paper takes advantage of the Hemodialysis machine case study to present a formal development process supporting most of the engineering activities required by the standards, and provides rigorous approaches for system validation and verification. The process is based on the Abstract State Machine formal method and its model refinement principle.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/cs.unibg.it\/gargantini\/research\/papers\/abz2016_hemodialysisCaseStudy.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@InProceedings{10.1007/978-3-319-33600-8_30,
+author=&amp;quot;Arcaini, Paolo
+and Bonfanti, Silvia
+and Gargantini, Angelo
+and Riccobene, Elvinia&amp;quot;,
+editor=&amp;quot;Butler, Michael
+and Schewe, Klaus-Dieter
+and Mashkoor, Atif
+and Biro, Miklos&amp;quot;,
+title=&amp;quot;How to Assure Correctness and Safety of Medical Software: The Hemodialysis Machine Case Study &amp;quot;,
+booktitle=&amp;quot;Abstract State Machines, Alloy, B, TLA, VDM, and Z&amp;quot;,
+year=&amp;quot;2016&amp;quot;,
+publisher=&amp;quot;Springer International Publishing&amp;quot;,
+address=&amp;quot;Cham&amp;quot;,
+pages=&amp;quot;344--359&amp;quot;,
+abstract=&amp;quot;Medical devices are nowadays more and more software dependent, and software malfunctioning can lead to injuries or death for patients. Several standards have been proposed for the development and the validation of medical devices, but they establish general guidelines on the use of common software engineering activities without any indication regarding methods and techniques to assure safety and reliability.&amp;quot;,
+isbn=&amp;quot;978-3-319-33600-8&amp;quot;
+}
+&lt;/code>&lt;/pre>
+&lt;h2 id="sources">Sources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Model Archive:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Presentation:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Used formal method:&lt;/strong>
+&lt;a href="/method/asm">ASM&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Resources and tools:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Required OS:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Website:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Remarks and recommendation:&lt;/strong>
+Not available&lt;/li>
+&lt;/ul></description></item><item><title>Modeling and Analyzing Using ASMs: The Landing Gear System Case Study</title><link>/publication/arcaini2014abz/</link><pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate><guid>/publication/arcaini2014abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>The paper presents an Abstract State Machine (ASM) specification of the Landing Gear System case study, and shows how the ASMETA framework can be used to support the modeling and analysis (validation and verification) activities for developing a rigorous and correct model in terms of ASMs. We exploit the two fundamental concepts of the ASM method, i.e., the notion of ground model and the refinement principle, and we achieve model development and model analysis by the combined use of formal methods for specification and for verification.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/cs.unibg.it\/gargantini\/research\/papers\/landingGearSystem_abz2014.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@InProceedings{10.1007/978-3-319-07512-9_3,
+author=&amp;quot;Arcaini, Paolo
+and Gargantini, Angelo
+and Riccobene, Elvinia&amp;quot;,
+editor=&amp;quot;Boniol, Fr{\'e}d{\'e}ric
+and Wiels, Virginie
+and Ait Ameur, Yamine
+and Schewe, Klaus-Dieter&amp;quot;,
+title=&amp;quot;Modeling and Analyzing Using ASMs: The Landing Gear System Case Study&amp;quot;,
+booktitle=&amp;quot;ABZ 2014: The Landing Gear Case Study&amp;quot;,
+year=&amp;quot;2014&amp;quot;,
+publisher=&amp;quot;Springer International Publishing&amp;quot;,
+address=&amp;quot;Cham&amp;quot;,
+pages=&amp;quot;36--51&amp;quot;,
+abstract=&amp;quot;The paper presents an Abstract State Machine (ASM) specification of the Landing Gear System case study, and shows how the ASMETA framework can be used to support the modeling and analysis (validation and verification) activities for developing a rigorous and correct model in terms of ASMs. We exploit the two fundamental concepts of the ASM method, i.e., the notion of ground model and the refinement principle, and we achieve model development and model analysis by the combined use of formal methods for specification and for verification.&amp;quot;,
+isbn=&amp;quot;978-3-319-07512-9&amp;quot;
+}
+&lt;/code>&lt;/pre>
+&lt;h2 id="sources">Sources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Model Archive:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Presentation:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Used formal method:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Resources and tools:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Required OS:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Website:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Remarks and recommendation:&lt;/strong>
+Not available&lt;/li>
+&lt;/ul></description></item><item><title>Offline Model-based Testing and Runtime Monitoring of the Sensor Voting Module</title><link>/publication/arcaini2014abz2/</link><pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate><guid>/publication/arcaini2014abz2/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Formal specifications are widely used in the development of safety critical systems, as the Sensor Voting Module of the Landing Gear System. However, the conformance relationship between the formal specification and the concrete implementation must be checked. In this paper, we show a technique to formally link a Java class with its Abstract State Machine formal specification, and two approaches for checking their conformance: an offline model-based testing approach and an online runtime monitoring approach.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/cs.unibg.it\/gargantini\/research\/papers\/votingSystem_abz2014.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@InProceedings{10.1007/978-3-319-07512-9_7,
+author=&amp;quot;Arcaini, Paolo
+and Gargantini, Angelo
+and Riccobene, Elvinia&amp;quot;,
+editor=&amp;quot;Boniol, Fr{\'e}d{\'e}ric
+and Wiels, Virginie
+and Ait Ameur, Yamine
+and Schewe, Klaus-Dieter&amp;quot;,
+title=&amp;quot;Offline Model-Based Testing and Runtime Monitoring of the Sensor Voting Module&amp;quot;,
+booktitle=&amp;quot;ABZ 2014: The Landing Gear Case Study&amp;quot;,
+year=&amp;quot;2014&amp;quot;,
+publisher=&amp;quot;Springer International Publishing&amp;quot;,
+address=&amp;quot;Cham&amp;quot;,
+pages=&amp;quot;95--109&amp;quot;,
+abstract=&amp;quot;Formal specifications are widely used in the development of safety critical systems, as the Sensor Voting Module of the Landing Gear System. However, the conformance relationship between the formal specification and the concrete implementation must be checked. In this paper, we show a technique to formally link a Java class with its Abstract State Machine formal specification, and two approaches for checking their conformance: an offline model-based testing approach and an online runtime monitoring approach.&amp;quot;,
+isbn=&amp;quot;978-3-319-07512-9&amp;quot;
+}
+&lt;/code>&lt;/pre>
+&lt;h2 id="sources">Sources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Model Archive:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Presentation:&lt;/strong>
+Not available &lt;!-- https://cs.unibg.it/gargantini/research/presentations/slides_sensorvotingtestingabz14.pdf -->&lt;/li>
+&lt;li>&lt;strong>Used formal method:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Resources and tools:&lt;/strong>
+Rodin, ProB&lt;/li>
+&lt;li>&lt;strong>Required OS:&lt;/strong>
+Linux, Mac, Windows&lt;/li>
+&lt;li>&lt;strong>Website:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Remarks and recommendation:&lt;/strong>
+Not available&lt;/li>
+&lt;/ul></description></item></channel></rss>

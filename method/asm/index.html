@@ -1,0 +1,230 @@
+<!doctype html><html lang=en-us><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta http-equiv=x-ua-compatible content="IE=edge"><meta name=generator content="Source Themes Academic 4.8.0"><meta name=description content="The ASM method applies Abstract State Machines (ASMs) to support traceable rigorous design and analysis (by experimental testing and/or mathematical verification) of software-intensive systems. The following three ingredients of the method support to develop executable code from specifications by stepwise refinement where at each step both mathematical verification of desired properties and experimental model validation by testing can be applied and fully documented to permit design for change."><link rel=alternate hreflang=en-us href=/method/asm/><meta name=theme-color content="#3E6592"><script src=/js/mathjax-config.js></script><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin=anonymous><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin=anonymous><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin=anonymous><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css crossorigin=anonymous title=hl-light><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css crossorigin=anonymous title=hl-dark disabled><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin=anonymous><script src=https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin=anonymous async></script><script src=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js integrity crossorigin=anonymous async></script><link rel=stylesheet href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap"><link rel=stylesheet href=/css/academic.css><link rel=manifest href=/index.webmanifest><link rel=icon type=image/png href=https://github.com/abz-conf/abz-conf.logo/raw/master/obj/favicon/48.png><link rel=apple-touch-icon type=image/png href=https://github.com/abz-conf/abz-conf.logo/raw/master/obj/favicon/48.png><link rel=canonical href=/method/asm/><meta property="twitter:card" content="summary_large_image"><meta property="twitter:site" content="@ABZ_Conference"><meta property="twitter:creator" content="@ABZ_Conference"><meta property="og:site_name" content="ABZ"><meta property="og:url" content="/method/asm/"><meta property="og:title" content="Abstract State Machine (ASM) | ABZ"><meta property="og:description" content="The ASM method applies Abstract State Machines (ASMs) to support traceable rigorous design and analysis (by experimental testing and/or mathematical verification) of software-intensive systems. The following three ingredients of the method support to develop executable code from specifications by stepwise refinement where at each step both mathematical verification of desired properties and experimental model validation by testing can be applied and fully documented to permit design for change."><meta property="og:image" content="/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png"><meta property="twitter:image" content="/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png"><meta property="og:locale" content="en-us"><meta property="article:published_time" content="2021-06-16T00:00:00+00:00"><meta property="article:modified_time" content="2021-12-17T17:20:51+01:00"><script src=https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.js integrity="sha256-5VhCqFam2Cn+yjw61zbBNrbHVJ6SRydPeKopYlngbiQ=" crossorigin=anonymous></script><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.css integrity="sha256-zQ0LblD/Af8vOppw18+2anxsuaz3pWYyVWi+bTvTH8Q=" crossorigin=anonymous><script>window.addEventListener("load",function(){window.cookieconsent.initialise({palette:{popup:{background:"#3E6592",text:"#fff"},button:{background:"#fff",text:"#3E6592"}},theme:"classic",content:{message:"This website uses cookies to ensure you get the best experience on our website.",dismiss:"Got it!",link:"Learn more",href:"https://www.cookiesandyou.com"}})})</script><title>Abstract State Machine (ASM) | ABZ</title></head><body id=top data-spy=scroll data-offset=70 data-target=#TableOfContents><aside class=search-results id=search><div class=container><section class=search-header><div class="row no-gutters justify-content-between mb-3"><div class=col-6><h1>Search</h1></div><div class="col-6 col-search-close"><a class=js-search href=#><i class="fas fa-times-circle text-muted" aria-hidden=true></i></a></div></div><div id=search-box><input name=q id=search-query placeholder=Search... autocapitalize=off autocomplete=off autocorrect=off spellcheck=false type=search></div></section><section class=section-search-results><div id=search-hits></div></section></div></aside><nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id=navbar-main><div class=container><div class="d-none d-lg-inline-flex"><a class=navbar-brand href=/><img src=https://github.com/abz-conf/abz-conf.logo/raw/master/src/badge.svg alt=ABZ></a></div><button type=button class=navbar-toggler data-toggle=collapse data-target=#navbar-content aria-controls=navbar aria-expanded=false aria-label="Toggle navigation">
+<span><i class="fas fa-bars"></i></span></button><div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none"><a class=navbar-brand href=/><img src=https://github.com/abz-conf/abz-conf.logo/raw/master/src/badge.svg alt=ABZ></a></div><div class="navbar-collapse main-menu-item collapse justify-content-start" id=navbar-content><ul class="navbar-nav d-md-inline-flex"><li class=nav-item><a class=nav-link href=/methods><span>Methods</span></a></li><li class=nav-item><a class=nav-link href=/events><span>Conferences</span></a></li><li class=nav-item><a class=nav-link href=/case-studies><span>Case Studies</span></a></li><li class=nav-item><a class=nav-link href=/publications><span>Publications</span></a></li><li class=nav-item><a class=nav-link href=/team><span>Committee</span></a></li></ul></div><ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2"><li class=nav-item><a class="nav-link js-search" href=#><i class="fas fa-search" aria-hidden=true></i></a></li></ul></div></nav><article class=article><div class="universal-wrapper pt-3"><h1>Abstract State Machine (ASM)</h1><div class=article-metadata><span class=article-date>Last updated on
+Dec 17, 2021</span></div></div><div class=universal-wrapper><div class=article-style><p>The ASM method applies Abstract State Machines (ASMs) to support <strong><em>traceable rigorous design and analysis</em></strong> (by experimental testing and/or mathematical verification) of software-intensive systems.
+The following <strong><em>three ingredients</em></strong> of the method support to <strong><em>develop executable code from specifications by stepwise refinement</em></strong> where at each step both mathematical verification of desired properties and experimental model validation by testing can be applied and fully documented to permit design for change.</p><ul><li><h2 id=the-concept-of-asm>the concept of ASM</h2><p>defined in [1], a semantically well-founded and arguably most general form of conceptually executable pseudo-code.
+The definition provides a uniform language to express any intended computational system at any development stage in terms of operations at an appropriate level of abstraction operating directly over objects (read: the system STATE, including input and output) determined by that level of abstraction.</p></li><li><h2 id=the-concept-of-asm-ground-model>the concept of ASM ground model</h2><p>defined in [2], i.e. a rigorous requirements model that is expressed in application domain terms.
+A ground model ASM turns natural language requirements into a mathematical form that supports the inspection of the model by both domain and software experts, whereby the intended correctness and completeness of the requirements can be effectively checked and documented.</p></li><li><h2 id=the-concept-of-asm-refinement>the concept of ASM refinement</h2><p>defined in [3]. It permits to develop a system in well-documented controllable modular steps, linking ASMs at different levels of abstraction, say an abstract and a more detailed model, in a way the software engineer can justify as correct implementation step.
+The executability of ASMs supports using testing methods to validate the models whereas their mathematical nature allows one to adopt mathematical verification techniques where appropriate.</p></li></ul><p>The entire set of refinement steps transforms a ground model into well-documented executable code.
+The model analysis at different levels of abstraction helps to avoid and to identify and correct fundamental design errors, which are difficult to detect and expensive to correct in code.
+The intermediate models also support model reuse and design (programming) for change.</p><p>Note that the development process is by no means linear, as is illustrated by the following diagram:</p><p><img src=overview.svg alt></p><p>For an introductory <strong>text book</strong> with lecture slides see the <em>Modeling Book</em> [4] or the <em>Asm Book</em> [5].</p><p>For <strong>case studies</strong> which illustrate typical applications of the method see the JBook [6] and provided
+<a href=/case-studies>case studies</a> on this page.</p><p>For <strong>tools</strong> which support the ASM method see</p><ul><li><a href=https://asmeta.github.io/ target=_blank rel=noopener>Asmeta</a></li><li><a href=https://casm-lang.org/ target=_blank rel=noopener>CASM</a></li><li><a href=https://github.com/CoreASM target=_blank rel=noopener>CoreASM</a></li><li><a href=https://tydo.eu/AsmGofer target=_blank rel=noopener>AsmGofer</a></li></ul><p>For the <strong>early history</strong> &ndash; of the development of the method and early applications in various fields of computer science &ndash; up to 2003 see [7] (available from <a href=https://www.jucs.org/jucs_8_1/the_origins_and_the/Boerger_E.pdf>https://www.jucs.org/jucs_8_1/the_origins_and_the/Boerger_E.pdf</a>) and <a href=http://web.eecs.umich.edu/gasm/subjects/montage.html>http://web.eecs.umich.edu/gasm/subjects/montage.html</a>.</p><p>The <strong>epistemological motivation</strong> for the definition of ASMs was to improve Turing&rsquo;s thesis, which has been proved in [2] from three natural axioms for sequential algorithms.
+For the further development of such axiomatic and corresponding ASM-characterizations of algorithmic concepts (e.g. recursive algorithms, reflective algorithms, synchronous parallel algorithms, concurrent algorithms, communicating algorithms, etc.) see [9].
+In practice, this so-called behavioral theory of ASMs supports the arguably most general form of ASMs as system specification.</p><p>The <strong>ASM Workshop Proceedings</strong> 1994-2007 (preceding the merge of those workshops with the user meetings of Z and B to the ABZ Conference, started in 2008):</p><pre><code>@Proceedings{Asm94,
+  title = 	 {Technology and {F}oundations. {I}nformation {P}rocessing'94},
+  year = 	 {1994},
+  editor = 	 {B. Pehrson and I. Simon},
+  volume = 	 {{I}, Track 4, Stream C: Evolving Algebras},
+  series = 	 {},
+pages={ 377--441},
+  publisher = {Elsevier},
+  address   = {Hamburg (Germany)},
+note = {Contains Proceedings of First ASM Workshop}
+}
+
+@Proceedings{Asm98,
+  title = 	 {Fifth {I}nternational {W}orkshop on {A}bstract {S}tate {M}achines},
+  year = 	 {1998},
+  editor = 	 {U.Gl\&quot;asser and P.Schmitt},
+  volume = 	 {},
+  series = 	 {},
+  publisher = {Otto-von-Guericke-Universit\&quot;at},
+  address   = {Magdeburg (Germany)},
+pages = {III+158},
+note = {Contains Proceedings of Fifth International ASM Workshop at Informatik'98}
+}
+
+@Proceedings{Asm00,
+  title = 	 {Abstradt {S}tate {M}achines. {T}heory and {A}pplications},
+  year = 	 {2000},
+  editor = 	 {Y.Gurevich and P.W.Kutter and M.Odersky and L.Thiele},
+  volume = 	 {1912},
+  series = 	 {LNCS},
+  publisher = {Springer},
+  address   = {Monte Verit\`a (Switzerland)},
+note = {Proceedings of 7th International ASM Workshop}
+}
+
+@Proceedings{Asm01,
+  title = 	 {Formal Methods and Tools for Computer Science. Eurocast 2001},
+  year = 	 {2001},
+  editor = 	 {R.Moreno-Diaz and A.Quesada-Arencibia},
+  volume = 	 {},
+  series = 	 {},
+  publisher = {IUCTC Universida de Las Palmas de Gran Canaria},
+  address   = {Las Palmas (Spain)},
+note = {Contains Extended Abstracts of 8th ASM Workshop. For selected full workshop papers see \cite{BoeGla01}.}
+}
+
+@Book{Asm02,
+  editor =	 {A.Blass and E.B\&quot;orger and Y.Gurevich},
+  title =	 {Theory and Application of Abstract State Machines},
+  publisher =	 {Schloss Dagstuhl},
+  year =	 {2002},
+note = {Seminar Report 336. \url{https://www.dagstuhl.de/02101}}
+} 
+
+@Proceedings{Asm03,
+  title = 	 {{Abstract State Machines} 2003. Advances in {T}heory and {P}ractice},
+  year = 	 {2003},
+  editor = 	 {E.B\&quot;orger and A.Gargantini and E.Riccobene},
+  volume = 	 {2589},
+  series = 	 {LNCS},
+  publisher = {Springer},
+  address   = {},
+note = {Contains Proceedings of 10th ASM Workshop (Taormina, Italy). For a selection of extended workshop papers see \cite{Asm03Tcs}.}
+}
+
+@BOOK{Asm03Tcs,
+	EDITOR = {E.B\&quot;orger},
+	TITLE = {Abstract {S}tate {M}achines and high-level system design and analysis},
+	YEAR = {2005},
+	PUBLISHER = {Elsevier},
+	SERIES = {Theoretical Computer Science (Special Issue)},
+	VOLUME = {336 (2--3) },
+      note = {ISSN 0304--3975. Selection of extended papers from ASM'03 (Taormina, Sicily)}
+}
+
+
+@Proceedings{Asm04,
+  title = 	 {{Abstract State Machines} 2004. Advances in {T}heory and {P}ractice},
+  year = 	 {2004},
+  editor = 	 {W.Zimmermann and B.Thalheim},
+  volume = 	 {3052},
+  series = 	 {LNCS},
+  publisher = {Springer},
+  address   = {},
+note = {Contains Proceedings of 11th ASM Workshop (Lutherstadt Wittenberg)}
+}
+
+
+@Misc{Asm05,
+  author =	 {E.B\&quot;orger and  D. Beauquier and A. Slissenko},
+  title =	 {Proc. 12th International Workshop on {A}bstract {S}tate {M}achines 
+{ASM}'05},
+howpublished =	 { Universit\'e Paris 12 (France)},
+year = {2005},
+pages ={424},
+note = {For a selection of extended workshop papers see \cite{Asm05FI}}
+} 
+
+@BOOK{Asm05FI,
+	EDITOR = {E.B\&quot;orger},
+	TITLE = {The {A}bstract {S}tate {M}achines method},
+	YEAR = {2007},
+	PUBLISHER = {IOS Press},
+	SERIES = {Fundamenta Informaticae (Special Issue)},
+	VOLUME = {77},
+      note = {ISSN 0169--2968. Selection of extended papers from ASM'05 (Paris)}
+}
+
+@BOOK{Asm07,
+	EDITOR = {E.B\&quot;orger and A.Prinz},
+	TITLE = {Quo vadis {A}bstract {S}tate {M}achines?},
+	YEAR = {2008},
+	PUBLISHER = {},
+	SERIES = {J. Universal Computer Science (Special Issue)},
+	VOLUME = {14 (12)},
+      pages = {1921--2071},
+      note = {Selection of extended papers from ASM'07 (Grimstadt, Norway)}
+}
+</code></pre><h2 id=references>REFERENCES</h2><pre><code>[1] @InCollection{Gurevich94b,
+  author =       {Y. Gurevich},
+  title =        {{Evolving algebras 1993: Lipari Guide}},
+  booktitle =    {Specification and Validation Methods},
+  publisher =    {Oxford University Press},
+  year =         {1995},
+  pages =        {9--36},
+  editor =       {E. B{\&quot;o}rger}}
+
+[2] @InProceedings{Boerger03a,
+  author =	 {E. B{\&quot;o}rger},
+  title =	 {The {ASM} ground model method as a foundation of requirements                   engineering},
+  booktitle =	 {Verification: Theory and Practice},
+  pages =	 {145-160},
+  year =	 {2003},
+  editor =	 {N.Dershowitz},
+  volume =	 {2772},
+  series =	 {LNCS},
+  publisher =	 {Springer-Verlag}}
+
+
+[3] 
+@Article{Boerger02b,
+  author =	 {E. B{\&quot;o}rger},
+  title =	 {The {ASM} Refinement Method},
+  journal =	 {Formal Aspects of Computing},
+  volume =	 {15},
+  year =	 {2003},
+  pages =        {237-257}}
+
+[4] @Book{BoeRas18,
+  author = 	 {E. B{\&quot;o}rger and A. Raschke},
+  title = 	 {Modeling Companion for Software Practitioners},
+  publisher = 	 {Springer},
+  year = 	 {2018},
+  note = 	 {ISBN 978-3-662-56641-1. For Corrigenda and lecture material on                              themes treated in the book
+                  see \url{http://modelingbook.informatik.uni-ulm.de}}
+
+[5] @Book{BoeSta03,
+  author = 	 {E. B{\&quot;o}rger and R. F. St{\&quot;a}rk},
+  title = 	 {Abstract {S}tate {M}achines. A Method for High-Level System
+                  Design and Analysis},
+  publisher = 	 {Springer},
+  year = 	 {2003}}
+
+[6] @Book{StScBo01,
+  author =       {R. F. St{\&quot;a}rk and J. Schmid and E. B{\&quot;o}rger},
+  title =        {Java and the Java Virtual Machine: Definition,
+                  Verification, Validation},
+  publisher =    {Springer-Verlag},
+  year =         {2001}}
+
+
+
+[7] @Article{Boerger02a,
+  author =	 {E. B{\&quot;o}rger},
+  title =	 {The Origins and the Development of the {ASM} Method
+                  for High-Level System Design and Analysis},
+  journal =	 {J.~Universal Computer Science},
+  volume =	 {8},
+  number =	 {1},
+  year =	 {2002},
+  pages =	 {2--74}}
+
+[8] @Article{Gurevich00,
+  author =       {Y. Gurevich},
+  title =        {Sequential {Abstract State Machines} Capture Sequential
+                  Algorithms},
+  journal =      {ACM Trans. Computational Logic},
+  year =         {2000},
+  month =        {July},
+  volume =       {1},
+  number =       {1},
+  pages =        {77--111}}
+
+[9] @inproceedings{Schewe21,
+  author    = {K.-D. Schewe},
+  title     = {Computation on Structures: Behavioural Theory, Logic, Complexity},
+  booktitle = {Logic, Computation and Rigorous Methods. Essays Dedicated to Egon B\&quot;orger
+                   on the Occasion of His 75th Birthday},
+  editor    = {A.Raschke and E. Riccobene and K.-D. Schewe},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {1275},
+  publisher = {Springer},
+  pages     = {266--282},
+  year      = {2021}
+}
+</code></pre></div><p class=edit-page><a href=https://github.com/abz-conf/abz-conf.github.io/edit/master/.github/src/content/method/asm/index.md><i class="fas fa-pen pr-2"></i>Edit this page</a></p></div></article><script src=https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin=anonymous></script><script src=https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin=anonymous></script><script src=https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin=anonymous></script><script src=https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin=anonymous></script><script src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js integrity="sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=" crossorigin=anonymous></script><script src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/r.min.js></script><script src=https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin=anonymous></script><script>const code_highlighting=!0</script><script>const isSiteThemeDark=!1</script><script>const search_config={indexURI:"/index.json",minLength:1,threshold:.3},i18n={no_results:"No results found",placeholder:"Search...",results:"results found"},content_type={post:"Posts",project:"Projects",publication:"Publications",talk:"Talks"}</script><script id=search-hit-fuse-template type=text/x-template>
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script><script src=https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin=anonymous></script><script src=https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin=anonymous></script><script src=/js/academic.min.4aaf2d64e50f8e54cf66dcc54147a22e.js></script><div class=container><footer class=site-footer><p class=powered-by>Copyright © 2021 ABZ Conference &#183; <a href=/site/notice>Site Notice</a>
+<span class=float-right aria-hidden=true><a href=# class=back-to-top><span class=button_icon><i class="fas fa-chevron-up fa-2x"></i></span></a></span></p></footer></div><div id=modal class="modal fade" role=dialog><div class=modal-dialog><div class=modal-content><div class=modal-header><h5 class=modal-title>Cite</h5><button type=button class=close data-dismiss=modal aria-label=Close>
+<span aria-hidden=true>&#215;</span></button></div><div class=modal-body><pre><code class="tex hljs"></code></pre></div><div class=modal-footer><a class="btn btn-outline-primary my-1 js-copy-cite" href=# target=_blank><i class="fas fa-copy"></i> Copy</a>
+<a class="btn btn-outline-primary my-1 js-download-cite" href=# target=_blank><i class="fas fa-download"></i> Download</a><div id=modal-error></div></div></div></div></div></body></html>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Silvano Dal Zilio | ABZ</title><link>/author/silvano-dal-zilio/</link><atom:link href="/author/silvano-dal-zilio/index.xml" rel="self" type="application/rss+xml"/><description>Silvano Dal Zilio</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2021 ABZ Conference</copyright><lastBuildDate>Thu, 01 May 2014 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Silvano Dal Zilio</title><link>/author/silvano-dal-zilio/</link></image><item><title>Model-Checking Real-Time Properties of an Aircraft Landing Gear System Using Fiacre</title><link>/publication/berthomieu2014abz/</link><pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate><guid>/publication/berthomieu2014abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>We describe our experience with modeling the landing gear system of an aircraft using the formal specification language Fiacre. Our model takes into account the behavior and timing properties of both the physical parts and the control software of this system. We use this formal model to check safety and real-time properties on the system but also to find a safe bound on the maximal time needed for all gears to be down and locked (assuming the absence of failures). Our approach ultimately relies on the model-checking tool Tina, that provides state-space generation and model-checking algorithms for an extension of Time Petri Nets with data and priorities.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/www.archives-ouvertes.fr\/hal-00967422\/document";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@InProceedings{10.1007/978-3-319-07512-9_8,
+author=&amp;quot;Berthomieu, Bernard
+and Dal Zilio, Silvano
+and Fronc, {\L}ukasz&amp;quot;,
+editor=&amp;quot;Boniol, Fr{\'e}d{\'e}ric
+and Wiels, Virginie
+and Ait Ameur, Yamine
+and Schewe, Klaus-Dieter&amp;quot;,
+title=&amp;quot;Model-Checking Real-Time Properties of an Aircraft Landing Gear System Using Fiacre&amp;quot;,
+booktitle=&amp;quot;ABZ 2014: The Landing Gear Case Study&amp;quot;,
+year=&amp;quot;2014&amp;quot;,
+publisher=&amp;quot;Springer International Publishing&amp;quot;,
+address=&amp;quot;Cham&amp;quot;,
+pages=&amp;quot;110--125&amp;quot;,
+abstract=&amp;quot;We describe our experience with modeling the landing gear system of an aircraft using the formal specification language Fiacre. Our model takes into account the behavior and timing properties of both the physical parts and the control software of this system. We use this formal model to check safety and real-time properties on the system but also to find a safe bound on the maximal time needed for all gears to be down and locked (assuming the absence of failures). Our approach ultimately relies on the model-checking tool Tina, that provides state-space generation and model-checking algorithms for an extension of Time Petri Nets with data and priorities.&amp;quot;,
+isbn=&amp;quot;978-3-319-07512-9&amp;quot;
+}
+&lt;/code>&lt;/pre>
+&lt;h2 id="sources">Sources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Model Archive:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Presentation:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Used formal method:&lt;/strong>
+Time Petri Nets&lt;/li>
+&lt;li>&lt;strong>Resources and tools:&lt;/strong>
+Tina&lt;/li>
+&lt;li>&lt;strong>Required OS:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Website:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Remarks and recommendation:&lt;/strong>
+Not available&lt;/li>
+&lt;/ul></description></item></channel></rss>

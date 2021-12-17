@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Klaus Reichl | ABZ</title><link>/author/klaus-reichl/</link><atom:link href="/author/klaus-reichl/index.xml" rel="self" type="application/rss+xml"/><description>Klaus Reichl</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2021 ABZ Conference</copyright><lastBuildDate>Tue, 08 May 2018 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Klaus Reichl</title><link>/author/klaus-reichl/</link></image><item><title>The Hybrid ERTMS/ETCS Level 3 Case Study</title><link>/publication/hoang2018abz-cs/</link><pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate><guid>/publication/hoang2018abz-cs/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>This document presents a description of the European Rail Traffic Management System (ERTMS) case study. ERTMS is a system of standards for management and interoperation of signalling for railways by the European Union (EU). The case study focuses on the ERTMS Level 3 Hybrid principle, which accommodates different types of trains including ERTMS trains equiped with the Train Integrity Monitoring System (TIMS), ERTMS trains without TIMS, and non-ERTMS trains.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "\/data\/abz18\/hoang2018abz-cs.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@InProceedings{10.1007/978-3-319-91271-4_17,
+author=&amp;quot;Hoang, Thai Son
+and Butler, Michael
+and Reichl, Klaus&amp;quot;,
+editor=&amp;quot;Butler, Michael
+and Raschke, Alexander
+and Hoang, Thai Son
+and Reichl, Klaus&amp;quot;,
+title=&amp;quot;The Hybrid ERTMS/ETCS Level 3 Case Study&amp;quot;,
+booktitle=&amp;quot;Abstract State Machines, Alloy, B, TLA, VDM, and Z&amp;quot;,
+year=&amp;quot;2018&amp;quot;,
+publisher=&amp;quot;Springer International Publishing&amp;quot;,
+address=&amp;quot;Cham&amp;quot;,
+pages=&amp;quot;251--261&amp;quot;,
+abstract=&amp;quot;This document presents a description of the European Rail Traffic Management System (ERTMS) case study. ERTMS is a system of standards for management and interoperation of signalling for railways by the European Union (EU). The case study focuses on the ERTMS Level 3 Hybrid principle, which accommodates different types of trains including ERTMS trains equiped with the Train Integrity Monitoring System (TIMS), ERTMS trains without TIMS, and non-ERTMS trains.&amp;quot;,
+isbn=&amp;quot;978-3-319-91271-4&amp;quot;
+}
+&lt;/code>&lt;/pre></description></item></channel></rss>

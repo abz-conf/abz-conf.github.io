@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>9 | ABZ</title><link>/publication_types/9/</link><atom:link href="/publication_types/9/index.xml" rel="self" type="application/rss+xml"/><description>9</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2021 ABZ Conference</copyright><lastBuildDate>Fri, 08 May 2020 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>9</title><link>/publication_types/9/</link></image><item><title>Adaptive Exterior Light and Speed Control System</title><link>/publication/houdek2018abz-cs/</link><pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate><guid>/publication/houdek2018abz-cs/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>This case study continues the successful series of case studies for formal specification and verification of the ABZ conference series, which started with the landing gear system[1] and expanded with the hemodialysis medical device[4] and the European Train Control System (ETCS)[2] in the following years. This document describes two systems from the automotive domain: an adaptive exterior light system (ELS) and a speed control system (SCS). This specification is based on the SPES XT running example[3]. Besides their general architectures, the requirements of the software based controllers are described. Both systems are only loosely coupled, which makes it possible to handle them independently&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/abz2020.uni-ulm.de\/resources\/files\/casestudyABZ2020v1.17.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{houdek2020adaptive,
+title={Adaptive exterior light and speed control system},
+author={Houdek, Frank and Raschke, Alexander},
+booktitle={International Conference on Rigorous State-Based Methods},
+pages={281--301},
+year={2020},
+organization={Springer}
+}
+&lt;/code>&lt;/pre></description></item><item><title>The Hybrid ERTMS/ETCS Level 3 Case Study</title><link>/publication/hoang2018abz-cs/</link><pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate><guid>/publication/hoang2018abz-cs/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>This document presents a description of the European Rail Traffic Management System (ERTMS) case study. ERTMS is a system of standards for management and interoperation of signalling for railways by the European Union (EU). The case study focuses on the ERTMS Level 3 Hybrid principle, which accommodates different types of trains including ERTMS trains equiped with the Train Integrity Monitoring System (TIMS), ERTMS trains without TIMS, and non-ERTMS trains.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "\/data\/abz18\/hoang2018abz-cs.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@InProceedings{10.1007/978-3-319-91271-4_17,
+author=&amp;quot;Hoang, Thai Son
+and Butler, Michael
+and Reichl, Klaus&amp;quot;,
+editor=&amp;quot;Butler, Michael
+and Raschke, Alexander
+and Hoang, Thai Son
+and Reichl, Klaus&amp;quot;,
+title=&amp;quot;The Hybrid ERTMS/ETCS Level 3 Case Study&amp;quot;,
+booktitle=&amp;quot;Abstract State Machines, Alloy, B, TLA, VDM, and Z&amp;quot;,
+year=&amp;quot;2018&amp;quot;,
+publisher=&amp;quot;Springer International Publishing&amp;quot;,
+address=&amp;quot;Cham&amp;quot;,
+pages=&amp;quot;251--261&amp;quot;,
+abstract=&amp;quot;This document presents a description of the European Rail Traffic Management System (ERTMS) case study. ERTMS is a system of standards for management and interoperation of signalling for railways by the European Union (EU). The case study focuses on the ERTMS Level 3 Hybrid principle, which accommodates different types of trains including ERTMS trains equiped with the Train Integrity Monitoring System (TIMS), ERTMS trains without TIMS, and non-ERTMS trains.&amp;quot;,
+isbn=&amp;quot;978-3-319-91271-4&amp;quot;
+}
+&lt;/code>&lt;/pre></description></item><item><title>The Hemodialysis Machine Case Study</title><link>/publication/mashkoor2016abz-cs/</link><pubDate>Sun, 08 May 2016 00:00:00 +0000</pubDate><guid>/publication/mashkoor2016abz-cs/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>This documents presents a description of a case study concerning the control of a hemodialysis (HD) machine. It provides an overview of the requirements and the design of an HD machine including a sketch of the machine’s functionality, related safety conditions, and a top-level system architectural description.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "\/data\/abz16\/mashkoor2016abz-cs.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@InProceedings{10.1007/978-3-319-33600-8_29,
+author=&amp;quot;Mashkoor, Atif&amp;quot;,
+editor=&amp;quot;Butler, Michael
+and Schewe, Klaus-Dieter
+and Mashkoor, Atif
+and Biro, Miklos&amp;quot;,
+title=&amp;quot;The Hemodialysis Machine Case Study&amp;quot;,
+booktitle=&amp;quot;Abstract State Machines, Alloy, B, TLA, VDM, and Z&amp;quot;,
+year=&amp;quot;2016&amp;quot;,
+publisher=&amp;quot;Springer International Publishing&amp;quot;,
+address=&amp;quot;Cham&amp;quot;,
+pages=&amp;quot;329--343&amp;quot;,
+abstract=&amp;quot;This documents presents a description of a case study concerning the control of a hemodialysis (HD) machine. It provides an overview of the requirements and the design of an HD machine including a sketch of the machine's functionality, related safety conditions, and a top-level system architectural description.&amp;quot;,
+isbn=&amp;quot;978-3-319-33600-8&amp;quot;
+}
+&lt;/code>&lt;/pre></description></item><item><title>The Landing Gear System Case Study</title><link>/publication/boniol2014abz-cs/</link><pubDate>Thu, 08 May 2014 00:00:00 +0000</pubDate><guid>/publication/boniol2014abz-cs/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>This document presents the landing system of an aircraft.
+It describes the system and provides some of its requirements.
+We propose this case study as a benchmark for techniques and tools dedicated to the verification of behavioral properties of systems.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "\/data\/abz14\/boniol2014abz-cs.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@InProceedings{10.1007/978-3-319-07512-9_1,
+author=&amp;quot;Boniol, Fr{\'e}d{\'e}ric
+and Wiels, Virginie&amp;quot;,
+editor=&amp;quot;Boniol, Fr{\'e}d{\'e}ric
+and Wiels, Virginie
+and Ait Ameur, Yamine
+and Schewe, Klaus-Dieter&amp;quot;,
+title=&amp;quot;The Landing Gear System Case Study&amp;quot;,
+booktitle=&amp;quot;ABZ 2014: The Landing Gear Case Study&amp;quot;,
+year=&amp;quot;2014&amp;quot;,
+publisher=&amp;quot;Springer International Publishing&amp;quot;,
+address=&amp;quot;Cham&amp;quot;,
+pages=&amp;quot;1--18&amp;quot;,
+abstract=&amp;quot;This document presents a landing gear system. It describes the system and provides some of its requirements. We propose this case study as a benchmark for techniques and tools dedicated to the verification of behavioral properties of systems.&amp;quot;,
+isbn=&amp;quot;978-3-319-07512-9&amp;quot;
+}
+&lt;/code>&lt;/pre></description></item></channel></rss>

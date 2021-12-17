@@ -1,0 +1,1747 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ABZ</title><link>/</link><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><description>ABZ</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2021 ABZ Conference</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0200</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>ABZ</title><link>/</link></image><item><title>Example Talk</title><link>/talk/example/</link><pubDate>Sat, 01 Jun 2030 13:00:00 +0200</pubDate><guid>/talk/example/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
+&lt;/div>
+&lt;/div>
+&lt;p>Slides can be added in a few ways:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Create&lt;/strong> slides using Academic&amp;rsquo;s
+&lt;a href="https://sourcethemes.com/academic/docs/managing-content/#create-slides" target="_blank" rel="noopener">&lt;em>Slides&lt;/em>&lt;/a> feature and link using &lt;code>slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
+&lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
+&lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using
+&lt;a href="https://sourcethemes.com/academic/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;p>Further talk details can easily be added to this page using &lt;em>Markdown&lt;/em> and $\rm \LaTeX$ math code.&lt;/p></description></item><item><title>ABZ 2023 (Nancy, France)</title><link>/2023/</link><pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate><guid>/2023/</guid><description>&lt;p>&lt;strong>Note:&lt;/strong> The concrete conference date is not fixed yet and will be updated in the near future!&lt;/p></description></item><item><title>Abstract State Machine (ASM)</title><link>/method/asm/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate><guid>/method/asm/</guid><description>&lt;p>The ASM method applies Abstract State Machines (ASMs) to support &lt;strong>&lt;em>traceable rigorous design and analysis&lt;/em>&lt;/strong> (by experimental testing and/or mathematical verification) of software-intensive systems.
+The following &lt;strong>&lt;em>three ingredients&lt;/em>&lt;/strong> of the method support to &lt;strong>&lt;em>develop executable code from specifications by stepwise refinement&lt;/em>&lt;/strong> where at each step both mathematical verification of desired properties and experimental model validation by testing can be applied and fully documented to permit design for change.&lt;/p>
+&lt;!-- @ppaulweber: update "the concept ..." -->
+&lt;ul>
+&lt;li>
+&lt;h2 id="the-concept-of-asm">the concept of ASM&lt;/h2>
+&lt;p>defined in [1], a semantically well-founded and arguably most general form of conceptually executable pseudo-code.
+The definition provides a uniform language to express any intended computational system at any development stage in terms of operations at an appropriate level of abstraction operating directly over objects (read: the system STATE, including input and output) determined by that level of abstraction.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;h2 id="the-concept-of-asm-ground-model">the concept of ASM ground model&lt;/h2>
+&lt;p>defined in [2], i.e. a rigorous requirements model that is expressed in application domain terms.
+A ground model ASM turns natural language requirements into a mathematical form that supports the inspection of the model by both domain and software experts, whereby the intended correctness and completeness of the requirements can be effectively checked and documented.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;h2 id="the-concept-of-asm-refinement">the concept of ASM refinement&lt;/h2>
+&lt;p>defined in [3]. It permits to develop a system in well-documented controllable modular steps, linking ASMs at different levels of abstraction, say an abstract and a more detailed model, in a way the software engineer can justify as correct implementation step.
+The executability of ASMs supports using testing methods to validate the models whereas their mathematical nature allows one to adopt mathematical verification techniques where appropriate.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>The entire set of refinement steps transforms a ground model into well-documented executable code.
+The model analysis at different levels of abstraction helps to avoid and to identify and correct fundamental design errors, which are difficult to detect and expensive to correct in code.
+The intermediate models also support model reuse and design (programming) for change.&lt;/p>
+&lt;p>Note that the development process is by no means linear, as is illustrated by the following diagram:&lt;/p>
+&lt;p>&lt;img src="overview.svg" alt="">&lt;/p>
+&lt;p>For an introductory &lt;strong>text book&lt;/strong> with lecture slides see the &lt;em>Modeling Book&lt;/em> [4] or the &lt;em>Asm Book&lt;/em> [5].&lt;/p>
+&lt;p>For &lt;strong>case studies&lt;/strong> which illustrate typical applications of the method see the JBook [6] and provided
+&lt;a href="/case-studies">case studies&lt;/a> on this page.&lt;/p>
+&lt;p>For &lt;strong>tools&lt;/strong> which support the ASM method see&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;a href="https://asmeta.github.io/" target="_blank" rel="noopener">Asmeta&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="https://casm-lang.org/" target="_blank" rel="noopener">CASM&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="https://github.com/CoreASM" target="_blank" rel="noopener">CoreASM&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="https://tydo.eu/AsmGofer" target="_blank" rel="noopener">AsmGofer&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>For the &lt;strong>early history&lt;/strong> &amp;ndash; of the development of the method and early applications in various fields of computer science &amp;ndash; up to 2003 see [7] (available from &lt;a href="https://www.jucs.org/jucs_8_1/the_origins_and_the/Boerger_E.pdf">https://www.jucs.org/jucs_8_1/the_origins_and_the/Boerger_E.pdf&lt;/a>) and &lt;a href="http://web.eecs.umich.edu/gasm/subjects/montage.html">http://web.eecs.umich.edu/gasm/subjects/montage.html&lt;/a>.&lt;/p>
+&lt;p>The &lt;strong>epistemological motivation&lt;/strong> for the definition of ASMs was to improve Turing&amp;rsquo;s thesis, which has been proved in [2] from three natural axioms for sequential algorithms.
+For the further development of such axiomatic and corresponding ASM-characterizations of algorithmic concepts (e.g. recursive algorithms, reflective algorithms, synchronous parallel algorithms, concurrent algorithms, communicating algorithms, etc.) see [9].
+In practice, this so-called behavioral theory of ASMs supports the arguably most general form of ASMs as system specification.&lt;/p>
+&lt;p>The &lt;strong>ASM Workshop Proceedings&lt;/strong> 1994-2007 (preceding the merge of those workshops with the user meetings of Z and B to the ABZ Conference, started in 2008):&lt;/p>
+&lt;pre>&lt;code>@Proceedings{Asm94,
+title = {Technology and {F}oundations. {I}nformation {P}rocessing'94},
+year = {1994},
+editor = {B. Pehrson and I. Simon},
+volume = {{I}, Track 4, Stream C: Evolving Algebras},
+series = {},
+pages={ 377--441},
+publisher = {Elsevier},
+address = {Hamburg (Germany)},
+note = {Contains Proceedings of First ASM Workshop}
+}
+@Proceedings{Asm98,
+title = {Fifth {I}nternational {W}orkshop on {A}bstract {S}tate {M}achines},
+year = {1998},
+editor = {U.Gl\&amp;quot;asser and P.Schmitt},
+volume = {},
+series = {},
+publisher = {Otto-von-Guericke-Universit\&amp;quot;at},
+address = {Magdeburg (Germany)},
+pages = {III+158},
+note = {Contains Proceedings of Fifth International ASM Workshop at Informatik'98}
+}
+@Proceedings{Asm00,
+title = {Abstradt {S}tate {M}achines. {T}heory and {A}pplications},
+year = {2000},
+editor = {Y.Gurevich and P.W.Kutter and M.Odersky and L.Thiele},
+volume = {1912},
+series = {LNCS},
+publisher = {Springer},
+address = {Monte Verit\`a (Switzerland)},
+note = {Proceedings of 7th International ASM Workshop}
+}
+@Proceedings{Asm01,
+title = {Formal Methods and Tools for Computer Science. Eurocast 2001},
+year = {2001},
+editor = {R.Moreno-Diaz and A.Quesada-Arencibia},
+volume = {},
+series = {},
+publisher = {IUCTC Universida de Las Palmas de Gran Canaria},
+address = {Las Palmas (Spain)},
+note = {Contains Extended Abstracts of 8th ASM Workshop. For selected full workshop papers see \cite{BoeGla01}.}
+}
+@Book{Asm02,
+editor = {A.Blass and E.B\&amp;quot;orger and Y.Gurevich},
+title = {Theory and Application of Abstract State Machines},
+publisher = {Schloss Dagstuhl},
+year = {2002},
+note = {Seminar Report 336. \url{https://www.dagstuhl.de/02101}}
+}
+@Proceedings{Asm03,
+title = {{Abstract State Machines} 2003. Advances in {T}heory and {P}ractice},
+year = {2003},
+editor = {E.B\&amp;quot;orger and A.Gargantini and E.Riccobene},
+volume = {2589},
+series = {LNCS},
+publisher = {Springer},
+address = {},
+note = {Contains Proceedings of 10th ASM Workshop (Taormina, Italy). For a selection of extended workshop papers see \cite{Asm03Tcs}.}
+}
+@BOOK{Asm03Tcs,
+EDITOR = {E.B\&amp;quot;orger},
+TITLE = {Abstract {S}tate {M}achines and high-level system design and analysis},
+YEAR = {2005},
+PUBLISHER = {Elsevier},
+SERIES = {Theoretical Computer Science (Special Issue)},
+VOLUME = {336 (2--3) },
+note = {ISSN 0304--3975. Selection of extended papers from ASM'03 (Taormina, Sicily)}
+}
+@Proceedings{Asm04,
+title = {{Abstract State Machines} 2004. Advances in {T}heory and {P}ractice},
+year = {2004},
+editor = {W.Zimmermann and B.Thalheim},
+volume = {3052},
+series = {LNCS},
+publisher = {Springer},
+address = {},
+note = {Contains Proceedings of 11th ASM Workshop (Lutherstadt Wittenberg)}
+}
+@Misc{Asm05,
+author = {E.B\&amp;quot;orger and D. Beauquier and A. Slissenko},
+title = {Proc. 12th International Workshop on {A}bstract {S}tate {M}achines
+{ASM}'05},
+howpublished = { Universit\'e Paris 12 (France)},
+year = {2005},
+pages ={424},
+note = {For a selection of extended workshop papers see \cite{Asm05FI}}
+}
+@BOOK{Asm05FI,
+EDITOR = {E.B\&amp;quot;orger},
+TITLE = {The {A}bstract {S}tate {M}achines method},
+YEAR = {2007},
+PUBLISHER = {IOS Press},
+SERIES = {Fundamenta Informaticae (Special Issue)},
+VOLUME = {77},
+note = {ISSN 0169--2968. Selection of extended papers from ASM'05 (Paris)}
+}
+@BOOK{Asm07,
+EDITOR = {E.B\&amp;quot;orger and A.Prinz},
+TITLE = {Quo vadis {A}bstract {S}tate {M}achines?},
+YEAR = {2008},
+PUBLISHER = {},
+SERIES = {J. Universal Computer Science (Special Issue)},
+VOLUME = {14 (12)},
+pages = {1921--2071},
+note = {Selection of extended papers from ASM'07 (Grimstadt, Norway)}
+}
+&lt;/code>&lt;/pre>
+&lt;h2 id="references">REFERENCES&lt;/h2>
+&lt;pre>&lt;code>[1] @InCollection{Gurevich94b,
+author = {Y. Gurevich},
+title = {{Evolving algebras 1993: Lipari Guide}},
+booktitle = {Specification and Validation Methods},
+publisher = {Oxford University Press},
+year = {1995},
+pages = {9--36},
+editor = {E. B{\&amp;quot;o}rger}}
+[2] @InProceedings{Boerger03a,
+author = {E. B{\&amp;quot;o}rger},
+title = {The {ASM} ground model method as a foundation of requirements engineering},
+booktitle = {Verification: Theory and Practice},
+pages = {145-160},
+year = {2003},
+editor = {N.Dershowitz},
+volume = {2772},
+series = {LNCS},
+publisher = {Springer-Verlag}}
+[3]
+@Article{Boerger02b,
+author = {E. B{\&amp;quot;o}rger},
+title = {The {ASM} Refinement Method},
+journal = {Formal Aspects of Computing},
+volume = {15},
+year = {2003},
+pages = {237-257}}
+[4] @Book{BoeRas18,
+author = {E. B{\&amp;quot;o}rger and A. Raschke},
+title = {Modeling Companion for Software Practitioners},
+publisher = {Springer},
+year = {2018},
+note = {ISBN 978-3-662-56641-1. For Corrigenda and lecture material on themes treated in the book
+see \url{http://modelingbook.informatik.uni-ulm.de}}
+[5] @Book{BoeSta03,
+author = {E. B{\&amp;quot;o}rger and R. F. St{\&amp;quot;a}rk},
+title = {Abstract {S}tate {M}achines. A Method for High-Level System
+Design and Analysis},
+publisher = {Springer},
+year = {2003}}
+[6] @Book{StScBo01,
+author = {R. F. St{\&amp;quot;a}rk and J. Schmid and E. B{\&amp;quot;o}rger},
+title = {Java and the Java Virtual Machine: Definition,
+Verification, Validation},
+publisher = {Springer-Verlag},
+year = {2001}}
+[7] @Article{Boerger02a,
+author = {E. B{\&amp;quot;o}rger},
+title = {The Origins and the Development of the {ASM} Method
+for High-Level System Design and Analysis},
+journal = {J.~Universal Computer Science},
+volume = {8},
+number = {1},
+year = {2002},
+pages = {2--74}}
+[8] @Article{Gurevich00,
+author = {Y. Gurevich},
+title = {Sequential {Abstract State Machines} Capture Sequential
+Algorithms},
+journal = {ACM Trans. Computational Logic},
+year = {2000},
+month = {July},
+volume = {1},
+number = {1},
+pages = {77--111}}
+[9] @inproceedings{Schewe21,
+author = {K.-D. Schewe},
+title = {Computation on Structures: Behavioural Theory, Logic, Complexity},
+booktitle = {Logic, Computation and Rigorous Methods. Essays Dedicated to Egon B\&amp;quot;orger
+on the Occasion of His 75th Birthday},
+editor = {A.Raschke and E. Riccobene and K.-D. Schewe},
+series = {Lecture Notes in Computer Science},
+volume = {1275},
+publisher = {Springer},
+pages = {266--282},
+year = {2021}
+}
+&lt;/code>&lt;/pre></description></item><item><title>Alloy</title><link>/method/alloy/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate><guid>/method/alloy/</guid><description>&lt;p>The Alloy language can be used to describe structures based on a collection of constraints. This created Alloy model can then be analyzed by the Alloy Analyzer, a solver that finds concrete structures that satisfy the constraints defined in the Alloy model.
+The analysis can be used to generate sample structures or to check properties of these structures by trying to generate counterexamples. Alloy is based on the Z specification language and Tarski&amp;rsquo;s relational calculus.&lt;/p>
+&lt;p>&lt;a href="http://alloytools.org/">http://alloytools.org/&lt;/a>&lt;/p></description></item><item><title>Classical B</title><link>/method/b/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate><guid>/method/b/</guid><description>&lt;p>Classical B (or just B) focuses on a tool-based refinement of a formal specification to code. It is based on the Z notation but slightly more low-level. In B a system consists of an abstract machine in which the modeler specifies the goal of the system. Via several refinement steps, this abstract goal is enhanced by more details on a less abstract level by adding details about data structures and algorithms that define how the goal is achieved.
+All steps are proven correct until a deterministic version (the implementation) is reached.&lt;/p>
+&lt;p>&lt;a href="https://methode-b.com">https://methode-b.com&lt;/a>&lt;/p></description></item><item><title>Committee</title><link>/team/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate><guid>/team/</guid><description>&lt;div class="container">
+&lt;div class="row">
+&lt;div class="col-6">
+Prof. Elvinia Riccobene &lt;br/>
+&lt;p>Università degli Studi di Milano &lt;br/>
+Dipartimento di Informatica &lt;br/>
+via Celoria, 18 &lt;br>
+20135 Milano, Italy&lt;/p>
+&lt;/div>
+&lt;div class="col-6">
+Prof. Yamine AIT-AMEUR &lt;br/>
+&lt;p>INPT-ENSEEIHT/IRIT &lt;br/>
+Bat. F. Bureau F306 &lt;br/>
+2, Rue Charles Camichel BP 7122 &lt;br/>
+31071 Toulouse CEDEX 7, France&lt;/p>
+&lt;/div>
+&lt;/div> &lt;!-- row -->
+&lt;br>
+&lt;div class="row">
+&lt;div class="col-6">
++39-2-503-300-55 &lt;br/>
+$elvinia.riccobene@unimi.it$ &lt;br/>
+&lt;/div>
+&lt;div class="col-6">
++33-5-34-32-22-55 &lt;br/>
+$yamine@n7.fr$ &lt;br/>
+&lt;/div>
+&lt;/div> &lt;!-- row -->
+&lt;/div> &lt;!-- container --></description></item><item><title>Event-B</title><link>/method/event-b/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate><guid>/method/event-b/</guid><description>&lt;p>Event-B is an evolution of (classical) B with a simpler notation. Similar to B a system is modeled by different abstraction levels that are connected by a rigorous refinement proven correct. Whereas the B-method is intended to the development of correct-by-construction software, the purpose of Event-B is to model full systems (including hardware and operation environment). These two languages share almost the same mathematical language.&lt;/p>
+&lt;p>&lt;a href="http://www.event-b.org/">http://www.event-b.org/&lt;/a>&lt;/p></description></item><item><title>Temporal Logic of Actions (TLA)</title><link>/method/tla/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate><guid>/method/tla/</guid><description>&lt;p>TLA+ (Temporal Logic of Actions) was developed by Leslie Lamport to model, document, and verify especially concurrent and distributed systems. The language aims for defining the set of all correct system behaviors. It is organized in modules that contain a definition of states and (conditional) state transitions in form of steps. A &amp;ldquo;next-state-relations&amp;rdquo; defines how variables can change in any step. Similar to Z, B, and Event-B TLA+ is based on the Zermelo-Fraenkel set theory, but extended with built-in temporal logic operators.&lt;/p>
+&lt;p>&lt;a href="http://lamport.azurewebsites.net/tla/tla.html">http://lamport.azurewebsites.net/tla/tla.html&lt;/a>&lt;/p></description></item><item><title>Vienna Development Method (VDM)</title><link>/method/vdm/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate><guid>/method/vdm/</guid><description>&lt;p>In the Vienna Development Method (VDM) models consist of a rich representation of data on which a system operates, together with the functionality that should be executed on these data structures. Besides the internal data also external input/output data is considered in the models.&lt;/p>
+&lt;p>The functional behavior can be either defined abstract by pre- and postconditions or explicitly by specific state-based operations. The precise mathematical semantics of these definitions allows for a wide range of analyses, e.g. static analysis, testing or proof of properties of the sytem.&lt;/p>
+&lt;p>&lt;a href="https://www.overturetool.org/method/">https://www.overturetool.org/method/&lt;/a>&lt;/p></description></item><item><title>Z Notation</title><link>/method/z/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate><guid>/method/z/</guid><description>&lt;p>Z is the &amp;ldquo;ultimate language&amp;rdquo; as stated by
+&lt;a href="https://en.wikipedia.org/wiki/Jean-Raymond_Abrial" target="_blank" rel="noopener">Jean-Raymond Abrial&lt;/a> who invented this formal specification language in 1977. This language aims for a precise and clear specification of computer-based systems based on the Zermelo-Fraenkel set theory, lambda calculus, and first-order predicate logic. The main elements of Z are so-called &amp;ldquo;schemata&amp;rdquo; that consist of typed variables and constraints on the assignment of these. Z provides a standardized catalogue of often used mathematical functions and predicates.&lt;/p>
+&lt;p>&lt;a href="http://www.zuser.org/">http://www.zuser.org/&lt;/a>&lt;/p></description></item><item><title>Site Notice</title><link>/site/notice/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/notice/</guid><description>&lt;p>Information disclosed under Digital Economy Law (575/2004), France:&lt;/p>
+&lt;h3 id="contact">Contact&lt;/h3>
+&lt;div class="container">
+&lt;div class="row">
+&lt;div class="col-4">
+&lt;small>
+Neeraj Kumar Singh &lt;br>
+INPT-ENSEEIHT/IRIT &lt;br>
+F-313, 2 Rue Charles Camichel, BP 7122 &lt;br>
+31071 Toulouse, CEDEX 7, France &lt;br>
+&lt;/small>
+&lt;/div>
+&lt;div class="col-4">
+&lt;small>
+Alexander Raschke &lt;br>
+Universität Ulm &lt;br>
+Fakultät für Ingenieurwissenschaften, Informatik und Psychologie &lt;br>
+Institut für Softwaretechnik und Programmiersprachen &lt;br>
+Albert-Einstein-Allee 11, Room O27/4105&lt;br>
+89069 Ulm, Germany &lt;br>
+&lt;/small>
+&lt;/div>
+&lt;div class="col-4">
+&lt;small>
+Philipp Paulweber&lt;br>
+Vienna University of Technology&lt;br>
+Institute of Information Systems and Engineering&lt;br>
+Research Group Compilers and Languages&lt;br>
+Argentinierstrasse 8, Room EA0401&lt;br>
+1040 Vienna, Austria&lt;br>
+&lt;/small>
+&lt;/div>
+&lt;/div> &lt;!-- row -->
+&lt;br>
+&lt;div class="row">
+&lt;div class="col-4">
+&lt;small> $nsingh@enseeiht.fr$ &lt;/small> &lt;br>
+&lt;small> +33-5-34-32-21-82 &lt;/small> &lt;br>
+&lt;/div>
+&lt;div class="col-4">
+&lt;small> $alexander.raschke@uni-ulm.de$ &lt;/small> &lt;br>
+&lt;small> +49-731-50-24172 &lt;/small> &lt;br>
+&lt;/div>
+&lt;div class="col-4">
+&lt;small> $ppaulweber@complang.tuwien.ac.at$ &lt;/small> &lt;br>
+&lt;small> +43-1-58801-18517 &lt;/small> &lt;br>
+&lt;/div>
+&lt;/div> &lt;!-- row -->
+&lt;/div> &lt;!-- container -->
+&lt;h3 id="notice-of-liability">Notice of liability&lt;/h3>
+&lt;p>Despite careful examination, we assume no liability for external links.
+Responsibility for the content of external links lies with the owners and responsible operators.&lt;/p>
+&lt;h3 id="copyright">Copyright&lt;/h3>
+&lt;p>All contents, texts, graphics, layouts, code or software are Copyright © 2021
+ABZ Conference and Community.
+All Rights reserved.
+Any usage of material or information available on this website, including the reproduction, sales, alteration and publication is prohibited unless specifically approved by the ABZ Conference and Community.&lt;/p>
+&lt;h3 id="domain-encryption-and-servers">Domain, Encryption and Servers&lt;/h3>
+&lt;p>The Top-Level Domain (TLD) &lt;a href="https://abz-conf.org">https://abz-conf.org&lt;/a> and all sub-domains are provided by the services from &lt;a href="https://namecheap.com">https://namecheap.com&lt;/a>, the SSL/TLS certificate for encryption is provided by the services from &lt;a href="https://letsencrypt.org">https://letsencrypt.org&lt;/a>, and the (virtual) server infrastructure and hosting of this website is provided by &lt;a href="https://pages.github.com">https://pages.github.com&lt;/a>.&lt;/p>
+&lt;h3 id="cookies-and-analytics">Cookies and Analytics&lt;/h3>
+&lt;p>This website uses no analytics software of any kind.
+The only cookie the website uses and stores is a &lt;code>cookieconsent_status&lt;/code>.
+This cookie consent status is used to store that the page informed you about this page and does only appear the first time you visit this page.&lt;/p>
+&lt;h3 id="twitter-plugin">Twitter Plugin&lt;/h3>
+&lt;p>Our website contains social plugins from &lt;a href="https://twitter.com">https://twitter.com&lt;/a>.
+These plugins are solely provided by Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA.
+When you visit the start page of our website that contains the social plugin, your browser establishes a direct connection to the servers of Twitter, which is used to retrieve the contents of the plugin.
+Through this process, Twitter is aware that you have visited this website.
+If you are logged in to Twitter while browsing this website, Twitter can match your visit with your account.
+By interacting with the plugin, this information is sent directly to Twitter and processed there.
+If you would like to opt out, please log out of Twitter before visiting this website.
+For the information on the purpose and scope of data collection and procession by Twitter, as well as your rights in this respect and settings options for protecting your privacy please visit Twitter’s privacy policy: &lt;a href="https://twitter.com/privacy">https://twitter.com/privacy&lt;/a>.&lt;/p></description></item><item><title>New ABZ Website</title><link>/post/notice/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0200</pubDate><guid>/post/notice/</guid><description>&lt;p>TODO&lt;/p></description></item><item><title>ABZ 2021 (Ulm, Germany)</title><link>/2021/</link><pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate><guid>/2021/</guid><description/></item><item><title>ABZ 2020 (Ulm, Germany)</title><link>/2020/</link><pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate><guid>/2020/</guid><description/></item><item><title>Adaptive Exterior Light and Speed Control System</title><link>/publication/houdek2018abz-cs/</link><pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate><guid>/publication/houdek2018abz-cs/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>This case study continues the successful series of case studies for formal specification and verification of the ABZ conference series, which started with the landing gear system[1] and expanded with the hemodialysis medical device[4] and the European Train Control System (ETCS)[2] in the following years. This document describes two systems from the automotive domain: an adaptive exterior light system (ELS) and a speed control system (SCS). This specification is based on the SPES XT running example[3]. Besides their general architectures, the requirements of the software based controllers are described. Both systems are only loosely coupled, which makes it possible to handle them independently&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/abz2020.uni-ulm.de\/resources\/files\/casestudyABZ2020v1.17.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{houdek2020adaptive,
+title={Adaptive exterior light and speed control system},
+author={Houdek, Frank and Raschke, Alexander},
+booktitle={International Conference on Rigorous State-Based Methods},
+pages={281--301},
+year={2020},
+organization={Springer}
+}
+&lt;/code>&lt;/pre></description></item><item><title>ABZ 2018 (Southampton, UK)</title><link>/2018/</link><pubDate>Tue, 05 Jun 2018 09:00:00 +0200</pubDate><guid>/2018/</guid><description/></item><item><title>The Hybrid ERTMS/ETCS Level 3 Case Study</title><link>/publication/hoang2018abz-cs/</link><pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate><guid>/publication/hoang2018abz-cs/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>This document presents a description of the European Rail Traffic Management System (ERTMS) case study. ERTMS is a system of standards for management and interoperation of signalling for railways by the European Union (EU). The case study focuses on the ERTMS Level 3 Hybrid principle, which accommodates different types of trains including ERTMS trains equiped with the Train Integrity Monitoring System (TIMS), ERTMS trains without TIMS, and non-ERTMS trains.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "\/data\/abz18\/hoang2018abz-cs.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@InProceedings{10.1007/978-3-319-91271-4_17,
+author=&amp;quot;Hoang, Thai Son
+and Butler, Michael
+and Reichl, Klaus&amp;quot;,
+editor=&amp;quot;Butler, Michael
+and Raschke, Alexander
+and Hoang, Thai Son
+and Reichl, Klaus&amp;quot;,
+title=&amp;quot;The Hybrid ERTMS/ETCS Level 3 Case Study&amp;quot;,
+booktitle=&amp;quot;Abstract State Machines, Alloy, B, TLA, VDM, and Z&amp;quot;,
+year=&amp;quot;2018&amp;quot;,
+publisher=&amp;quot;Springer International Publishing&amp;quot;,
+address=&amp;quot;Cham&amp;quot;,
+pages=&amp;quot;251--261&amp;quot;,
+abstract=&amp;quot;This document presents a description of the European Rail Traffic Management System (ERTMS) case study. ERTMS is a system of standards for management and interoperation of signalling for railways by the European Union (EU). The case study focuses on the ERTMS Level 3 Hybrid principle, which accommodates different types of trains including ERTMS trains equiped with the Train Integrity Monitoring System (TIMS), ERTMS trains without TIMS, and non-ERTMS trains.&amp;quot;,
+isbn=&amp;quot;978-3-319-91271-4&amp;quot;
+}
+&lt;/code>&lt;/pre></description></item><item><title>An Event-B Model of the Hybrid ERTMS/ETCS Level 3 Standard</title><link>/publication/mammar2018abz/</link><pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate><guid>/publication/mammar2018abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>This paper presents an Event-B model of the ABZ2018 case study on the European Rail Traffic Management System (ERTMS) standard. The case study focusses on the management of fixed virtual sub-sections (VSS). We model the hybrid level 3 of the standard, which assumes that trains may be either equipped with an on-board train integrity monitoring system (TIMS) and that they report their position and integrity, ERTMS trains not fitted with TIMS that report only their front position or non-ERTMS trains that do not report any information about their position. We take into account most of the main features of the case study. Our model is decomposed into four refinements. All proof obligations have been discharged using the Rodin provers, except those related to the computation of the VSS state machine, which was found to be ambiguous (nondeterministic). Our model has been validated using ProB. The main safety property, which is that ERTMS trains do not collide, is proved.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/www.irit.fr\/ABZ-CS\/html_files\/files\/2018\/PDF\/MFJFL_ABZ2018.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{DBLP:conf/asm/MammarFFL18,
+author = {Amel Mammar and
+Marc Frappier and
+Steve Jeffrey Tueno Fotso and
+R{\'{e}}gine Laleau},
+title = {An Event-B Model of the Hybrid {ERTMS/ETCS} Level 3 Standard},
+booktitle = {Abstract State Machines, Alloy, B, TLA, VDM, and {Z} - 6th International
+Conference, {ABZ} 2018, Southampton, UK, June 5-8, 2018, Proceedings},
+pages = {353--366},
+year = {2018},
+crossref = {DBLP:conf/asm/2018}
+}
+&lt;/code>&lt;/pre>
+&lt;h2 id="sources">Sources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Model Archive:&lt;/strong>
+&lt;a href="/data/abz18/mammar2018abz.zip">ZIP&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Presentation:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Used formal method:&lt;/strong>
+&lt;a href="/method/event-b">Event-B&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Resources and tools:&lt;/strong>
+Rodin, ProB&lt;/li>
+&lt;li>&lt;strong>Required OS:&lt;/strong>
+Linux, Windows&lt;/li>
+&lt;li>&lt;strong>Website:&lt;/strong>
+&lt;a href="http://info.usherbrooke.ca/mfrappier/abz2018-ERTMS-Case-Study">http://info.usherbrooke.ca/mfrappier/abz2018-ERTMS-Case-Study&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Remarks and recommendation:&lt;/strong>
+Not available&lt;/li>
+&lt;/ul></description></item><item><title>Diagram-Led Formal Modelling Using iUML-B for Hybrid ERTMS Level 3</title><link>/publication/dghaym2018abz/</link><pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate><guid>/publication/dghaym2018abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>We demonstrate diagrammatic Event-B formal modelling of a hybrid, &amp;lsquo;fixed virtual block&amp;rsquo; approach to train movement control for the emerging European Rail Traffic Management System (ERTMS) level 3. We perform a refinement-based formal development and verification of the no-collision safety requirement. The development reveals limitations in the specification and identifies assumptions on the environment. We reflect on our team-based approach to finding useful modelling abstractions and demonstrate a systematic modelling method using the UMLlike state and class diagrams of iUML-B. We suggest enhancements to the existing iUML-B method that would have benefitted this development.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/eprints.soton.ac.uk\/417755\/1\/paper_abz2018.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{dghaym2018diagram,
+title={Diagram-led formal modelling using iUML-B for hybrid ERTMS level 3},
+author={Dghaym, Dana and Poppleton, Michael and Snook, Colin},
+booktitle={International Conference on Abstract State Machines, Alloy, B, TLA, VDM, and Z},
+pages={338--352},
+year={2018},
+organization={Springer}
+}
+&lt;/code>&lt;/pre>
+&lt;h2 id="sources">Sources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Model Archive:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Presentation:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Used formal method:&lt;/strong>
+&lt;a href="/method/event-b">Event-B&lt;/a> and iUML-B&lt;/li>
+&lt;li>&lt;strong>Resources and tools:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Required OS:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Website:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Remarks and recommendation:&lt;/strong>
+Not available&lt;/li>
+&lt;/ul></description></item><item><title>Modeling the Hybrid ERTMS/ETCS Level 3 Standard Using a Formal Requirements Engineering Approach</title><link>/publication/fotso2018abz/</link><pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate><guid>/publication/fotso2018abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>This paper presents a specification of the hybrid ERTMS/ETCS level 3 standard in the framework of the case study proposed for the 6th edition of the ABZ conference. The specification is based on the method and tools, developed in the ANR FORMOSE project, for the modeling and formal verification of critical and complex system requirements. The requirements are specified with SysML/KAOS goal diagrams and are automatically translated into B System specifications, in order to obtain the architecture of the formal specification. Domain properties are specified by ontologies with the SysML/KAOS domain modeling language, based on OWL and PLIB. Their automatic translation completes the structural part of the formal specification. The only part of the specification, which must be manually completed, is the body of events. The construction is incremental, based on the refinement mechanisms existing within the involved methods. The formal specification of the case study is composed of seven refinement levels and all the proofs have been discharged with the Rodin prover.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "http:\/\/info.usherbrooke.ca\/mfrappier\/abz2018-ERTMS-Case-Study-Formose\/ABZ2018-_ERTMS_Case_Study.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@InProceedings{10.1007/978-3-319-91271-4_18,
+author=&amp;quot;Tueno Fotso, Steve Jeffrey
+and Frappier, Marc
+and Laleau, R{\'e}gine
+and Mammar, Amel&amp;quot;,
+editor=&amp;quot;Butler, Michael
+and Raschke, Alexander
+and Hoang, Thai Son
+and Reichl, Klaus&amp;quot;,
+title=&amp;quot;Modeling the Hybrid ERTMS/ETCS Level 3 Standard Using a Formal Requirements Engineering Approach&amp;quot;,
+booktitle=&amp;quot;Abstract State Machines, Alloy, B, TLA, VDM, and Z&amp;quot;,
+year=&amp;quot;2018&amp;quot;,
+publisher=&amp;quot;Springer International Publishing&amp;quot;,
+address=&amp;quot;Cham&amp;quot;,
+pages=&amp;quot;262--276&amp;quot;,
+isbn=&amp;quot;978-3-319-91271-4&amp;quot;
+}
+&lt;/code>&lt;/pre>
+&lt;h2 id="sources">Sources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Model Archive:&lt;/strong>
+&lt;a href="/data/abz18/fotso2018abz.zip">ZIP&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Presentation:&lt;/strong>
+&lt;a href="/data/abz18/fotso2018abz.pdf">PDF&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Used formal method:&lt;/strong>
+&lt;a href="/method/event-b">Event-B&lt;/a>,
+&lt;a href="/method/b">B Method&lt;/a>, and SysML/KAOS Requirements Engineering Method&lt;/li>
+&lt;li>&lt;strong>Resources and tools:&lt;/strong>
+Openflexo, Rodin, The SysMLKaos Domain Modeling Tool&lt;/li>
+&lt;li>&lt;strong>Required OS:&lt;/strong>
+Linux, Mac, Windows&lt;/li>
+&lt;li>&lt;strong>Website:&lt;/strong>
+&lt;a href="https://github.com/stuenofotso/SysML_KAOS_Domain_Model_Parser/tree/master/ABZ18_ERTMS">https://github.com/stuenofotso/SysML_KAOS_Domain_Model_Parser/tree/master/ABZ18_ERTMS&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Remarks and recommendation:&lt;/strong>
+The developed model focuses on formal verification of the main requirements of the protocol. Its main objective is to assess the SysML/KAOS method and to compare it with direct specification approaches using only plain Event-B.&lt;/li>
+&lt;/ul></description></item><item><title>Modelling the Hybrid ERTMS/ETCS Level 3 Case Study in Spin</title><link>/publication/arcaini2018abz/</link><pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate><guid>/publication/arcaini2018abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>The Spin model checker has been successfully applied to the modelling, validation, and verification of different safety-critical systems. In this paper, we model and validate the Hybrid ERTMS/ETCS Level 3 Case Study using Spin; in particular, we show the assumptions we made to keep the state space limited, and present the problems and ambiguities that arose during the modelling. Although Spin offers several advantages in terms of validation and verification facilities, its modelling language Promela is limited if compared to higher level notations of other formal methods. Therefore, we discuss the advantages and disadvantages of using the tool, and how it could be improved in terms of modelling facilities.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/www.irit.fr\/ABZ-CS\/html_files\/files\/2018\/PDF\/AJK_ABZ2018.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@InProceedings{caseStudyABZ2018,
+author={Arcaini, Paolo and Je{\v{z}}ek, Pavel and Kofro{\v{n}}, Jan},
+editor={Butler, Michael and Raschke, Alexander and Hoang, Thai Son and Reichl, Klaus},
+title={Modelling the {Hybrid ERTMS/ETCS Level 3 Case Study in Spin}},
+booktitle={Abstract State Machines, Alloy, B, TLA, VDM, and Z},
+year={2018},
+publisher={Springer International Publishing},
+address={Cham},
+pages={277--291},
+isbn={978-3-319-91271-4},
+doi={https://doi.org/10.1007/978-3-319-91271-4_19}
+}
+&lt;/code>&lt;/pre>
+&lt;h2 id="sources">Sources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Model Archive:&lt;/strong>
+&lt;a href="/data/abz18/arcaini2018abz.zip">ZIP&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Presentation:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Used formal method:&lt;/strong>
+Spin&lt;/li>
+&lt;li>&lt;strong>Resources and tools:&lt;/strong>
+Spin&lt;/li>
+&lt;li>&lt;strong>Required OS:&lt;/strong>
+Linux, Mac, Windows&lt;/li>
+&lt;li>&lt;strong>Website:&lt;/strong>
+&lt;a href="http://d3s.mff.cuni.cz/~kofron/abz18casestudy.html">http://d3s.mff.cuni.cz/~kofron/abz18casestudy.html&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Remarks and recommendation:&lt;/strong>
+Not available&lt;/li>
+&lt;/ul></description></item><item><title>The ABZ-2018 Case Study with Event-B</title><link>/publication/abrial2018abz/</link><pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate><guid>/publication/abrial2018abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Usually, case studies dealing with train systems concentrate on the safety of trains circulating on tracks equipped with points and crossings and protected by means of traffic lights and speed limit sign postings as in [1, 2, 3]. Train drivers are supposed to follow such indications. The goal of formal approaches used in such case studies is to prove that trains may circulate safely on such tracks provided drivers act correctly. This is done by constructing models of such complex systems and by using formal proof techniques.&lt;/p>
+&lt;!-- ## Document
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "TODO";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+-->
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{abrial2018abz,
+title={The ABZ-2018 case study with Event-B},
+author={Abrial, Jean-Raymond},
+booktitle={International Conference on Abstract State Machines, Alloy, B, TLA, VDM, and Z},
+pages={322--337},
+year={2018},
+organization={Springer}
+}
+&lt;/code>&lt;/pre>
+&lt;h2 id="sources">Sources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Model Archive:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Presentation:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Used formal method:&lt;/strong>
+&lt;a href="/method/event-b">Event-B&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Resources and tools:&lt;/strong>
+Rodin&lt;/li>
+&lt;li>&lt;strong>Required OS:&lt;/strong>
+Linux, Mac, Windows&lt;/li>
+&lt;li>&lt;strong>Website:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Remarks and recommendation:&lt;/strong>
+Not available&lt;/li>
+&lt;/ul></description></item><item><title>Using a Formal B Model at Runtime in a Demonstration of the ETCS Hybrid Level 3 Concept with Real Trains</title><link>/publication/hansen2018abz/</link><pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate><guid>/publication/hansen2018abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>In this article, we present a concrete realisation of the ETCS Hybrid Level 3 concept, whose practical viability was evaluated in a field demonstration in 2017. Hybrid Level 3 (HL3) introduces Virtual SubSections (VSS) as sub-divisions of classical track sections with Trackside Train Detection (TTD). Our approach introduces an add-on for the Radio Block Centre (RBC) of Thales, called Virtual Block Function (VBF), which computes the occupation states of the VSSs according to the HL3 concept using the train position reports, train integrity information, and the TTD occupation states. From the perspective of the RBC, the VBF behaves as an Interlocking (IXL) that transmits all signal aspects for virtual signals introduced for each VSS to the RBC. We report on the development of the VBF, implemented as a formal B model executed at runtime using ProB and successfully used in a field demonstration to control real trains.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/www3.hhu.de\/stups\/downloads\/pdf\/etcsHL3.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{hansen2018using,
+title={Using a formal B model at runtime in a demonstration of the ETCS hybrid level 3 concept with real trains},
+author={Hansen, Dominik and Leuschel, Michael and Schneider, David and Krings, Sebastian and K{\&amp;quot;o}rner, Philipp and Naulin, Thomas and Nayeri, Nader and Skowron, Frank},
+booktitle={International Conference on Abstract State Machines, Alloy, B, TLA, VDM, and Z},
+pages={292--306},
+year={2018},
+organization={Springer}
+}
+&lt;/code>&lt;/pre>
+&lt;h2 id="sources">Sources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Model Archive:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Presentation:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Used formal method:&lt;/strong>
+&lt;a href="/method/b">Classical B&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Resources and tools:&lt;/strong>
+ProB&lt;/li>
+&lt;li>&lt;strong>Required OS:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Website:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Remarks and recommendation:&lt;/strong>
+Not available&lt;/li>
+&lt;/ul></description></item><item><title>Validating the Hybrid ERTMS/ETCS Level 3 Concept with Electrum</title><link>/publication/cunha2018abz/</link><pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate><guid>/publication/cunha2018abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>This paper reports on the development of a formal model for the Hybrid ERTMS/ETCS Level 3 concept in Electrum, a lightweight formal specification language that extends Alloy with mutable relations and temporal logic operators. We show how Electrum and its Analyzer can be used to perform scenario exploration to validate this model, namely to check that all the example operational scenarios described in the reference document are admissible, and to reason about expected safety properties, which can be easily specified and model checked for arbitrary track configurations. The Analyzer depicts scenarios (and counter-examples) in a graphical notation that is logic-agnostic, making them understandable for stakeholders without expertise in formal specification.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/repositorium.sdum.uminho.pt\/bitstream\/1822\/68520\/1\/abz18.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{cunha2018validating,
+title={Validating the hybrid ERTMS/ETCS level 3 concept with electrum},
+author={Cunha, Alcino and Macedo, Nuno},
+booktitle={International Conference on Abstract State Machines, Alloy, B, TLA, VDM, and Z},
+pages={307--321},
+year={2018},
+organization={Springer}
+}
+&lt;/code>&lt;/pre>
+&lt;h2 id="sources">Sources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Model Archive:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Presentation:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Used formal method:&lt;/strong>
+Electrum&lt;/li>
+&lt;li>&lt;strong>Resources and tools:&lt;/strong>
+Electrum&lt;/li>
+&lt;li>&lt;strong>Required OS:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Website:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Remarks and recommendation:&lt;/strong>
+Not available&lt;/li>
+&lt;/ul></description></item><item><title>The landing gear case study: challenges and experiments</title><link>/publication/boniol2016sttt/</link><pubDate>Mon, 13 Jun 2016 00:00:00 +0000</pubDate><guid>/publication/boniol2016sttt/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Embedded critical systems need to be validated very thoroughly; it usually results in very long and onerous test phases.
+Formal techniques, in particular formal specification languages and associated proof tools, could be an advantageous alternative, or at least a good complement and allow a significant reduction of test phases. However, for these techniques to be used in practice, one issue to consider is their efficiency and scalability on complex industrial systems.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "\/data\/sttt\/boniol2016sttt.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@Article{Boniol2017,
+author=&amp;quot;Boniol, Fr{\'e}d{\'e}ric
+and Wiels, Virginie
+and A{\&amp;quot;i}t-Ameur, Yamine
+and Schewe, Klaus-Dieter&amp;quot;,
+title=&amp;quot;The landing gear case study: challenges and experiments&amp;quot;,
+journal=&amp;quot;International Journal on Software Tools for Technology Transfer&amp;quot;,
+year=&amp;quot;2017&amp;quot;,
+month=&amp;quot;Apr&amp;quot;,
+day=&amp;quot;01&amp;quot;,
+volume=&amp;quot;19&amp;quot;,
+number=&amp;quot;2&amp;quot;,
+pages=&amp;quot;133--140&amp;quot;,
+issn=&amp;quot;1433-2787&amp;quot;,
+doi=&amp;quot;10.1007/s10009-016-0431-4&amp;quot;,
+url=&amp;quot;https://doi.org/10.1007/s10009-016-0431-4&amp;quot;
+}
+&lt;/code>&lt;/pre>
+&lt;p>Model Archive : Not available
+Presentation : Not available
+Used formal method : Event-B
+Resources and tools : Rodin, ProB
+Required OS : Linux, Mac, Windows
+Website : Not available
+Remarks and recommendation : No&lt;/p></description></item><item><title>ABZ 2016 (Linz, Austria)</title><link>/2016/</link><pubDate>Sun, 05 Jun 2016 00:00:00 +0000</pubDate><guid>/2016/</guid><description/></item><item><title>The Hemodialysis Machine Case Study</title><link>/publication/mashkoor2016abz-cs/</link><pubDate>Sun, 08 May 2016 00:00:00 +0000</pubDate><guid>/publication/mashkoor2016abz-cs/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>This documents presents a description of a case study concerning the control of a hemodialysis (HD) machine. It provides an overview of the requirements and the design of an HD machine including a sketch of the machine’s functionality, related safety conditions, and a top-level system architectural description.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "\/data\/abz16\/mashkoor2016abz-cs.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@InProceedings{10.1007/978-3-319-33600-8_29,
+author=&amp;quot;Mashkoor, Atif&amp;quot;,
+editor=&amp;quot;Butler, Michael
+and Schewe, Klaus-Dieter
+and Mashkoor, Atif
+and Biro, Miklos&amp;quot;,
+title=&amp;quot;The Hemodialysis Machine Case Study&amp;quot;,
+booktitle=&amp;quot;Abstract State Machines, Alloy, B, TLA, VDM, and Z&amp;quot;,
+year=&amp;quot;2016&amp;quot;,
+publisher=&amp;quot;Springer International Publishing&amp;quot;,
+address=&amp;quot;Cham&amp;quot;,
+pages=&amp;quot;329--343&amp;quot;,
+abstract=&amp;quot;This documents presents a description of a case study concerning the control of a hemodialysis (HD) machine. It provides an overview of the requirements and the design of an HD machine including a sketch of the machine's functionality, related safety conditions, and a top-level system architectural description.&amp;quot;,
+isbn=&amp;quot;978-3-319-33600-8&amp;quot;
+}
+&lt;/code>&lt;/pre></description></item><item><title>Hemodialysis Machine in Hybrid Event-B</title><link>/publication/banach2016abz/</link><pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate><guid>/publication/banach2016abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>The hemodialysis machine case study is examined in Hybrid Event-B (an extension of Event-B that includes provision for continuously varying behaviour as well as the usual discrete changes of state). A broadly component based strategy is adopted, using the multi-machine and coordination facilities of Hybrid Event-B. Since, like most medical procedures, hemodialysis is under overall human control, it is largely a sequential process, with some branching to deal with exceptional circumstances. This makes for a relatively uncomplicated modelling framework, provided a model of the operator is included in order to capture the handling of exceptions.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/www.research.manchester.ac.uk\/portal\/files\/31402126\/FULL_TEXT.PDF";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@InProceedings{10.1007/978-3-319-33600-8_32,
+author=&amp;quot;Banach, Richard&amp;quot;,
+editor=&amp;quot;Butler, Michael
+and Schewe, Klaus-Dieter
+and Mashkoor, Atif
+and Biro, Miklos&amp;quot;,
+title=&amp;quot;Hemodialysis Machine in Hybrid Event-B&amp;quot;,
+booktitle=&amp;quot;Abstract State Machines, Alloy, B, TLA, VDM, and Z&amp;quot;,
+year=&amp;quot;2016&amp;quot;,
+publisher=&amp;quot;Springer International Publishing&amp;quot;,
+address=&amp;quot;Cham&amp;quot;,
+pages=&amp;quot;376--393&amp;quot;,
+isbn=&amp;quot;978-3-319-33600-8&amp;quot;
+}
+&lt;/code>&lt;/pre>
+&lt;h2 id="sources">Sources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Model Archive:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Presentation:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Used formal method:&lt;/strong>
+Hybrid
+&lt;a href="/method/event-b">Event-B&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Resources and tools:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Required OS:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Website:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Remarks and recommendation:&lt;/strong>
+Not available&lt;/li>
+&lt;/ul></description></item><item><title>How to Assure Correctness and Safety of Medical Software: The Hemodialysis Machine Case Study</title><link>/publication/arcaini2016abz/</link><pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate><guid>/publication/arcaini2016abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Medical devices are nowadays more and more software dependent, and software malfunctioning can lead to injuries or death for patients. Several standards have been proposed for the development and the validation of medical devices, but they establish general guidelines on the use of common software engineering activities without any indication regarding methods and techniques to assure safety and reliability. This paper takes advantage of the Hemodialysis machine case study to present a formal development process supporting most of the engineering activities required by the standards, and provides rigorous approaches for system validation and verification. The process is based on the Abstract State Machine formal method and its model refinement principle.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/cs.unibg.it\/gargantini\/research\/papers\/abz2016_hemodialysisCaseStudy.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@InProceedings{10.1007/978-3-319-33600-8_30,
+author=&amp;quot;Arcaini, Paolo
+and Bonfanti, Silvia
+and Gargantini, Angelo
+and Riccobene, Elvinia&amp;quot;,
+editor=&amp;quot;Butler, Michael
+and Schewe, Klaus-Dieter
+and Mashkoor, Atif
+and Biro, Miklos&amp;quot;,
+title=&amp;quot;How to Assure Correctness and Safety of Medical Software: The Hemodialysis Machine Case Study &amp;quot;,
+booktitle=&amp;quot;Abstract State Machines, Alloy, B, TLA, VDM, and Z&amp;quot;,
+year=&amp;quot;2016&amp;quot;,
+publisher=&amp;quot;Springer International Publishing&amp;quot;,
+address=&amp;quot;Cham&amp;quot;,
+pages=&amp;quot;344--359&amp;quot;,
+abstract=&amp;quot;Medical devices are nowadays more and more software dependent, and software malfunctioning can lead to injuries or death for patients. Several standards have been proposed for the development and the validation of medical devices, but they establish general guidelines on the use of common software engineering activities without any indication regarding methods and techniques to assure safety and reliability.&amp;quot;,
+isbn=&amp;quot;978-3-319-33600-8&amp;quot;
+}
+&lt;/code>&lt;/pre>
+&lt;h2 id="sources">Sources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Model Archive:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Presentation:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Used formal method:&lt;/strong>
+&lt;a href="/method/asm">ASM&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Resources and tools:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Required OS:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Website:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Remarks and recommendation:&lt;/strong>
+Not available&lt;/li>
+&lt;/ul></description></item><item><title>Modelling a Hemodialysis Machine Using Algebraic State-Transition Diagrams and B-like Methods</title><link>/publication/fayolle2016abz/</link><pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate><guid>/publication/fayolle2016abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>This paper presents the specification of the hemodialysis case study, proposed by ABZ'16 conference. The specification was carried out by a coupling of Algebraic State-Transition Diagrams (ASTD) and B-like methods. astd are a graphical notation, based on automata and process algebra operators. They provide an easy-to-read specification of the dynamic behaviour of the system. The data model is specified using the Event-B language. The system is incrementally designed using extended refinement of both methods.&lt;/p>
+&lt;!-- ## Document
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "\/fayolle2016abz.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+-->
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@InProceedings{10.1007/978-3-319-33600-8_33,
+author=&amp;quot;Fayolle, Thomas
+and Frappier, Marc
+and Gervais, Fr{\'e}d{\'e}ric
+and Laleau, R{\'e}gine&amp;quot;,
+editor=&amp;quot;Butler, Michael
+and Schewe, Klaus-Dieter
+and Mashkoor, Atif
+and Biro, Miklos&amp;quot;,
+title=&amp;quot;Modelling a Hemodialysis Machine Using Algebraic State-Transition Diagrams and B-like Methods&amp;quot;,
+booktitle=&amp;quot;Abstract State Machines, Alloy, B, TLA, VDM, and Z&amp;quot;,
+year=&amp;quot;2016&amp;quot;,
+publisher=&amp;quot;Springer International Publishing&amp;quot;,
+address=&amp;quot;Cham&amp;quot;,
+pages=&amp;quot;394--408&amp;quot;,
+isbn=&amp;quot;978-3-319-33600-8&amp;quot;
+}
+&lt;/code>&lt;/pre>
+&lt;h2 id="sources">Sources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Model Archive:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Presentation:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Used formal method:&lt;/strong>
+Algebraic State-Transition Diagrams (ASTD)&lt;/li>
+&lt;li>&lt;strong>Resources and tools:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Required OS:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Website:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Remarks and recommendation:&lt;/strong>
+Not available&lt;/li>
+&lt;/ul></description></item><item><title>Modelling the Haemodialysis Machine with Circus</title><link>/publication/gomes2016abz/</link><pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate><guid>/publication/gomes2016abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>We present a formal model of aspects of the haemodialysis machine case study using the Circus specification notation. We focus on building a model in which each of the software requirements (R-1–36) are represented by a Circus action. All of these act in concert with actions that model the collection of sensor data and the progress through the various therapy phases and activities. We then present how we model check the system using FDR.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/ulir.ul.ie\/bitstream\/handle\/10344\/5458\/Gomes_2016_modelling.pdf?sequence=2";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@InProceedings{10.1007/978-3-319-33600-8_34,
+author=&amp;quot;Gomes, Artur O.
+and Butterfield, Andrew&amp;quot;,
+editor=&amp;quot;Butler, Michael
+and Schewe, Klaus-Dieter
+and Mashkoor, Atif
+and Biro, Miklos&amp;quot;,
+title=&amp;quot;Modelling the Haemodialysis Machine with Circus&amp;quot;,
+booktitle=&amp;quot;Abstract State Machines, Alloy, B, TLA, VDM, and Z&amp;quot;,
+year=&amp;quot;2016&amp;quot;,
+publisher=&amp;quot;Springer International Publishing&amp;quot;,
+address=&amp;quot;Cham&amp;quot;,
+pages=&amp;quot;409--424&amp;quot;,
+isbn=&amp;quot;978-3-319-33600-8&amp;quot;
+}
+&lt;/code>&lt;/pre>
+&lt;h2 id="sources">Sources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Model Archive:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Presentation:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Used formal method:&lt;/strong>
+Circus&lt;/li>
+&lt;li>&lt;strong>Resources and tools:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Required OS:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Website:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Remarks and recommendation:&lt;/strong>
+Not available&lt;/li>
+&lt;/ul></description></item><item><title>Validating the Requirements and Design of a Hemodialysis Machine Using iUML-B, BMotion Studio, and Co-Simulation</title><link>/publication/hoang2016abz/</link><pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate><guid>/publication/hoang2016abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>We present a formal specification of a hemodialysis machine (HD machine) using Event-B. We model the HD machine using iUML-B state-machines and class diagrams and build a corresponding BMotion Studio visualisation. We focus on validation using (i) diagrams to aid the modelling of the sequential properties of the requirements, and (ii) ProB-based animation and visualisation tools to explore the system’s behaviour. Some of the safety properties involve dynamic behaviour which is difficult to verify in Event-B. For these properties we use co-simulation tools to validate against a continuous model of the physical behaviour.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/eprints.soton.ac.uk\/394742\/1\/HDMachine-final.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@InProceedings{10.1007/978-3-319-33600-8_31,
+author=&amp;quot;Hoang, Thai Son
+and Snook, Colin
+and Ladenberger, Lukas
+and Butler, Michael&amp;quot;,
+editor=&amp;quot;Butler, Michael
+and Schewe, Klaus-Dieter
+and Mashkoor, Atif
+and Biro, Miklos&amp;quot;,
+title=&amp;quot;Validating the Requirements and Design of a Hemodialysis Machine Using iUML-B, BMotion Studio, and Co-Simulation&amp;quot;,
+booktitle=&amp;quot;Abstract State Machines, Alloy, B, TLA, VDM, and Z&amp;quot;,
+year=&amp;quot;2016&amp;quot;,
+publisher=&amp;quot;Springer International Publishing&amp;quot;,
+address=&amp;quot;Cham&amp;quot;,
+pages=&amp;quot;360--375&amp;quot;,
+isbn=&amp;quot;978-3-319-33600-8&amp;quot;
+}
+&lt;/code>&lt;/pre>
+&lt;h2 id="sources">Sources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Model Archive:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Presentation:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Used formal method:&lt;/strong>
+&lt;a href="/method/event-b">Event-B&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Resources and tools:&lt;/strong>
+ProB&lt;/li>
+&lt;li>&lt;strong>Required OS:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Website:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Remarks and recommendation:&lt;/strong>
+Not available&lt;/li>
+&lt;/ul></description></item><item><title>Modeling a landing gear system in Event-B</title><link>/publication/mammar2015sttt/</link><pubDate>Sat, 22 Aug 2015 00:00:00 +0000</pubDate><guid>/publication/mammar2015sttt/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>This article describes the Event-B modeling of a landing gear system of an aircraft whose complete description can be found in Boniol and Wiels (The Landing Gear System Case Study, ABZ Case Study, Communications in Computer Information Science, vol 433, Springer, Berlin, 2014). This real-life case study has been proposed by the ABZ’2014 track that took place in Toulouse, the European capital of the aeronautic industry. Our modeling is based on the Parnas and Madey’s 4-Variable Model that permits to consider the different parts of a system. These parts are incrementally introduced using the Event-B refinement technique. The entire development has been carried out with the Rodin toolset. To ensure the correctness of the different components, we use several verification techniques (animation, model checking and proof) depending on the complexity and the kind of the properties to verify. Basically, prior to the proof phase that can be tedious and complex, we use the animator ANIMB and the model checker PROB that permit to discover some trivial inconsistencies. Once no error is reported, we start the proof phase by using the Atelier B and SMT provers which we installed on Rodin. We conclude the article by drawing up some key findings of and lessons learned from this experience.&lt;/p>
+&lt;!-- ## Document
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "\/mammar2015sttt.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+-->
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@Article{Mammar2017,
+author=&amp;quot;Mammar, Amel
+and Laleau, R{\'e}gine&amp;quot;,
+title=&amp;quot;Modeling a landing gear system in Event-B&amp;quot;,
+journal=&amp;quot;International Journal on Software Tools for Technology Transfer&amp;quot;,
+year=&amp;quot;2017&amp;quot;,
+month=&amp;quot;Apr&amp;quot;,
+day=&amp;quot;01&amp;quot;,
+volume=&amp;quot;19&amp;quot;,
+number=&amp;quot;2&amp;quot;,
+pages=&amp;quot;167--186&amp;quot;,
+abstract=&amp;quot;This article describes the Event-B modeling of a landing gear system of an aircraft whose complete description can be found in Boniol and Wiels (The Landing Gear System Case Study, ABZ Case Study, Communications in Computer Information Science, vol 433, Springer, Berlin, 2014). This real-life case study has been proposed by the ABZ'2014 track that took place in Toulouse, the European capital of the aeronautic industry. Our modeling is based on the Parnas and Madey's 4-Variable Model that permits to consider the different parts of a system. These parts are incrementally introduced using the Event-B refinement technique. The entire development has been carried out with the Rodin toolset. To ensure the correctness of the different components, we use several verification techniques (animation, model checking and proof) depending on the complexity and the kind of the properties to verify. Basically, prior to the proof phase that can be tedious and complex, we use the animator AnimB and the model checker ProB that permit to discover some trivial inconsistencies. Once no error is reported, we start the proof phase by using the Atelier B and SMT provers which we installed on Rodin. We conclude the article by drawing up some key findings of and lessons learned from this experience.&amp;quot;,
+issn=&amp;quot;1433-2787&amp;quot;,
+doi=&amp;quot;10.1007/s10009-015-0391-0&amp;quot;,
+url=&amp;quot;https://doi.org/10.1007/s10009-015-0391-0&amp;quot;
+}
+&lt;/code>&lt;/pre>
+&lt;p>Model Archive : Not available
+Presentation : Not available
+Used formal method : Event-B
+Resources and tools : Rodin, ProB
+Required OS : Linux, Mac, Windows
+Website : Not available
+Remarks and recommendation : No&lt;/p></description></item><item><title>Validation of the ABZ landing gear system using ProB</title><link>/publication/ladenberger2015sttt/</link><pubDate>Sat, 15 Aug 2015 00:00:00 +0000</pubDate><guid>/publication/ladenberger2015sttt/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>In this article, we present our formalization of the ABZ landing gear case study in Event-B. The development was carried out using the Rodin platform and mainly used superposition refinement to structure the specification. To validate the model, we complemented proof with animation and model checking. For the latter, we used the ProB animator and model checker. Graphical representation of the model turned out to be crucial in the development and validation of the model; this was achieved using the visualization features provided by ProB and BMotion Studio. In addition, we discuss the positive and negative aspects of the Event-B language and tools which we encountered while working on the ABZ case study.&lt;/p>
+&lt;!-- ## Document
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "\/ladenberger2015sttt.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+-->
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@Article{Ladenberger2017,
+author=&amp;quot;Ladenberger, Lukas
+and Hansen, Dominik
+and Wiegard, Harald
+and Bendisposto, Jens
+and Leuschel, Michael&amp;quot;,
+title=&amp;quot;Validation of the ABZ landing gear system using ProB&amp;quot;,
+journal=&amp;quot;International Journal on Software Tools for Technology Transfer&amp;quot;,
+year=&amp;quot;2017&amp;quot;,
+month=&amp;quot;Apr&amp;quot;,
+day=&amp;quot;01&amp;quot;,
+volume=&amp;quot;19&amp;quot;,
+number=&amp;quot;2&amp;quot;,
+pages=&amp;quot;187--203&amp;quot;,
+abstract=&amp;quot;In this article, we present our formalization of the ABZ landing gear case study in Event-B. The development was carried out using the Rodin platform and mainly used superposition refinement to structure the specification. To validate the model, we complemented proof with animation and model checking. For the latter, we used the ProB animator and model checker. Graphical representation of the model turned out to be crucial in the development and validation of the model; this was achieved using the visualization features provided by ProB and BMotion Studio. In addition, we discuss the positive and negative aspects of the Event-B language and tools which we encountered while working on the ABZ case study.&amp;quot;,
+issn=&amp;quot;1433-2787&amp;quot;,
+doi=&amp;quot;10.1007/s10009-015-0395-9&amp;quot;,
+url=&amp;quot;https://doi.org/10.1007/s10009-015-0395-9&amp;quot;
+}
+&lt;/code>&lt;/pre>
+&lt;p>Model Archive : Not available
+Presentation : Not available
+Used formal method : ProB
+Resources and tools : ProB
+Required OS : Linux
+Website : Not available
+Remarks and recommendation : No&lt;/p></description></item><item><title>ABZ 2014 (Toulouse, France)</title><link>/2014/</link><pubDate>Mon, 02 Jun 2014 00:00:00 +0000</pubDate><guid>/2014/</guid><description/></item><item><title>The Landing Gear System Case Study</title><link>/publication/boniol2014abz-cs/</link><pubDate>Thu, 08 May 2014 00:00:00 +0000</pubDate><guid>/publication/boniol2014abz-cs/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>This document presents the landing system of an aircraft.
+It describes the system and provides some of its requirements.
+We propose this case study as a benchmark for techniques and tools dedicated to the verification of behavioral properties of systems.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "\/data\/abz14\/boniol2014abz-cs.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@InProceedings{10.1007/978-3-319-07512-9_1,
+author=&amp;quot;Boniol, Fr{\'e}d{\'e}ric
+and Wiels, Virginie&amp;quot;,
+editor=&amp;quot;Boniol, Fr{\'e}d{\'e}ric
+and Wiels, Virginie
+and Ait Ameur, Yamine
+and Schewe, Klaus-Dieter&amp;quot;,
+title=&amp;quot;The Landing Gear System Case Study&amp;quot;,
+booktitle=&amp;quot;ABZ 2014: The Landing Gear Case Study&amp;quot;,
+year=&amp;quot;2014&amp;quot;,
+publisher=&amp;quot;Springer International Publishing&amp;quot;,
+address=&amp;quot;Cham&amp;quot;,
+pages=&amp;quot;1--18&amp;quot;,
+abstract=&amp;quot;This document presents a landing gear system. It describes the system and provides some of its requirements. We propose this case study as a benchmark for techniques and tools dedicated to the verification of behavioral properties of systems.&amp;quot;,
+isbn=&amp;quot;978-3-319-07512-9&amp;quot;
+}
+&lt;/code>&lt;/pre></description></item><item><title>Aircraft Landing Gear System: Approaches with Event-B to the Modeling of an Industrial System</title><link>/publication/su2014abz/</link><pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate><guid>/publication/su2014abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>This paper describes the modeling, done using the Event-B notation, of the aircraft landing gear case study that is proposed in a special track of the ABZ’2014 Conference. In the course of our development, we discovered some problems in our initial modeling approach. This has led us to propose a second approach and then a third one. Each approach is more efficient than the previous one in terms of proof obligations (roughly speaking: 2000, 1000, 500). All this will be described in this paper. We also try to go beyond this specific case study and give some thoughts about large industrial modeling.&lt;/p>
+&lt;!-- ## Document
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "\/su2014abz.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+-->
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@InProceedings{10.1007/978-3-319-07512-9_2,
+author=&amp;quot;Su, Wen
+and Abrial, Jean-Raymond&amp;quot;,
+editor=&amp;quot;Boniol, Fr{\'e}d{\'e}ric
+and Wiels, Virginie
+and Ait Ameur, Yamine
+and Schewe, Klaus-Dieter&amp;quot;,
+title=&amp;quot;Aircraft Landing Gear System: Approaches with Event-B to the Modeling of an Industrial System&amp;quot;,
+booktitle=&amp;quot;ABZ 2014: The Landing Gear Case Study&amp;quot;,
+year=&amp;quot;2014&amp;quot;,
+publisher=&amp;quot;Springer International Publishing&amp;quot;,
+address=&amp;quot;Cham&amp;quot;,
+pages=&amp;quot;19--35&amp;quot;,
+abstract=&amp;quot;This paper describes the modeling, done using the Event-B notation, of the aircraft landing gear case study that is proposed in a special track of the ABZ'2014 Conference. In the course of our development, we discovered some problems in our initial modeling approach. This has led us to propose a second approach and then a third one. Each approach is more efficient than the previous one in terms of proof obligations (roughly speaking: 2000, 1000, 500). All this will be described in this paper. We also try to go beyond this specific case study and give some thoughts about large industrial modeling.&amp;quot;,
+isbn=&amp;quot;978-3-319-07512-9&amp;quot;
+}
+&lt;/code>&lt;/pre>
+&lt;h2 id="sources">Sources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Model Archive:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Presentation:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Used formal method:&lt;/strong>
+&lt;a href="/method/event-b">Event-B&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Resources and tools:&lt;/strong>
+Rodin, ProB&lt;/li>
+&lt;li>&lt;strong>Required OS:&lt;/strong>
+Linux, Mac, Windows&lt;/li>
+&lt;li>&lt;strong>Website:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Remarks and recommendation:&lt;/strong>
+Not available&lt;/li>
+&lt;/ul></description></item><item><title>Co-simulation Environment for Rodin: Landing Gear Case Study</title><link>/publication/savicks2014abz/</link><pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate><guid>/publication/savicks2014abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>This work in progress presents a prototype multi-simulation environment for the Rodin platform that enables import, co-modelling and co-simulation of dynamic models and formal Event-B specifications, which can help in the design of mixed discrete-event/continuous-time systems. The proposed solution is based on the Functional Mock-up Interface standard and ProB animator for Event-B. The involved technologies and co-simulation semantics are explained, followed by a demonstration of preliminary results, obtained from a landing gear case study.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/eprints.soton.ac.uk\/364883\/1\/abz_lg_printer.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@InProceedings{10.1007/978-3-319-07512-9_11,
+author=&amp;quot;Savicks, Vitaly
+and Butler, Michael
+and Colley, John&amp;quot;,
+editor=&amp;quot;Boniol, Fr{\'e}d{\'e}ric
+and Wiels, Virginie
+and Ait Ameur, Yamine
+and Schewe, Klaus-Dieter&amp;quot;,
+title=&amp;quot;Co-simulation Environment for Rodin: Landing Gear Case Study&amp;quot;,
+booktitle=&amp;quot;ABZ 2014: The Landing Gear Case Study&amp;quot;,
+year=&amp;quot;2014&amp;quot;,
+publisher=&amp;quot;Springer International Publishing&amp;quot;,
+address=&amp;quot;Cham&amp;quot;,
+pages=&amp;quot;148--153&amp;quot;,
+abstract=&amp;quot;This work in progress presents a prototype multi-simulation environment for the Rodin platform that enables import, co-modelling and co-simulation of dynamic models and formal Event-B specifications, which can help in the design of mixed discrete-event/continuous-time systems. The proposed solution is based on the Functional Mock-up Interface standard and ProB animator for Event-B. The involved technologies and co-simulation semantics are explained, followed by a demonstration of preliminary results, obtained from a landing gear case study.&amp;quot;,
+isbn=&amp;quot;978-3-319-07512-9&amp;quot;
+}
+&lt;/code>&lt;/pre>
+&lt;h2 id="sources">Sources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Model Archive:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Presentation:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Used formal method:&lt;/strong>
+&lt;a href="/method/event-b">Event-B&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Resources and tools:&lt;/strong>
+Rodin&lt;/li>
+&lt;li>&lt;strong>Required OS:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Website:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Remarks and recommendation:&lt;/strong>
+Not available&lt;/li>
+&lt;/ul></description></item><item><title>Context-Aware Verification of a Landing Gear System</title><link>/publication/dhaussy2014abz/</link><pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate><guid>/publication/dhaussy2014abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Despite the high level of automation, the practicability of formal verification through model-checking of large models is hindered by the combinatorial explosion problem. In this paper we apply a novel context-aware verification technique to the Landing Gear System Case Study (LGS) [2]. The idea is to express and verify requirements relative to certain environmental situations. The system environment is decomposed into several independent scenarios (contexts), which are successively composed with the system during reachability analysis. These contexts are specified using a language called CDL (Context Description Language), based on activity and message sequence diagrams. The properties to be verified are specified with observer automata and attached to specific regions in the context. This approach enables an automated context-guided decomposition of the verification into smaller problems, hence effectively reducing the state-space explosion problem. In the case of the LGS this technique enabled the fully-automated decomposition of the verification into 885 smaller model-checking problems.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/www.ensta-bretagne.fr\/dhaussy\/Philippe_Dhaussy_fichiers\/Dhaussy_Papers\/abz_3avril14.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@InProceedings{10.1007/978-3-319-07512-9_4,
+author=&amp;quot;Dhaussy, Philippe
+and Teodorov, Ciprian&amp;quot;,
+editor=&amp;quot;Boniol, Fr{\'e}d{\'e}ric
+and Wiels, Virginie
+and Ait Ameur, Yamine
+and Schewe, Klaus-Dieter&amp;quot;,
+title=&amp;quot;Context-Aware Verification of a Landing Gear System&amp;quot;,
+booktitle=&amp;quot;ABZ 2014: The Landing Gear Case Study&amp;quot;,
+year=&amp;quot;2014&amp;quot;,
+publisher=&amp;quot;Springer International Publishing&amp;quot;,
+address=&amp;quot;Cham&amp;quot;,
+pages=&amp;quot;52--65&amp;quot;,
+abstract=&amp;quot;Despite the high level of automation, the practicability of formal verification through model-checking of large models is hindered by the combinatorial explosion problem. In this paper we apply a novel context-aware verification technique to the Landing Gear System Case Study (LGS) [2]. The idea is to express and verify requirements relative to certain environmental situations. The system environment is decomposed into several independent scenarios (contexts), which are successively composed with the system during reachability analysis. These contexts are specified using a language called CDL (Context Description Language), based on activity and message sequence diagrams. The properties to be verified are specified with observer automata and attached to specific regions in the context. This approach enables an automated context-guided decomposition of the verification into smaller problems, hence effectively reducing the state-space explosion problem. In the case of the LGS this technique enabled the fully-automated decomposition of the verification into 885 smaller model-checking problems.&amp;quot;,
+isbn=&amp;quot;978-3-319-07512-9&amp;quot;
+}
+&lt;/code>&lt;/pre>
+&lt;h2 id="sources">Sources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Model Archive:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Presentation:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Used formal method:&lt;/strong>
+Context Description Language (CDL)&lt;/li>
+&lt;li>&lt;strong>Resources and tools:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Required OS:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Website:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Remarks and recommendation:&lt;/strong>
+Not available&lt;/li>
+&lt;/ul></description></item><item><title>Landing Gear System: An ASM-based Solution for the ABZ Case Study</title><link>/publication/kossak2014abz/</link><pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate><guid>/publication/kossak2014abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>We present an ASM model for the case study given as a challenge for the ABZ'14 conference, which specifies the digital part of a landing gear system for aircraft. We strove to make the formal model well understandable for humans. We note inconsistencies, ambiguities and gaps in the case study and summarise our experiences during modelling and the proof of safety properties.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "\/data\/abz14\/kossak2014abz.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{ABZ2014-Landing-Gear-System-Case-Study,
+author = {Boniol, Fr\'ed\'eric and Wiels, Virginie},
+title = {{T}he {L}anding {G}ear {S}ystem {C}ase {S}tudy},
+booktitle = {ABZ Case Study},
+year = {2014},
+publisher = {Springer},
+series = {Communications in Computer Information Science},
+volume = {433},
+}
+@MISC{BoniolWiels2013,
+title = {Landing gear system},
+author = {Frederic Boniol and Virginie Wiels},
+year = {2013},
+howpublished = {Challenge for the {ABZ}'14 conference, \url{http://www.irit.fr/ABZ2014/landing_system.pdf}, accessed 2013-12-19}
+}
+@BOOK{BoergerStaerk2003,
+title = {Abstract State Machines - A Method for High-Level System Design and
+Analysis},
+publisher = {Springer Verlag},
+year = {2003},
+author = {Egon B\&amp;quot;orger and Robert St\&amp;quot;ark}
+}
+@MISC{Kossak2014,
+title = {Landing Gear System: An {ASM}-based Solution for the {ABZ'14} Case Study. {Technical Report SCCH-TR-1401} with the complete model and proofs},
+author = {Felix Kossak},
+year = {2014},
+howpublished = {\url{http://www.scch.at/en/rse-news/landing_gear}}
+}
+@INPROCEEDINGS{KossakEtal2014,
+author = {Felix Kossak and Atif Mashkoor and Verena Geist and Christa Illibauer},
+title = {Improving the Understandability of Formal Specifications: An Experience Report},
+booktitle = {Proc. of the 20th Conf. on Requirements Engineering: Foundation for Software Quality (REFSQ'14; to appear)},
+year = {2014}
+}
+&lt;/code>&lt;/pre>
+&lt;h2 id="sources">Sources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Model Archive:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Presentation:&lt;/strong>
+&lt;a href="/data/abz14/kossak2014abz.pptx">PPT&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Used formal method:&lt;/strong>
+&lt;a href="/method/asm">ASM&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Resources and tools:&lt;/strong>
+Paper &amp;amp; Pencil&lt;/li>
+&lt;li>&lt;strong>Required OS:&lt;/strong>
+None&lt;/li>
+&lt;li>&lt;strong>Website:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Remarks and recommendation:&lt;/strong>
+Not available&lt;/li>
+&lt;/ul></description></item><item><title>Model-Checking Real-Time Properties of an Aircraft Landing Gear System Using Fiacre</title><link>/publication/berthomieu2014abz/</link><pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate><guid>/publication/berthomieu2014abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>We describe our experience with modeling the landing gear system of an aircraft using the formal specification language Fiacre. Our model takes into account the behavior and timing properties of both the physical parts and the control software of this system. We use this formal model to check safety and real-time properties on the system but also to find a safe bound on the maximal time needed for all gears to be down and locked (assuming the absence of failures). Our approach ultimately relies on the model-checking tool Tina, that provides state-space generation and model-checking algorithms for an extension of Time Petri Nets with data and priorities.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/www.archives-ouvertes.fr\/hal-00967422\/document";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@InProceedings{10.1007/978-3-319-07512-9_8,
+author=&amp;quot;Berthomieu, Bernard
+and Dal Zilio, Silvano
+and Fronc, {\L}ukasz&amp;quot;,
+editor=&amp;quot;Boniol, Fr{\'e}d{\'e}ric
+and Wiels, Virginie
+and Ait Ameur, Yamine
+and Schewe, Klaus-Dieter&amp;quot;,
+title=&amp;quot;Model-Checking Real-Time Properties of an Aircraft Landing Gear System Using Fiacre&amp;quot;,
+booktitle=&amp;quot;ABZ 2014: The Landing Gear Case Study&amp;quot;,
+year=&amp;quot;2014&amp;quot;,
+publisher=&amp;quot;Springer International Publishing&amp;quot;,
+address=&amp;quot;Cham&amp;quot;,
+pages=&amp;quot;110--125&amp;quot;,
+abstract=&amp;quot;We describe our experience with modeling the landing gear system of an aircraft using the formal specification language Fiacre. Our model takes into account the behavior and timing properties of both the physical parts and the control software of this system. We use this formal model to check safety and real-time properties on the system but also to find a safe bound on the maximal time needed for all gears to be down and locked (assuming the absence of failures). Our approach ultimately relies on the model-checking tool Tina, that provides state-space generation and model-checking algorithms for an extension of Time Petri Nets with data and priorities.&amp;quot;,
+isbn=&amp;quot;978-3-319-07512-9&amp;quot;
+}
+&lt;/code>&lt;/pre>
+&lt;h2 id="sources">Sources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Model Archive:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Presentation:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Used formal method:&lt;/strong>
+Time Petri Nets&lt;/li>
+&lt;li>&lt;strong>Resources and tools:&lt;/strong>
+Tina&lt;/li>
+&lt;li>&lt;strong>Required OS:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Website:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Remarks and recommendation:&lt;/strong>
+Not available&lt;/li>
+&lt;/ul></description></item><item><title>Modeling a Landing Gear System in Event-B</title><link>/publication/mammar2014abz/</link><pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate><guid>/publication/mammar2014abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>This paper describes the Event-B modeling of the landing gear system of an aircraft whose the complete description can be found in [3]. This real-life case study has been proposed by the ABZ’2014 track that takes place in Toulouse, the European capital of the aeronautic industry. Our modeling is based on the Parnas and Madey’s 4-Variable Model that permits to consider the different parts of a system. These parts are incremently introduced using the Event-B refinement technique. The entire development has been carried out under the Rodin toolset. To validate and prove the different components, we use the Atelier B, SMT and ML provers which are plugged to Rodin.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "http:\/\/www-public.imtbs-tsp.eu\/~mammar_a\/LandGearsModeling.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@InProceedings{10.1007/978-3-319-07512-9_6,
+author=&amp;quot;Mammar, Amel
+and Laleau, R{\'e}gine&amp;quot;,
+editor=&amp;quot;Boniol, Fr{\'e}d{\'e}ric
+and Wiels, Virginie
+and Ait Ameur, Yamine
+and Schewe, Klaus-Dieter&amp;quot;,
+title=&amp;quot;Modeling a Landing Gear System in Event-B&amp;quot;,
+booktitle=&amp;quot;ABZ 2014: The Landing Gear Case Study&amp;quot;,
+year=&amp;quot;2014&amp;quot;,
+publisher=&amp;quot;Springer International Publishing&amp;quot;,
+address=&amp;quot;Cham&amp;quot;,
+pages=&amp;quot;80--94&amp;quot;,
+abstract=&amp;quot;This paper describes the Event-B modeling of the landing gear system of an aircraft whose the complete description can be found in [3]. This real-life case study has been proposed by the ABZ'2014 track that takes place in Toulouse, the European capital of the aeronautic industry. Our modeling is based on the Parnas and Madey's 4-Variable Model that permits to consider the different parts of a system. These parts are incremently introduced using the Event-B refinement technique. The entire development has been carried out under the Rodin toolset. To validate and prove the different components, we use the Atelier B, SMT and ML provers which are plugged to Rodin.&amp;quot;,
+isbn=&amp;quot;978-3-319-07512-9&amp;quot;
+}
+&lt;/code>&lt;/pre>
+&lt;h2 id="sources">Sources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Model Archive:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Presentation:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Used formal method:&lt;/strong>
+&lt;a href="/method/event-b">Event-B&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Resources and tools:&lt;/strong>
+Rodin, ProB&lt;/li>
+&lt;li>&lt;strong>Required OS:&lt;/strong>
+Linux, Mac, Windows&lt;/li>
+&lt;li>&lt;strong>Website:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Remarks and recommendation:&lt;/strong>
+Not available&lt;/li>
+&lt;/ul></description></item><item><title>Modeling an Aircraft Landing System in Event-B</title><link>/publication/mery2014abz/</link><pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate><guid>/publication/mery2014abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>This paper presents a stepwise formal development of the landing system of an aircraft. The formal models include the complex behaviour, temporal behaviour and sequence of operations of the landing gear system. The models are formalized in Event-B modeling language, and then the ProB model checker is used to verify the deadlock freedom and to validate the behaviour requirements by animating the formalized models. This case study is considered as a benchmark for techniques and tools dedicated to the verification of behavioural properties of the complex critical systems.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/eb2all.loria.fr\/html_files\/files\/landingsystem.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@InProceedings{10.1007/978-3-319-07512-9_12,
+author=&amp;quot;M{\'e}ry, Dominique
+and Singh, Neeraj Kumar&amp;quot;,
+editor=&amp;quot;Boniol, Fr{\'e}d{\'e}ric
+and Wiels, Virginie
+and Ait Ameur, Yamine
+and Schewe, Klaus-Dieter&amp;quot;,
+title=&amp;quot;Modeling an Aircraft Landing System in Event-B&amp;quot;,
+booktitle=&amp;quot;ABZ 2014: The Landing Gear Case Study&amp;quot;,
+year=&amp;quot;2014&amp;quot;,
+publisher=&amp;quot;Springer International Publishing&amp;quot;,
+address=&amp;quot;Cham&amp;quot;,
+pages=&amp;quot;154--159&amp;quot;,
+abstract=&amp;quot;This paper presents a stepwise formal development of the landing system of an aircraft. The formal models include the complex behaviour, temporal behaviour and sequence of operations of the landing gear system. The models are formalized in Event-B modeling language, and then the ProB model checker is used to verify the deadlock freedom and to validate the behaviour requirements by animating the formalized models. This case study is considered as a benchmark for techniques and tools dedicated to the verification of behavioural properties of the complex critical systems.&amp;quot;,
+isbn=&amp;quot;978-3-319-07512-9&amp;quot;
+}
+&lt;/code>&lt;/pre>
+&lt;h2 id="sources">Sources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Model Archive:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Presentation:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Used formal method:&lt;/strong>
+&lt;a href="/method/event-b">Event-B&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Resources and tools:&lt;/strong>
+Rodin, ProB&lt;/li>
+&lt;li>&lt;strong>Required OS:&lt;/strong>
+Linux, Mac, Windows&lt;/li>
+&lt;li>&lt;strong>Website:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Remarks and recommendation:&lt;/strong>
+Not available&lt;/li>
+&lt;/ul></description></item><item><title>Modeling and Analyzing Using ASMs: The Landing Gear System Case Study</title><link>/publication/arcaini2014abz/</link><pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate><guid>/publication/arcaini2014abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>The paper presents an Abstract State Machine (ASM) specification of the Landing Gear System case study, and shows how the ASMETA framework can be used to support the modeling and analysis (validation and verification) activities for developing a rigorous and correct model in terms of ASMs. We exploit the two fundamental concepts of the ASM method, i.e., the notion of ground model and the refinement principle, and we achieve model development and model analysis by the combined use of formal methods for specification and for verification.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/cs.unibg.it\/gargantini\/research\/papers\/landingGearSystem_abz2014.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@InProceedings{10.1007/978-3-319-07512-9_3,
+author=&amp;quot;Arcaini, Paolo
+and Gargantini, Angelo
+and Riccobene, Elvinia&amp;quot;,
+editor=&amp;quot;Boniol, Fr{\'e}d{\'e}ric
+and Wiels, Virginie
+and Ait Ameur, Yamine
+and Schewe, Klaus-Dieter&amp;quot;,
+title=&amp;quot;Modeling and Analyzing Using ASMs: The Landing Gear System Case Study&amp;quot;,
+booktitle=&amp;quot;ABZ 2014: The Landing Gear Case Study&amp;quot;,
+year=&amp;quot;2014&amp;quot;,
+publisher=&amp;quot;Springer International Publishing&amp;quot;,
+address=&amp;quot;Cham&amp;quot;,
+pages=&amp;quot;36--51&amp;quot;,
+abstract=&amp;quot;The paper presents an Abstract State Machine (ASM) specification of the Landing Gear System case study, and shows how the ASMETA framework can be used to support the modeling and analysis (validation and verification) activities for developing a rigorous and correct model in terms of ASMs. We exploit the two fundamental concepts of the ASM method, i.e., the notion of ground model and the refinement principle, and we achieve model development and model analysis by the combined use of formal methods for specification and for verification.&amp;quot;,
+isbn=&amp;quot;978-3-319-07512-9&amp;quot;
+}
+&lt;/code>&lt;/pre>
+&lt;h2 id="sources">Sources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Model Archive:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Presentation:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Used formal method:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Resources and tools:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Required OS:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Website:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Remarks and recommendation:&lt;/strong>
+Not available&lt;/li>
+&lt;/ul></description></item><item><title>Offline Model-based Testing and Runtime Monitoring of the Sensor Voting Module</title><link>/publication/arcaini2014abz2/</link><pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate><guid>/publication/arcaini2014abz2/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Formal specifications are widely used in the development of safety critical systems, as the Sensor Voting Module of the Landing Gear System. However, the conformance relationship between the formal specification and the concrete implementation must be checked. In this paper, we show a technique to formally link a Java class with its Abstract State Machine formal specification, and two approaches for checking their conformance: an offline model-based testing approach and an online runtime monitoring approach.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/cs.unibg.it\/gargantini\/research\/papers\/votingSystem_abz2014.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@InProceedings{10.1007/978-3-319-07512-9_7,
+author=&amp;quot;Arcaini, Paolo
+and Gargantini, Angelo
+and Riccobene, Elvinia&amp;quot;,
+editor=&amp;quot;Boniol, Fr{\'e}d{\'e}ric
+and Wiels, Virginie
+and Ait Ameur, Yamine
+and Schewe, Klaus-Dieter&amp;quot;,
+title=&amp;quot;Offline Model-Based Testing and Runtime Monitoring of the Sensor Voting Module&amp;quot;,
+booktitle=&amp;quot;ABZ 2014: The Landing Gear Case Study&amp;quot;,
+year=&amp;quot;2014&amp;quot;,
+publisher=&amp;quot;Springer International Publishing&amp;quot;,
+address=&amp;quot;Cham&amp;quot;,
+pages=&amp;quot;95--109&amp;quot;,
+abstract=&amp;quot;Formal specifications are widely used in the development of safety critical systems, as the Sensor Voting Module of the Landing Gear System. However, the conformance relationship between the formal specification and the concrete implementation must be checked. In this paper, we show a technique to formally link a Java class with its Abstract State Machine formal specification, and two approaches for checking their conformance: an offline model-based testing approach and an online runtime monitoring approach.&amp;quot;,
+isbn=&amp;quot;978-3-319-07512-9&amp;quot;
+}
+&lt;/code>&lt;/pre>
+&lt;h2 id="sources">Sources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Model Archive:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Presentation:&lt;/strong>
+Not available &lt;!-- https://cs.unibg.it/gargantini/research/presentations/slides_sensorvotingtestingabz14.pdf -->&lt;/li>
+&lt;li>&lt;strong>Used formal method:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Resources and tools:&lt;/strong>
+Rodin, ProB&lt;/li>
+&lt;li>&lt;strong>Required OS:&lt;/strong>
+Linux, Mac, Windows&lt;/li>
+&lt;li>&lt;strong>Website:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Remarks and recommendation:&lt;/strong>
+Not available&lt;/li>
+&lt;/ul></description></item><item><title>The Landing Gear Case Study in Hybrid Event-B</title><link>/publication/banach2014abz/</link><pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate><guid>/publication/banach2014abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>A case study problem based on a set of aircraft landing gear is examined in Hybrid Event-B (an extension of Event-B that includes provision for continuously varying behaviour as well as the usual discrete changes of state). Although tool support for Hybrid Event-B is currently lacking, the complexity of the case study provides a valuable challenge for the expressivity and modelling capabilities of the formalism. The size of the case study, and in particular, the number of overtly independent subcomponents that the problem domain contains, both significantly exercise the multi-machine and coordination capabilities of Hybrid Event-B, requiring the use of novel coordination mechanisms.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "http:\/\/www.cs.man.ac.uk\/~banach\/some.pubs\/CEvB.LanGear.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@InProceedings{10.1007/978-3-319-07512-9_9,
+author=&amp;quot;Banach, Richard&amp;quot;,
+editor=&amp;quot;Boniol, Fr{\'e}d{\'e}ric
+and Wiels, Virginie
+and Ait Ameur, Yamine
+and Schewe, Klaus-Dieter&amp;quot;,
+title=&amp;quot;The Landing Gear Case Study in Hybrid Event-B&amp;quot;,
+booktitle=&amp;quot;ABZ 2014: The Landing Gear Case Study&amp;quot;,
+year=&amp;quot;2014&amp;quot;,
+publisher=&amp;quot;Springer International Publishing&amp;quot;,
+address=&amp;quot;Cham&amp;quot;,
+pages=&amp;quot;126--141&amp;quot;,
+abstract=&amp;quot;A case study problem based on a set of aircraft landing gear is examined in Hybrid Event-B (an extension of Event-B that includes provision for continuously varying behaviour as well as the usual discrete changes of state). Although tool support for Hybrid Event-B is currently lacking, the complexity of the case study provides a valuable challenge for the expressivity and modelling capabilities of the formalism. The size of the case study, and in particular, the number of overtly independent subcomponents that the problem domain contains, both significantly exercise the multi-machine and coordination capabilities of Hybrid Event-B, requiring the use of novel coordination mechanisms.&amp;quot;,
+isbn=&amp;quot;978-3-319-07512-9&amp;quot;
+}
+&lt;/code>&lt;/pre>
+&lt;h2 id="sources">Sources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Model Archive:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Presentation:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Used formal method:&lt;/strong>
+Hybrid
+&lt;a href="/method/event-b">Event-B&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Resources and tools:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Required OS:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Website:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Remarks and recommendation:&lt;/strong>
+Not available&lt;/li>
+&lt;/ul></description></item><item><title>Validation of the ABZ Landing Gear System Using ProB</title><link>/publication/hansen2014abz/</link><pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate><guid>/publication/hansen2014abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>In this paper we present our formalisation of the ABZ landing gear case study in Event-B. The development was carried out using the Rodin platform and mainly used superposition refinement to structure the specification. To validate the model we complemented proof with animation and model checking. For the latter, we used the ProB animator and model checker. Graphical representation of the model turned out to be crucial in the development and validation of the model; this was achieved using a new version of BMotion Studio integrated into ProB 2.0.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/www3.hhu.de\/stups\/downloads\/pdf\/abz14casestudy.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@InProceedings{10.1007/978-3-319-07512-9_5,
+author=&amp;quot;Hansen, Dominik
+and Ladenberger, Lukas
+and Wiegard, Harald
+and Bendisposto, Jens
+and Leuschel, Michael&amp;quot;,
+editor=&amp;quot;Boniol, Fr{\'e}d{\'e}ric
+and Wiels, Virginie
+and Ait Ameur, Yamine
+and Schewe, Klaus-Dieter&amp;quot;,
+title=&amp;quot;Validation of the ABZ Landing Gear System Using ProB&amp;quot;,
+booktitle=&amp;quot;ABZ 2014: The Landing Gear Case Study&amp;quot;,
+year=&amp;quot;2014&amp;quot;,
+publisher=&amp;quot;Springer International Publishing&amp;quot;,
+address=&amp;quot;Cham&amp;quot;,
+pages=&amp;quot;66--79&amp;quot;,
+abstract=&amp;quot;In this paper we present our formalisation of the ABZ landing gear case study in Event-B. The development was carried out using the Rodin platform and mainly used superposition refinement to structure the specification. To validate the model we complemented proof with animation and model checking. For the latter, we used the ProB animator and model checker. Graphical representation of the model turned out to be crucial in the development and validation of the model; this was achieved using a new version of BMotion Studio integrated into ProB 2.0.&amp;quot;,
+isbn=&amp;quot;978-3-319-07512-9&amp;quot;
+}
+&lt;/code>&lt;/pre>
+&lt;h2 id="sources">Sources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Model Archive:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Presentation:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Used formal method:&lt;/strong>
+&lt;a href="/method/event-b">Event-B&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Resources and tools:&lt;/strong>
+ProB&lt;/li>
+&lt;li>&lt;strong>Required OS:&lt;/strong>
+Linux&lt;/li>
+&lt;li>&lt;strong>Website:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Remarks and recommendation:&lt;/strong>
+Not available&lt;/li>
+&lt;/ul></description></item><item><title>ABZ 2012 (Pisa, Italy)</title><link>/2012/</link><pubDate>Tue, 19 Jun 2012 00:00:00 +0000</pubDate><guid>/2012/</guid><description/></item><item><title>ABZ 2010 (Orford, Canada)</title><link>/2010/</link><pubDate>Tue, 01 Jun 2010 00:00:00 +0000</pubDate><guid>/2010/</guid><description/></item><item><title>ABZ 2008 (London, UK)</title><link>/2008/</link><pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate><guid>/2008/</guid><description/></item><item><title>Adaptive Exterior Light and Speed Control System (ABZ 2020)</title><link>/case-study/abz20/</link><pubDate>Thu, 01 Jan 1970 00:33:40 +0000</pubDate><guid>/case-study/abz20/</guid><description>&lt;p>This document describes two systems from the automotive domain: an adaptive exterior light system (ELS) and a speed control system (SCS). This specification is based on the SPES XT running example[3]. Besides their general architectures, the requirements of the software based controllers are described. Both systems are only loosely coupled, which makes it possible to handle them independently&lt;/p></description></item><item><title>The Hybrid ERTMS/ETCS Level 3 (ABZ 2018)</title><link>/case-study/abz18/</link><pubDate>Thu, 01 Jan 1970 00:33:38 +0000</pubDate><guid>/case-study/abz18/</guid><description>&lt;p>This document presents a description of the European Rail Traffic Management System (ERTMS) case study. ERTMS is a system of standards for management and interoperation of signalling for railways by the European Union (EU). The case study focuses on the ERTMS Level 3 Hybrid principle, which accommodates different types of trains including ERTMS trains equiped with the Train Integrity Monitoring System (TIMS), ERTMS trains without TIMS, and non-ERTMS trains.&lt;/p></description></item><item><title>The Hemodialysis Machine (ABZ 2016)</title><link>/case-study/abz16/</link><pubDate>Thu, 01 Jan 1970 00:33:36 +0000</pubDate><guid>/case-study/abz16/</guid><description>&lt;p>This documents presents a description of a case study concerning the control of a hemodialysis (HD) machine.
+It provides an overview of the requirements and the design of an HD machine including a sketch of the machine’s functionality, related safety conditions, and a top-level system architectural description.&lt;/p></description></item><item><title>The Landing Gear System (ABZ 2014)</title><link>/case-study/abz14/</link><pubDate>Thu, 01 Jan 1970 00:33:34 +0000</pubDate><guid>/case-study/abz14/</guid><description>&lt;p>This document presents a landing gear system. It describes the system and provides some of its requirements. We propose this case study as a benchmark for techniques and tools dedicated to the verification of behavioral properties of systems.&lt;/p></description></item></channel></rss>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Felix Kossak | ABZ</title><link>/author/felix-kossak/</link><atom:link href="/author/felix-kossak/index.xml" rel="self" type="application/rss+xml"/><description>Felix Kossak</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2021 ABZ Conference</copyright><lastBuildDate>Thu, 01 May 2014 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Felix Kossak</title><link>/author/felix-kossak/</link></image><item><title>Landing Gear System: An ASM-based Solution for the ABZ Case Study</title><link>/publication/kossak2014abz/</link><pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate><guid>/publication/kossak2014abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>We present an ASM model for the case study given as a challenge for the ABZ'14 conference, which specifies the digital part of a landing gear system for aircraft. We strove to make the formal model well understandable for humans. We note inconsistencies, ambiguities and gaps in the case study and summarise our experiences during modelling and the proof of safety properties.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "\/data\/abz14\/kossak2014abz.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{ABZ2014-Landing-Gear-System-Case-Study,
+author = {Boniol, Fr\'ed\'eric and Wiels, Virginie},
+title = {{T}he {L}anding {G}ear {S}ystem {C}ase {S}tudy},
+booktitle = {ABZ Case Study},
+year = {2014},
+publisher = {Springer},
+series = {Communications in Computer Information Science},
+volume = {433},
+}
+@MISC{BoniolWiels2013,
+title = {Landing gear system},
+author = {Frederic Boniol and Virginie Wiels},
+year = {2013},
+howpublished = {Challenge for the {ABZ}'14 conference, \url{http://www.irit.fr/ABZ2014/landing_system.pdf}, accessed 2013-12-19}
+}
+@BOOK{BoergerStaerk2003,
+title = {Abstract State Machines - A Method for High-Level System Design and
+Analysis},
+publisher = {Springer Verlag},
+year = {2003},
+author = {Egon B\&amp;quot;orger and Robert St\&amp;quot;ark}
+}
+@MISC{Kossak2014,
+title = {Landing Gear System: An {ASM}-based Solution for the {ABZ'14} Case Study. {Technical Report SCCH-TR-1401} with the complete model and proofs},
+author = {Felix Kossak},
+year = {2014},
+howpublished = {\url{http://www.scch.at/en/rse-news/landing_gear}}
+}
+@INPROCEEDINGS{KossakEtal2014,
+author = {Felix Kossak and Atif Mashkoor and Verena Geist and Christa Illibauer},
+title = {Improving the Understandability of Formal Specifications: An Experience Report},
+booktitle = {Proc. of the 20th Conf. on Requirements Engineering: Foundation for Software Quality (REFSQ'14; to appear)},
+year = {2014}
+}
+&lt;/code>&lt;/pre>
+&lt;h2 id="sources">Sources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Model Archive:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Presentation:&lt;/strong>
+&lt;a href="/data/abz14/kossak2014abz.pptx">PPT&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Used formal method:&lt;/strong>
+&lt;a href="/method/asm">ASM&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Resources and tools:&lt;/strong>
+Paper &amp;amp; Pencil&lt;/li>
+&lt;li>&lt;strong>Required OS:&lt;/strong>
+None&lt;/li>
+&lt;li>&lt;strong>Website:&lt;/strong>
+Not available&lt;/li>
+&lt;li>&lt;strong>Remarks and recommendation:&lt;/strong>
+Not available&lt;/li>
+&lt;/ul></description></item></channel></rss>
