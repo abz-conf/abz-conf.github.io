@@ -34,7 +34,7 @@ Alexander Raschke <br>
 Universität Ulm <br>
 Fakultät für Ingenieurwissenschaften, Informatik und Psychologie <br>
 Institut für Softwaretechnik und Programmiersprachen <br>
-Albert-Einstein-Allee 11, Room O27/4105<br>
+Albert-Einstein-Allee 11<br>
 89069 Ulm, Germany <br>
 </small>
 </div>
