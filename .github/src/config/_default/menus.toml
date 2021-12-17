@@ -39,6 +39,11 @@
   url = "publications"
   weight = 50
 
+[[main]]
+  name = "Committee"
+  url = "team"
+  weight = 60
+
 # [[main]]
 #   name = "Site Notice"
 #   url = "site/notice"
