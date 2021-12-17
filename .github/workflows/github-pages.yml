@@ -18,7 +18,10 @@
 
 name: github-pages
 
-on: [push]
+on:
+  push:
+    branches-ignore:
+      - 'push-action/**'
 
 jobs:
   github-pages:
