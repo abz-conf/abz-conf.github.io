@@ -14,41 +14,65 @@ header:
 
 Information disclosed under Digital Economy Law (575/2004), France:
 
-<!-- INFORMAZIONI AI SENSI DELL’ART. 7 DEL D.LGS 70/2003
-Ai sensi dell’art. 7 del d.lgs 70/03 “Attuazione della direttiva 2000/31/CE relativa a taluni aspetti giuridici dei servizi della società dell'informazione nel mercato interno, con particolare riferimento al commercio elettronico” si forniscono le seguenti notizie: -->
-
-<!-- 
-INFORMATIONEN GEMÄSS ITALIENISCHEM GESETZESDEKRET 70/2003, ART. 7
-
-Gemäß Art. 7 des italienischen Gesetzesdekrets Nr. 70/2003 „Durchführungsbestimmungen der Richtlinie 2000/31/EG über bestimmte rechtliche Aspekte der Dienste der Informationsgesellschaft im Binnenmarkt, insbesondere hinsichtlich des elektronischen Geschäftsverkehrs“ werden folgende Angaben gemacht:
--->
-
 ### Contact
 
+<div class="container">
+<div class="row">
+
+<div class="col-4">
 <small>
-Prof. Elvinia Riccobene <br/>
-
-Università degli Studi di Milano <br/>
-Dipartimento di Informatica <br/>
-via Celoria, 18 - 20135 Milano <br/>
-
-tel: $+$$3$$9$ $0$$2$ $5$$0$$3$$3$$0$$0$$5$$5$<br/>
-email: $e$$l$$v$$i$$n$$i$$a$$.$$r$$i$$c$$c$$o$$b$$e$$n$$e$$@$$u$$n$$i$$m$$i$$.$$i$$t$ <br/>
+Neeraj Kumar Singh <br>
+INPT-ENSEEIHT/IRIT <br>
+F-313, 2 Rue Charles Camichel, BP 7122 <br>
+31071 Toulouse, CEDEX 7, France <br>
 </small>
+</div>
 
+<div class="col-4">
 <small>
-Prof. Yamine AIT-AMEUR <br/>
-
-INPT-ENSEEIHT/IRIT <br/>
-Bat. F. Bureau F306 <br/>
-2, Rue Charles Camichel <br/>
-BP 7122  <br/>
-31071 Toulouse CEDEX 7 <br/> France <br/>
-
-tel: $($$+$$3$$3$$/$$0$$)$ $5$ $3$$4$ $3$$2$ $2$$2$ $5$$5$ <br/>
-email: $y$$a$$m$$i$$n$$e$$@$$n$$7$$.$$f$$r$ <br/>
+Alexander Raschke <br>
+Universität Ulm <br>
+Fakultät für Ingenieurwissenschaften, Informatik und Psychologie <br>
+Institut für Softwaretechnik und Programmiersprachen <br>
+Albert-Einstein-Allee 11, Room O27/4105<br>
+89069 Ulm, Germany <br>
 </small>
-Website: <small> https://abz-conf.org </small>
+</div>
+
+<div class="col-4">
+<small>
+Philipp Paulweber<br>
+Vienna University of Technology<br>
+Institute of Information Systems and Engineering<br>
+Research Group Compilers and Languages<br>
+Argentinierstrasse 8, Room EA0401<br>
+1040 Vienna, Austria<br>
+</small>
+</div>
+
+</div> <!-- row -->
+
+<br>
+
+<div class="row">
+
+<div class="col-4">
+<small> $nsingh@enseeiht.fr$ </small> <br>
+<small> +33-5-34-32-21-82 </small> <br>
+</div>
+
+<div class="col-4">
+<small> $alexander.raschke@uni-ulm.de$ </small> <br>
+<small> +49-731-50-24172 </small> <br>
+</div>
+
+<div class="col-4">
+<small> $ppaulweber@complang.tuwien.ac.at$ </small> <br>
+<small> +43-1-58801-18517 </small> <br>
+</div>
+
+</div> <!-- row -->
+</div> <!-- container -->
 
 ### Notice of liability
 
