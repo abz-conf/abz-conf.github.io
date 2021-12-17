@@ -20,7 +20,7 @@
   weight = 10
 
 [[main]]
-  name = "Events"
+  name = "Conferences"
   url = "events"
   weight = 20
 
