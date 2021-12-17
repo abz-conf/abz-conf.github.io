@@ -46,8 +46,8 @@ jobs:
         git add .
         git commit -m "${{ github.event.head_commit.message }}"
     - name: Publish
-      uses: ad-m/github-push-action@v0.6.0
+      uses: CasperWA/push-protected@v2
       if: github.ref == 'refs/heads/master'
       with:
-        github_token: ${{ secrets.ACCESS_TOKEN }}
-
+        token: ${{ secrets.ACCESS_TOKEN }}
+        branch: master
