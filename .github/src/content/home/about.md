@@ -25,3 +25,4 @@ A session dedicated to a shared real-life case study among all the methods is in
 The objective of this session was to enrich the set of [case studies](/case-studies) developed with ABZ [methods](/methods) with a practical and real-life case study.
 Here, we provide a detailed description of these [case studies](/case-studies) and the corresponding [publications](/publications).
 The [publications](/publications) section provides the archived models, applied formal approaches, resources, and tools created or used in the context of the [case studies](/case-studies).
+
