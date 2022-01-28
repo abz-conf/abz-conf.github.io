@@ -4,6 +4,9 @@
 {{ $twitter_id     := $twitter.id }}
 {{ $twitter_width  := $twitter.width  | default "400" }}
 {{ $twitter_height := $twitter.height | default "650" }}
+{{ $event      := .page.Params.event }}
+{{ $event_link := $event.link }}
+{{ $event_text := $event.text }}
 
 <div class="universal-wrapper">
   <img src="{{ $banner }}" />
@@ -13,6 +16,14 @@
       {{ .page.Content }}
     </div>
     <div class="col-md-4">
+      <div style="text-align: center; display: block; cursor: pointer;" class="card" onclick="location.href='/{{ $event_link }}';">
+	<div class="card-body">
+	  <h5 class="card-title">Upcoming Conference</h5>
+	  <h6 class="card-subtitle mb-2 text-muted"><a href="/{{ $event_link }}">{{ $event_text }}</a></h6>
+	  <!-- p class="card-text">text</p>
+	  <!-- a href="#" class="card-link">link</a -->
+        </div>
+      </div>
       <div style="text-align: center;">
 	<meta name="twitter:dnt" content="on">
 	<a class="twitter-timeline"
