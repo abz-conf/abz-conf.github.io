@@ -10,7 +10,13 @@ twitter:
   id: ABZ_Conference
 # width:  400
   height: 500
+
+event:
+  link: 2023
+  text: ABZ'23
+  
 ---
+
 The ABZ conference series is dedicated to the cross-fertilization of state-based and machine-based formal [methods](/methods). The naming "ABZ" has historical reasons and is not meant to favor any methods. On the contrary, any state-based or even hybrid formal method is welcome in the ABZ community! 
 
 The following enumeration is just an excerpt of the methods from which research results have been published on ABZ. The methods [Abstract State Machines (ASM)](/method/asm), [Alloy](/method/alloy), [Classical B](/method/b), [Event-B](/method/event-b), [Temporal Logic of Actions (TLA)](/method/tla), [Vienna Development Method (VDM)](/method/vdm), [Z Notation](/method/z), and much more share a common conceptual foundation and are widely used in both academia and industry for the design and analysis of hardware and software systems.
