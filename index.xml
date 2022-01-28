@@ -365,7 +365,7 @@ height: 30rem;
 &lt;/style>
 &lt;h2 id="reference">Reference&lt;/h2>
 &lt;pre>&lt;code>% BibTex
-@inproceedings{2020abz,
+@inproceedings{krings2020abz,
 title={{A Verified Low-Level Implementation of the Adaptive Exterior Light and Speed Control System}},
 author={Krings, Sebastian and Koerner, Philipp and Dunkelau, Jannik and Rutenkolk, Chris},
 booktitle={7th International Conference on Rigorous State Based Methods (ABZ'20)},
