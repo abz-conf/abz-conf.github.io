@@ -38,19 +38,19 @@ links:
   icon_pack: fas
   icon: book
 - name: Abstract
-  url: "publication/2020abz/#abstract"
+  url: "publication/krings2020abz/#abstract"
   icon_pack: fas
   icon: file-alt
 - name: View
-  url: "publication/2020abz/#document"
+  url: "publication/krings2020abz/#document"
   icon_pack: fas
   icon: glasses
 - name: Cite
-  url: "publication/2020abz/#reference"
+  url: "publication/krings2020abz/#reference"
   icon_pack: fas
   icon: quote-right
 - name: Source
-  url: "publication/2020abz/#sources"
+  url: "publication/krings2020abz/#sources"
   icon_pack: fas
   icon: database
 
@@ -69,7 +69,7 @@ In this article, we present an approach to the ABZ 2020 case study, that differs
 
 ~~~
 % BibTex
-@inproceedings{2020abz,
+@inproceedings{krings2020abz,
   title={{A Verified Low-Level Implementation of the Adaptive Exterior Light and Speed Control System}},
   author={Krings, Sebastian and Koerner, Philipp and Dunkelau, Jannik and Rutenkolk, Chris},
   booktitle={7th International Conference on Rigorous State Based Methods (ABZ'20)},
