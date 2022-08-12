@@ -4,7 +4,7 @@ headless: false
 active: true
 weight: 10
 
-banner: https://github.com/abz-conf/abz-conf.logo/raw/master/src/banner.svg
+banner: https://github.com/abz-conf/abz-conf.logo/raw/master/src/banner_rsbm.svg
 
 twitter:
   id: ABZ_Conference
