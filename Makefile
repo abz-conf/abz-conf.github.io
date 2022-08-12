@@ -21,10 +21,10 @@ build: .github/src/themes/academic
 	(cd .github/src; hugo)
 
 serve: build
-	(cd .github/src; hugo --i18n-warnings server)
+	(cd .github/src; hugo server)
 
 serve-with-drafts: build
-	(cd .github/src; hugo --i18n-warnings server -D)
+	(cd .github/src; hugo server -D)
 
 clean:
 	rm -rf .github/obj
