@@ -2,7 +2,7 @@
 title: "The ABZ-2018 Case Study with Event-B"
 
 authors:
-- Jean-Raymond Abrial
+  - Jean-Raymond Abrial
 
 date: 2018-05-01
 
@@ -10,46 +10,46 @@ date: 2018-05-01
 # publishDate: 2020-06-19T16:42:07+02:00
 
 publication_types:
--  1 # conference paper
+  - 1 # conference paper
 
 publication: "6th International Conference on ASM, Alloy, B, TLA, VDM, and Z (ABZ'18)"
 publication_short: "ABZ'18"
 
 tags:
-- ABZ'18
+  - ABZ'18
 
 categories: []
 
 featured: false
 
 projects:
-- abz18
+  - abz18
 
 links:
-# - name: Digital
-#   url: TODO
-#   icon_pack: fas
-#   icon: file-pdf
-- name: Printed
-  url: https://doi.org/10.1007/978-3-319-91271-4_22
-  icon_pack: fas
-  icon: book
-- name: Abstract
-  url: "publication/abrial2018abz/#abstract"
-  icon_pack: fas
-  icon: file-alt
-# - name: View
-#   url: "publication/abrial2018abz/#document"
-#   icon_pack: fas
-#   icon: glasses
-- name: Cite
-  url: "publication/abrial2018abz/#reference"
-  icon_pack: fas
-  icon: quote-right
-- name: Source
-  url: "publication/abrial2018abz/#sources"
-  icon_pack: fas
-  icon: database
+  # - name: Digital
+  #   url: TODO
+  #   icon_pack: fas
+  #   icon: file-pdf
+  - name: Printed
+    url: https://doi.org/10.1007/978-3-319-91271-4_22
+    icon_pack: fas
+    icon: book
+  - name: Abstract
+    url: "publication/abrial2018abz/#abstract"
+    icon_pack: fas
+    icon: file-alt
+  # - name: View
+  #   url: "publication/abrial2018abz/#document"
+  #   icon_pack: fas
+  #   icon: glasses
+  - name: Cite
+    url: "publication/abrial2018abz/#reference"
+    icon_pack: fas
+    icon: quote-right
+  - name: Source
+    url: "publication/abrial2018abz/#sources"
+    icon_pack: fas
+    icon: database
 
 slides: ""
 ---
@@ -64,7 +64,7 @@ Usually, case studies dealing with train systems concentrate on the safety of tr
 
 ## Reference
 
-~~~
+```
 % BibTex
 @inproceedings{abrial2018abz,
   title={The ABZ-2018 case study with Event-B},
@@ -74,12 +74,12 @@ Usually, case studies dealing with train systems concentrate on the safety of tr
   year={2018},
   organization={Springer}
 }
-~~~
+```
 
 ## Sources
 
 - **Model Archive:**
-  Not available
+  Please contact <a href ="mailto:jrabrial@neuf.fr">authors</a>
 - **Presentation:**
   Not available
 - **Used formal method:**
