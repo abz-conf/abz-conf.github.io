@@ -293,8 +293,8 @@ F-313, 2 Rue Charles Camichel, BP 7122 &lt;br>
 &lt;small>
 Alexander Raschke &lt;br>
 Universität Ulm &lt;br>
-Fakultät für Ingenieurwissenschaften, Informatik und Psychologie &lt;br>
-Institut für Softwaretechnik und Programmiersprachen &lt;br>
+&lt;!-- Fakultät für Ingenieurwissenschaften, Informatik und Psychologie &lt;br -->
+&lt;!-- Institut für Softwaretechnik und Programmiersprachen &lt;br -->
 Albert-Einstein-Allee 11&lt;br>
 89069 Ulm, Germany &lt;br>
 &lt;/small>
@@ -302,11 +302,9 @@ Albert-Einstein-Allee 11&lt;br>
 &lt;div class="col-4">
 &lt;small>
 Philipp Paulweber&lt;br>
-Vienna University of Technology&lt;br>
-Institute of Information Systems and Engineering&lt;br>
-Research Group Compilers and Languages&lt;br>
-Argentinierstrasse 8, Room EA0401&lt;br>
-1040 Vienna, Austria&lt;br>
+fiskaly Gmbh&lt;br>
+Mariahilfer Straße 36&lt;br>
+1070 Vienna, Austria&lt;br>
 &lt;/small>
 &lt;/div>
 &lt;/div> &lt;!-- row -->
@@ -321,8 +319,8 @@ Argentinierstrasse 8, Room EA0401&lt;br>
 &lt;small> +49-731-50-24172 &lt;/small> &lt;br>
 &lt;/div>
 &lt;div class="col-4">
-&lt;small> $ppaulweber@complang.tuwien.ac.at$ &lt;/small> &lt;br>
-&lt;small> +43-1-58801-18517 &lt;/small> &lt;br>
+&lt;small> $ppaulweber@fiskaly.com$ &lt;/small> &lt;br>
+&lt;small> +43-1-997-4459-29 &lt;/small> &lt;br>
 &lt;/div>
 &lt;/div> &lt;!-- row -->
 &lt;/div> &lt;!-- container -->
