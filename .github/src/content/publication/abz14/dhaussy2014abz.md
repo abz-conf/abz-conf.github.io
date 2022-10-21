@@ -2,8 +2,8 @@
 title: "Context-Aware Verification of a Landing Gear System"
 
 authors:
-- Philippe Dhaussy
-- Ciprian Teodorov
+  - Philippe Dhaussy
+  - Ciprian Teodorov
 
 date: 2014-05-01
 
@@ -11,46 +11,46 @@ date: 2014-05-01
 # publishDate: 2020-06-19T16:42:07+02:00
 
 publication_types:
--  1 # conference paper
+  - 1 # conference paper
 
 publication: "4th International Conference on ASM, Alloy, B, TLA, VDM, and Z (ABZ'14)"
 publication_short: "ABZ'14"
 
 tags:
-- ABZ'14
+  - ABZ'14
 
 categories: []
 
 featured: false
 
 projects:
-- abz14
+  - abz14
 
 links:
-- name: Digital
-  url: https://www.ensta-bretagne.fr/dhaussy/Philippe_Dhaussy_fichiers/Dhaussy_Papers/abz_3avril14.pdf
-  icon_pack: fas
-  icon: file-pdf
-- name: Printed
-  url: https://doi.org/10.1007/978-3-319-07512-9_4
-  icon_pack: fas
-  icon: book
-- name: Abstract
-  url: "publication/dhaussy2014abz/#abstract"
-  icon_pack: fas
-  icon: file-alt
-- name: View
-  url: "publication/dhaussy2014abz/#document"
-  icon_pack: fas
-  icon: glasses
-- name: Cite
-  url: "publication/dhaussy2014abz/#reference"
-  icon_pack: fas
-  icon: quote-right
-- name: Source
-  url: "publication/dhaussy2014abz/#sources"
-  icon_pack: fas
-  icon: database
+  - name: Digital
+    url: https://www.ensta-bretagne.fr/dhaussy/Philippe_Dhaussy_fichiers/Dhaussy_Papers/abz_3avril14.pdf
+    icon_pack: fas
+    icon: file-pdf
+  - name: Printed
+    url: https://doi.org/10.1007/978-3-319-07512-9_4
+    icon_pack: fas
+    icon: book
+  - name: Abstract
+    url: "publication/dhaussy2014abz/#abstract"
+    icon_pack: fas
+    icon: file-alt
+  - name: View
+    url: "publication/dhaussy2014abz/#document"
+    icon_pack: fas
+    icon: glasses
+  - name: Cite
+    url: "publication/dhaussy2014abz/#reference"
+    icon_pack: fas
+    icon: quote-right
+  - name: Source
+    url: "publication/dhaussy2014abz/#sources"
+    icon_pack: fas
+    icon: database
 
 slides: ""
 ---
@@ -65,7 +65,7 @@ Despite the high level of automation, the practicability of formal verification 
 
 ## Reference
 
-~~~
+```
 % BibTex
 @InProceedings{10.1007/978-3-319-07512-9_4,
 author="Dhaussy, Philippe
@@ -83,12 +83,12 @@ pages="52--65",
 abstract="Despite the high level of automation, the practicability of formal verification through model-checking of large models is hindered by the combinatorial explosion problem. In this paper we apply a novel context-aware verification technique to the Landing Gear System Case Study (LGS) [2]. The idea is to express and verify requirements relative to certain environmental situations. The system environment is decomposed into several independent scenarios (contexts), which are successively composed with the system during reachability analysis. These contexts are specified using a language called CDL (Context Description Language), based on activity and message sequence diagrams. The properties to be verified are specified with observer automata and attached to specific regions in the context. This approach enables an automated context-guided decomposition of the verification into smaller problems, hence effectively reducing the state-space explosion problem. In the case of the LGS this technique enabled the fully-automated decomposition of the verification into 885 smaller model-checking problems.",
 isbn="978-3-319-07512-9"
 }
-~~~
+```
 
 ## Sources
 
 - **Model Archive:**
-  Not available
+  Please contact <a href ="mailto:philippe.dhaussy@ensta-bretagne.fr;ciprian.teodorov@ensta-bretagne.fr">authors</a>
 - **Presentation:**
   Not available
 - **Used formal method:**

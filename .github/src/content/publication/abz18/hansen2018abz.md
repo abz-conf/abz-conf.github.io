@@ -2,14 +2,14 @@
 title: "Using a Formal B Model at Runtime in a Demonstration of the ETCS Hybrid Level 3 Concept with Real Trains"
 
 authors:
-- Dominik Hansen
-- Michael Leuschel
-- David Schneider
-- Sebastian Krings
-- Philipp Körner
-- Thomas Naulin
-- Nader Nayeri
-- Frank Skowron
+  - Dominik Hansen
+  - Michael Leuschel
+  - David Schneider
+  - Sebastian Krings
+  - Philipp Körner
+  - Thomas Naulin
+  - Nader Nayeri
+  - Frank Skowron
 
 date: 2018-05-01
 
@@ -17,46 +17,46 @@ date: 2018-05-01
 # publishDate: 2020-06-19T16:42:07+02:00
 
 publication_types:
--  1 # conference paper
+  - 1 # conference paper
 
 publication: "6th International Conference on ASM, Alloy, B, TLA, VDM, and Z (ABZ'18)"
 publication_short: "ABZ'18"
 
 tags:
-- ABZ'18
+  - ABZ'18
 
 categories: []
 
 featured: false
 
 projects:
-- abz18
+  - abz18
 
 links:
-- name: Digital
-  url: https://www3.hhu.de/stups/downloads/pdf/etcsHL3.pdf
-  icon_pack: fas
-  icon: file-pdf
-- name: Printed
-  url: https://doi.org/10.1007/978-3-319-91271-4_20
-  icon_pack: fas
-  icon: book
-- name: Abstract
-  url: "publication/hansen2018abz/#abstract"
-  icon_pack: fas
-  icon: file-alt
-- name: View
-  url: "publication/hansen2018abz/#document"
-  icon_pack: fas
-  icon: glasses
-- name: Cite
-  url: "publication/hansen2018abz/#reference"
-  icon_pack: fas
-  icon: quote-right
-- name: Source
-  url: "publication/hansen2018abz/#sources"
-  icon_pack: fas
-  icon: database
+  - name: Digital
+    url: https://www3.hhu.de/stups/downloads/pdf/etcsHL3.pdf
+    icon_pack: fas
+    icon: file-pdf
+  - name: Printed
+    url: https://doi.org/10.1007/978-3-319-91271-4_20
+    icon_pack: fas
+    icon: book
+  - name: Abstract
+    url: "publication/hansen2018abz/#abstract"
+    icon_pack: fas
+    icon: file-alt
+  - name: View
+    url: "publication/hansen2018abz/#document"
+    icon_pack: fas
+    icon: glasses
+  - name: Cite
+    url: "publication/hansen2018abz/#reference"
+    icon_pack: fas
+    icon: quote-right
+  - name: Source
+    url: "publication/hansen2018abz/#sources"
+    icon_pack: fas
+    icon: database
 
 slides: ""
 ---
@@ -71,7 +71,7 @@ In this article, we present a concrete realisation of the ETCS Hybrid Level 3 co
 
 ## Reference
 
-~~~
+```
 % BibTex
 @inproceedings{hansen2018using,
   title={Using a formal B model at runtime in a demonstration of the ETCS hybrid level 3 concept with real trains},
@@ -81,12 +81,12 @@ In this article, we present a concrete realisation of the ETCS Hybrid Level 3 co
   year={2018},
   organization={Springer}
 }
-~~~
+```
 
 ## Sources
 
 - **Model Archive:**
-  Not available
+  Please contact <a href ="mailto:hansen@cs.uni-duesseldorf.de;leuschel@cs.uni-duesseldorf.de">authors</a>
 - **Presentation:**
   Not available
 - **Used formal method:**

@@ -2,7 +2,7 @@
 title: "Landing Gear System: An ASM-based Solution for the ABZ Case Study"
 
 authors:
-- Felix Kossak
+  - Felix Kossak
 
 date: 2014-05-01
 
@@ -10,46 +10,46 @@ date: 2014-05-01
 # publishDate: 2020-06-19T16:42:07+02:00
 
 publication_types:
--  1 # conference paper
+  - 1 # conference paper
 
 publication: "4th International Conference on ASM, Alloy, B, TLA, VDM, and Z (ABZ'14)"
 publication_short: "ABZ'14"
 
 tags:
-- ABZ'14
+  - ABZ'14
 
 categories: []
 
 featured: false
 
 projects:
-- abz14
+  - abz14
 
 links:
-- name: Digital
-  url: /kossak2014abz.pdf
-  icon_pack: fas
-  icon: file-pdf
-- name: Printed
-  url: https://doi.org/10.1007/978-3-319-07512-9_10
-  icon_pack: fas
-  icon: book
-- name: Abstract
-  url: "publication/kossak2014abz/#abstract"
-  icon_pack: fas
-  icon: file-alt
-- name: View
-  url: "publication/kossak2014abz/#document"
-  icon_pack: fas
-  icon: glasses
-- name: Cite
-  url: "publication/kossak2014abz/#reference"
-  icon_pack: fas
-  icon: quote-right
-- name: Source
-  url: "publication/kossak2014abz/#sources"
-  icon_pack: fas
-  icon: database
+  - name: Digital
+    url: /kossak2014abz.pdf
+    icon_pack: fas
+    icon: file-pdf
+  - name: Printed
+    url: https://doi.org/10.1007/978-3-319-07512-9_10
+    icon_pack: fas
+    icon: book
+  - name: Abstract
+    url: "publication/kossak2014abz/#abstract"
+    icon_pack: fas
+    icon: file-alt
+  - name: View
+    url: "publication/kossak2014abz/#document"
+    icon_pack: fas
+    icon: glasses
+  - name: Cite
+    url: "publication/kossak2014abz/#reference"
+    icon_pack: fas
+    icon: quote-right
+  - name: Source
+    url: "publication/kossak2014abz/#sources"
+    icon_pack: fas
+    icon: database
 
 slides: ""
 ---
@@ -64,7 +64,7 @@ We present an ASM model for the case study given as a challenge for the ABZ'14 c
 
 ## Reference
 
-~~~
+```
 % BibTex
 @inproceedings{ABZ2014-Landing-Gear-System-Case-Study,
   author    = {Boniol, Fr\'ed\'eric and Wiels, Virginie},
@@ -104,12 +104,12 @@ We present an ASM model for the case study given as a challenge for the ABZ'14 c
   booktitle = {Proc. of the 20th Conf. on Requirements Engineering: Foundation for Software Quality (REFSQ'14; to appear)},
   year = {2014}
 }
-~~~
+```
 
 ## Sources
 
 - **Model Archive:**
-  Not available
+  Please contact <a href ="mailto:felix.kossak@scch.at">authors</a>
 - **Presentation:**
   [PPT](/data/abz14/kossak2014abz.pptx)
 - **Used formal method:**

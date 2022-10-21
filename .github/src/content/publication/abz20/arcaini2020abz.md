@@ -2,11 +2,11 @@
 title: "Modelling an automotive software-intensive system with adaptive features using ASMETA"
 
 authors:
-- Paolo Arcaini
-- Silvia Bonfanti
-- Angelo Gargantini
-- Elvinia Riccobene
-- Patrizia Scandurra
+  - Paolo Arcaini
+  - Silvia Bonfanti
+  - Angelo Gargantini
+  - Elvinia Riccobene
+  - Patrizia Scandurra
 
 date: 2020-06-03
 
@@ -14,46 +14,46 @@ date: 2020-06-03
 # publishDate: 2020-06-19T16:42:07+02:00
 
 publication_types:
--  1 # conference paper
+  - 1 # conference paper
 
 publication: "7th International Conference on Rigorous State Based Methods (ABZ'20)"
 publication_short: "ABZ'20"
 
 tags:
-- ABZ'20
+  - ABZ'20
 
 categories: []
 
 featured: false
 
 projects:
-- abz20
+  - abz20
 
 links:
-- name: Digital
-  url: https://link.springer.com/content/pdf/10.1007%2F978-3-030-48077-6_25.pdf
-  icon_pack: fas
-  icon: file-pdf
-- name: Printed
-  url: https://doi.org/10.1007/978-3-030-48077-6_25
-  icon_pack: fas
-  icon: book
-- name: Abstract
-  url: "publication/arcaini2020abz/#abstract"
-  icon_pack: fas
-  icon: file-alt
-- name: View
-  url: "publication/arcaini2020abz/#document"
-  icon_pack: fas
-  icon: glasses
-- name: Cite
-  url: "publication/arcaini2020abz/#reference"
-  icon_pack: fas
-  icon: quote-right
-- name: Source
-  url: "publication/arcaini2020abz/#sources"
-  icon_pack: fas
-  icon: database
+  - name: Digital
+    url: https://link.springer.com/content/pdf/10.1007%2F978-3-030-48077-6_25.pdf
+    icon_pack: fas
+    icon: file-pdf
+  - name: Printed
+    url: https://doi.org/10.1007/978-3-030-48077-6_25
+    icon_pack: fas
+    icon: book
+  - name: Abstract
+    url: "publication/arcaini2020abz/#abstract"
+    icon_pack: fas
+    icon: file-alt
+  - name: View
+    url: "publication/arcaini2020abz/#document"
+    icon_pack: fas
+    icon: glasses
+  - name: Cite
+    url: "publication/arcaini2020abz/#reference"
+    icon_pack: fas
+    icon: quote-right
+  - name: Source
+    url: "publication/arcaini2020abz/#sources"
+    icon_pack: fas
+    icon: database
 
 slides: ""
 ---
@@ -68,7 +68,7 @@ In the context of automotive domain, modern control systems are software-intensi
 
 ## Reference
 
-~~~
+```
 % BibTex
 @inproceedings{arcaini2020abz,
   title={{Modelling an automotive software-intensive system with adaptive features using ASMETA}},
@@ -78,12 +78,12 @@ In the context of automotive domain, modern control systems are software-intensi
   year={2020},
   organization={Springer}
 }
-~~~
+```
 
 ## Sources
 
 - **Model Archive:**
-  Not available
+  Please contact <a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors</a>
 - **Presentation:**
   Not available
 - **Used formal method:**

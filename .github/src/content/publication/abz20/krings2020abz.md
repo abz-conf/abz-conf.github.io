@@ -2,10 +2,10 @@
 title: "A Verified Low-Level Implementation of the Adaptive Exterior Light and Speed Control System"
 
 authors:
-- Sebastian Krings
-- Philipp Koerner
-- Jannik Dunkelau
-- Chris Rutenkolk
+  - Sebastian Krings
+  - Philipp Koerner
+  - Jannik Dunkelau
+  - Chris Rutenkolk
 
 date: 2020-06-03
 
@@ -13,46 +13,46 @@ date: 2020-06-03
 # publishDate: 2020-06-19T16:42:07+02:00
 
 publication_types:
--  1 # conference paper
+  - 1 # conference paper
 
 publication: "7th International Conference on Rigorous State Based Methods (ABZ'20)"
 publication_short: "ABZ'20"
 
 tags:
-- ABZ'20
+  - ABZ'20
 
 categories: []
 
 featured: false
 
 projects:
-- abz20
+  - abz20
 
 links:
-- name: Digital
-  url: https://link.springer.com/content/pdf/10.1007%2F978-3-030-48077-6_30.pdf
-  icon_pack: fas
-  icon: file-pdf
-- name: Printed
-  url: https://doi.org/10.1007/978-3-030-48077-6_30
-  icon_pack: fas
-  icon: book
-- name: Abstract
-  url: "publication/krings2020abz/#abstract"
-  icon_pack: fas
-  icon: file-alt
-- name: View
-  url: "publication/krings2020abz/#document"
-  icon_pack: fas
-  icon: glasses
-- name: Cite
-  url: "publication/krings2020abz/#reference"
-  icon_pack: fas
-  icon: quote-right
-- name: Source
-  url: "publication/krings2020abz/#sources"
-  icon_pack: fas
-  icon: database
+  - name: Digital
+    url: https://link.springer.com/content/pdf/10.1007%2F978-3-030-48077-6_30.pdf
+    icon_pack: fas
+    icon: file-pdf
+  - name: Printed
+    url: https://doi.org/10.1007/978-3-030-48077-6_30
+    icon_pack: fas
+    icon: book
+  - name: Abstract
+    url: "publication/krings2020abz/#abstract"
+    icon_pack: fas
+    icon: file-alt
+  - name: View
+    url: "publication/krings2020abz/#document"
+    icon_pack: fas
+    icon: glasses
+  - name: Cite
+    url: "publication/krings2020abz/#reference"
+    icon_pack: fas
+    icon: quote-right
+  - name: Source
+    url: "publication/krings2020abz/#sources"
+    icon_pack: fas
+    icon: database
 
 slides: ""
 ---
@@ -67,7 +67,7 @@ In this article, we present an approach to the ABZ 2020 case study, that differs
 
 ## Reference
 
-~~~
+```
 % BibTex
 @inproceedings{krings2020abz,
   title={{A Verified Low-Level Implementation of the Adaptive Exterior Light and Speed Control System}},
@@ -77,12 +77,12 @@ In this article, we present an approach to the ABZ 2020 case study, that differs
   year={2020},
   organization={Springer}
 }
-~~~
+```
 
 ## Sources
 
 - **Model Archive:**
-  Not available
+  Please contact <a href ="mailto:sebastian@krin.gs;p.koerner@hhu.de;jannik.dunkelau@hhu.de;chris.rutenkolk@hhu.de">authors</a>
 - **Presentation:**
   Not available
 - **Used formal method:**

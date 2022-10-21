@@ -2,8 +2,8 @@
 title: "Modeling a Landing Gear System in Event-B"
 
 authors:
-- Amel Mammar
-- Régine Laleau
+  - Amel Mammar
+  - Régine Laleau
 
 date: 2014-05-01
 
@@ -11,46 +11,46 @@ date: 2014-05-01
 # publishDate: 2020-06-19T16:42:07+02:00
 
 publication_types:
--  1 # conference paper
+  - 1 # conference paper
 
 publication: "4th International Conference on ASM, Alloy, B, TLA, VDM, and Z (ABZ'14)"
 publication_short: "ABZ'14"
 
 tags:
-- ABZ'14
+  - ABZ'14
 
 categories: []
 
 featured: false
 
 projects:
-- abz14
+  - abz14
 
 links:
-- name: Digital
-  url: http://www-public.imtbs-tsp.eu/~mammar_a/LandGearsModeling.pdf
-  icon_pack: fas
-  icon: file-pdf
-- name: Printed
-  url: https://doi.org/10.1007/978-3-319-07512-9_6
-  icon_pack: fas
-  icon: book
-- name: Abstract
-  url: "publication/mammar2014abz/#abstract"
-  icon_pack: fas
-  icon: file-alt
-- name: View
-  url: "publication/mammar2014abz/#document"
-  icon_pack: fas
-  icon: glasses
-- name: Cite
-  url: "publication/mammar2014abz/#reference"
-  icon_pack: fas
-  icon: quote-right
-- name: Source
-  url: "publication/mammar2014abz/#sources"
-  icon_pack: fas
-  icon: database
+  - name: Digital
+    url: http://www-public.imtbs-tsp.eu/~mammar_a/LandGearsModeling.pdf
+    icon_pack: fas
+    icon: file-pdf
+  - name: Printed
+    url: https://doi.org/10.1007/978-3-319-07512-9_6
+    icon_pack: fas
+    icon: book
+  - name: Abstract
+    url: "publication/mammar2014abz/#abstract"
+    icon_pack: fas
+    icon: file-alt
+  - name: View
+    url: "publication/mammar2014abz/#document"
+    icon_pack: fas
+    icon: glasses
+  - name: Cite
+    url: "publication/mammar2014abz/#reference"
+    icon_pack: fas
+    icon: quote-right
+  - name: Source
+    url: "publication/mammar2014abz/#sources"
+    icon_pack: fas
+    icon: database
 
 slides: ""
 ---
@@ -65,7 +65,7 @@ This paper describes the Event-B modeling of the landing gear system of an aircr
 
 ## Reference
 
-~~~
+```
 % BibTex
 @InProceedings{10.1007/978-3-319-07512-9_6,
 author="Mammar, Amel
@@ -83,12 +83,12 @@ pages="80--94",
 abstract="This paper describes the Event-B modeling of the landing gear system of an aircraft whose the complete description can be found in [3]. This real-life case study has been proposed by the ABZ'2014 track that takes place in Toulouse, the European capital of the aeronautic industry. Our modeling is based on the Parnas and Madey's 4-Variable Model that permits to consider the different parts of a system. These parts are incremently introduced using the Event-B refinement technique. The entire development has been carried out under the Rodin toolset. To validate and prove the different components, we use the Atelier B, SMT and ML provers which are plugged to Rodin.",
 isbn="978-3-319-07512-9"
 }
-~~~
+```
 
 ## Sources
 
 - **Model Archive:**
-  Not available
+  Please contact <a href ="mailto:amel.mammar@telecom-sudparis.eu;laleau@u-pec.fr">authors</a>
 - **Presentation:**
   Not available
 - **Used formal method:**

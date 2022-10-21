@@ -2,9 +2,9 @@
 title: "Modeling and Analyzing Using ASMs: The Landing Gear System Case Study"
 
 authors:
-- Paolo Arcaini
-- Angelo Gargantini
-- Elvinia Riccobene
+  - Paolo Arcaini
+  - Angelo Gargantini
+  - Elvinia Riccobene
 
 date: 2014-05-01
 
@@ -12,46 +12,46 @@ date: 2014-05-01
 # publishDate: 2020-06-19T16:42:07+02:00
 
 publication_types:
--  1 # conference paper
+  - 1 # conference paper
 
 publication: "4th International Conference on ASM, Alloy, B, TLA, VDM, and Z (ABZ'14)"
 publication_short: "ABZ'14"
 
 tags:
-- ABZ'14
+  - ABZ'14
 
 categories: []
 
 featured: false
 
 projects:
-- abz14
+  - abz14
 
 links:
-- name: Digital
-  url: https://cs.unibg.it/gargantini/research/papers/landingGearSystem_abz2014.pdf
-  icon_pack: fas
-  icon: file-pdf
-- name: Printed
-  url: https://doi.org/10.1007/978-3-319-07512-9_3
-  icon_pack: fas
-  icon: book
-- name: Abstract
-  url: "publication/arcaini2014abz/#abstract"
-  icon_pack: fas
-  icon: file-alt
-- name: View
-  url: "publication/arcaini2014abz/#document"
-  icon_pack: fas
-  icon: glasses
-- name: Cite
-  url: "publication/arcaini2014abz/#reference"
-  icon_pack: fas
-  icon: quote-right
-- name: Source
-  url: "publication/arcaini2014abz/#sources"
-  icon_pack: fas
-  icon: database
+  - name: Digital
+    url: https://cs.unibg.it/gargantini/research/papers/landingGearSystem_abz2014.pdf
+    icon_pack: fas
+    icon: file-pdf
+  - name: Printed
+    url: https://doi.org/10.1007/978-3-319-07512-9_3
+    icon_pack: fas
+    icon: book
+  - name: Abstract
+    url: "publication/arcaini2014abz/#abstract"
+    icon_pack: fas
+    icon: file-alt
+  - name: View
+    url: "publication/arcaini2014abz/#document"
+    icon_pack: fas
+    icon: glasses
+  - name: Cite
+    url: "publication/arcaini2014abz/#reference"
+    icon_pack: fas
+    icon: quote-right
+  - name: Source
+    url: "publication/arcaini2014abz/#sources"
+    icon_pack: fas
+    icon: database
 
 slides: ""
 ---
@@ -66,7 +66,7 @@ The paper presents an Abstract State Machine (ASM) specification of the Landing 
 
 ## Reference
 
-~~~
+```
 % BibTex
 @InProceedings{10.1007/978-3-319-07512-9_3,
 author="Arcaini, Paolo
@@ -85,12 +85,12 @@ pages="36--51",
 abstract="The paper presents an Abstract State Machine (ASM) specification of the Landing Gear System case study, and shows how the ASMETA framework can be used to support the modeling and analysis (validation and verification) activities for developing a rigorous and correct model in terms of ASMs. We exploit the two fundamental concepts of the ASM method, i.e., the notion of ground model and the refinement principle, and we achieve model development and model analysis by the combined use of formal methods for specification and for verification.",
 isbn="978-3-319-07512-9"
 }
-~~~
+```
 
 ## Sources
 
 - **Model Archive:**
-  Not available
+  Please contact <a href ="mailto:paolo.arcaini@unibg.it;angelo.gargantini@unibg.it;elvinia.riccobene@unimi.it">authors</a>
 - **Presentation:**
   Not available
 - **Used formal method:**

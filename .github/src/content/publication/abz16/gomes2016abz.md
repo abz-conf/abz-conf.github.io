@@ -2,8 +2,8 @@
 title: "Modelling the Haemodialysis Machine with Circus"
 
 authors:
-- Artur Oliveira Gomes
-- Andrew Butterfield
+  - Artur Oliveira Gomes
+  - Andrew Butterfield
 
 date: 2016-05-01
 
@@ -11,46 +11,46 @@ date: 2016-05-01
 # publishDate: 2020-06-19T16:42:07+02:00
 
 publication_types:
--  1 # conference paper
+  - 1 # conference paper
 
 publication: "5th International Conference on ASM, Alloy, B, TLA, VDM, and Z (ABZ'16)"
 publication_short: "ABZ'16"
 
 tags:
-- ABZ'16
+  - ABZ'16
 
 categories: []
 
 featured: false
 
 projects:
-- abz16
+  - abz16
 
 links:
-- name: Digital
-  url: https://ulir.ul.ie/bitstream/handle/10344/5458/Gomes_2016_modelling.pdf?sequence=2
-  icon_pack: fas
-  icon: file-pdf
-- name: Printed
-  url: https://doi.org/10.1007/978-3-319-33600-8_34
-  icon_pack: fas
-  icon: book
-- name: Abstract
-  url: "publication/gomes2016abz/#abstract"
-  icon_pack: fas
-  icon: file-alt
-- name: View
-  url: "publication/gomes2016abz/#document"
-  icon_pack: fas
-  icon: glasses
-- name: Cite
-  url: "publication/gomes2016abz/#reference"
-  icon_pack: fas
-  icon: quote-right
-- name: Source
-  url: "publication/gomes2016abz/#sources"
-  icon_pack: fas
-  icon: database
+  - name: Digital
+    url: https://ulir.ul.ie/bitstream/handle/10344/5458/Gomes_2016_modelling.pdf?sequence=2
+    icon_pack: fas
+    icon: file-pdf
+  - name: Printed
+    url: https://doi.org/10.1007/978-3-319-33600-8_34
+    icon_pack: fas
+    icon: book
+  - name: Abstract
+    url: "publication/gomes2016abz/#abstract"
+    icon_pack: fas
+    icon: file-alt
+  - name: View
+    url: "publication/gomes2016abz/#document"
+    icon_pack: fas
+    icon: glasses
+  - name: Cite
+    url: "publication/gomes2016abz/#reference"
+    icon_pack: fas
+    icon: quote-right
+  - name: Source
+    url: "publication/gomes2016abz/#sources"
+    icon_pack: fas
+    icon: database
 
 slides: ""
 ---
@@ -65,7 +65,7 @@ We present a formal model of aspects of the haemodialysis machine case study usi
 
 ## Reference
 
-~~~
+```
 % BibTex
 @InProceedings{10.1007/978-3-319-33600-8_34,
 author="Gomes, Artur O.
@@ -82,12 +82,12 @@ address="Cham",
 pages="409--424",
 isbn="978-3-319-33600-8"
 }
-~~~
+```
 
 ## Sources
 
 - **Model Archive:**
-  Not available
+  Please contact <a href ="mailto:gomesa@tcd.ie;butrfeld@tcd.ie">authors</a>
 - **Presentation:**
   Not available
 - **Used formal method:**

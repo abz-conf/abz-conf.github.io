@@ -2,9 +2,9 @@
 title: "An Event-B Model of an Automotive Adaptive Exterior Light System"
 
 authors:
-- Amel Mammar
-- Marc Frappier
-- Regine Laleau
+  - Amel Mammar
+  - Marc Frappier
+  - Regine Laleau
 
 date: 2020-06-03
 
@@ -12,46 +12,46 @@ date: 2020-06-03
 # publishDate: 2020-06-19T16:42:07+02:00
 
 publication_types:
--  1 # conference paper
+  - 1 # conference paper
 
 publication: "7th International Conference on Rigorous State Based Methods (ABZ'20)"
 publication_short: "ABZ'20"
 
 tags:
-- ABZ'20
+  - ABZ'20
 
 categories: []
 
 featured: false
 
 projects:
-- abz20
+  - abz20
 
 links:
-- name: Digital
-  url: https://link.springer.com/content/pdf/10.1007%2F978-3-030-48077-6_28.pdf
-  icon_pack: fas
-  icon: file-pdf
-- name: Printed
-  url: https://doi.org/10.1007/978-3-030-48077-6_28
-  icon_pack: fas
-  icon: book
-- name: Abstract
-  url: "publication/mammar2020abz/#abstract"
-  icon_pack: fas
-  icon: file-alt
-- name: View
-  url: "publication/mammar2020abz/#document"
-  icon_pack: fas
-  icon: glasses
-- name: Cite
-  url: "publication/mammar2020abz/#reference"
-  icon_pack: fas
-  icon: quote-right
-- name: Source
-  url: "publication/mammar2020abz/#sources"
-  icon_pack: fas
-  icon: database
+  - name: Digital
+    url: https://link.springer.com/content/pdf/10.1007%2F978-3-030-48077-6_28.pdf
+    icon_pack: fas
+    icon: file-pdf
+  - name: Printed
+    url: https://doi.org/10.1007/978-3-030-48077-6_28
+    icon_pack: fas
+    icon: book
+  - name: Abstract
+    url: "publication/mammar2020abz/#abstract"
+    icon_pack: fas
+    icon: file-alt
+  - name: View
+    url: "publication/mammar2020abz/#document"
+    icon_pack: fas
+    icon: glasses
+  - name: Cite
+    url: "publication/mammar2020abz/#reference"
+    icon_pack: fas
+    icon: quote-right
+  - name: Source
+    url: "publication/mammar2020abz/#sources"
+    icon_pack: fas
+    icon: database
 
 slides: ""
 ---
@@ -66,7 +66,7 @@ This paper introduces an Event-B formal model of the adaptive exterior light sys
 
 ## Reference
 
-~~~
+```
 % BibTex
 @inproceedings{mammar2020abz,
   title={{An Event-B Model of an Automotive Adaptive Exterior Light System}},
@@ -76,12 +76,12 @@ This paper introduces an Event-B formal model of the adaptive exterior light sys
   year={2020},
   organization={Springer}
 }
-~~~
+```
 
 ## Sources
 
 - **Model Archive:**
-  Not available
+  Please contact <a href ="mailto:amel.mammar@telecom-sudparis.eu;marc.frappier@usherbrooke.ca;laleau@u-pec.fr">authors</a>
 - **Presentation:**
   Not available
 - **Used formal method:**
