@@ -87,17 +87,9 @@ isbn="978-3-319-07512-9"
 
 ## Sources
 
-- **Model Archive:**
-  Please contact <a href ="mailto:dominique.mery@loria.fr;neeraj.singh@toulouse-inp.fr">authors</a>
-- **Presentation:**
-  Not available
 - **Used formal method:**
   [Event-B](/method/event-b)
 - **Resources and tools:**
   Rodin, ProB
-- **Required OS:**
-  Linux, Mac, Windows
-- **Website:**
-  Not available
-- **Remarks and recommendation:**
-  Not available
+
+  For more information, please contact the <a href ="mailto:dominique.mery@loria.fr;neeraj.singh@toulouse-inp.fr">authors</a>

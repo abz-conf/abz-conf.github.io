@@ -85,17 +85,7 @@ isbn="978-3-319-07512-9"
 
 ## Sources
 
-- **Model Archive:**
-  Please contact <a href ="mailto:banach@cs.man.ac.uk">authors</a>
-- **Presentation:**
-  Not available
 - **Used formal method:**
   Hybrid [Event-B](/method/event-b)
-- **Resources and tools:**
-  Not available
-- **Required OS:**
-  Not available
-- **Website:**
-  Not available
-- **Remarks and recommendation:**
-  Not available
+
+  For more information, please contact the <a href ="mailto:banach@cs.man.ac.uk">authors</a>

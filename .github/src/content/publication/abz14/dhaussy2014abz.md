@@ -87,17 +87,7 @@ isbn="978-3-319-07512-9"
 
 ## Sources
 
-- **Model Archive:**
-  Please contact <a href ="mailto:philippe.dhaussy@ensta-bretagne.fr;ciprian.teodorov@ensta-bretagne.fr">authors</a>
-- **Presentation:**
-  Not available
 - **Used formal method:**
   Context Description Language (CDL)
-- **Resources and tools:**
-  Not available
-- **Required OS:**
-  Not available
-- **Website:**
-  Not available
-- **Remarks and recommendation:**
-  Not available
+
+  For more information, please contact the <a href ="mailto:philippe.dhaussy@ensta-bretagne.fr;ciprian.teodorov@ensta-bretagne.fr">authors</a>

@@ -80,17 +80,7 @@ We demonstrate diagrammatic Event-B formal modelling of a hybrid, 'fixed virtual
 
 ## Sources
 
-- **Model Archive:**
-  Please contact <a href ="mailto:dd4g12@ecs.soton.ac.uk;mrp@ecs.soton.ac.uk;cfs@ecs.soton.ac.uk">authors</a>
-- **Presentation:**
-  Not available
 - **Used formal method:**
   [Event-B](/method/event-b) and iUML-B
-- **Resources and tools:**
-  Not available
-- **Required OS:**
-  Not available
-- **Website:**
-  Not available
-- **Remarks and recommendation:**
-  Not available
+
+  For more information, please contact the <a href ="mailto:dd4g12@ecs.soton.ac.uk;mrp@ecs.soton.ac.uk;cfs@ecs.soton.ac.uk">authors</a>

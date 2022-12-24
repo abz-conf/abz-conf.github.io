@@ -80,18 +80,10 @@ We have modelled parts of the ABZ automotive case study using the B-method. For 
 
 ## Sources
 
-- **Model Archive:**
-  Please contact <a href ="mailto:michael.leuschel@hhu.de">authors</a>
-- **Presentation:**
-  Not available
 - **Used formal method:**
   [Classical B](/method/b)
   [Event-B](/method/event-b)
 - **Resources and tools:**
   VisB
-- **Required OS:**
-  Not available
-- **Website:**
-  Not available
-- **Remarks and recommendation:**
-  Not available
+
+  For more information, please contact the <a href ="mailto:michael.leuschel@hhu.de">authors</a>

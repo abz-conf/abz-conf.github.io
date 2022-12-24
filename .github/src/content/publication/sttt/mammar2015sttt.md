@@ -2,8 +2,8 @@
 title: "Modeling a landing gear system in Event-B"
 
 authors:
-- Amel Mammarue
-- Régine Laleau
+  - Amel Mammarue
+  - Régine Laleau
 
 date: 2015-08-22
 
@@ -11,13 +11,13 @@ date: 2015-08-22
 # publishDate: 2020-06-19T16:42:07+02:00
 
 publication_types:
--  2 # journal article
+  - 2 # journal article
 
 publication: "International Journal on Software Tools for Technology Transfer (STTT)"
 publication_short: "STTT"
 
 tags:
-- ABZ'14
+  - ABZ'14
 
 categories: []
 
@@ -27,26 +27,26 @@ featured: false
 # - abz14
 
 links:
-- name: Digital
-  url: https://www.researchgate.net/profile/Amel-Mammar/publication/283184853_Modeling_a_Landing_Gear_System_in_Event-B/links/57a106fc08aeef35741b7e43/Modeling-a-Landing-Gear-System-in-Event-B.pdf
-  icon_pack: fas
-  icon: file-pdf
-- name: Printed
-  url: https://doi.org/10.1007/s10009-015-0391-0
-  icon_pack: fas
-  icon: book
-- name: Abstract
-  url: "publication/mammar2015sttt/#abstract"
-  icon_pack: fas
-  icon: file-alt
-# - name: View
-#   url: "publication/mammar2015sttt/#document"
-#   icon_pack: fas
-#   icon: glasses
-- name: Cite
-  url: "publication/mammar2015sttt/#reference"
-  icon_pack: fas
-  icon: quote-right
+  - name: Digital
+    url: https://www.researchgate.net/profile/Amel-Mammar/publication/283184853_Modeling_a_Landing_Gear_System_in_Event-B/links/57a106fc08aeef35741b7e43/Modeling-a-Landing-Gear-System-in-Event-B.pdf
+    icon_pack: fas
+    icon: file-pdf
+  - name: Printed
+    url: https://doi.org/10.1007/s10009-015-0391-0
+    icon_pack: fas
+    icon: book
+  - name: Abstract
+    url: "publication/mammar2015sttt/#abstract"
+    icon_pack: fas
+    icon: file-alt
+  # - name: View
+  #   url: "publication/mammar2015sttt/#document"
+  #   icon_pack: fas
+  #   icon: glasses
+  - name: Cite
+    url: "publication/mammar2015sttt/#reference"
+    icon_pack: fas
+    icon: quote-right
 
 slides: ""
 ---
@@ -62,7 +62,7 @@ This article describes the Event-B modeling of a landing gear system of an aircr
 
 ## Reference
 
-~~~
+```
 % BibTex
 @Article{Mammar2017,
 author="Mammar, Amel
@@ -80,7 +80,7 @@ issn="1433-2787",
 doi="10.1007/s10009-015-0391-0",
 url="https://doi.org/10.1007/s10009-015-0391-0"
 }
-~~~
+```
 
 Model Archive : Not available
 Presentation : Not available

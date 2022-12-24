@@ -91,17 +91,7 @@ isbn="978-3-319-33600-8"
 
 ## Sources
 
-- **Model Archive:**
-  Please contact <a href ="mailto:arcaini@d3s.mff.cuni.cz;silvia.bonfanti@unibg.it;angelo.gargantini@unibg.it;elvinia.riccobene@unimi.it">authors</a>
-- **Presentation:**
-  Not available
 - **Used formal method:**
   [ASM](/method/asm)
-- **Resources and tools:**
-  Not available
-- **Required OS:**
-  Not available
-- **Website:**
-  Not available
-- **Remarks and recommendation:**
-  Not available
+
+  For more information, please contact the <a href ="mailto:arcaini@d3s.mff.cuni.cz;silvia.bonfanti@unibg.it;angelo.gargantini@unibg.it;elvinia.riccobene@unimi.it">authors</a>

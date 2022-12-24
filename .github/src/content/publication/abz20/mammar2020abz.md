@@ -80,17 +80,7 @@ This paper introduces an Event-B formal model of the adaptive exterior light sys
 
 ## Sources
 
-- **Model Archive:**
-  Please contact <a href ="mailto:amel.mammar@telecom-sudparis.eu;marc.frappier@usherbrooke.ca;laleau@u-pec.fr">authors</a>
-- **Presentation:**
-  Not available
 - **Used formal method:**
   [Event-B](/method/event-b)
-- **Resources and tools:**
-  Not available
-- **Required OS:**
-  Not available
-- **Website:**
-  Not available
-- **Remarks and recommendation:**
-  Not available
+
+  For more information, please contact the <a href ="mailto:amel.mammar@telecom-sudparis.eu;marc.frappier@usherbrooke.ca;laleau@u-pec.fr">authors</a>

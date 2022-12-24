@@ -89,17 +89,9 @@ isbn="978-3-319-07512-9"
 
 ## Sources
 
-- **Model Archive:**
-  Please contact <a href ="mailto:bernard.berthomieu@lass.fr;dal.zilio@lass.fr">authors</a>
-- **Presentation:**
-  Not available
 - **Used formal method:**
   Time Petri Nets
 - **Resources and tools:**
   Tina
-- **Required OS:**
-  Not available
-- **Website:**
-  Not available
-- **Remarks and recommendation:**
-  Not available
+
+  For more information, please contact the <a href ="mailto:bernard.berthomieu@lass.fr;dal.zilio@lass.fr">authors</a>

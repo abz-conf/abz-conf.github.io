@@ -81,17 +81,7 @@ In this article, we present an approach to the ABZ 2020 case study, that differs
 
 ## Sources
 
-- **Model Archive:**
-  Please contact <a href ="mailto:sebastian@krin.gs;p.koerner@hhu.de;jannik.dunkelau@hhu.de;chris.rutenkolk@hhu.de">authors</a>
-- **Presentation:**
-  Not available
 - **Used formal method:**
   MISRA C
-- **Resources and tools:**
-  Not available
-- **Required OS:**
-  Not available
-- **Website:**
-  Not available
-- **Remarks and recommendation:**
-  Not available
+
+  For more information, please contact the <a href ="mailto:sebastian@krin.gs;p.koerner@hhu.de;jannik.dunkelau@hhu.de;chris.rutenkolk@hhu.de">authors</a>

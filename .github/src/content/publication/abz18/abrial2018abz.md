@@ -78,17 +78,9 @@ Usually, case studies dealing with train systems concentrate on the safety of tr
 
 ## Sources
 
-- **Model Archive:**
-  Please contact <a href ="mailto:jrabrial@neuf.fr">authors</a>
-- **Presentation:**
-  Not available
 - **Used formal method:**
   [Event-B](/method/event-b)
 - **Resources and tools:**
   Rodin
-- **Required OS:**
-  Linux, Mac, Windows
-- **Website:**
-  Not available
-- **Remarks and recommendation:**
-  Not available
+
+  For more information, please contact the <a href ="mailto:jrabrial@neuf.fr">authors</a>

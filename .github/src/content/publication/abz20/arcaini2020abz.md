@@ -82,17 +82,9 @@ In the context of automotive domain, modern control systems are software-intensi
 
 ## Sources
 
-- **Model Archive:**
-  Please contact <a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors</a>
-- **Presentation:**
-  Not available
 - **Used formal method:**
   [ASM](/method/asm)
 - **Resources and tools:**
   Asmeta
-- **Required OS:**
-  Not available
-- **Website:**
-  Not available
-- **Remarks and recommendation:**
-  Not available
+
+  For more information, please contact the <a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors</a>

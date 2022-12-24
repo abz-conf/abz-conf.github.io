@@ -80,17 +80,9 @@ This paper reports on the development and validation of a formal model for an au
 
 ## Sources
 
-- **Model Archive:**
-  Please contact <a href ="mailto:nfmmacedo@di.uminho.pt">authors</a>
-- **Presentation:**
-  Not available
 - **Used formal method:**
   Electrum
 - **Resources and tools:**
   Electrum
-- **Required OS:**
-  Not available
-- **Website:**
-  Not available
-- **Remarks and recommendation:**
-  Not available
+
+  For more information, please contact the <a href ="mailto:nfmmacedo@di.uminho.pt">authors</a>

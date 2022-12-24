@@ -87,15 +87,11 @@ This paper presents an Event-B model of the ABZ2018 case study on the European R
 
 - **Model Archive:**
   [ZIP](/data/abz18/mammar2018abz.zip)
-- **Presentation:**
-  Not available
 - **Used formal method:**
   [Event-B](/method/event-b)
 - **Resources and tools:**
   Rodin, ProB
-- **Required OS:**
-  Linux, Windows
 - **Website:**
   http://info.usherbrooke.ca/mfrappier/abz2018-ERTMS-Case-Study
-- **Remarks and recommendation:**
-  Not available
+
+For more information, please contact the <a href ="mailto:amel.mammar@telecom-sudparis.eu;laleau@u-pec.fr">authors</a>
