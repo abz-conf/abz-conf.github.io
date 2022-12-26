@@ -27,20 +27,15 @@ organization={Springer}
 &lt;/code>&lt;/pre>
 &lt;h2 id="sources">Sources&lt;/h2>
 &lt;ul>
-&lt;li>&lt;strong>Model Archive:&lt;/strong>
-Please contact &lt;a href ="mailto:jrabrial@neuf.fr">authors&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Presentation:&lt;/strong>
-Not available&lt;/li>
-&lt;li>&lt;strong>Used formal method:&lt;/strong>
-&lt;a href="/method/event-b">Event-B&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Resources and tools:&lt;/strong>
-Rodin&lt;/li>
-&lt;li>&lt;strong>Required OS:&lt;/strong>
-Linux, Mac, Windows&lt;/li>
-&lt;li>&lt;strong>Website:&lt;/strong>
-Not available&lt;/li>
-&lt;li>&lt;strong>Remarks and recommendation:&lt;/strong>
-Not available&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Used formal method:&lt;/strong>
+&lt;a href="/method/event-b">Event-B&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Resources and tools:&lt;/strong>
+Rodin&lt;/p>
+&lt;p>For more information, please contact the &lt;a href ="mailto:jrabrial@neuf.fr">authors&lt;/a>&lt;/p>
+&lt;/li>
 &lt;/ul></description></item><item><title>Aircraft Landing Gear System: Approaches with Event-B to the Modeling of an Industrial System</title><link>/publication/su2014abz/</link><pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate><guid>/publication/su2014abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>This paper describes the modeling, done using the Event-B notation, of the aircraft landing gear case study that is proposed in a special track of the ABZ’2014 Conference. In the course of our development, we discovered some problems in our initial modeling approach. This has led us to propose a second approach and then a third one. Each approach is more efficient than the previous one in terms of proof obligations (roughly speaking: 2000, 1000, 500). All this will be described in this paper. We also try to go beyond this specific case study and give some thoughts about large industrial modeling.&lt;/p>
 &lt;!-- ## Document
@@ -78,18 +73,13 @@ isbn=&amp;quot;978-3-319-07512-9&amp;quot;
 &lt;/code>&lt;/pre>
 &lt;h2 id="sources">Sources&lt;/h2>
 &lt;ul>
-&lt;li>&lt;strong>Model Archive:&lt;/strong>
-Please contact &lt;a href ="mailto:wsu@shu.edu.cn;jrabrial@neuf.fr">authors&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Presentation:&lt;/strong>
-Not available&lt;/li>
-&lt;li>&lt;strong>Used formal method:&lt;/strong>
-&lt;a href="/method/event-b">Event-B&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Resources and tools:&lt;/strong>
-Rodin, ProB&lt;/li>
-&lt;li>&lt;strong>Required OS:&lt;/strong>
-Linux, Mac, Windows&lt;/li>
-&lt;li>&lt;strong>Website:&lt;/strong>
-Not available&lt;/li>
-&lt;li>&lt;strong>Remarks and recommendation:&lt;/strong>
-Not available&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Used formal method:&lt;/strong>
+&lt;a href="/method/event-b">Event-B&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Resources and tools:&lt;/strong>
+Rodin, ProB&lt;/p>
+&lt;p>For more information, please contact the &lt;a href ="mailto:wsu@shu.edu.cn;jrabrial@neuf.fr">authors&lt;/a>&lt;/p>
+&lt;/li>
 &lt;/ul></description></item></channel></rss>

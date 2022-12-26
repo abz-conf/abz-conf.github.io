@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Paolo Arcaini | ABZ</title><link>/author/paolo-arcaini/</link><atom:link href="/author/paolo-arcaini/index.xml" rel="self" type="application/rss+xml"/><description>Paolo Arcaini</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2022 ABZ Conference</copyright><lastBuildDate>Wed, 03 Jun 2020 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Paolo Arcaini</title><link>/author/paolo-arcaini/</link></image><item><title>Modelling an automotive software-intensive system with adaptive features using ASMETA</title><link>/publication/arcaini2020abz/</link><pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate><guid>/publication/arcaini2020abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
-&lt;p>In the context of automotive domain, modern control systems are software-intensive and have adaptive features to provide safety and comfort. These software-based features demand software engineering approaches and formal methods that are able to guarantee correct operation, since malfunctions may cause harm/damage. Adaptive Exterior Light and the Speed Control Systems are examples of software-intensive systems that equip modern cars. We have used the Abstract State Machines to model the behaviour of both control systems. Each model has been developed through model refinement, following the incremental way in which functional requirements are given. We used the \asmeta tool-set to support the simulation of the abstract models, their validation against the informal requirements, and the verification of behavioural properties. In this paper, we discuss our modelling, validation and verification strategies, and the results (in terms of features addressed and not) of our activities. In particular, we provide insights on how we addressed the adaptive features (the adaptive high beam headlights and the adaptive cruise control) by explicitly modelling their software control loops according to the MAPE-K (Monitor-Analyse-Plan-Execute over a shared Knowledge) reference control model for self-adaptive systems.&lt;/p>
+&lt;p>In the context of automotive domain, modern control systems are software-intensive and have adaptive features to provide safety and comfort. These software-based features demand software engineering approaches and formal methods that are able to guarantee correct operation, since malfunctions may cause harm/damage. Adaptive Exterior Light and the Speed Control Systems are examples of software-intensive systems that equip modern cars. We have used the Abstract State Machines to model the behaviour of both control systems. Each model has been developed through model refinement, following the incremental way in which functional requirements are given. We used the asmeta tool-set to support the simulation of the abstract models, their validation against the informal requirements, and the verification of behavioural properties. In this paper, we discuss our modelling, validation and verification strategies, and the results (in terms of features addressed and not) of our activities. In particular, we provide insights on how we addressed the adaptive features (the adaptive high beam headlights and the adaptive cruise control) by explicitly modelling their software control loops according to the MAPE-K (Monitor-Analyse-Plan-Execute over a shared Knowledge) reference control model for self-adaptive systems.&lt;/p>
 &lt;h2 id="document">Document&lt;/h2>
 &lt;div id="pdfobject-viewer">&lt;/div>
 &lt;script src="/js/pdfobject.min.js">&lt;/script>
@@ -26,20 +26,15 @@ organization={Springer}
 &lt;/code>&lt;/pre>
 &lt;h2 id="sources">Sources&lt;/h2>
 &lt;ul>
-&lt;li>&lt;strong>Model Archive:&lt;/strong>
-Please contact &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Presentation:&lt;/strong>
-Not available&lt;/li>
-&lt;li>&lt;strong>Used formal method:&lt;/strong>
-&lt;a href="/method/asm">ASM&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Resources and tools:&lt;/strong>
-Asmeta&lt;/li>
-&lt;li>&lt;strong>Required OS:&lt;/strong>
-Not available&lt;/li>
-&lt;li>&lt;strong>Website:&lt;/strong>
-Not available&lt;/li>
-&lt;li>&lt;strong>Remarks and recommendation:&lt;/strong>
-Not available&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Used formal method:&lt;/strong>
+&lt;a href="/method/asm">ASM&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Resources and tools:&lt;/strong>
+Asmeta&lt;/p>
+&lt;p>For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>&lt;/p>
+&lt;/li>
 &lt;/ul></description></item><item><title>Modelling the Hybrid ERTMS/ETCS Level 3 Case Study in Spin</title><link>/publication/arcaini2018abz/</link><pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate><guid>/publication/arcaini2018abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>The Spin model checker has been successfully applied to the modelling, validation, and verification of different safety-critical systems. In this paper, we model and validate the Hybrid ERTMS/ETCS Level 3 Case Study using Spin; in particular, we show the assumptions we made to keep the state space limited, and present the problems and ambiguities that arose during the modelling. Although Spin offers several advantages in terms of validation and verification facilities, its modelling language Promela is limited if compared to higher level notations of other formal methods. Therefore, we discuss the advantages and disadvantages of using the tool, and how it could be improved in terms of modelling facilities.&lt;/p>
 &lt;h2 id="document">Document&lt;/h2>
@@ -72,21 +67,16 @@ doi={https://doi.org/10.1007/978-3-319-91271-4_19}
 &lt;/code>&lt;/pre>
 &lt;h2 id="sources">Sources&lt;/h2>
 &lt;ul>
-&lt;li>&lt;strong>Model Archive:&lt;/strong>
-&lt;a href="/data/abz18/arcaini2018abz.zip">ZIP&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Presentation:&lt;/strong>
-Not available&lt;/li>
 &lt;li>&lt;strong>Used formal method:&lt;/strong>
 Spin&lt;/li>
 &lt;li>&lt;strong>Resources and tools:&lt;/strong>
 Spin&lt;/li>
-&lt;li>&lt;strong>Required OS:&lt;/strong>
-Linux, Mac, Windows&lt;/li>
 &lt;li>&lt;strong>Website:&lt;/strong>
 &lt;a href="http://d3s.mff.cuni.cz/~kofron/abz18casestudy.html">http://d3s.mff.cuni.cz/~kofron/abz18casestudy.html&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Remarks and recommendation:&lt;/strong>
-Not available&lt;/li>
-&lt;/ul></description></item><item><title>How to Assure Correctness and Safety of Medical Software: The Hemodialysis Machine Case Study</title><link>/publication/arcaini2016abz/</link><pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate><guid>/publication/arcaini2016abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;li>&lt;strong>Model Archive:&lt;/strong>
+&lt;a href="/data/abz18/arcaini2018abz.zip">ZIP&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>For more information, please contact the &lt;a href ="mailto:arcaini@d3s.mff.cuni.cz">authors&lt;/a>&lt;/p></description></item><item><title>How to Assure Correctness and Safety of Medical Software: The Hemodialysis Machine Case Study</title><link>/publication/arcaini2016abz/</link><pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate><guid>/publication/arcaini2016abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>Medical devices are nowadays more and more software dependent, and software malfunctioning can lead to injuries or death for patients. Several standards have been proposed for the development and the validation of medical devices, but they establish general guidelines on the use of common software engineering activities without any indication regarding methods and techniques to assure safety and reliability. This paper takes advantage of the Hemodialysis machine case study to present a formal development process supporting most of the engineering activities required by the standards, and provides rigorous approaches for system validation and verification. The process is based on the Abstract State Machine formal method and its model refinement principle.&lt;/p>
 &lt;h2 id="document">Document&lt;/h2>
 &lt;div id="pdfobject-viewer">&lt;/div>
@@ -124,20 +114,11 @@ isbn=&amp;quot;978-3-319-33600-8&amp;quot;
 &lt;/code>&lt;/pre>
 &lt;h2 id="sources">Sources&lt;/h2>
 &lt;ul>
-&lt;li>&lt;strong>Model Archive:&lt;/strong>
-Please contact &lt;a href ="mailto:arcaini@d3s.mff.cuni.cz;silvia.bonfanti@unibg.it;angelo.gargantini@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Presentation:&lt;/strong>
-Not available&lt;/li>
-&lt;li>&lt;strong>Used formal method:&lt;/strong>
-&lt;a href="/method/asm">ASM&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Resources and tools:&lt;/strong>
-Not available&lt;/li>
-&lt;li>&lt;strong>Required OS:&lt;/strong>
-Not available&lt;/li>
-&lt;li>&lt;strong>Website:&lt;/strong>
-Not available&lt;/li>
-&lt;li>&lt;strong>Remarks and recommendation:&lt;/strong>
-Not available&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Used formal method:&lt;/strong>
+&lt;a href="/method/asm">ASM&lt;/a>&lt;/p>
+&lt;p>For more information, please contact the &lt;a href ="mailto:arcaini@d3s.mff.cuni.cz;silvia.bonfanti@unibg.it;angelo.gargantini@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>&lt;/p>
+&lt;/li>
 &lt;/ul></description></item><item><title>Modeling and Analyzing Using ASMs: The Landing Gear System Case Study</title><link>/publication/arcaini2014abz/</link><pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate><guid>/publication/arcaini2014abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>The paper presents an Abstract State Machine (ASM) specification of the Landing Gear System case study, and shows how the ASMETA framework can be used to support the modeling and analysis (validation and verification) activities for developing a rigorous and correct model in terms of ASMs. We exploit the two fundamental concepts of the ASM method, i.e., the notion of ground model and the refinement principle, and we achieve model development and model analysis by the combined use of formal methods for specification and for verification.&lt;/p>
 &lt;h2 id="document">Document&lt;/h2>
@@ -174,22 +155,7 @@ isbn=&amp;quot;978-3-319-07512-9&amp;quot;
 }
 &lt;/code>&lt;/pre>
 &lt;h2 id="sources">Sources&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Model Archive:&lt;/strong>
-Please contact &lt;a href ="mailto:paolo.arcaini@unibg.it;angelo.gargantini@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Presentation:&lt;/strong>
-Not available&lt;/li>
-&lt;li>&lt;strong>Used formal method:&lt;/strong>
-Not available&lt;/li>
-&lt;li>&lt;strong>Resources and tools:&lt;/strong>
-Not available&lt;/li>
-&lt;li>&lt;strong>Required OS:&lt;/strong>
-Not available&lt;/li>
-&lt;li>&lt;strong>Website:&lt;/strong>
-Not available&lt;/li>
-&lt;li>&lt;strong>Remarks and recommendation:&lt;/strong>
-Not available&lt;/li>
-&lt;/ul></description></item><item><title>Offline Model-based Testing and Runtime Monitoring of the Sensor Voting Module</title><link>/publication/arcaini2014abz2/</link><pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate><guid>/publication/arcaini2014abz2/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>For more information, please contact the &lt;a href ="mailto:paolo.arcaini@unibg.it;angelo.gargantini@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>&lt;/p></description></item><item><title>Offline Model-based Testing and Runtime Monitoring of the Sensor Voting Module</title><link>/publication/arcaini2014abz2/</link><pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate><guid>/publication/arcaini2014abz2/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>Formal specifications are widely used in the development of safety critical systems, as the Sensor Voting Module of the Landing Gear System. However, the conformance relationship between the formal specification and the concrete implementation must be checked. In this paper, we show a technique to formally link a Java class with its Abstract State Machine formal specification, and two approaches for checking their conformance: an offline model-based testing approach and an online runtime monitoring approach.&lt;/p>
 &lt;h2 id="document">Document&lt;/h2>
 &lt;div id="pdfobject-viewer">&lt;/div>
@@ -225,19 +191,4 @@ isbn=&amp;quot;978-3-319-07512-9&amp;quot;
 }
 &lt;/code>&lt;/pre>
 &lt;h2 id="sources">Sources&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Model Archive:&lt;/strong>
-Please contact &lt;a href ="mailto:paolo.arcaini@unibg.it;angelo.gargantini@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Presentation:&lt;/strong>
-Not available &lt;!-- https://cs.unibg.it/gargantini/research/presentations/slides_sensorvotingtestingabz14.pdf -->&lt;/li>
-&lt;li>&lt;strong>Used formal method:&lt;/strong>
-Not available&lt;/li>
-&lt;li>&lt;strong>Resources and tools:&lt;/strong>
-Rodin, ProB&lt;/li>
-&lt;li>&lt;strong>Required OS:&lt;/strong>
-Linux, Mac, Windows&lt;/li>
-&lt;li>&lt;strong>Website:&lt;/strong>
-Not available&lt;/li>
-&lt;li>&lt;strong>Remarks and recommendation:&lt;/strong>
-Not available&lt;/li>
-&lt;/ul></description></item></channel></rss>
+&lt;p>For more information, please contact the &lt;a href ="mailto:paolo.arcaini@unibg.it;angelo.gargantini@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>&lt;/p></description></item></channel></rss>

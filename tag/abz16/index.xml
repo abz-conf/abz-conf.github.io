@@ -64,21 +64,12 @@ isbn=&amp;quot;978-3-319-33600-8&amp;quot;
 &lt;/code>&lt;/pre>
 &lt;h2 id="sources">Sources&lt;/h2>
 &lt;ul>
-&lt;li>&lt;strong>Model Archive:&lt;/strong>
-Please contact &lt;a href ="mailto:banach@cs.man.ac.uk">authors&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Presentation:&lt;/strong>
-Not available&lt;/li>
-&lt;li>&lt;strong>Used formal method:&lt;/strong>
+&lt;li>
+&lt;p>&lt;strong>Used formal method:&lt;/strong>
 Hybrid
-&lt;a href="/method/event-b">Event-B&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Resources and tools:&lt;/strong>
-Not available&lt;/li>
-&lt;li>&lt;strong>Required OS:&lt;/strong>
-Not available&lt;/li>
-&lt;li>&lt;strong>Website:&lt;/strong>
-Not available&lt;/li>
-&lt;li>&lt;strong>Remarks and recommendation:&lt;/strong>
-Not available&lt;/li>
+&lt;a href="/method/event-b">Event-B&lt;/a>&lt;/p>
+&lt;p>For more information, please contact the &lt;a href ="mailto:banach@cs.man.ac.uk">authors&lt;/a>&lt;/p>
+&lt;/li>
 &lt;/ul></description></item><item><title>How to Assure Correctness and Safety of Medical Software: The Hemodialysis Machine Case Study</title><link>/publication/arcaini2016abz/</link><pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate><guid>/publication/arcaini2016abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>Medical devices are nowadays more and more software dependent, and software malfunctioning can lead to injuries or death for patients. Several standards have been proposed for the development and the validation of medical devices, but they establish general guidelines on the use of common software engineering activities without any indication regarding methods and techniques to assure safety and reliability. This paper takes advantage of the Hemodialysis machine case study to present a formal development process supporting most of the engineering activities required by the standards, and provides rigorous approaches for system validation and verification. The process is based on the Abstract State Machine formal method and its model refinement principle.&lt;/p>
 &lt;h2 id="document">Document&lt;/h2>
@@ -117,20 +108,11 @@ isbn=&amp;quot;978-3-319-33600-8&amp;quot;
 &lt;/code>&lt;/pre>
 &lt;h2 id="sources">Sources&lt;/h2>
 &lt;ul>
-&lt;li>&lt;strong>Model Archive:&lt;/strong>
-Please contact &lt;a href ="mailto:arcaini@d3s.mff.cuni.cz;silvia.bonfanti@unibg.it;angelo.gargantini@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Presentation:&lt;/strong>
-Not available&lt;/li>
-&lt;li>&lt;strong>Used formal method:&lt;/strong>
-&lt;a href="/method/asm">ASM&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Resources and tools:&lt;/strong>
-Not available&lt;/li>
-&lt;li>&lt;strong>Required OS:&lt;/strong>
-Not available&lt;/li>
-&lt;li>&lt;strong>Website:&lt;/strong>
-Not available&lt;/li>
-&lt;li>&lt;strong>Remarks and recommendation:&lt;/strong>
-Not available&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Used formal method:&lt;/strong>
+&lt;a href="/method/asm">ASM&lt;/a>&lt;/p>
+&lt;p>For more information, please contact the &lt;a href ="mailto:arcaini@d3s.mff.cuni.cz;silvia.bonfanti@unibg.it;angelo.gargantini@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>&lt;/p>
+&lt;/li>
 &lt;/ul></description></item><item><title>Modelling a Hemodialysis Machine Using Algebraic State-Transition Diagrams and B-like Methods</title><link>/publication/fayolle2016abz/</link><pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate><guid>/publication/fayolle2016abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>This paper presents the specification of the hemodialysis case study, proposed by ABZ'16 conference. The specification was carried out by a coupling of Algebraic State-Transition Diagrams (ASTD) and B-like methods. astd are a graphical notation, based on automata and process algebra operators. They provide an easy-to-read specification of the dynamic behaviour of the system. The data model is specified using the Event-B language. The system is incrementally designed using extended refinement of both methods.&lt;/p>
 &lt;!-- ## Document
@@ -169,20 +151,11 @@ isbn=&amp;quot;978-3-319-33600-8&amp;quot;
 &lt;/code>&lt;/pre>
 &lt;h2 id="sources">Sources&lt;/h2>
 &lt;ul>
-&lt;li>&lt;strong>Model Archive:&lt;/strong>
-Please contact &lt;a href ="mailto:marc.frappier@usherbrooke.ca">authors&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Presentation:&lt;/strong>
-Not available&lt;/li>
-&lt;li>&lt;strong>Used formal method:&lt;/strong>
-Algebraic State-Transition Diagrams (ASTD)&lt;/li>
-&lt;li>&lt;strong>Resources and tools:&lt;/strong>
-Not available&lt;/li>
-&lt;li>&lt;strong>Required OS:&lt;/strong>
-Not available&lt;/li>
-&lt;li>&lt;strong>Website:&lt;/strong>
-Not available&lt;/li>
-&lt;li>&lt;strong>Remarks and recommendation:&lt;/strong>
-Not available&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Used formal method:&lt;/strong>
+Algebraic State-Transition Diagrams (ASTD)&lt;/p>
+&lt;p>For more information, please contact the &lt;a href ="mailto:marc.frappier@usherbrooke.ca">authors&lt;/a>&lt;/p>
+&lt;/li>
 &lt;/ul></description></item><item><title>Modelling the Haemodialysis Machine with Circus</title><link>/publication/gomes2016abz/</link><pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate><guid>/publication/gomes2016abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>We present a formal model of aspects of the haemodialysis machine case study using the Circus specification notation. We focus on building a model in which each of the software requirements (R-1–36) are represented by a Circus action. All of these act in concert with actions that model the collection of sensor data and the progress through the various therapy phases and activities. We then present how we model check the system using FDR.&lt;/p>
 &lt;h2 id="document">Document&lt;/h2>
@@ -218,20 +191,11 @@ isbn=&amp;quot;978-3-319-33600-8&amp;quot;
 &lt;/code>&lt;/pre>
 &lt;h2 id="sources">Sources&lt;/h2>
 &lt;ul>
-&lt;li>&lt;strong>Model Archive:&lt;/strong>
-Please contact &lt;a href ="mailto:gomesa@tcd.ie;butrfeld@tcd.ie">authors&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Presentation:&lt;/strong>
-Not available&lt;/li>
-&lt;li>&lt;strong>Used formal method:&lt;/strong>
-Circus&lt;/li>
-&lt;li>&lt;strong>Resources and tools:&lt;/strong>
-Not available&lt;/li>
-&lt;li>&lt;strong>Required OS:&lt;/strong>
-Not available&lt;/li>
-&lt;li>&lt;strong>Website:&lt;/strong>
-Not available&lt;/li>
-&lt;li>&lt;strong>Remarks and recommendation:&lt;/strong>
-Not available&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Used formal method:&lt;/strong>
+Circus&lt;/p>
+&lt;p>For more information, please contact the &lt;a href ="mailto:gomesa@tcd.ie;butrfeld@tcd.ie">authors&lt;/a>&lt;/p>
+&lt;/li>
 &lt;/ul></description></item><item><title>Validating the Requirements and Design of a Hemodialysis Machine Using iUML-B, BMotion Studio, and Co-Simulation</title><link>/publication/hoang2016abz/</link><pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate><guid>/publication/hoang2016abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>We present a formal specification of a hemodialysis machine (HD machine) using Event-B. We model the HD machine using iUML-B state-machines and class diagrams and build a corresponding BMotion Studio visualisation. We focus on validation using (i) diagrams to aid the modelling of the sequential properties of the requirements, and (ii) ProB-based animation and visualisation tools to explore the system’s behaviour. Some of the safety properties involve dynamic behaviour which is difficult to verify in Event-B. For these properties we use co-simulation tools to validate against a continuous model of the physical behaviour.&lt;/p>
 &lt;h2 id="document">Document&lt;/h2>
@@ -269,19 +233,14 @@ isbn=&amp;quot;978-3-319-33600-8&amp;quot;
 &lt;/code>&lt;/pre>
 &lt;h2 id="sources">Sources&lt;/h2>
 &lt;ul>
-&lt;li>&lt;strong>Model Archive:&lt;/strong>
-Please contact &lt;a href ="mailto:t.s.hoang@ecs.soton.ac.uk;cfs@ecs.soton.ac.uk">authors&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Presentation:&lt;/strong>
-Not available&lt;/li>
-&lt;li>&lt;strong>Used formal method:&lt;/strong>
-&lt;a href="/method/event-b">Event-B&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Resources and tools:&lt;/strong>
-ProB&lt;/li>
-&lt;li>&lt;strong>Required OS:&lt;/strong>
-Not available&lt;/li>
-&lt;li>&lt;strong>Website:&lt;/strong>
-Not available&lt;/li>
-&lt;li>&lt;strong>Remarks and recommendation:&lt;/strong>
-Not available&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Used formal method:&lt;/strong>
+&lt;a href="/method/event-b">Event-B&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Resources and tools:&lt;/strong>
+ProB&lt;/p>
+&lt;p>For more information, please contact the &lt;a href ="mailto:t.s.hoang@ecs.soton.ac.uk;cfs@ecs.soton.ac.uk">authors&lt;/a>&lt;/p>
+&lt;/li>
 &lt;/ul></description></item><item><title>The Hemodialysis Machine (ABZ 2016)</title><link>/case-study/abz16/</link><pubDate>Thu, 01 Jan 1970 00:33:36 +0000</pubDate><guid>/case-study/abz16/</guid><description>&lt;p>This documents presents a description of a case study concerning the control of a hemodialysis (HD) machine.
 It provides an overview of the requirements and the design of an HD machine including a sketch of the machine’s functionality, related safety conditions, and a top-level system architectural description.&lt;/p></description></item></channel></rss>

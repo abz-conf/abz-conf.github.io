@@ -26,20 +26,11 @@ organization={Springer}
 &lt;/code>&lt;/pre>
 &lt;h2 id="sources">Sources&lt;/h2>
 &lt;ul>
-&lt;li>&lt;strong>Model Archive:&lt;/strong>
-Please contact &lt;a href ="mailto:dd4g12@ecs.soton.ac.uk;mrp@ecs.soton.ac.uk;cfs@ecs.soton.ac.uk">authors&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Presentation:&lt;/strong>
-Not available&lt;/li>
-&lt;li>&lt;strong>Used formal method:&lt;/strong>
-&lt;a href="/method/event-b">Event-B&lt;/a> and iUML-B&lt;/li>
-&lt;li>&lt;strong>Resources and tools:&lt;/strong>
-Not available&lt;/li>
-&lt;li>&lt;strong>Required OS:&lt;/strong>
-Not available&lt;/li>
-&lt;li>&lt;strong>Website:&lt;/strong>
-Not available&lt;/li>
-&lt;li>&lt;strong>Remarks and recommendation:&lt;/strong>
-Not available&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Used formal method:&lt;/strong>
+&lt;a href="/method/event-b">Event-B&lt;/a> and iUML-B&lt;/p>
+&lt;p>For more information, please contact the &lt;a href ="mailto:dd4g12@ecs.soton.ac.uk;mrp@ecs.soton.ac.uk;cfs@ecs.soton.ac.uk">authors&lt;/a>&lt;/p>
+&lt;/li>
 &lt;/ul></description></item><item><title>Validating the Requirements and Design of a Hemodialysis Machine Using iUML-B, BMotion Studio, and Co-Simulation</title><link>/publication/hoang2016abz/</link><pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate><guid>/publication/hoang2016abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>We present a formal specification of a hemodialysis machine (HD machine) using Event-B. We model the HD machine using iUML-B state-machines and class diagrams and build a corresponding BMotion Studio visualisation. We focus on validation using (i) diagrams to aid the modelling of the sequential properties of the requirements, and (ii) ProB-based animation and visualisation tools to explore the system’s behaviour. Some of the safety properties involve dynamic behaviour which is difficult to verify in Event-B. For these properties we use co-simulation tools to validate against a continuous model of the physical behaviour.&lt;/p>
 &lt;h2 id="document">Document&lt;/h2>
@@ -77,18 +68,13 @@ isbn=&amp;quot;978-3-319-33600-8&amp;quot;
 &lt;/code>&lt;/pre>
 &lt;h2 id="sources">Sources&lt;/h2>
 &lt;ul>
-&lt;li>&lt;strong>Model Archive:&lt;/strong>
-Please contact &lt;a href ="mailto:t.s.hoang@ecs.soton.ac.uk;cfs@ecs.soton.ac.uk">authors&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Presentation:&lt;/strong>
-Not available&lt;/li>
-&lt;li>&lt;strong>Used formal method:&lt;/strong>
-&lt;a href="/method/event-b">Event-B&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Resources and tools:&lt;/strong>
-ProB&lt;/li>
-&lt;li>&lt;strong>Required OS:&lt;/strong>
-Not available&lt;/li>
-&lt;li>&lt;strong>Website:&lt;/strong>
-Not available&lt;/li>
-&lt;li>&lt;strong>Remarks and recommendation:&lt;/strong>
-Not available&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Used formal method:&lt;/strong>
+&lt;a href="/method/event-b">Event-B&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Resources and tools:&lt;/strong>
+ProB&lt;/p>
+&lt;p>For more information, please contact the &lt;a href ="mailto:t.s.hoang@ecs.soton.ac.uk;cfs@ecs.soton.ac.uk">authors&lt;/a>&lt;/p>
+&lt;/li>
 &lt;/ul></description></item></channel></rss>
