@@ -62,7 +62,7 @@ slides: ""
 
 ## Abstract
 
-This case study continues the successful series of case studies for formal specification and verification of the ABZ conference series, which started with the landing gear system[1] and expanded with the hemodialysis medical device[4] and the European Train Control System (ETCS)[2] in the following years. This document describes two systems from the automotive domain: an adaptive exterior light system (ELS) and a speed control system (SCS). This specification is based on the SPES XT running example[3]. Besides their general architectures, the requirements of the software based controllers are described. Both systems are only loosely coupled, which makes it possible to handle them independently
+This case study continues the successful series of case studies for formal specification and verification of the ABZ conference series, which started with the landing gear system and expanded with the hemodialysis medical device and the European Train Control System (ETCS) in the following years. This document describes two systems from the automotive domain: an adaptive exterior light system (ELS) and a speed control system (SCS). This specification is based on the SPES XT running example. Besides their general architectures, the requirements of the software based controllers are described. Both systems are only loosely coupled, which makes it possible to handle them independently
 
 ## Document
 

@@ -86,17 +86,7 @@ isbn="978-3-319-33600-8"
 
 ## Sources
 
-- **Model Archive:**
-  Please contact <a href ="mailto:gomesa@tcd.ie;butrfeld@tcd.ie">authors</a>
-- **Presentation:**
-  Not available
 - **Used formal method:**
   Circus
-- **Resources and tools:**
-  Not available
-- **Required OS:**
-  Not available
-- **Website:**
-  Not available
-- **Remarks and recommendation:**
-  Not available
+
+  For more information, please contact the <a href ="mailto:gomesa@tcd.ie;butrfeld@tcd.ie">authors</a>

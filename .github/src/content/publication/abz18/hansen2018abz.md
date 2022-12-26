@@ -85,17 +85,9 @@ In this article, we present a concrete realisation of the ETCS Hybrid Level 3 co
 
 ## Sources
 
-- **Model Archive:**
-  Please contact <a href ="mailto:hansen@cs.uni-duesseldorf.de;leuschel@cs.uni-duesseldorf.de">authors</a>
-- **Presentation:**
-  Not available
 - **Used formal method:**
   [Classical B](/method/b)
 - **Resources and tools:**
   ProB
-- **Required OS:**
-  Not available
-- **Website:**
-  Not available
-- **Remarks and recommendation:**
-  Not available
+
+  For more information, please contact the <a href ="mailto:hansen@cs.uni-duesseldorf.de;leuschel@cs.uni-duesseldorf.de">authors</a>

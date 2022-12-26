@@ -58,7 +58,7 @@ slides: ""
 
 ## Abstract
 
-This paper introduces an Event-B formal model of the adaptive exterior light system for cars, a case study proposed in the context of the ABZ2020 conference. The system describes the different provided lights and the conditions under which they are switched on/off in order to improve the visibility of the driver without dazzling the oncoming ones. The system can be viewed as a lights controller that reads different information form the available sensors (key state, exterior luminosity, etc.) and takes the adequate actions by acting on the actuators of the lights in order to ensure a good visibility for the driver according to the information read. Our model is built using stepwise refinement with the \eventB method. We consider all the features of the case study, all proof obligations have been discharged using the \rodin provers. Our model has been validated using ProB by applying the different provided scenarios. This validation has permitted us to point out and correct some mistakes, ambiguities and oversights in the first versions of the case study.
+This paper introduces an Event-B formal model of the adaptive exterior light system for cars, a case study proposed in the context of the ABZ2020 conference. The system describes the different provided lights and the conditions under which they are switched on/off in order to improve the visibility of the driver without dazzling the oncoming ones. The system can be viewed as a lights controller that reads different information form the available sensors (key state, exterior luminosity, etc.) and takes the adequate actions by acting on the actuators of the lights in order to ensure a good visibility for the driver according to the information read. Our model is built using stepwise refinement with the Event-B method. We consider all the features of the case study, all proof obligations have been discharged using the rodin provers. Our model has been validated using ProB by applying the different provided scenarios. This validation has permitted us to point out and correct some mistakes, ambiguities and oversights in the first versions of the case study.
 
 ## Document
 
@@ -80,17 +80,7 @@ This paper introduces an Event-B formal model of the adaptive exterior light sys
 
 ## Sources
 
-- **Model Archive:**
-  Please contact <a href ="mailto:amel.mammar@telecom-sudparis.eu;marc.frappier@usherbrooke.ca;laleau@u-pec.fr">authors</a>
-- **Presentation:**
-  Not available
 - **Used formal method:**
   [Event-B](/method/event-b)
-- **Resources and tools:**
-  Not available
-- **Required OS:**
-  Not available
-- **Website:**
-  Not available
-- **Remarks and recommendation:**
-  Not available
+
+  For more information, please contact the <a href ="mailto:amel.mammar@telecom-sudparis.eu;marc.frappier@usherbrooke.ca;laleau@u-pec.fr">authors</a>

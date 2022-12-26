@@ -90,17 +90,9 @@ isbn="978-3-319-33600-8"
 
 ## Sources
 
-- **Model Archive:**
-  Please contact <a href ="mailto:t.s.hoang@ecs.soton.ac.uk;cfs@ecs.soton.ac.uk">authors</a>
-- **Presentation:**
-  Not available
 - **Used formal method:**
   [Event-B](/method/event-b)
 - **Resources and tools:**
   ProB
-- **Required OS:**
-  Not available
-- **Website:**
-  Not available
-- **Remarks and recommendation:**
-  Not available
+
+  For more information, please contact the <a href ="mailto:t.s.hoang@ecs.soton.ac.uk;cfs@ecs.soton.ac.uk">authors</a>

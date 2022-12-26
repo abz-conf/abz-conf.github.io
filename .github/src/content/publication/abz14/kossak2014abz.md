@@ -108,17 +108,11 @@ We present an ASM model for the case study given as a challenge for the ABZ'14 c
 
 ## Sources
 
-- **Model Archive:**
-  Please contact <a href ="mailto:felix.kossak@scch.at">authors</a>
 - **Presentation:**
   [PPT](/data/abz14/kossak2014abz.pptx)
 - **Used formal method:**
   [ASM](/method/asm)
 - **Resources and tools:**
   Paper & Pencil
-- **Required OS:**
-  None
-- **Website:**
-  Not available
-- **Remarks and recommendation:**
-  Not available
+
+  For more information, please contact the <a href ="mailto:felix.kossak@scch.at">authors</a>

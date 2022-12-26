@@ -2,9 +2,9 @@
 title: "Modelling the Hybrid ERTMS/ETCS Level 3 Case Study in Spin"
 
 authors:
-- Paolo Arcaini
-- Pavel Jezek
-- Jan Kofron
+  - Paolo Arcaini
+  - Pavel Jezek
+  - Jan Kofron
 
 date: 2018-05-01
 
@@ -12,46 +12,46 @@ date: 2018-05-01
 # publishDate: 2020-06-19T16:42:07+02:00
 
 publication_types:
--  1 # conference paper
+  - 1 # conference paper
 
 publication: "6th International Conference on ASM, Alloy, B, TLA, VDM, and Z (ABZ'18)"
 publication_short: "ABZ'18"
 
 tags:
-- ABZ'18
+  - ABZ'18
 
 categories: []
 
 featured: false
 
 projects:
-- abz18
+  - abz18
 
 links:
-- name: Digital
-  url: https://www.irit.fr/ABZ-CS/html_files/files/2018/PDF/AJK_ABZ2018.pdf
-  icon_pack: fas
-  icon: file-pdf
-- name: Printed
-  url: https://doi.org/10.1007/978-3-319-91271-4_19
-  icon_pack: fas
-  icon: book
-- name: Abstract
-  url: "publication/arcaini2018abz/#abstract"
-  icon_pack: fas
-  icon: file-alt
-- name: View
-  url: "publication/arcaini2018abz/#document"
-  icon_pack: fas
-  icon: glasses
-- name: Cite
-  url: "publication/arcaini2018abz/#reference"
-  icon_pack: fas
-  icon: quote-right
-- name: Source
-  url: "publication/arcaini2018abz/#sources"
-  icon_pack: fas
-  icon: database
+  - name: Digital
+    url: https://www.irit.fr/ABZ-CS/html_files/files/2018/PDF/AJK_ABZ2018.pdf
+    icon_pack: fas
+    icon: file-pdf
+  - name: Printed
+    url: https://doi.org/10.1007/978-3-319-91271-4_19
+    icon_pack: fas
+    icon: book
+  - name: Abstract
+    url: "publication/arcaini2018abz/#abstract"
+    icon_pack: fas
+    icon: file-alt
+  - name: View
+    url: "publication/arcaini2018abz/#document"
+    icon_pack: fas
+    icon: glasses
+  - name: Cite
+    url: "publication/arcaini2018abz/#reference"
+    icon_pack: fas
+    icon: quote-right
+  - name: Source
+    url: "publication/arcaini2018abz/#sources"
+    icon_pack: fas
+    icon: database
 
 slides: ""
 ---
@@ -66,7 +66,7 @@ The Spin model checker has been successfully applied to the modelling, validatio
 
 ## Reference
 
-~~~
+```
 % BibTex
 @InProceedings{caseStudyABZ2018,
 author={Arcaini, Paolo and Je{\v{z}}ek, Pavel and Kofro{\v{n}}, Jan},
@@ -80,21 +80,17 @@ pages={277--291},
 isbn={978-3-319-91271-4},
 doi={https://doi.org/10.1007/978-3-319-91271-4_19}
 }
-~~~
+```
 
 ## Sources
 
-- **Model Archive:**
-  [ZIP](/data/abz18/arcaini2018abz.zip)
-- **Presentation:**
-  Not available
 - **Used formal method:**
   Spin
 - **Resources and tools:**
   Spin
-- **Required OS:**
-  Linux, Mac, Windows
 - **Website:**
   http://d3s.mff.cuni.cz/~kofron/abz18casestudy.html
-- **Remarks and recommendation:**
-  Not available
+- **Model Archive:**
+  [ZIP](/data/abz18/arcaini2018abz.zip)
+
+For more information, please contact the <a href ="mailto:arcaini@d3s.mff.cuni.cz">authors</a>

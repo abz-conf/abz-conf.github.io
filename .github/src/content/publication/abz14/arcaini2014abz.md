@@ -89,17 +89,4 @@ isbn="978-3-319-07512-9"
 
 ## Sources
 
-- **Model Archive:**
-  Please contact <a href ="mailto:paolo.arcaini@unibg.it;angelo.gargantini@unibg.it;elvinia.riccobene@unimi.it">authors</a>
-- **Presentation:**
-  Not available
-- **Used formal method:**
-  Not available
-- **Resources and tools:**
-  Not available
-- **Required OS:**
-  Not available
-- **Website:**
-  Not available
-- **Remarks and recommendation:**
-  Not available
+For more information, please contact the <a href ="mailto:paolo.arcaini@unibg.it;angelo.gargantini@unibg.it;elvinia.riccobene@unimi.it">authors</a>
