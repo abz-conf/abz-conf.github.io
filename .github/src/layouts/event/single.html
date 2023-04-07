@@ -66,6 +66,38 @@
 
     <div class="space-below"></div>
 
+    {{ if .Params.keynotes }}
+      {{ $abstractnr := 0 }}
+      <div class="row">
+        <div class="col-md-1"></div>
+        <div class="col-md-10">
+          <div class="row">
+            <div class="col-12 col-md-3 pub-row-heading">{{ i18n "keynotes" }}:</div>
+          </div>
+          {{ range .Params.keynotes }}
+            <div class="row">
+              <ul>
+              <div class="col-auto-md speaker">{{ .speaker }}{{ if .affiliation }}   ({{ .affiliation }}){{ end }}{{ if .abstract }}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a data-toggle="collapse" href="#abstract{{ $abstractnr }}"
+                aria-expanded="false" aria-controls="abstract">abstract</a>{{ end }}
+              </div>
+              <div class="col-auto"><strong>{{ .title }}</strong></div>
+              {{ if .abstract }}
+              <div class="col-auto collapse" id="abstract{{ $abstractnr }}">{{ $abstractnr = add $abstractnr 1 }}
+                <div class="card card-body">
+                  {{ .abstract }}
+                </div>
+              </div>
+              {{ end }}
+              </ul>
+            </div>
+          {{end}}
+        </div>
+        <div class="col-md-1"></div>
+      </div>
+      <div class="d-md-none space-below"></div>
+    {{ end }}
+
+
     <div class="article-style">
       {{ .Content }}
     </div>

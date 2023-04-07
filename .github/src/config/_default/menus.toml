@@ -24,11 +24,6 @@
   url = "events"
   weight = 20
 
-# [[main]] # TODO: FIXME: @ppaulweber: reenable 'keynotes' section ASAP
-#   name = "Keynotes"
-#   url = "keynotes"
-#  weight = 30
-
 [[main]]
   name = "Case Studies"
   url = "case-studies"
@@ -39,10 +34,15 @@
   url = "publications"
   weight = 50
 
+[[main]] 
+  name = "Keynotes"
+  url = "keynotes"
+  weight = 60
+
 [[main]]
   name = "Committee"
   url = "team"
-  weight = 60
+  weight = 70
 
 # [[main]]
 #   name = "Site Notice"
