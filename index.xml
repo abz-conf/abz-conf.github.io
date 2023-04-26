@@ -1,60 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ABZ</title><link>/</link><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><description>ABZ</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2022 ABZ Conference</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0200</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>ABZ</title><link>/</link></image><item><title>Example Talk</title><link>/talk/example/</link><pubDate>Sat, 01 Jun 2030 13:00:00 +0200</pubDate><guid>/talk/example/</guid><description>&lt;div class="alert alert-note">
-&lt;div>
-Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
-&lt;/div>
-&lt;/div>
-&lt;p>Slides can be added in a few ways:&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Create&lt;/strong> slides using Academic&amp;rsquo;s
-&lt;a href="https://sourcethemes.com/academic/docs/managing-content/#create-slides" target="_blank" rel="noopener">&lt;em>Slides&lt;/em>&lt;/a> feature and link using &lt;code>slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
-&lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
-&lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using
-&lt;a href="https://sourcethemes.com/academic/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
-&lt;/ul>
-&lt;p>Further talk details can easily be added to this page using &lt;em>Markdown&lt;/em> and $\rm \LaTeX$ math code.&lt;/p></description></item><item><title>ABZ 2023 (Nancy, France)</title><link>/2023/</link><pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate><guid>/2023/</guid><description/></item><item><title>Abstract State Machine (ASM)</title><link>/method/asm/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate><guid>/method/asm/</guid><description>&lt;p>The ASM method applies Abstract State Machines (ASMs) to support &lt;strong>&lt;em>traceable rigorous design and analysis&lt;/em>&lt;/strong> (by experimental testing and/or mathematical verification) of software-intensive systems.
-The following &lt;strong>&lt;em>three ingredients&lt;/em>&lt;/strong> of the method support to &lt;strong>&lt;em>develop executable code from specifications by stepwise refinement&lt;/em>&lt;/strong> where at each step both mathematical verification of desired properties and experimental model validation by testing can be applied and fully documented to permit design for change.&lt;/p>
-&lt;!-- @ppaulweber: update "the concept ..." -->
-&lt;ul>
-&lt;li>
-&lt;h2 id="the-concept-of-asm">the concept of ASM&lt;/h2>
-&lt;p>defined in [1], a semantically well-founded and arguably most general form of conceptually executable pseudo-code.
-The definition provides a uniform language to express any intended computational system at any development stage in terms of operations at an appropriate level of abstraction operating directly over objects (read: the system STATE, including input and output) determined by that level of abstraction.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;h2 id="the-concept-of-asm-ground-model">the concept of ASM ground model&lt;/h2>
-&lt;p>defined in [2], i.e. a rigorous requirements model that is expressed in application domain terms.
-A ground model ASM turns natural language requirements into a mathematical form that supports the inspection of the model by both domain and software experts, whereby the intended correctness and completeness of the requirements can be effectively checked and documented.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;h2 id="the-concept-of-asm-refinement">the concept of ASM refinement&lt;/h2>
-&lt;p>defined in [3]. It permits to develop a system in well-documented controllable modular steps, linking ASMs at different levels of abstraction, say an abstract and a more detailed model, in a way the software engineer can justify as correct implementation step.
-The executability of ASMs supports using testing methods to validate the models whereas their mathematical nature allows one to adopt mathematical verification techniques where appropriate.&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;p>The entire set of refinement steps transforms a ground model into well-documented executable code.
-The model analysis at different levels of abstraction helps to avoid and to identify and correct fundamental design errors, which are difficult to detect and expensive to correct in code.
-The intermediate models also support model reuse and design (programming) for change.&lt;/p>
-&lt;p>Note that the development process is by no means linear, as is illustrated by the following diagram:&lt;/p>
-&lt;p>&lt;img src="overview.svg" alt="">&lt;/p>
-&lt;p>For an introductory &lt;strong>text book&lt;/strong> with lecture slides see the &lt;em>Modeling Book&lt;/em> [4] or the &lt;em>Asm Book&lt;/em> [5].&lt;/p>
-&lt;p>For &lt;strong>case studies&lt;/strong> which illustrate typical applications of the method see the JBook [6] and provided
-&lt;a href="/case-studies">case studies&lt;/a> on this page.&lt;/p>
-&lt;p>For &lt;strong>tools&lt;/strong> which support the ASM method see&lt;/p>
-&lt;ul>
-&lt;li>
-&lt;a href="https://asmeta.github.io/" target="_blank" rel="noopener">Asmeta&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="https://casm-lang.org/" target="_blank" rel="noopener">CASM&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="https://github.com/CoreASM" target="_blank" rel="noopener">CoreASM&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="https://tydo.eu/AsmGofer" target="_blank" rel="noopener">AsmGofer&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>For the &lt;strong>early history&lt;/strong> &amp;ndash; of the development of the method and early applications in various fields of computer science &amp;ndash; up to 2003 see [7] (available from &lt;a href="https://www.jucs.org/jucs_8_1/the_origins_and_the/Boerger_E.pdf">https://www.jucs.org/jucs_8_1/the_origins_and_the/Boerger_E.pdf&lt;/a>) and &lt;a href="http://web.eecs.umich.edu/gasm/subjects/montage.html">http://web.eecs.umich.edu/gasm/subjects/montage.html&lt;/a>.&lt;/p>
-&lt;p>The &lt;strong>epistemological motivation&lt;/strong> for the definition of ASMs was to improve Turing&amp;rsquo;s thesis, which has been proved in [2] from three natural axioms for sequential algorithms.
-For the further development of such axiomatic and corresponding ASM-characterizations of algorithmic concepts (e.g. recursive algorithms, reflective algorithms, synchronous parallel algorithms, concurrent algorithms, communicating algorithms, etc.) see [9].
-In practice, this so-called behavioral theory of ASMs supports the arguably most general form of ASMs as system specification.&lt;/p>
-&lt;p>The &lt;strong>ASM Workshop Proceedings&lt;/strong> 1994-2007 (preceding the merge of those workshops with the user meetings of Z and B to the ABZ Conference, started in 2008):&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ABZ</title><link>/</link><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><description>ABZ</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2023 ABZ Conference</copyright><lastBuildDate>Tue, 30 May 2023 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>ABZ</title><link>/</link></image><item><title>ABZ 2023 (Nancy, France)</title><link>/2023/</link><pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate><guid>/2023/</guid><description/></item><item><title>BibTex-Entries of ASM workshops and References</title><link>/method/asm/bibtex-references/</link><pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate><guid>/method/asm/bibtex-references/</guid><description>&lt;p>BibTex-Entries of the mentioned &lt;strong>ASM Workshop Proceedings&lt;/strong> 1994-2007 (preceding the merge of those workshops with the user meetings of Z and B to the ABZ Conference, started in 2008) and the references can be found
+&lt;a href="/method/asm/bibtex-references/">here&lt;/a>.&lt;/p>
 &lt;pre>&lt;code>@Proceedings{Asm94,
 title = {Technology and {F}oundations. {I}nformation {P}rocessing'94},
 year = {1994},
@@ -115,12 +60,12 @@ address = {},
 note = {Contains Proceedings of 10th ASM Workshop (Taormina, Italy). For a selection of extended workshop papers see \cite{Asm03Tcs}.}
 }
 @BOOK{Asm03Tcs,
-EDITOR = {E.B\&amp;quot;orger},
-TITLE = {Abstract {S}tate {M}achines and high-level system design and analysis},
-YEAR = {2005},
-PUBLISHER = {Elsevier},
-SERIES = {Theoretical Computer Science (Special Issue)},
-VOLUME = {336 (2--3) },
+editor = {E.B\&amp;quot;orger},
+title = {Abstract {S}tate {M}achines and high-level system design and analysis},
+year = {2005},
+publisher = {Elsevier},
+series = {Theoretical Computer Science (Special Issue)},
+volume = {336 (2--3) },
 note = {ISSN 0304--3975. Selection of extended papers from ASM'03 (Taormina, Sicily)}
 }
 @Proceedings{Asm04,
@@ -135,29 +80,28 @@ note = {Contains Proceedings of 11th ASM Workshop (Lutherstadt Wittenberg)}
 }
 @Misc{Asm05,
 author = {E.B\&amp;quot;orger and D. Beauquier and A. Slissenko},
-title = {Proc. 12th International Workshop on {A}bstract {S}tate {M}achines
-{ASM}'05},
+title = {Proc. 12th International Workshop on {A}bstract {S}tate {M}achines {ASM}'05},
 howpublished = { Universit\'e Paris 12 (France)},
 year = {2005},
 pages ={424},
 note = {For a selection of extended workshop papers see \cite{Asm05FI}}
 }
 @BOOK{Asm05FI,
-EDITOR = {E.B\&amp;quot;orger},
-TITLE = {The {A}bstract {S}tate {M}achines method},
-YEAR = {2007},
-PUBLISHER = {IOS Press},
-SERIES = {Fundamenta Informaticae (Special Issue)},
-VOLUME = {77},
+editor = {E.B\&amp;quot;orger},
+title = {The {A}bstract {S}tate {M}achines method},
+year = {2007},
+publisher = {IOS Press},
+series = {Fundamenta Informaticae (Special Issue)},
+volume = {77},
 note = {ISSN 0169--2968. Selection of extended papers from ASM'05 (Paris)}
 }
 @BOOK{Asm07,
-EDITOR = {E.B\&amp;quot;orger and A.Prinz},
-TITLE = {Quo vadis {A}bstract {S}tate {M}achines?},
-YEAR = {2008},
-PUBLISHER = {},
-SERIES = {J. Universal Computer Science (Special Issue)},
-VOLUME = {14 (12)},
+editor = {E.B\&amp;quot;orger and A.Prinz},
+title = {Quo vadis {A}bstract {S}tate {M}achines?},
+year = {2008},
+publisher = {},
+series = {J. Universal Computer Science (Special Issue)},
+volume = {14 (12)},
 pages = {1921--2071},
 note = {Selection of extended papers from ASM'07 (Grimstadt, Norway)}
 }
@@ -194,8 +138,7 @@ author = {E. B{\&amp;quot;o}rger and A. Raschke},
 title = {Modeling Companion for Software Practitioners},
 publisher = {Springer},
 year = {2018},
-note = {ISBN 978-3-662-56641-1. For Corrigenda and lecture material on themes treated in the book
-see \url{http://modelingbook.informatik.uni-ulm.de}}
+note = {ISBN 978-3-662-56641-1. For Corrigenda and lecture material on themes treated in the book see \url{https://modelingbook.informatik.uni-ulm.de}}
 [5] @Book{BoeSta03,
 author = {E. B{\&amp;quot;o}rger and R. F. St{\&amp;quot;a}rk},
 title = {Abstract {S}tate {M}achines. A Method for High-Level System
@@ -204,14 +147,12 @@ publisher = {Springer},
 year = {2003}}
 [6] @Book{StScBo01,
 author = {R. F. St{\&amp;quot;a}rk and J. Schmid and E. B{\&amp;quot;o}rger},
-title = {Java and the Java Virtual Machine: Definition,
-Verification, Validation},
+title = {Java and the Java Virtual Machine: Definition, Verification, Validation},
 publisher = {Springer-Verlag},
 year = {2001}}
 [7] @Article{Boerger02a,
 author = {E. B{\&amp;quot;o}rger},
-title = {The Origins and the Development of the {ASM} Method
-for High-Level System Design and Analysis},
+title = {The Origins and the Development of the {ASM} Method for High-Level System Design and Analysis},
 journal = {J.~Universal Computer Science},
 volume = {8},
 number = {1},
@@ -219,8 +160,7 @@ year = {2002},
 pages = {2--74}}
 [8] @Article{Gurevich00,
 author = {Y. Gurevich},
-title = {Sequential {Abstract State Machines} Capture Sequential
-Algorithms},
+title = {Sequential {Abstract State Machines} Capture Sequential Algorithms},
 journal = {ACM Trans. Computational Logic},
 year = {2000},
 month = {July},
@@ -230,8 +170,7 @@ pages = {77--111}}
 [9] @inproceedings{Schewe21,
 author = {K.-D. Schewe},
 title = {Computation on Structures: Behavioural Theory, Logic, Complexity},
-booktitle = {Logic, Computation and Rigorous Methods. Essays Dedicated to Egon B\&amp;quot;orger
-on the Occasion of His 75th Birthday},
+booktitle = {Logic, Computation and Rigorous Methods. Essays Dedicated to Egon B\&amp;quot;orger on the Occasion of His 75th Birthday},
 editor = {A.Raschke and E. Riccobene and K.-D. Schewe},
 series = {Lecture Notes in Computer Science},
 volume = {1275},
@@ -241,9 +180,11 @@ year = {2021}
 }
 &lt;/code>&lt;/pre></description></item><item><title>Alloy</title><link>/method/alloy/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate><guid>/method/alloy/</guid><description>&lt;p>The Alloy language can be used to describe structures based on a collection of constraints. This created Alloy model can then be analyzed by the Alloy Analyzer, a solver that finds concrete structures that satisfy the constraints defined in the Alloy model.
 The analysis can be used to generate sample structures or to check properties of these structures by trying to generate counterexamples. Alloy is based on the Z specification language and Tarski&amp;rsquo;s relational calculus.&lt;/p>
-&lt;p>&lt;a href="http://alloytools.org/">http://alloytools.org/&lt;/a>&lt;/p></description></item><item><title>Classical B</title><link>/method/b/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate><guid>/method/b/</guid><description>&lt;p>Classical B (or just B) focuses on a tool-based refinement of a formal specification to code. It is based on the Z notation but slightly more low-level. In B a system consists of an abstract machine in which the modeler specifies the goal of the system. Via several refinement steps, this abstract goal is enhanced by more details on a less abstract level by adding details about data structures and algorithms that define how the goal is achieved.
+&lt;p>&lt;a href="http://alloytools.org/">http://alloytools.org/&lt;/a>&lt;/p></description></item><item><title>B / Event-B</title><link>/method/b/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate><guid>/method/b/</guid><description>&lt;p>Classical B (or just B) focuses on a tool-based refinement of a formal specification to code. It is based on the Z notation but slightly more low-level. In B a system consists of an abstract machine in which the modeler specifies the goal of the system. Via several refinement steps, this abstract goal is enhanced by more details on a less abstract level by adding details about data structures and algorithms that define how the goal is achieved.
 All steps are proven correct until a deterministic version (the implementation) is reached.&lt;/p>
-&lt;p>&lt;a href="https://methode-b.com">https://methode-b.com&lt;/a>&lt;/p></description></item><item><title>Committee</title><link>/team/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate><guid>/team/</guid><description>&lt;div class="container">
+&lt;p>&lt;a href="https://methode-b.com">https://methode-b.com&lt;/a>&lt;/p>
+&lt;p>Event-B is an evolution of B with a simpler notation. Similar to B a system is modeled by different abstraction levels that are connected by a rigorous refinement proven correct. Whereas the B-method is intended to the development of correct-by-construction software, the purpose of Event-B is to model full systems (including hardware and operation environment). These two languages share almost the same mathematical language.&lt;/p>
+&lt;p>&lt;a href="http://www.event-b.org/">http://www.event-b.org/&lt;/a>&lt;/p></description></item><item><title>Committee</title><link>/team/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate><guid>/team/</guid><description>&lt;div class="container">
 &lt;div class="row">
 &lt;div class="col-6">
 Prof. Elvinia Riccobene &lt;br/>
@@ -271,8 +212,7 @@ $elvinia.riccobene@unimi.it$ &lt;br/>
 $yamine@n7.fr$ &lt;br/>
 &lt;/div>
 &lt;/div> &lt;!-- row -->
-&lt;/div> &lt;!-- container --></description></item><item><title>Event-B</title><link>/method/event-b/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate><guid>/method/event-b/</guid><description>&lt;p>Event-B is an evolution of (classical) B with a simpler notation. Similar to B a system is modeled by different abstraction levels that are connected by a rigorous refinement proven correct. Whereas the B-method is intended to the development of correct-by-construction software, the purpose of Event-B is to model full systems (including hardware and operation environment). These two languages share almost the same mathematical language.&lt;/p>
-&lt;p>&lt;a href="http://www.event-b.org/">http://www.event-b.org/&lt;/a>&lt;/p></description></item><item><title>Temporal Logic of Actions (TLA)</title><link>/method/tla/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate><guid>/method/tla/</guid><description>&lt;p>TLA+ (Temporal Logic of Actions) was developed by Leslie Lamport to model, document, and verify especially concurrent and distributed systems. The language aims for defining the set of all correct system behaviors. It is organized in modules that contain a definition of states and (conditional) state transitions in form of steps. A &amp;ldquo;next-state-relations&amp;rdquo; defines how variables can change in any step. Similar to Z, B, and Event-B TLA+ is based on the Zermelo-Fraenkel set theory, but extended with built-in temporal logic operators.&lt;/p>
+&lt;/div> &lt;!-- container --></description></item><item><title>Temporal Logic of Actions (TLA)</title><link>/method/tla/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate><guid>/method/tla/</guid><description>&lt;p>TLA+ (Temporal Logic of Actions) was developed by Leslie Lamport to model, document, and verify especially concurrent and distributed systems. The language aims for defining the set of all correct system behaviors. It is organized in modules that contain a definition of states and (conditional) state transitions in form of steps. A &amp;ldquo;next-state-relations&amp;rdquo; defines how variables can change in any step. Similar to Z, B, and Event-B TLA+ is based on the Zermelo-Fraenkel set theory, but extended with built-in temporal logic operators.&lt;/p>
 &lt;p>&lt;a href="http://lamport.azurewebsites.net/tla/tla.html">http://lamport.azurewebsites.net/tla/tla.html&lt;/a>&lt;/p></description></item><item><title>Vienna Development Method (VDM)</title><link>/method/vdm/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate><guid>/method/vdm/</guid><description>&lt;p>In the Vienna Development Method (VDM) models consist of a rich representation of data on which a system operates, together with the functionality that should be executed on these data structures. Besides the internal data also external input/output data is considered in the models.&lt;/p>
 &lt;p>The functional behavior can be either defined abstract by pre- and postconditions or explicitly by specific state-based operations. The precise mathematical semantics of these definitions allows for a wide range of analyses, e.g. static analysis, testing or proof of properties of the sytem.&lt;/p>
 &lt;p>&lt;a href="https://www.overturetool.org/method/">https://www.overturetool.org/method/&lt;/a>&lt;/p></description></item><item><title>Z Notation</title><link>/method/z/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate><guid>/method/z/</guid><description>&lt;p>Z is the &amp;ldquo;ultimate language&amp;rdquo; as stated by
@@ -328,7 +268,7 @@ Mariahilfer Straße 36&lt;br>
 &lt;p>Despite careful examination, we assume no liability for external links.
 Responsibility for the content of external links lies with the owners and responsible operators.&lt;/p>
 &lt;h3 id="copyright">Copyright&lt;/h3>
-&lt;p>All contents, texts, graphics, layouts, code or software are Copyright © 2022
+&lt;p>All contents, texts, graphics, layouts, code or software are Copyright © 2023
 ABZ Conference and Community.
 All Rights reserved.
 Any usage of material or information available on this website, including the reproduction, sales, alteration and publication is prohibited unless specifically approved by the ABZ Conference and Community.&lt;/p>
@@ -346,7 +286,8 @@ Through this process, Twitter is aware that you have visited this website.
 If you are logged in to Twitter while browsing this website, Twitter can match your visit with your account.
 By interacting with the plugin, this information is sent directly to Twitter and processed there.
 If you would like to opt out, please log out of Twitter before visiting this website.
-For the information on the purpose and scope of data collection and procession by Twitter, as well as your rights in this respect and settings options for protecting your privacy please visit Twitter’s privacy policy: &lt;a href="https://twitter.com/privacy">https://twitter.com/privacy&lt;/a>.&lt;/p></description></item><item><title>New ABZ Website</title><link>/post/notice/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0200</pubDate><guid>/post/notice/</guid><description>&lt;p>TODO&lt;/p></description></item><item><title>ABZ 2021 (Ulm, Germany)</title><link>/2021/</link><pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate><guid>/2021/</guid><description/></item><item><title>ABZ 2020 (Ulm, Germany)</title><link>/2020/</link><pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate><guid>/2020/</guid><description/></item><item><title>A Verified Low-Level Implementation of the Adaptive Exterior Light and Speed Control System</title><link>/publication/krings2020abz/</link><pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate><guid>/publication/krings2020abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+For the information on the purpose and scope of data collection and procession by Twitter, as well as your rights in this respect and settings options for protecting your privacy please visit Twitter’s privacy policy: &lt;a href="https://twitter.com/privacy">https://twitter.com/privacy&lt;/a>.&lt;/p></description></item><item><title>New ABZ Website</title><link>/post/notice/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0200</pubDate><guid>/post/notice/</guid><description>&lt;p>TODO&lt;/p></description></item><item><title>ABZ 2021 (Ulm, Germany)</title><link>/2021/</link><pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate><guid>/2021/</guid><description/></item><item><title>ABZ 2020 (Ulm, Germany)</title><link>/2020/</link><pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate><guid>/2020/</guid><description>&lt;p>This conference was postponed due to the international outbreak of CoVid-19. See
+&lt;a href="/2021/">ABZ 2021&lt;/a>&lt;/p></description></item><item><title>A Verified Low-Level Implementation of the Adaptive Exterior Light and Speed Control System</title><link>/publication/krings2020abz/</link><pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate><guid>/publication/krings2020abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>In this article, we present an approach to the ABZ 2020 case study, that differs from the ones usually presented at ABZ: Rather than using a (correct-by-construction) approach following a formal method, we use MISRA C for a low-level implementation instead. We strictly adhere to test-driven development for validation, and only afterwards apply model checking using CBMC for verification. In consequence, our realization of the ABZ case study can serve as a baseline reference for comparison, allowing to assess the benefit provided by the various formal modeling languages, methods and tools.&lt;/p>
 &lt;h2 id="document">Document&lt;/h2>
 &lt;div id="pdfobject-viewer">&lt;/div>
@@ -1798,5 +1739,6 @@ isbn=&amp;quot;978-3-319-07512-9&amp;quot;
 ProB&lt;/p>
 &lt;p>For more information, please contact the &lt;a href ="mailto:leuschel@cs.uni-duesseldorf.de">authors&lt;/a>&lt;/p>
 &lt;/li>
-&lt;/ul></description></item><item><title>ABZ 2012 (Pisa, Italy)</title><link>/2012/</link><pubDate>Tue, 19 Jun 2012 00:00:00 +0000</pubDate><guid>/2012/</guid><description/></item><item><title>ABZ 2010 (Orford, Canada)</title><link>/2010/</link><pubDate>Tue, 01 Jun 2010 00:00:00 +0000</pubDate><guid>/2010/</guid><description/></item><item><title>ABZ 2008 (London, UK)</title><link>/2008/</link><pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate><guid>/2008/</guid><description/></item><item><title>Adaptive Exterior Light and Speed Control System (ABZ 2020)</title><link>/case-study/abz20/</link><pubDate>Thu, 01 Jan 1970 00:33:40 +0000</pubDate><guid>/case-study/abz20/</guid><description>&lt;p>This document describes two systems from the automotive domain: an adaptive exterior light system (ELS) and a speed control system (SCS). This specification is based on the SPES XT running example. Besides their general architectures, the requirements of the software based controllers are described. Both systems are only loosely coupled, which makes it possible to handle them independently&lt;/p></description></item><item><title>The Hybrid ERTMS/ETCS Level 3 (ABZ 2018)</title><link>/case-study/abz18/</link><pubDate>Thu, 01 Jan 1970 00:33:38 +0000</pubDate><guid>/case-study/abz18/</guid><description>&lt;p>This document presents a description of the European Rail Traffic Management System (ERTMS) case study. ERTMS is a system of standards for management and interoperation of signalling for railways by the European Union (EU). The case study focuses on the ERTMS Level 3 Hybrid principle, which accommodates different types of trains including ERTMS trains equiped with the Train Integrity Monitoring System (TIMS), ERTMS trains without TIMS, and non-ERTMS trains.&lt;/p></description></item><item><title>The Hemodialysis Machine (ABZ 2016)</title><link>/case-study/abz16/</link><pubDate>Thu, 01 Jan 1970 00:33:36 +0000</pubDate><guid>/case-study/abz16/</guid><description>&lt;p>This documents presents a description of a case study concerning the control of a hemodialysis (HD) machine.
+&lt;/ul></description></item><item><title>ABZ 2012 (Pisa, Italy)</title><link>/2012/</link><pubDate>Tue, 19 Jun 2012 00:00:00 +0000</pubDate><guid>/2012/</guid><description/></item><item><title>ABZ 2010 (Orford, Canada)</title><link>/2010/</link><pubDate>Tue, 01 Jun 2010 00:00:00 +0000</pubDate><guid>/2010/</guid><description/></item><item><title>ABZ 2008 (London, UK)</title><link>/2008/</link><pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate><guid>/2008/</guid><description/></item><item><title>AMAN Case Study (ABZ 2020)</title><link>/case-study/abz23/</link><pubDate>Thu, 01 Jan 1970 00:33:43 +0000</pubDate><guid>/case-study/abz23/</guid><description>&lt;p>This document presents the case study for ABZ 2023 conference. The case study introduces a safety critical interactive system called
+AMAN (Arrival MANager) which is a partly-autonomous scheduler of landing sequences of aircraft in airports. This interactive systems interleaves Air Traffic Controllers activities with automation in AMAN. While some AMAN systems are currently deployed in airports, we consider here only a subset of functions which represent a challenge in modelling and verification.&lt;/p></description></item><item><title>Adaptive Exterior Light and Speed Control System (ABZ 2020)</title><link>/case-study/abz20/</link><pubDate>Thu, 01 Jan 1970 00:33:40 +0000</pubDate><guid>/case-study/abz20/</guid><description>&lt;p>This document describes two systems from the automotive domain: an adaptive exterior light system (ELS) and a speed control system (SCS). This specification is based on the SPES XT running example. Besides their general architectures, the requirements of the software based controllers are described. Both systems are only loosely coupled, which makes it possible to handle them independently&lt;/p></description></item><item><title>The Hybrid ERTMS/ETCS Level 3 (ABZ 2018)</title><link>/case-study/abz18/</link><pubDate>Thu, 01 Jan 1970 00:33:38 +0000</pubDate><guid>/case-study/abz18/</guid><description>&lt;p>This document presents a description of the European Rail Traffic Management System (ERTMS) case study. ERTMS is a system of standards for management and interoperation of signalling for railways by the European Union (EU). The case study focuses on the ERTMS Level 3 Hybrid principle, which accommodates different types of trains including ERTMS trains equiped with the Train Integrity Monitoring System (TIMS), ERTMS trains without TIMS, and non-ERTMS trains.&lt;/p></description></item><item><title>The Hemodialysis Machine (ABZ 2016)</title><link>/case-study/abz16/</link><pubDate>Thu, 01 Jan 1970 00:33:36 +0000</pubDate><guid>/case-study/abz16/</guid><description>&lt;p>This documents presents a description of a case study concerning the control of a hemodialysis (HD) machine.
 It provides an overview of the requirements and the design of an HD machine including a sketch of the machine’s functionality, related safety conditions, and a top-level system architectural description.&lt;/p></description></item><item><title>The Landing Gear System (ABZ 2014)</title><link>/case-study/abz14/</link><pubDate>Thu, 01 Jan 1970 00:33:34 +0000</pubDate><guid>/case-study/abz14/</guid><description>&lt;p>This document presents a landing gear system. It describes the system and provides some of its requirements. We propose this case study as a benchmark for techniques and tools dedicated to the verification of behavioral properties of systems.&lt;/p></description></item></channel></rss>
