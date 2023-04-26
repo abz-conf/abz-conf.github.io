@@ -1,0 +1,46 @@
+{{- define "main" -}}
+
+<div class="universal-wrapper">
+  <h1>Keynotes</h1>
+
+  {{ $abstractnr := 0 }}
+  {{ range (where .Site.Pages "Section" "event") }}
+    {{ $link := .Permalink }}
+    {{ $target := "" }}
+    {{ with .Page.Params.external_link }}
+      {{ $link = .Page.Params.external_link }}
+      {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+    {{ end }}
+    <div>
+      {{ if .Params.keynotes }}
+      <h2><a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ .Title }}</a></h2>
+      <div class="row">
+        <div class="col-md-10">
+          {{ range .Params.keynotes }}
+          <div class="row">
+            <ul>
+              <div class="col-auto-md speaker">{{ .speaker }}{{ if .affiliation }} ({{ .affiliation }}){{ end }}
+                {{ if .abstract }}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a data-toggle="collapse" href="#abstract{{ $abstractnr }}" aria-expanded="false" aria-controls="abstract">abstract</a>{{ end }}
+              </div>
+              <div class="col-auto"><strong>{{ .title }}</strong></div>
+              {{ if .abstract }}
+              <div class="col-auto collapse" id="abstract{{ $abstractnr }}">{{ $abstractnr = add $abstractnr 1 }}
+                <div class="card card-body">
+                  {{ .abstract }}
+                </div>
+              </div>
+              {{ end }}
+            </ul>
+          </div>
+          {{end}}
+        </div>
+      </div>
+      <div class="d-md-none space-below"></div>
+      {{ end }}
+    </div>
+  {{ end }}
+
+  {{ partial "pagination" . }}
+</div>
+
+{{- end -}}
