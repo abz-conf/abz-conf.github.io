@@ -48,3 +48,15 @@
 #   name = "Site Notice"
 #   url = "site/notice"
 #   weight = 100
+
+[[context]]
+  name = "References"
+  url = "method/asm"
+  identifier = "bibtex-references"
+  weight = 1
+
+# [[context]]
+#   name = "Sub-Menu Entry"
+#   url = "path/of/page"
+#   identifier = "relative/or/absolute/path/to/other/page"
+#   weight = 2
