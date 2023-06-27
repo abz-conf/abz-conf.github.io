@@ -37,7 +37,7 @@ crossref = {DBLP:conf/asm/2018}
 &lt;li>&lt;strong>Resources and tools:&lt;/strong>
 Rodin, ProB&lt;/li>
 &lt;li>&lt;strong>Website:&lt;/strong>
-&lt;a href="http://info.usherbrooke.ca/mfrappier/abz2018-ERTMS-Case-Study">http://info.usherbrooke.ca/mfrappier/abz2018-ERTMS-Case-Study&lt;/a>&lt;/li>
+&lt;a href="http://info.usherbrooke.ca/mfrappier/abz2018-ERTMS-Case-Study" target="_blank" rel="noopener">http://info.usherbrooke.ca/mfrappier/abz2018-ERTMS-Case-Study&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;p>For more information, please contact the &lt;a href ="mailto:amel.mammar@telecom-sudparis.eu;laleau@u-pec.fr">authors&lt;/a>&lt;/p></description></item><item><title>Modeling the Hybrid ERTMS/ETCS Level 3 Standard Using a Formal Requirements Engineering Approach</title><link>/publication/fotso2018abz/</link><pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate><guid>/publication/fotso2018abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>This paper presents a specification of the hybrid ERTMS/ETCS level 3 standard in the framework of the case study proposed for the 6th edition of the ABZ conference. The specification is based on the method and tools, developed in the ANR FORMOSE project, for the modeling and formal verification of critical and complex system requirements. The requirements are specified with SysML/KAOS goal diagrams and are automatically translated into B System specifications, in order to obtain the architecture of the formal specification. Domain properties are specified by ontologies with the SysML/KAOS domain modeling language, based on OWL and PLIB. Their automatic translation completes the structural part of the formal specification. The only part of the specification, which must be manually completed, is the body of events. The construction is incremental, based on the refinement mechanisms existing within the involved methods. The formal specification of the case study is composed of seven refinement levels and all the proofs have been discharged with the Rodin prover.&lt;/p>
@@ -88,7 +88,7 @@ Openflexo, Rodin, The SysMLKaos Domain Modeling Tool&lt;/li>
 &lt;li>&lt;strong>Required OS:&lt;/strong>
 Linux, Mac, Windows&lt;/li>
 &lt;li>&lt;strong>Website:&lt;/strong>
-&lt;a href="https://github.com/stuenofotso/SysML_KAOS_Domain_Model_Parser/tree/master/ABZ18_ERTMS">https://github.com/stuenofotso/SysML_KAOS_Domain_Model_Parser/tree/master/ABZ18_ERTMS&lt;/a>&lt;/li>
+&lt;a href="https://github.com/stuenofotso/SysML_KAOS_Domain_Model_Parser/tree/master/ABZ18_ERTMS" target="_blank" rel="noopener">https://github.com/stuenofotso/SysML_KAOS_Domain_Model_Parser/tree/master/ABZ18_ERTMS&lt;/a>&lt;/li>
 &lt;li>&lt;strong>Remarks and recommendation:&lt;/strong>
 The developed model focuses on formal verification of the main requirements of the protocol. Its main objective is to assess the SysML/KAOS method and to compare it with direct specification approaches using only plain Event-B.&lt;/li>
 &lt;/ul></description></item></channel></rss>
