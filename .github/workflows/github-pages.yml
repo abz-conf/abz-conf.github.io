@@ -34,9 +34,9 @@ jobs:
         submodules: true
     - name: Setup
       run: |
-        wget https://github.com/gohugoio/hugo/releases/download/v0.83.1/hugo_extended_0.83.1_Linux-64bit.tar.gz
-        sudo mv hugo_extended_0.83.1_Linux-64bit.tar.gz /usr/bin/
-        (cd /usr/bin; sudo tar xvf hugo_extended_0.83.1_Linux-64bit.tar.gz)
+        wget https://github.com/gohugoio/hugo/releases/download/v0.92.2/hugo_extended_0.92.2_Linux-64bit.tar.gz
+        sudo mv hugo_extended_0.92.2_Linux-64bit.tar.gz /usr/bin/
+        (cd /usr/bin; sudo tar xvf hugo_extended_0.92.2_Linux-64bit.tar.gz)
         hugo version
     - name: Build
       run: |

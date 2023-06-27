@@ -48,3 +48,72 @@
 #   name = "Site Notice"
 #   url = "site/notice"
 #   weight = 100
+
+[[conference]]
+  name = "Home"
+  url = "."
+  weight = 10
+
+[[conference]]
+  name = "Keynotes"
+  url = "keynotes"
+  weight = 20
+
+[[conference]]
+  name = "Program"
+  url = "program"
+  weight = 30
+
+[[conference]]
+  name = "Workshop & Tutorial"
+  url = "workshop"
+  weight = 40
+
+[[conference]]
+  name = "Participation"
+  url = "participation"
+  weight = 50
+
+[[conference]]
+  identifier = "Calls"
+  name = "Calls"
+  url = "workshop"
+  weight = 60
+
+[[conference]]
+  parent = "Calls"
+  name = "Call for Papers"
+  url = "callforpapers"
+  weight = 1
+
+[[conference]]
+  parent = "Calls"
+  name = "Doctoral Symposium"
+  url = "doctoralsymposium"
+  weight = 2
+
+[[conference]]
+  parent = "Calls"
+  name = "Case Study"
+  url = "casestudy"
+  weight = 3
+
+[[conference]]
+  name = "Important Dates"
+  url = "importantdates"
+  weight = 70
+
+[[conference]]
+  name = "Team"
+  url = "team"
+  weight = 80
+
+[[conference]]
+  name = "ABZ Series"
+  url = "../../events"
+  weight = 90
+
+[[skyline]]
+  name = "bergamo"
+  url = "../.."
+  weight = 100

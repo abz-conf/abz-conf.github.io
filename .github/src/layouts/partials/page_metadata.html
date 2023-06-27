@@ -14,7 +14,7 @@
   {{ end }}
 
   {{ if not (in (slice "talk" "page" "project") $page.Type) }}
-  <span class="article-date">
+  <!--<span class="article-date">
     {{ $date := $page.Lastmod.Format site.Params.date_format }}
     {{ if eq $page.Type "publication" }}
       {{ $date = $page.Date.Format (site.Params.publications.date_format | default "January, 2006") }}
@@ -24,7 +24,7 @@
       {{ end }}
     {{ end }}
     {{ $date }}
-  </span>
+  </span>-->
   {{ end }}
 
   {{ if and (eq $is_list 1) (eq $page.Type "publication") }}
