@@ -20,7 +20,7 @@ skyline:
 
 ### Program Chairs
 
-* [Elvinia Riccobene, University of Milano, Milano, Italy](https://riccobene.di.unimi.it/)
+* [Elvinia Riccobene, Università degli Studi di Milano, Milano, Italy](https://riccobene.di.unimi.it/)
 * [Michael Leuschel, Heinrich-Heine-Universität, Düsseldorf, Germany](https://www.cs.hhu.de/lehrstuehle-und-arbeitsgruppen/softwaretechnik-und-programmiersprachen/unser-team/team/leuschel)
 
 ### Case Study Chairs
@@ -31,7 +31,7 @@ skyline:
 ### Workshop/Tutorial Chairs
 
 * [Claudio Menghi, University of Bergamo, Bergamo, Italy](https://claudiomenghi.github.io/)
-* [Alexander Raschke,Ulm University, Ulm, Germany](https://www.uni-ulm.de/in/sp/team/dr-alexander-raschke/)
+* [Alexander Raschke, Ulm University, Ulm, Germany](https://www.uni-ulm.de/in/sp/team/dr-alexander-raschke/)
 
 ### Sponsor Chair
 
@@ -40,7 +40,7 @@ skyline:
 ### Doctoral Symposium Chairs
 
 * [Philipp Körner, Heinrich-Heine-Universität, Düsseldorf, Germany](https://www.cs.hhu.de/lehrstuehle-und-arbeitsgruppen/softwaretechnik-und-programmiersprachen/unser-team/team/koerner)
-* [Chiara Braghin, University of Milano, Milano, Italy](https://www.unimi.it/it/ugov/person/chiara-braghin)
+* [Chiara Braghin, Università degli Studi di Milano, Milano, Italy](https://www.unimi.it/it/ugov/person/chiara-braghin)
 
 ### Social/Publicity Chair
 
@@ -51,7 +51,7 @@ skyline:
 ### Web Chairs
 
 * [Andrea Bombarda, University of Bergamo, Bergamo, Italy](https://cs.unibg.it/bombarda/)
-* [Mario Lilli, University of Milano, Milano, Italy](https://scholar.google.com/citations?user=twr3edgAAAAJ&hl=en)
+* [Mario Lilli, Università degli Studi di Milano, Milano, Italy](https://scholar.google.com/citations?user=twr3edgAAAAJ&hl=en)
 
 ### Local Chair
 
