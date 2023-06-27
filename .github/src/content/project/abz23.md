@@ -1,5 +1,5 @@
 ---
-title: "AMAN Case Study (ABZ 2020)"
+title: "AMAN Case Study (ABZ 2023)"
 
 date: 2023
 
