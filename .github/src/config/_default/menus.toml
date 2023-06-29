@@ -71,7 +71,7 @@
 
 [[conference]]
   name = "Attending"
-  url = "attending"
+  url = ""
   weight = 50
 
 [[conference]]
@@ -89,7 +89,7 @@
 [[conference]]
   identifier = "Calls"
   name = "Calls"
-  url = ""
+  url = "calls"
   weight = 60
 
 [[conference]]
