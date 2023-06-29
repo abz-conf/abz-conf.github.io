@@ -70,14 +70,26 @@
   weight = 40
 
 [[conference]]
-  name = "Participation"
-  url = "participation"
+  name = "Attending"
+  url = "attending"
+  weight = 50
+
+[[conference]]
+  parent = "Attending"
+  name = "Venue"
+  url = "venue"
+  weight = 60
+
+[[conference]]
+  parent = "Attending"
+  name = "Registration"
+  url = "registration"
   weight = 50
 
 [[conference]]
   identifier = "Calls"
   name = "Calls"
-  url = "workshop"
+  url = ""
   weight = 60
 
 [[conference]]
