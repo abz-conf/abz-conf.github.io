@@ -7,7 +7,7 @@
 
   {{ partial "search" . }}
 
-  {{ if strings.Contains .URL "/site/" }}
+  {{ if (findRE "site/.{4}/" .URL) }}
   {{ partial "navbar_conference" . }}
   {{ else }}
   {{ partial "navbar" . }}
