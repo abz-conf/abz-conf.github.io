@@ -45,7 +45,7 @@ skyline:
 ### Social/Publicity Chair
 
 * [Atif Mashkoor, JKU Linz, Linz, Austria](https://www.jku.at/en/institute-of-software-systems-engineering/about-us/team/atif-mashkoor/)
-* [Fabian Vu, Heinrich-Heine-Universität, Düsseldorf, Germany](https://dblp.org/pid/253/4029.html)
+* [Fabian Vu, Heinrich-Heine-Universität, Düsseldorf, Germany](https://www.researchgate.net/profile/Fabian-Vul)
 * [TBA]()
 
 ### Web Chairs
