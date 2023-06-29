@@ -1,5 +1,10 @@
 {{- define "main" -}}
 
+{{ $twitter := .Params.twitter }}
+{{ $twitter_id     := $twitter.id }}
+{{ $twitter_width  := $twitter.width  | default "400" }}
+{{ $twitter_height := $twitter.height | default "650" }}
+
 <article class="article">
 
   {{ partial "page_header" . }}
@@ -7,12 +12,35 @@
   <!-- div class="article-container" -->
   <div class="universal-wrapper">
 
-    <div class="article-style">
-      {{ .Content }}
+    {{ if .Params.use_twitter }}
+      <div class="row">
+        <div class="col-md-8">
+          {{ .Content }}
+        </div>
+        <div class="col-md-4">
+          <div style="text-align: center;">
+      <meta name="twitter:dnt" content="on">
+      <a class="twitter-timeline"
+         data-dnt="true"
+         data-theme="light"
+         data-width={{ $twitter_width }}
+         data-height={{ $twitter_height }}
+         data-chrome="noheader nofooter transparent noscrollbar"
+         href="https://twitter.com/{{ $twitter_id }}">Tweets by @{{ $twitter_id }}
+      </a>
+      <script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+      <!-- script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script -->
+          </div>
+        </div>
     </div>
+    
+    {{ else }}
+      <div class="article-style">
+        {{ .Content }}
+      </div>
 
-    {{ partial "page_footer" . }}
-
+      {{ partial "page_footer" . }}
+    {{end}}
   </div>
 </article>
 
