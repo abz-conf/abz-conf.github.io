@@ -33,7 +33,9 @@ We seek PhD students who have either determined the direction of their thesis re
 
 ### Guidelines
 
-Submissions of 4-pages presenting your PhD research plan and progress in the Springer [LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) are requested. Preferably, submissions should include
+* **Contribution to doctoral symposium**: This is an excellent opportunity for PhD students to present their ongoing work and receive valuable feedback from the ABZ community. A paper of no more than *4 pages (excluding references)* in [LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) is expected and will be reviewed.
+
+Preferably, submissions should include
 
 - Title of the paper and the author name
 - Problem statement, motivations, and progress
