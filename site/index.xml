@@ -4,27 +4,22 @@
 &lt;h3 id="news">News&lt;/h3>
 &lt;p>TBA&lt;/p>
 &lt;h3 id="sponsors">Sponsors&lt;/h3>
-&lt;p>TBA&lt;/p></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/callforpapers/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/callforpapers/</guid><description>&lt;h2 id="call-for-papers">Call for papers&lt;/h2>
+&lt;p>TBA&lt;/p></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/calls/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/calls/</guid><description>&lt;h2 id="call-for-papers">Call for papers&lt;/h2>
 &lt;p>The ABZ conference is dedicated to the cross-fertilization of state-based and machine-based formal methods, like Abstract State Machines (ASM), Alloy, B, TLA, VDM and Z, that share a common conceptual foundation and are widely used in both academia and industry for the design and analysis of hardware and software systems. The conference aims for a vital exchange of knowledge and experience among the research communities around different formal methods.&lt;/p>
 &lt;p>The name ABZ goes back to the first conference in London in 2008, where the ASM, B and Z conference series were merged into a joint event. In the following years other formal methods were added, e.g. Alloy in 2010 (Orford, Canada), VDM in 2012 (Pisa, Italy), and TLA + in 2014 (Toulouse, France). After the also successful 2016 conferences in Linz, Austria and 2018 in Southampton, UK, it was decided to name the conference &amp;ldquo;ABZ: International Conference on Rigorous State Based Methods&amp;rdquo;, to stress the openness for further state-based formal methods. We hope to continue many fruitful discussions between representatives of the individual methods in the past, which will bring us closer to the common goal of this research community: the creation of reliable and safe software.&lt;/p>
 &lt;p>ABZ 2024 will have a main conference track, a case study track, a doctoral symposium, tutorials, and workshops.&lt;/p>
 &lt;ul>
-&lt;li>&lt;strong>Full research papers&lt;/strong>: Full papers of not more than &lt;em>16 pages (excluding references)&lt;/em> in
-&lt;a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" target="_blank" rel="noopener">LNCS format&lt;/a>, which have to be original, unpublished and not submitted elsewhere.&lt;/li>
-&lt;li>&lt;strong>Short presentations&lt;/strong>: Short presentations of work in progress, and tool demonstrations: This is an excellent opportunity to present and validate a work in progress. An extended abstract of not more than &lt;em>6 pages (excluding references)&lt;/em> in
-&lt;a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" target="_blank" rel="noopener">LNCS format&lt;/a> is expected and will be reviewed.&lt;/li>
-&lt;li>&lt;strong>Application in industry papers&lt;/strong>: Reporting on work or experiences on the application of state based formal methods in industry. An extended abstract of not more than &lt;em>8 pages (excluding references)&lt;/em> in
-&lt;a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" target="_blank" rel="noopener">LNCS format&lt;/a> is expected and will be reviewed. It is also an interesting option for industrial practitioners who sometimes face too many constraints to prepare a full paper.&lt;/li>
-&lt;li>&lt;strong>Journal-First papers&lt;/strong>: Journal-First papers (&lt;em>6 pages excluding references&lt;/em>) are summarizing recently published papers in high-quality journals The aim of journal-first papers is to further enrich the program of ABZ and to provide more visibility to an already published journal papers in the scope of the ABZ conference.&lt;/li>
-&lt;li>&lt;strong>Answers to case study papers&lt;/strong>: Full papers of not more than &lt;em>16 pages (excluding references)&lt;/em> in
-&lt;a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" target="_blank" rel="noopener">LNCS format&lt;/a> in LNCS format reporting on the experiments conducted with any of the state based techniques in the scope of ABZ 2023.&lt;/li>
-&lt;li>&lt;strong>Contribution to doctoral symposium&lt;/strong>: This is an excellent opportunity for PhD students to present their ongoing work and receive valuable feedback from the ABZ community. Please submit a short paper of no more than &lt;em>4 pages (excluding references)&lt;/em> in
-&lt;a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" target="_blank" rel="noopener">LNCS format&lt;/a>.&lt;/li>
+&lt;li>
+&lt;a href="../maintrack">Main Conference&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="../casestudy">Case Study&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="../doctoralsymposium">Doctoral Symposium&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="../tutorialworkshops">Tutorials and Workshops&lt;/a>&lt;/li>
 &lt;/ul>
+&lt;p>Accepted papers will appear in the Springer LNCS proceedings.&lt;/p>
 &lt;div>&lt;img src="/img/Springer_Logo.jpg">&lt;img src="/img/LNCS-Logo.jpg">&lt;/div>
-&lt;p>Accepted papers will appear in the Springer LNCS proceedings. For deadlines for the different kinds of contributions see below.&lt;/p>
-&lt;h2 id="main-abz-track">Main ABZ Track&lt;/h2>
-&lt;p>Contributions are solicited on all aspects of the theory and applications of ASMs, Alloy, B, TLA, VDM, Z and other state-based rigour approaches in software/hardware engineering, including the development of tools and industrial applications. The program spans from theoretical and methodological foundations to practical applications, emphasizing system engineering methods and tools that are distinguished by mathematical rigor and have proved to be industrially viable. The main goal of the conference is to contribute to the integration of accurate state- and machine-based system development methods, clarifying their commonalities and differences to better understand how to combine different approaches for accomplishing the various tasks in modeling, experimental validation, mathematical verification of reliable high-quality hardware/software systems. Although organized to host several formal methods in a single event, editorial control of the joint conference is vested in one integrated program committee.&lt;/p>
 &lt;h3 id="submission-process">Submission Process&lt;/h3>
 &lt;p>Authors should consult
 &lt;a href="ftp://ftp.springernature.com/cs-proceeding/svproc/guidelines/Springer_Guidelines_for_Authors_of_Proceedings.pdf">Springer&amp;rsquo;s authors' guidelines&lt;/a> and use their proceedings templates, either for
@@ -33,19 +28,24 @@
 &lt;a href="https://www.springer.com/gp/authors-editors/orcid" target="_blank" rel="noopener">ORCIDs&lt;/a> in their papers. In addition, the corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign a Consent-to-Publish form. The corresponding author signing the copyright form should match the corresponding author marked on the paper. Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made.&lt;/p>
 &lt;p>Authors interested in contributing to ABZ 2024 in Open Access or Open Choice should refer to the corresponding
 &lt;a href="https://www.springer.com/gp/computer-science/lncs/open-access-publishing-in-computer-proceedings" target="_blank" rel="noopener">Springer webpage&lt;/a>.&lt;/p>
-&lt;p class="text-center">&lt;a href="https://easychair.org/conferences?conf=abz2024" class="btn btn-primary btn-lg" role="button" target="_blank">Submit contribution&lt;br>&lt;br>&lt;br>&lt;small>via EasyChair&lt;/small>&lt;/a>&lt;/p>
-&lt;h2 id="case-study-track">Case Study Track&lt;/h2>
+&lt;p class="text-center">&lt;a href="https://easychair.org/conferences?conf=abz2024" class="btn btn-primary btn-lg" role="button" target="_blank">Submit contribution&lt;br>&lt;br>&lt;br>&lt;small>via EasyChair&lt;/small>&lt;/a>&lt;/p></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/casestudy/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/casestudy/</guid><description>&lt;h2 id="case-study---call-for-papers">Case Study - Call for Papers&lt;/h2>
 &lt;p>As successfully practiced since ABZ 2014, the 10th edition of ABZ will again include special sessions dedicated to an industrial case study.&lt;/p>
-&lt;p>See
-&lt;a href="../casestudy">Case Study&lt;/a> for a detailed description of the current case study.&lt;/p>
-&lt;h2 id="doctoral-symposium">Doctoral Symposium&lt;/h2>
-&lt;p>This year the ABZ will include a doctoral symposium. PhD students are encouraged to report on their ongoing work or research plans and receive a valuable feedback from the ABZ community. The papers are not peer reviewed, but checked by a small PC. Accepted papers are also included in the ABZ proceedings. More details can be found
-&lt;a href="../doctoralsymposium">here&lt;/a>.&lt;/p>
-&lt;h2 id="workshop-and-tutorial-proposals">Workshop and Tutorial Proposals&lt;/h2>
-&lt;p>Workshops and tutorials will be associated with the main event ABZ. Proposals are solicited in areas related to the conference topics.&lt;/p>
-&lt;p>For more details see
-&lt;a href="../workshop">Workshops&lt;/a>&lt;/p></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/casestudy/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/casestudy/</guid><description>&lt;h2 id="case-study">Case Study&lt;/h2>
-&lt;p>TBA&lt;/p></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/doctoralsymposium/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/doctoralsymposium/</guid><description>&lt;h2 id="doctoral-symposium---call-for-papers">Doctoral Symposium - Call for Papers&lt;/h2>
+&lt;h3 id="guidelines">Guidelines&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Case study papers&lt;/strong>: Full papers reporting on the experiments conducted with any of the state based techniques in the scope of ABZ 2024 case study. A paper of no more than &lt;em>16 pages (excluding references)&lt;/em> in
+&lt;a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" target="_blank" rel="noopener">LNCS format&lt;/a> is expected and will be reviewed.&lt;/li>
+&lt;/ul>
+&lt;div>&lt;img src="/img/Springer_Logo.jpg">&lt;img src="/img/LNCS-Logo.jpg">&lt;/div>
+&lt;p>Accepted papers will appear in the Springer LNCS proceedings.&lt;/p>
+&lt;h3 id="submission-process">Submission Process&lt;/h3>
+&lt;p>Authors should consult
+&lt;a href="ftp://ftp.springernature.com/cs-proceeding/svproc/guidelines/Springer_Guidelines_for_Authors_of_Proceedings.pdf">Springer&amp;rsquo;s authors' guidelines&lt;/a> and use their proceedings templates, either for
+&lt;a href="ftp://ftp.springernature.com/cs-proceeding/llncs/llncs2e.zip">LaTeX&lt;/a> or for
+&lt;a href="ftp://ftp.springernature.com/cs-proceeding/llncs/word/splnproc1703.zip[">Word&lt;/a>, for the preparation of their papers. Springer encourages authors to include their
+&lt;a href="https://www.springer.com/gp/authors-editors/orcid" target="_blank" rel="noopener">ORCIDs&lt;/a> in their papers. In addition, the corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign a Consent-to-Publish form. The corresponding author signing the copyright form should match the corresponding author marked on the paper. Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made.&lt;/p>
+&lt;p>Authors interested in contributing to ABZ 2024 in Open Access or Open Choice should refer to the corresponding
+&lt;a href="https://www.springer.com/gp/computer-science/lncs/open-access-publishing-in-computer-proceedings" target="_blank" rel="noopener">Springer webpage&lt;/a>.&lt;/p>
+&lt;p class="text-center">&lt;a href="https://easychair.org/conferences?conf=abz2024" class="btn btn-primary btn-lg" role="button" target="_blank">Submit contribution&lt;br>&lt;br>&lt;br>&lt;small>via EasyChair&lt;/small>&lt;/a>&lt;/p></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/doctoralsymposium/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/doctoralsymposium/</guid><description>&lt;h2 id="doctoral-symposium---call-for-papers">Doctoral Symposium - Call for Papers&lt;/h2>
 &lt;p>The ABZ PhD Symposium is an international forum for PhD students studying all areas related to state based formal methods for software and system development.&lt;/p>
 &lt;p>This forum is a good opportunity for PhD students to&lt;/p>
 &lt;ul>
@@ -57,8 +57,11 @@
 &lt;h2 id="submissions">Submissions&lt;/h2>
 &lt;p>We seek PhD students who have either determined the direction of their thesis research (probably with some preliminary results already published), but who still have substantial work to complete, or PhD student participants who are in the early stages of their dissertations. It is not required to have a paper accepted for the main conference in order to participate to the ABZ 2024 Doctoral Symposium.&lt;/p>
 &lt;h3 id="guidelines">Guidelines&lt;/h3>
-&lt;p>Submissions of 4-pages presenting your PhD research plan and progress in the Springer
-&lt;a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" target="_blank" rel="noopener">LNCS format&lt;/a> are requested. Preferably, submissions should include&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Contribution to doctoral symposium&lt;/strong>: This is an excellent opportunity for PhD students to present their ongoing work and receive valuable feedback from the ABZ community. A paper of no more than &lt;em>4 pages (excluding references)&lt;/em> in
+&lt;a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" target="_blank" rel="noopener">LNCS format&lt;/a> is expected and will be reviewed.&lt;/li>
+&lt;/ul>
+&lt;p>Preferably, submissions should include&lt;/p>
 &lt;ul>
 &lt;li>Title of the paper and the author name&lt;/li>
 &lt;li>Problem statement, motivations, and progress&lt;/li>
@@ -201,7 +204,30 @@
 &lt;/tr>
 &lt;/tbody>
 &lt;/table></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/keynotes/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/keynotes/</guid><description>&lt;h2 id="keynotes">Keynotes&lt;/h2>
-&lt;p>TBA&lt;/p></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/program/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/program/</guid><description>&lt;h2 id="program">Program&lt;/h2>
+&lt;p>TBA&lt;/p></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/maintrack/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/maintrack/</guid><description>&lt;h2 id="main-abz-track---call-for-papers">Main ABZ Track - Call for Papers&lt;/h2>
+&lt;p>Contributions are solicited on all aspects of the theory and applications of ASMs, Alloy, B, TLA, VDM, Z and other state-based rigour approaches in software/hardware engineering, including the development of tools and industrial applications. The program spans from theoretical and methodological foundations to practical applications, emphasizing system engineering methods and tools that are distinguished by mathematical rigor and have proved to be industrially viable. The main goal of the conference is to contribute to the integration of accurate state- and machine-based system development methods, clarifying their commonalities and differences to better understand how to combine different approaches for accomplishing the various tasks in modeling, experimental validation, mathematical verification of reliable high-quality hardware/software systems. Although organized to host several formal methods in a single event, editorial control of the joint conference is vested in one integrated program committee.&lt;/p>
+&lt;h3 id="guidelines">Guidelines&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Full research papers&lt;/strong>: Full research papers which have to be original, unpublished and not submitted elsewhere. A paper of no more than &lt;em>16 pages (excluding references)&lt;/em> in
+&lt;a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" target="_blank" rel="noopener">LNCS format&lt;/a> is expected and will be reviewed.&lt;/li>
+&lt;li>&lt;strong>Short papers&lt;/strong>: Short papers to present and validate a work in progress or tool demonstrations. A paper of no more than &lt;em>6 pages (excluding references)&lt;/em> in
+&lt;a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" target="_blank" rel="noopener">LNCS format&lt;/a> is expected and will be reviewed.&lt;/li>
+&lt;li>&lt;strong>Application in industry papers&lt;/strong>: Reporting on work or experiences on the application of state based formal methods in industry. A paper of no more than &lt;em>8 pages (excluding references)&lt;/em> in
+&lt;a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" target="_blank" rel="noopener">LNCS format&lt;/a> is expected and will be reviewed. It is also an interesting option for industrial practitioners who sometimes face too many constraints to prepare a full paper.&lt;/li>
+&lt;li>&lt;strong>Journal-First papers&lt;/strong>: Journal-First paper summarize recently published papers in high-quality journals. The aim of journal-first papers is to further enrich the program of ABZ and to provide more visibility to an already published journal papers in the scope of the ABZ conference. An extended abstract of no more than &lt;em>6 pages (excluding references)&lt;/em> in
+&lt;a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" target="_blank" rel="noopener">LNCS format&lt;/a> is expected and will be reviewed.&lt;/li>
+&lt;/ul>
+&lt;div>&lt;img src="/img/Springer_Logo.jpg">&lt;img src="/img/LNCS-Logo.jpg">&lt;/div>
+&lt;p>Accepted papers will appear in the Springer LNCS proceedings.&lt;/p>
+&lt;h3 id="submission-process">Submission Process&lt;/h3>
+&lt;p>Authors should consult
+&lt;a href="ftp://ftp.springernature.com/cs-proceeding/svproc/guidelines/Springer_Guidelines_for_Authors_of_Proceedings.pdf">Springer&amp;rsquo;s authors' guidelines&lt;/a> and use their proceedings templates, either for
+&lt;a href="ftp://ftp.springernature.com/cs-proceeding/llncs/llncs2e.zip">LaTeX&lt;/a> or for
+&lt;a href="ftp://ftp.springernature.com/cs-proceeding/llncs/word/splnproc1703.zip[">Word&lt;/a>, for the preparation of their papers. Springer encourages authors to include their
+&lt;a href="https://www.springer.com/gp/authors-editors/orcid" target="_blank" rel="noopener">ORCIDs&lt;/a> in their papers. In addition, the corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign a Consent-to-Publish form. The corresponding author signing the copyright form should match the corresponding author marked on the paper. Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made.&lt;/p>
+&lt;p>Authors interested in contributing to ABZ 2024 in Open Access or Open Choice should refer to the corresponding
+&lt;a href="https://www.springer.com/gp/computer-science/lncs/open-access-publishing-in-computer-proceedings" target="_blank" rel="noopener">Springer webpage&lt;/a>.&lt;/p>
+&lt;p class="text-center">&lt;a href="https://easychair.org/conferences?conf=abz2024" class="btn btn-primary btn-lg" role="button" target="_blank">Submit contribution&lt;br>&lt;br>&lt;br>&lt;small>via EasyChair&lt;/small>&lt;/a>&lt;/p></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/program/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/program/</guid><description>&lt;h2 id="program">Program&lt;/h2>
 &lt;p>TBA&lt;/p></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/registration/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/registration/</guid><description>&lt;h2 id="participation">Participation&lt;/h2>
 &lt;p>TBA&lt;/p></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/team/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/team/</guid><description>&lt;h2 id="organization">Organization&lt;/h2>
 &lt;h3 id="program-chairs">Program Chairs&lt;/h3>
@@ -243,8 +269,6 @@
 &lt;a href="https://www.jku.at/en/institute-of-software-systems-engineering/about-us/team/atif-mashkoor/" target="_blank" rel="noopener">Atif Mashkoor, JKU Linz, Linz, Austria&lt;/a>&lt;/li>
 &lt;li>
 &lt;a href="https://www.researchgate.net/profile/Fabian-Vul" target="_blank" rel="noopener">Fabian Vu, Heinrich-Heine-Universität, Düsseldorf, Germany&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="">TBA&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h3 id="web-chairs">Web Chairs&lt;/h3>
 &lt;ul>
@@ -264,6 +288,7 @@
 &lt;a href="https://cs.unibg.it/bonfanti/" target="_blank" rel="noopener">Silvia Bonfanti, University of Bergamo, Bergamo, Italy&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="program-committee">Program Committee&lt;/h2>
+&lt;p>TBA&lt;/p></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/tutorialworkshops/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/tutorialworkshops/</guid><description>&lt;h2 id="call-for-workshops-and-tutorials">Call for Workshops and Tutorials&lt;/h2>
 &lt;p>TBA&lt;/p></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/venue/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/venue/</guid><description>&lt;h2 id="venue-university-of-bergamo">Venue: University of Bergamo&lt;/h2>
 &lt;h3 id="location">Location&lt;/h3>
 &lt;p>Piazzale S. Agostino, 2 &lt;br>
