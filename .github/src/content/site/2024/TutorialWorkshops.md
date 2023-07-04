@@ -36,3 +36,19 @@ The proposal should include the following information:
   - Workshop format (e.g., paper presentations, keynotes, breakout sessions, panel-like discussions) and plans for generating discussions
   - Duration - half day or one day 
   - Special services, logistic and/or equipment constraints
+ 
+### Tutorial Proposal Submissions
+
+The proposal should include the following information:
+
+* Tutorial title
+* Contact information of tutorial presenter(s), including name, affiliation, email
+* Tutorial summary for ABZ 2024 website (if tutorial is accepted)
+* Description of the tutorial
+* Format
+  - How tutorial will be conducted (e.g., lecture, hands-on exercises, facilitated group discussion, group activities, role playing, games)
+  - Duration - half day or one day
+  - Special services, logistic and/or equipment constraints
+
+### Submission Process
+Submissions must follow the [LNCS style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines). All proposals should be submitted before the submission deadline (see [here](../importantdates)) using the online submission site: [TBA]()
