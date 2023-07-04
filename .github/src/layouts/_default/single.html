@@ -22,26 +22,7 @@
           <meta name="card:dnt" content="on">
           <div style="text-align: center; cursor: pointer;" class="card" >
               <div class="card-body" >
-                {{ if  site.Params.sharing }}
-                <div class="share-box" aria-hidden="false">
-                  <ul class="share">
-                    {{ range where site.Data.page_sharer.conference "enable" true }}
-                      {{ $pack := or .icon_pack "fas" }}
-                      {{ $pack_prefix := $pack }}
-                      {{ if in (slice "fab" "fas" "far" "fal") $pack }}
-                        {{ $pack_prefix = "fa" }}
-                      {{ end }}
-                      {{ $link := replace .url "{url}" ($.Permalink | htmlEscape) }}
-                      {{ $link = replace $link "{title}" ($.Title | htmlEscape) }}
-                      <li>
-                        <a href="{{$link|safeURL}}" target="_blank" rel="noopener" class="share-btn-{{.id}}">
-                          <i class="{{$pack}} {{$pack_prefix}}-{{.icon}}"></i>
-                        </a>
-                      </li>
-                    {{ end }}
-                  </ul>
-                </div>
-                {{ end }}
+                  <h5 class="card-title">abz2024@unibg.it</h5>
               </div>
           </div>
           <div style="text-align: center;">
