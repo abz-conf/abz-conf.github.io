@@ -16,17 +16,23 @@ skyline:
   image: "bergamo-skyline.svg"
   url: "https://en.wikipedia.org/wiki/Bergamo"
 ---
-## Case Study - Call for Papers
 
-As successfully practiced since ABZ 2014, the 10th edition of ABZ will again include special sessions dedicated to an industrial case study. 
+## Call for papers
 
-### Guidelines
+The ABZ conference is dedicated to the cross-fertilization of state-based and machine-based formal methods, like Abstract State Machines (ASM), Alloy, B, TLA, VDM and Z, that share a common conceptual foundation and are widely used in both academia and industry for the design and analysis of hardware and software systems. The conference aims for a vital exchange of knowledge and experience among the research communities around different formal methods.
 
-- **Case study papers**: Full papers reporting on the experiments conducted with any of the state based techniques in the scope of ABZ 2024 case study. A paper of no more than *16 pages (excluding references)* in [LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) is expected and will be reviewed.
+The name ABZ goes back to the first conference in London in 2008, where the ASM, B and Z conference series were merged into a joint event. In the following years other formal methods were added, e.g. Alloy in 2010 (Orford, Canada), VDM in 2012 (Pisa, Italy), and TLA + in 2014 (Toulouse, France). After the also successful 2016 conferences in Linz, Austria and 2018 in Southampton, UK, it was decided to name the conference "ABZ: International Conference on Rigorous State Based Methods", to stress the openness for further state-based formal methods. We hope to continue many fruitful discussions between representatives of the individual methods in the past, which will bring us closer to the common goal of this research community: the creation of reliable and safe software.
+
+ABZ 2024 will have a main conference track, a case study track, a doctoral symposium, tutorials, and workshops.
+
+* [Main Conference](../maintrack)
+* [Case Study](../casestudy)
+* [Doctoral Symposium](../doctoralsymposium)
+* [Tutorials and Workshops](../tutorialworkshops)
+
+Accepted papers will appear in the Springer LNCS proceedings.
 
 <div><img src="/img/Springer_Logo.jpg"><img src="/img/LNCS-Logo.jpg"></div>
-
-Accepted papers will appear in the Springer LNCS proceedings. 
 
 ### Submission Process
 

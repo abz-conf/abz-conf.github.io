@@ -5,6 +5,7 @@
 {{ $twitter_width  := $twitter.width  | default "400" }}
 {{ $twitter_height := $twitter.height | default "650" }}
 
+
 <article class="article">
 
   {{ partial "page_header" . }}
@@ -18,6 +19,31 @@
           {{ .Content }}
         </div>
         <div class="col-md-4">
+          <meta name="card:dnt" content="on">
+          <div style="text-align: center; cursor: pointer;" class="card" >
+              <div class="card-body" >
+                {{ if  site.Params.sharing }}
+                <div class="share-box" aria-hidden="false">
+                  <ul class="share">
+                    {{ range where site.Data.page_sharer.conference "enable" true }}
+                      {{ $pack := or .icon_pack "fas" }}
+                      {{ $pack_prefix := $pack }}
+                      {{ if in (slice "fab" "fas" "far" "fal") $pack }}
+                        {{ $pack_prefix = "fa" }}
+                      {{ end }}
+                      {{ $link := replace .url "{url}" ($.Permalink | htmlEscape) }}
+                      {{ $link = replace $link "{title}" ($.Title | htmlEscape) }}
+                      <li>
+                        <a href="{{$link|safeURL}}" target="_blank" rel="noopener" class="share-btn-{{.id}}">
+                          <i class="{{$pack}} {{$pack_prefix}}-{{.icon}}"></i>
+                        </a>
+                      </li>
+                    {{ end }}
+                  </ul>
+                </div>
+                {{ end }}
+              </div>
+          </div>
           <div style="text-align: center;">
       <meta name="twitter:dnt" content="on">
       <a class="twitter-timeline"

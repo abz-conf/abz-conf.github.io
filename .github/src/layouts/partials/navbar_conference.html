@@ -20,6 +20,7 @@
       aria-controls="navbar" aria-expanded="false" aria-label="{{ i18n " toggle_navigation" }}">
       <span><i class="fas fa-bars"></i></span>
     </button>
+    
     {{ end }}
 
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
@@ -39,7 +40,8 @@
 
         {{ if .HasChildren }}
         <li class="nav-item dropdown">
-          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">
+          {{ $destination := print (index $root_site 0) "/" .URL}}
+          <a href="{{ $destination | relLangURL }}" class="nav-link dropdown-toggle" aria-haspopup="true">
             {{- .Pre -}}<span>{{ .Name | safeHTML }}</span>{{- .Post -}}
             <span class="caret"></span>
           </a>

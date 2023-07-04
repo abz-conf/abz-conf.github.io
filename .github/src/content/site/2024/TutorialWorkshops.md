@@ -16,6 +16,7 @@ skyline:
   image: "bergamo-skyline.svg"
   url: "https://en.wikipedia.org/wiki/Bergamo"
 ---
-## Workshops
+
+## Call for Workshops and Tutorials
 
 TBA

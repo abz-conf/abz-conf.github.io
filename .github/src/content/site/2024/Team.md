@@ -3,6 +3,7 @@ title: ABZ 2024 – 10th International Conference on Rigorous State Based Method
 date:  "2021-06-16T00:00:00+01:00"
 draft: false
 share: false
+contacts: true
 commentable: false
 editable: false
 
@@ -46,7 +47,6 @@ skyline:
 
 * [Atif Mashkoor, JKU Linz, Linz, Austria](https://www.jku.at/en/institute-of-software-systems-engineering/about-us/team/atif-mashkoor/)
 * [Fabian Vu, Heinrich-Heine-Universität, Düsseldorf, Germany](https://www.researchgate.net/profile/Fabian-Vul)
-* [TBA]()
 
 ### Web Chairs
 

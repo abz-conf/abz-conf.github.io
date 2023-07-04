@@ -71,7 +71,7 @@
 
 [[conference]]
   name = "Attending"
-  url = "attending"
+  url = ""
   weight = 50
 
 [[conference]]
@@ -89,13 +89,13 @@
 [[conference]]
   identifier = "Calls"
   name = "Calls"
-  url = ""
+  url = "calls"
   weight = 60
 
 [[conference]]
   parent = "Calls"
-  name = "Call for Papers"
-  url = "callforpapers"
+  name = "Main track"
+  url = "maintrack"
   weight = 1
 
 [[conference]]
@@ -109,6 +109,12 @@
   name = "Case Study"
   url = "casestudy"
   weight = 3
+
+[[conference]]
+  parent = "Calls"
+  name = "Workshops & Tutorials"
+  url = "TutorialWorkshops"
+  weight = 4
 
 [[conference]]
   name = "Important Dates"
