@@ -42,7 +42,7 @@ If you have any question/comment on the case study, you can contact:
 * Angelo Gargantini, University of Bergamo, [angelo.gargantini@unibg.it](mailto:angelo.gargantini@unibg.it) 
 * ABZ 2024, [abz2024@unibg.it](mailto:abz2024@unibg.it)
 
-### Guidelines
+### ABZ 2024 invites:
 
 - **Case study papers**: Full papers reporting on the experiments conducted with any of the state based techniques in the scope of ABZ 2024 case study. A paper of no more than *16 pages (excluding references)* in [LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) is expected and will be reviewed.
 
