@@ -71,7 +71,7 @@
 
 [[conference]]
   name = "Attending"
-  url = ""
+  url = "."
   weight = 50
 
 [[conference]]
@@ -113,7 +113,7 @@
 [[conference]]
   parent = "Calls"
   name = "Workshops & Tutorials"
-  url = "TutorialWorkshops"
+  url = "tutorialworkshops"
   weight = 4
 
 [[conference]]

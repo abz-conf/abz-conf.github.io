@@ -41,7 +41,11 @@
         {{ if .HasChildren }}
         <li class="nav-item dropdown">
           {{ $destination := print (index $root_site 0) "/" .URL}}
-          <a href="{{ $destination | relLangURL }}" class="nav-link dropdown-toggle" aria-haspopup="true">
+          {{ if ne .URL "." }}
+            <a href="{{ $destination | relLangURL }}" class="nav-link dropdown-toggle" aria-haspopup="true">
+          {{ else}}
+            <a href="#" class="nav-link dropdown-toggle" aria-haspopup="true">
+          {{end}}
             {{- .Pre -}}<span>{{ .Name | safeHTML }}</span>{{- .Post -}}
             <span class="caret"></span>
           </a>
