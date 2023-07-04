@@ -18,7 +18,29 @@ skyline:
 ---
 ## Case Study - Call for Papers
 
-As successfully practiced since ABZ 2014, the 10th edition of ABZ will again include special sessions dedicated to an industrial case study. 
+As successfully practiced in previous editions of ABZ, the 10th edition of ABZ will include again special sessions dedicated to a shared real-life case study.
+
+The objective of this session is to enrich the set of case studies ([https://abz-conf.org/case-studies/](https://abz-conf.org/case-studies/)) developed with Rigorous State Based Methods with a practical and real-life case study.
+
+The case study proposed in this edition is the Mechanical Lung Ventilator (MLV).  The MLV is intended to provide ventilation support for patients that require mechanical ventilation in two operative modes: Pressure Controlled Ventilation (PCV) and Pressure Support Ventilation (PSV). The former is used when patients are not able to start breathing on their own, while the latter support patients by partially taking over the work of breathing.
+
+The suggested outcomes (as reported in the specification document) are:
+
+* A classical approach consists in modeling the system or part of it and applying the classical V&V activities, like formal verification of the correctness or validation of scenarios. One could check that the behavior of the system is correct, like in case of some types of errors, the system goes into a fail-safe mode.
+* A critical aspect of the system is its temporal behavior. Many properties and constraints have explicit temporal requirements (like after 10 seconds ...). One could model these aspects and make a temporal analysis of the system.
+* After the good experience of ABZ2022, we decided to also include the GUI. Research activities could refer to modeling this critical component and analyzing the human-computer interaction.
+* Generation of executable source code and implement a prototype of the ventilator on a simple electronic board like Arduino (or part of it).
+
+All the pdf versions of the specification document are available here (we keep track of all the changes in the documents): 
+[https://github.com/foselab/abz2024_casestudy_MLV](https://github.com/foselab/abz2024_casestudy_MLV)
+
+All the questions and doubts can be discussed here: 
+[https://github.com/foselab/abz2024_casestudy_MLV/issues](https://github.com/foselab/abz2024_casestudy_MLV/issues) 
+
+If you have any question/comment on the case study, you can contact:
+* Silvia Bonfanti, University of Bergamo, [silvia.bonfanti@unibg.it](mailto:silvia.bonfanti@unibg.it)
+* Angelo Gargantini, University of Bergamo, [angelo.gargantini@unibg.it](mailto:angelo.gargantini@unibg.it) 
+* ABZ 2024, [abz2024@unibg.it](mailto:abz2024@unibg.it)
 
 ### Guidelines
 
@@ -30,7 +52,7 @@ Accepted papers will appear in the Springer LNCS proceedings.
 
 ### Submission Process
 
-Authors should consult [Springer's authors' guidelines](ftp://ftp.springernature.com/cs-proceeding/svproc/guidelines/Springer_Guidelines_for_Authors_of_Proceedings.pdf) and use their proceedings templates, either for [LaTeX](ftp://ftp.springernature.com/cs-proceeding/llncs/llncs2e.zip) or for [Word](ftp://ftp.springernature.com/cs-proceeding/llncs/word/splnproc1703.zip[), for the preparation of their papers. Springer encourages authors to include their [ORCIDs](https://www.springer.com/gp/authors-editors/orcid) in their papers. In addition, the corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign a Consent-to-Publish form. The corresponding author signing the copyright form should match the corresponding author marked on the paper. Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made.
+Authors should consult [Springer's authors' guidelines](ftp://ftp.springernature.com/cs-proceeding/svproc/guidelines/Springer_Guidelines_for_Authors_of_Proceedings.pdf) and use their proceedings templates, either for [LaTeX](ftp://ftp.springernature.com/cs-proceeding/llncs/llncs2e.zip) or for [Word](ftp://ftp.springernature.com/cs-proceeding/llncs/word/splnproc1703.zip), for the preparation of their papers. Springer encourages authors to include their [ORCIDs](https://www.springer.com/gp/authors-editors/orcid) in their papers. In addition, the corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign a Consent-to-Publish form. The corresponding author signing the copyright form should match the corresponding author marked on the paper. Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made.
 
 Authors interested in contributing to ABZ 2024 in Open Access or Open Choice should refer to the corresponding [Springer webpage](https://www.springer.com/gp/computer-science/lncs/open-access-publishing-in-computer-proceedings).
 
