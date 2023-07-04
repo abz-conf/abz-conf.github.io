@@ -255,7 +255,30 @@ $yamine@n7.fr$ &lt;br/>
 &lt;p>Authors interested in contributing to ABZ 2024 in Open Access or Open Choice should refer to the corresponding
 &lt;a href="https://www.springer.com/gp/computer-science/lncs/open-access-publishing-in-computer-proceedings" target="_blank" rel="noopener">Springer webpage&lt;/a>.&lt;/p>
 &lt;p class="text-center">&lt;a href="https://easychair.org/conferences?conf=abz2024" class="btn btn-primary btn-lg" role="button" target="_blank">Submit contribution&lt;br>&lt;br>&lt;br>&lt;small>via EasyChair&lt;/small>&lt;/a>&lt;/p></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/casestudy/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/casestudy/</guid><description>&lt;h2 id="case-study---call-for-papers">Case Study - Call for Papers&lt;/h2>
-&lt;p>As successfully practiced since ABZ 2014, the 10th edition of ABZ will again include special sessions dedicated to an industrial case study.&lt;/p>
+&lt;p>As successfully practiced in previous editions of ABZ, the 10th edition of ABZ will include again special sessions dedicated to a shared real-life case study.&lt;/p>
+&lt;p>The objective of this session is to enrich the set of case studies (
+&lt;a href="https://abz-conf.org/case-studies/" target="_blank" rel="noopener">https://abz-conf.org/case-studies/&lt;/a>) developed with Rigorous State Based Methods with a practical and real-life case study.&lt;/p>
+&lt;p>The case study proposed in this edition is the Mechanical Lung Ventilator (MLV). The MLV is intended to provide ventilation support for patients that require mechanical ventilation in two operative modes: Pressure Controlled Ventilation (PCV) and Pressure Support Ventilation (PSV). The former is used when patients are not able to start breathing on their own, while the latter support patients by partially taking over the work of breathing.&lt;/p>
+&lt;p>The suggested outcomes (as reported in the specification document) are:&lt;/p>
+&lt;ul>
+&lt;li>A classical approach consists in modeling the system or part of it and applying the classical V&amp;amp;V activities, like formal verification of the correctness or validation of scenarios. One could check that the behavior of the system is correct, like in case of some types of errors, the system goes into a fail-safe mode.&lt;/li>
+&lt;li>A critical aspect of the system is its temporal behavior. Many properties and constraints have explicit temporal requirements (like after 10 seconds &amp;hellip;). One could model these aspects and make a temporal analysis of the system.&lt;/li>
+&lt;li>After the good experience of ABZ2022, we decided to also include the GUI. Research activities could refer to modeling this critical component and analyzing the human-computer interaction.&lt;/li>
+&lt;li>Generation of executable source code and implement a prototype of the ventilator on a simple electronic board like Arduino (or part of it).&lt;/li>
+&lt;/ul>
+&lt;p>All the pdf versions of the specification document are available here (we keep track of all the changes in the documents):
+&lt;a href="https://github.com/foselab/abz2024_casestudy_MLV" target="_blank" rel="noopener">https://github.com/foselab/abz2024_casestudy_MLV&lt;/a>&lt;/p>
+&lt;p>All the questions and doubts can be discussed here:
+&lt;a href="https://github.com/foselab/abz2024_casestudy_MLV/issues" target="_blank" rel="noopener">https://github.com/foselab/abz2024_casestudy_MLV/issues&lt;/a>&lt;/p>
+&lt;p>If you have any question/comment on the case study, you can contact:&lt;/p>
+&lt;ul>
+&lt;li>Silvia Bonfanti, University of Bergamo,
+&lt;a href="mailto:silvia.bonfanti@unibg.it">silvia.bonfanti@unibg.it&lt;/a>&lt;/li>
+&lt;li>Angelo Gargantini, University of Bergamo,
+&lt;a href="mailto:angelo.gargantini@unibg.it">angelo.gargantini@unibg.it&lt;/a>&lt;/li>
+&lt;li>ABZ 2024,
+&lt;a href="mailto:abz2024@unibg.it">abz2024@unibg.it&lt;/a>&lt;/li>
+&lt;/ul>
 &lt;h3 id="guidelines">Guidelines&lt;/h3>
 &lt;ul>
 &lt;li>&lt;strong>Case study papers&lt;/strong>: Full papers reporting on the experiments conducted with any of the state based techniques in the scope of ABZ 2024 case study. A paper of no more than &lt;em>16 pages (excluding references)&lt;/em> in
@@ -267,7 +290,7 @@ $yamine@n7.fr$ &lt;br/>
 &lt;p>Authors should consult
 &lt;a href="ftp://ftp.springernature.com/cs-proceeding/svproc/guidelines/Springer_Guidelines_for_Authors_of_Proceedings.pdf">Springer&amp;rsquo;s authors' guidelines&lt;/a> and use their proceedings templates, either for
 &lt;a href="ftp://ftp.springernature.com/cs-proceeding/llncs/llncs2e.zip">LaTeX&lt;/a> or for
-&lt;a href="ftp://ftp.springernature.com/cs-proceeding/llncs/word/splnproc1703.zip[">Word&lt;/a>, for the preparation of their papers. Springer encourages authors to include their
+&lt;a href="ftp://ftp.springernature.com/cs-proceeding/llncs/word/splnproc1703.zip">Word&lt;/a>, for the preparation of their papers. Springer encourages authors to include their
 &lt;a href="https://www.springer.com/gp/authors-editors/orcid" target="_blank" rel="noopener">ORCIDs&lt;/a> in their papers. In addition, the corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign a Consent-to-Publish form. The corresponding author signing the copyright form should match the corresponding author marked on the paper. Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made.&lt;/p>
 &lt;p>Authors interested in contributing to ABZ 2024 in Open Access or Open Choice should refer to the corresponding
 &lt;a href="https://www.springer.com/gp/computer-science/lncs/open-access-publishing-in-computer-proceedings" target="_blank" rel="noopener">Springer webpage&lt;/a>.&lt;/p>
@@ -515,7 +538,44 @@ $yamine@n7.fr$ &lt;br/>
 &lt;/ul>
 &lt;h2 id="program-committee">Program Committee&lt;/h2>
 &lt;p>TBA&lt;/p></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/tutorialworkshops/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/tutorialworkshops/</guid><description>&lt;h2 id="call-for-workshops-and-tutorials">Call for Workshops and Tutorials&lt;/h2>
-&lt;p>TBA&lt;/p></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/venue/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/venue/</guid><description>&lt;h2 id="venue-university-of-bergamo">Venue: University of Bergamo&lt;/h2>
+&lt;p>Researchers and practitioners are invited to submit proposals for workshops and tutorials held in conjunction with ABZ 2024. Workshops and tutorials will be held on June 25, 2024 (right before the main conference on June 26 – June 28, 2024).&lt;/p>
+&lt;p>ABZ workshops provide an opportunity for researchers and practitioners to exchange and explore innovative ideas and challenges on rigorous state-based methods, at an early stage.&lt;/p>
+&lt;p>In addition, ABZ edition 2024 hosts tutorials on topics related to state-based formal methods from theoretical foundations to practical applications. Tutorials at ABZ provide a valuable opportunity for conference participants to expand their knowledge and skills in specific research and/or practical topics related to rigorous state-based methods.&lt;/p>
+&lt;h3 id="workshop-proposal-submissions">Workshop Proposal Submissions&lt;/h3>
+&lt;p>The proposal should include the following information:&lt;/p>
+&lt;ul>
+&lt;li>Workshop title and acronym&lt;/li>
+&lt;li>Contact information for the workshop organizers (name, affiliation, email) and the main contact&lt;/li>
+&lt;li>Abstract for ABZ 2024 website (if workshop is accepted)&lt;/li>
+&lt;li>Description of the workshop&lt;/li>
+&lt;li>Format
+&lt;ul>
+&lt;li>Workshop format (e.g., paper presentations, keynotes, breakout sessions, panel-like discussions) and plans for generating discussions&lt;/li>
+&lt;li>Duration - half day or one day&lt;/li>
+&lt;li>Special services, logistic and/or equipment constraints&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="tutorial-proposal-submissions">Tutorial Proposal Submissions&lt;/h3>
+&lt;p>The proposal should include the following information:&lt;/p>
+&lt;ul>
+&lt;li>Tutorial title&lt;/li>
+&lt;li>Contact information of tutorial presenter(s), including name, affiliation, email&lt;/li>
+&lt;li>Tutorial summary for ABZ 2024 website (if tutorial is accepted)&lt;/li>
+&lt;li>Description of the tutorial&lt;/li>
+&lt;li>Format
+&lt;ul>
+&lt;li>How tutorial will be conducted (e.g., lecture, hands-on exercises, facilitated group discussion, group activities, role playing, games)&lt;/li>
+&lt;li>Duration - half day or one day&lt;/li>
+&lt;li>Special services, logistic and/or equipment constraints&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="submission-process">Submission Process&lt;/h3>
+&lt;p>Submissions must follow the
+&lt;a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" target="_blank" rel="noopener">LNCS style&lt;/a>. All proposals should be submitted before the submission deadline (see
+&lt;a href="../importantdates">here&lt;/a>) using the online submission site:
+&lt;a href="">TBA&lt;/a>&lt;/p></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/venue/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/venue/</guid><description>&lt;h2 id="venue-university-of-bergamo">Venue: University of Bergamo&lt;/h2>
 &lt;h3 id="location">Location&lt;/h3>
 &lt;p>Piazzale S. Agostino, 2 &lt;br>
 24129 Bergamo &lt;br>
