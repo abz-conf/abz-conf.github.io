@@ -52,3 +52,11 @@ The proposal should include the following information:
 
 ### Submission Process
 Submissions must follow the [LNCS style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines). All proposals should be submitted before the submission deadline (see [here](../importantdates)) using the online submission site: [TBA]()
+
+### Important Dates
+
+|          |         |
+| -------- | ------- |
+| **Workshop proposal submission:**  | December 01, 2023    |
+| **Workshop notification:** | December 15, 2023    |
+| **Tutorial proposal submission:**    | March 16, 2024    |
