@@ -28,8 +28,6 @@ This forum is a good opportunity for PhD students to
 - enable PhD students to interact with other PhD students and to stimulate exchange of ideas suggestions and experiences among participants,
 - provide PhD students an opportunity to present, share and discuss their research in a constructive and critical atmosphere.
 
-## Submissions
-
 We seek PhD students who have either determined the direction of their thesis research (probably with some preliminary results already published), but who still have substantial work to complete, or PhD student participants who are in the early stages of their dissertations. It is not required to have a paper accepted for the main conference in order to participate to the ABZ 2024 Doctoral Symposium.
 
 ### ABZ 2024 invites:
@@ -45,19 +43,22 @@ Preferably, submissions should include
 - Current results and assessement
 - Future work
 
-The proposal should be prepared using the [LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) and submitted in PDF format via the EquinOCS platform (please mark your submission as "Short Paper"):
+<div><img src="/img/Springer_Logo.jpg"><img src="/img/LNCS-Logo.jpg"></div>
+
+Accepted papers will be published in the Springer LNCS proceedings.
+
+### Submission Process
+
+Authors should consult [Springer's authors' guidelines](https://resource-cms.springernature.com/springer-cms/rest/v1/content/19242230/data/v11) and use their proceedings templates, either for [LaTeX](https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238648/data/v6) or for [Word](https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238706/data/v2), for the preparation of their papers.Springer encourages authors to include their [ORCIDs](https://www.springer.com/gp/authors-editors/orcid) in their papers. In addition, the corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign a Consent-to-Publish form. The corresponding author signing the copyright form should match the corresponding author marked on the paper. Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made.
+
+Authors interested in contributing to ABZ 2024 in Open Access or Open Choice should refer to the corresponding [Springer webpage](https://www.springer.com/gp/computer-science/lncs/open-access-publishing-in-computer-proceedings).
 
 <p class="text-center"><a href="" class="btn btn-primary btn-lg" role="button" target="_blank">Submit contribution<br><br><br><small>via EquinOCS</small></a></p>
 
-### Proceedings
+### Important Dates
 
-The Doctoral Symposium papers will be published Springer in the LNCS volume as part of the main ABZ 2024 proceedings.
-
-### The Doctoral Symposium
-
-Authors of accepted papers will have to present (15 Min presentation) their papers during the main ABZ conference. In addition, they are required to provide a poster of their work that will be presented in the poster area of the main ABZ conference.
-
-## Doctoral Symposium Chairs
-
-* [Philipp Körner, Heinrich-Heine-Universität, Düsseldorf, Germany](https://www.cs.hhu.de/lehrstuehle-und-arbeitsgruppen/softwaretechnik-und-programmiersprachen/unser-team/team/koerner)
-* [Chiara Braghin, University of Milano, Milano, Italy](https://www.unimi.it/it/ugov/person/chiara-braghin)
+|          |         |
+| -------- | ------- |
+| **Paper submission:**  | February 24, 2024    |
+| **Notification:** | April 6, 2024    |
+| **Final version:**    | April 20, 2024    |
