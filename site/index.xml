@@ -24,7 +24,7 @@
 &lt;p>Authors should consult
 &lt;a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/19242230/data/v11" target="_blank" rel="noopener">Springer&amp;rsquo;s authors' guidelines&lt;/a> and use their proceedings templates, either for
 &lt;a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238648/data/v6" target="_blank" rel="noopener">LaTeX&lt;/a> or for
-&lt;a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238706/data/v1" target="_blank" rel="noopener">Word&lt;/a>, for the preparation of their papers. Springer encourages authors to include their
+&lt;a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238706/data/v2" target="_blank" rel="noopener">Word&lt;/a>, for the preparation of their papers. Springer encourages authors to include their
 &lt;a href="https://www.springer.com/gp/authors-editors/orcid" target="_blank" rel="noopener">ORCIDs&lt;/a> in their papers. In addition, the corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign a Consent-to-Publish form. The corresponding author signing the copyright form should match the corresponding author marked on the paper. Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made.&lt;/p>
 &lt;p>Authors interested in contributing to ABZ 2024 in Open Access or Open Choice should refer to the corresponding
 &lt;a href="https://www.springer.com/gp/computer-science/lncs/open-access-publishing-in-computer-proceedings" target="_blank" rel="noopener">Springer webpage&lt;/a>.&lt;/p>
@@ -64,11 +64,38 @@
 &lt;p>Authors should consult
 &lt;a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/19242230/data/v11" target="_blank" rel="noopener">Springer&amp;rsquo;s authors' guidelines&lt;/a> and use their proceedings templates, either for
 &lt;a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238648/data/v6" target="_blank" rel="noopener">LaTeX&lt;/a> or for
-&lt;a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238706/data/v1" target="_blank" rel="noopener">Word&lt;/a>, for the preparation of their papers.Springer encourages authors to include their
+&lt;a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238706/data/v2" target="_blank" rel="noopener">Word&lt;/a>, for the preparation of their papers.Springer encourages authors to include their
 &lt;a href="https://www.springer.com/gp/authors-editors/orcid" target="_blank" rel="noopener">ORCIDs&lt;/a> in their papers. In addition, the corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign a Consent-to-Publish form. The corresponding author signing the copyright form should match the corresponding author marked on the paper. Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made.&lt;/p>
 &lt;p>Authors interested in contributing to ABZ 2024 in Open Access or Open Choice should refer to the corresponding
 &lt;a href="https://www.springer.com/gp/computer-science/lncs/open-access-publishing-in-computer-proceedings" target="_blank" rel="noopener">Springer webpage&lt;/a>.&lt;/p>
-&lt;p class="text-center">&lt;a href="" class="btn btn-primary btn-lg" role="button" target="_blank">Submit contribution&lt;br>&lt;br>&lt;br>&lt;small>via EquinOCS&lt;/small>&lt;/a>&lt;/p></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/doctoralsymposium/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/doctoralsymposium/</guid><description>&lt;h2 id="doctoral-symposium---call-for-papers">Doctoral Symposium - Call for Papers&lt;/h2>
+&lt;p class="text-center">&lt;a href="" class="btn btn-primary btn-lg" role="button" target="_blank">Submit contribution&lt;br>&lt;br>&lt;br>&lt;small>via EquinOCS&lt;/small>&lt;/a>&lt;/p>
+&lt;h3 id="important-dates">Important Dates&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>Abstract submission (optional):&lt;/strong>&lt;/td>
+&lt;td>February 3, 2024&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Paper submission:&lt;/strong>&lt;/td>
+&lt;td>February 10, 2024&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Notification:&lt;/strong>&lt;/td>
+&lt;td>April 6, 2024&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Final version:&lt;/strong>&lt;/td>
+&lt;td>April 20, 2024&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/doctoralsymposium/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/doctoralsymposium/</guid><description>&lt;h2 id="doctoral-symposium---call-for-papers">Doctoral Symposium - Call for Papers&lt;/h2>
 &lt;p>The ABZ PhD Symposium is an international forum for PhD students studying all areas related to state based formal methods for software and system development.&lt;/p>
 &lt;p>This forum is a good opportunity for PhD students to&lt;/p>
 &lt;ul>
@@ -77,7 +104,6 @@
 &lt;li>enable PhD students to interact with other PhD students and to stimulate exchange of ideas suggestions and experiences among participants,&lt;/li>
 &lt;li>provide PhD students an opportunity to present, share and discuss their research in a constructive and critical atmosphere.&lt;/li>
 &lt;/ul>
-&lt;h2 id="submissions">Submissions&lt;/h2>
 &lt;p>We seek PhD students who have either determined the direction of their thesis research (probably with some preliminary results already published), but who still have substantial work to complete, or PhD student participants who are in the early stages of their dissertations. It is not required to have a paper accepted for the main conference in order to participate to the ABZ 2024 Doctoral Symposium.&lt;/p>
 &lt;h3 id="abz-2024-invites">ABZ 2024 invites:&lt;/h3>
 &lt;ul>
@@ -93,20 +119,40 @@
 &lt;li>Current results and assessement&lt;/li>
 &lt;li>Future work&lt;/li>
 &lt;/ul>
-&lt;p>The proposal should be prepared using the
-&lt;a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" target="_blank" rel="noopener">LNCS format&lt;/a> and submitted in PDF format via the EquinOCS platform (please mark your submission as &amp;ldquo;Short Paper&amp;rdquo;):&lt;/p>
+&lt;div>&lt;img src="/img/Springer_Logo.jpg">&lt;img src="/img/LNCS-Logo.jpg">&lt;/div>
+&lt;p>Accepted papers will be published in the Springer LNCS proceedings.&lt;/p>
+&lt;h3 id="submission-process">Submission Process&lt;/h3>
+&lt;p>Authors should consult
+&lt;a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/19242230/data/v11" target="_blank" rel="noopener">Springer&amp;rsquo;s authors' guidelines&lt;/a> and use their proceedings templates, either for
+&lt;a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238648/data/v6" target="_blank" rel="noopener">LaTeX&lt;/a> or for
+&lt;a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238706/data/v2" target="_blank" rel="noopener">Word&lt;/a>, for the preparation of their papers.Springer encourages authors to include their
+&lt;a href="https://www.springer.com/gp/authors-editors/orcid" target="_blank" rel="noopener">ORCIDs&lt;/a> in their papers. In addition, the corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign a Consent-to-Publish form. The corresponding author signing the copyright form should match the corresponding author marked on the paper. Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made.&lt;/p>
+&lt;p>Authors interested in contributing to ABZ 2024 in Open Access or Open Choice should refer to the corresponding
+&lt;a href="https://www.springer.com/gp/computer-science/lncs/open-access-publishing-in-computer-proceedings" target="_blank" rel="noopener">Springer webpage&lt;/a>.&lt;/p>
 &lt;p class="text-center">&lt;a href="" class="btn btn-primary btn-lg" role="button" target="_blank">Submit contribution&lt;br>&lt;br>&lt;br>&lt;small>via EquinOCS&lt;/small>&lt;/a>&lt;/p>
-&lt;h3 id="proceedings">Proceedings&lt;/h3>
-&lt;p>The Doctoral Symposium papers will be published Springer in the LNCS volume as part of the main ABZ 2024 proceedings.&lt;/p>
-&lt;h3 id="the-doctoral-symposium">The Doctoral Symposium&lt;/h3>
-&lt;p>Authors of accepted papers will have to present (15 Min presentation) their papers during the main ABZ conference. In addition, they are required to provide a poster of their work that will be presented in the poster area of the main ABZ conference.&lt;/p>
-&lt;h2 id="doctoral-symposium-chairs">Doctoral Symposium Chairs&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;a href="https://www.cs.hhu.de/lehrstuehle-und-arbeitsgruppen/softwaretechnik-und-programmiersprachen/unser-team/team/koerner" target="_blank" rel="noopener">Philipp Körner, Heinrich-Heine-Universität, Düsseldorf, Germany&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="https://www.unimi.it/it/ugov/person/chiara-braghin" target="_blank" rel="noopener">Chiara Braghin, University of Milano, Milano, Italy&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/importantdates/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/importantdates/</guid><description>&lt;h2 id="important-dates">Important Dates&lt;/h2>
+&lt;h3 id="important-dates">Important Dates&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>Paper submission:&lt;/strong>&lt;/td>
+&lt;td>February 24, 2024&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Notification:&lt;/strong>&lt;/td>
+&lt;td>April 6, 2024&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Final version:&lt;/strong>&lt;/td>
+&lt;td>April 20, 2024&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/importantdates/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/importantdates/</guid><description>&lt;h2 id="important-dates">Important Dates&lt;/h2>
 &lt;p>All dates anywhere on earth&lt;/p>
 &lt;h3 id="workshopstutorials">Workshops/Tutorials&lt;/h3>
 &lt;table>
@@ -246,11 +292,38 @@
 &lt;p>Authors should consult
 &lt;a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/19242230/data/v11" target="_blank" rel="noopener">Springer&amp;rsquo;s authors' guidelines&lt;/a> and use their proceedings templates, either for
 &lt;a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238648/data/v6" target="_blank" rel="noopener">LaTeX&lt;/a> or for
-&lt;a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238706/data/v1" target="_blank" rel="noopener">Word&lt;/a>, for the preparation of their papers. Springer encourages authors to include their
+&lt;a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238706/data/v2" target="_blank" rel="noopener">Word&lt;/a>, for the preparation of their papers. Springer encourages authors to include their
 &lt;a href="https://www.springer.com/gp/authors-editors/orcid" target="_blank" rel="noopener">ORCIDs&lt;/a> in their papers. In addition, the corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign a Consent-to-Publish form. The corresponding author signing the copyright form should match the corresponding author marked on the paper. Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made.&lt;/p>
 &lt;p>Authors interested in contributing to ABZ 2024 in Open Access or Open Choice should refer to the corresponding
 &lt;a href="https://www.springer.com/gp/computer-science/lncs/open-access-publishing-in-computer-proceedings" target="_blank" rel="noopener">Springer webpage&lt;/a>.&lt;/p>
-&lt;p class="text-center">&lt;a href="" class="btn btn-primary btn-lg" role="button" target="_blank">Submit contribution&lt;br>&lt;br>&lt;br>&lt;small>via EquinOCS&lt;/small>&lt;/a>&lt;/p></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/program/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/program/</guid><description>&lt;h2 id="program">Program&lt;/h2>
+&lt;p class="text-center">&lt;a href="" class="btn btn-primary btn-lg" role="button" target="_blank">Submit contribution&lt;br>&lt;br>&lt;br>&lt;small>via EquinOCS&lt;/small>&lt;/a>&lt;/p>
+&lt;h3 id="important-dates">Important Dates&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>Abstract submission (optional):&lt;/strong>&lt;/td>
+&lt;td>February 3, 2024&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Paper submission (including research/short/industry/journal-first papers):&lt;/strong>&lt;/td>
+&lt;td>February 10, 2024&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Notification:&lt;/strong>&lt;/td>
+&lt;td>April 6, 2024&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Final version:&lt;/strong>&lt;/td>
+&lt;td>April 20, 2024&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/program/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/program/</guid><description>&lt;h2 id="program">Program&lt;/h2>
 &lt;p>TBA&lt;/p></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/registration/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/registration/</guid><description>&lt;h2 id="participation">Participation&lt;/h2>
 &lt;p>TBA&lt;/p></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/team/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/team/</guid><description>&lt;h2 id="organization">Organization&lt;/h2>
 &lt;h3 id="program-chairs">Program Chairs&lt;/h3>
@@ -349,7 +422,30 @@
 &lt;p>Submissions must follow the
 &lt;a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" target="_blank" rel="noopener">LNCS style&lt;/a>. All proposals should be submitted before the submission deadline (see
 &lt;a href="../importantdates">here&lt;/a>) using the online submission site:
-&lt;a href="">TBA&lt;/a>&lt;/p></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/venue/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/venue/</guid><description>&lt;h2 id="venue-university-of-bergamo">Venue: University of Bergamo&lt;/h2>
+&lt;a href="">TBA&lt;/a>&lt;/p>
+&lt;h3 id="important-dates">Important Dates&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>Workshop proposal submission:&lt;/strong>&lt;/td>
+&lt;td>December 01, 2023&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Workshop notification:&lt;/strong>&lt;/td>
+&lt;td>December 15, 2023&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Tutorial proposal submission:&lt;/strong>&lt;/td>
+&lt;td>March 16, 2024&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/venue/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/venue/</guid><description>&lt;h2 id="venue-university-of-bergamo">Venue: University of Bergamo&lt;/h2>
 &lt;h3 id="location">Location&lt;/h3>
 &lt;p>Piazzale S. Agostino, 2 &lt;br>
 24129 Bergamo &lt;br>
