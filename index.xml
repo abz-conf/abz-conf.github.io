@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ABZ</title><link>/</link><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><description>ABZ</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2023 ABZ Conference</copyright><lastBuildDate>Tue, 30 May 2023 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>ABZ</title><link>/</link></image><item><title>ABZ 2023 (Nancy, France)</title><link>/2023/</link><pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate><guid>/2023/</guid><description/></item><item><title>BibTex-Entries of ASM workshops and References</title><link>/method/asm/bibtex-references/</link><pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate><guid>/method/asm/bibtex-references/</guid><description>&lt;p>BibTex-Entries of the mentioned &lt;strong>ASM Workshop Proceedings&lt;/strong> 1994-2007 (preceding the merge of those workshops with the user meetings of Z and B to the ABZ Conference, started in 2008) and the references can be found
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ABZ</title><link>/</link><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><description>ABZ</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2023 ABZ Conference</copyright><lastBuildDate>Tue, 25 Jun 2024 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>ABZ</title><link>/</link></image><item><title>ABZ 2024 (Bergamo, Italy)</title><link>/2024/</link><pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate><guid>/2024/</guid><description>&lt;!--&lt;meta http-equiv="refresh" content="0; URL='../site/2024'" />-->
+&lt;p>The ABZ conference is dedicated to the cross-fertilization of state-based and machine-based formal methods, like Abstract State Machines (ASM), Alloy, B, TLA, VDM and Z, that share a common conceptual foundation and are widely used in both academia and industry for the design and analysis of hardware and software systems. The conference aims for a vital exchange of knowledge and experience among the research communities around different formal methods.&lt;/p></description></item><item><title>ABZ 2023 (Nancy, France)</title><link>/2023/</link><pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate><guid>/2023/</guid><description/></item><item><title>BibTex-Entries of ASM workshops and References</title><link>/method/asm/bibtex-references/</link><pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate><guid>/method/asm/bibtex-references/</guid><description>&lt;p>BibTex-Entries of the mentioned &lt;strong>ASM Workshop Proceedings&lt;/strong> 1994-2007 (preceding the merge of those workshops with the user meetings of Z and B to the ABZ Conference, started in 2008) and the references can be found
 &lt;a href="/method/asm/bibtex-references/">here&lt;/a>.&lt;/p>
 &lt;pre>&lt;code>@Proceedings{Asm94,
 title = {Technology and {F}oundations. {I}nformation {P}rocessing'94},
@@ -180,11 +181,14 @@ year = {2021}
 }
 &lt;/code>&lt;/pre></description></item><item><title>Alloy</title><link>/method/alloy/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate><guid>/method/alloy/</guid><description>&lt;p>The Alloy language can be used to describe structures based on a collection of constraints. This created Alloy model can then be analyzed by the Alloy Analyzer, a solver that finds concrete structures that satisfy the constraints defined in the Alloy model.
 The analysis can be used to generate sample structures or to check properties of these structures by trying to generate counterexamples. Alloy is based on the Z specification language and Tarski&amp;rsquo;s relational calculus.&lt;/p>
-&lt;p>&lt;a href="http://alloytools.org/">http://alloytools.org/&lt;/a>&lt;/p></description></item><item><title>B / Event-B</title><link>/method/b/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate><guid>/method/b/</guid><description>&lt;p>Classical B (or just B) focuses on a tool-based refinement of a formal specification to code. It is based on the Z notation but slightly more low-level. In B a system consists of an abstract machine in which the modeler specifies the goal of the system. Via several refinement steps, this abstract goal is enhanced by more details on a less abstract level by adding details about data structures and algorithms that define how the goal is achieved.
+&lt;p>
+&lt;a href="http://alloytools.org/" target="_blank" rel="noopener">http://alloytools.org/&lt;/a>&lt;/p></description></item><item><title>B / Event-B</title><link>/method/b/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate><guid>/method/b/</guid><description>&lt;p>Classical B (or just B) focuses on a tool-based refinement of a formal specification to code. It is based on the Z notation but slightly more low-level. In B a system consists of an abstract machine in which the modeler specifies the goal of the system. Via several refinement steps, this abstract goal is enhanced by more details on a less abstract level by adding details about data structures and algorithms that define how the goal is achieved.
 All steps are proven correct until a deterministic version (the implementation) is reached.&lt;/p>
-&lt;p>&lt;a href="https://methode-b.com">https://methode-b.com&lt;/a>&lt;/p>
+&lt;p>
+&lt;a href="https://methode-b.com" target="_blank" rel="noopener">https://methode-b.com&lt;/a>&lt;/p>
 &lt;p>Event-B is an evolution of B with a simpler notation. Similar to B a system is modeled by different abstraction levels that are connected by a rigorous refinement proven correct. Whereas the B-method is intended to the development of correct-by-construction software, the purpose of Event-B is to model full systems (including hardware and operation environment). These two languages share almost the same mathematical language.&lt;/p>
-&lt;p>&lt;a href="http://www.event-b.org/">http://www.event-b.org/&lt;/a>&lt;/p></description></item><item><title>Committee</title><link>/team/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate><guid>/team/</guid><description>&lt;div class="container">
+&lt;p>
+&lt;a href="http://www.event-b.org/" target="_blank" rel="noopener">http://www.event-b.org/&lt;/a>&lt;/p></description></item><item><title>Committee</title><link>/team/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate><guid>/team/</guid><description>&lt;div class="container">
 &lt;div class="row">
 &lt;div class="col-6">
 Prof. Elvinia Riccobene &lt;br/>
@@ -213,11 +217,480 @@ $yamine@n7.fr$ &lt;br/>
 &lt;/div>
 &lt;/div> &lt;!-- row -->
 &lt;/div> &lt;!-- container --></description></item><item><title>Temporal Logic of Actions (TLA)</title><link>/method/tla/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate><guid>/method/tla/</guid><description>&lt;p>TLA+ (Temporal Logic of Actions) was developed by Leslie Lamport to model, document, and verify especially concurrent and distributed systems. The language aims for defining the set of all correct system behaviors. It is organized in modules that contain a definition of states and (conditional) state transitions in form of steps. A &amp;ldquo;next-state-relations&amp;rdquo; defines how variables can change in any step. Similar to Z, B, and Event-B TLA+ is based on the Zermelo-Fraenkel set theory, but extended with built-in temporal logic operators.&lt;/p>
-&lt;p>&lt;a href="http://lamport.azurewebsites.net/tla/tla.html">http://lamport.azurewebsites.net/tla/tla.html&lt;/a>&lt;/p></description></item><item><title>Vienna Development Method (VDM)</title><link>/method/vdm/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate><guid>/method/vdm/</guid><description>&lt;p>In the Vienna Development Method (VDM) models consist of a rich representation of data on which a system operates, together with the functionality that should be executed on these data structures. Besides the internal data also external input/output data is considered in the models.&lt;/p>
+&lt;p>
+&lt;a href="http://lamport.azurewebsites.net/tla/tla.html" target="_blank" rel="noopener">http://lamport.azurewebsites.net/tla/tla.html&lt;/a>&lt;/p></description></item><item><title>Vienna Development Method (VDM)</title><link>/method/vdm/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate><guid>/method/vdm/</guid><description>&lt;p>In the Vienna Development Method (VDM) models consist of a rich representation of data on which a system operates, together with the functionality that should be executed on these data structures. Besides the internal data also external input/output data is considered in the models.&lt;/p>
 &lt;p>The functional behavior can be either defined abstract by pre- and postconditions or explicitly by specific state-based operations. The precise mathematical semantics of these definitions allows for a wide range of analyses, e.g. static analysis, testing or proof of properties of the sytem.&lt;/p>
-&lt;p>&lt;a href="https://www.overturetool.org/method/">https://www.overturetool.org/method/&lt;/a>&lt;/p></description></item><item><title>Z Notation</title><link>/method/z/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate><guid>/method/z/</guid><description>&lt;p>Z is the &amp;ldquo;ultimate language&amp;rdquo; as stated by
+&lt;p>
+&lt;a href="https://www.overturetool.org/method/" target="_blank" rel="noopener">https://www.overturetool.org/method/&lt;/a>&lt;/p></description></item><item><title>Z Notation</title><link>/method/z/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate><guid>/method/z/</guid><description>&lt;p>Z is the &amp;ldquo;ultimate language&amp;rdquo; as stated by
 &lt;a href="https://en.wikipedia.org/wiki/Jean-Raymond_Abrial" target="_blank" rel="noopener">Jean-Raymond Abrial&lt;/a> who invented this formal specification language in 1977. This language aims for a precise and clear specification of computer-based systems based on the Zermelo-Fraenkel set theory, lambda calculus, and first-order predicate logic. The main elements of Z are so-called &amp;ldquo;schemata&amp;rdquo; that consist of typed variables and constraints on the assignment of these. Z provides a standardized catalogue of often used mathematical functions and predicates.&lt;/p>
-&lt;p>&lt;a href="http://www.zuser.org/">http://www.zuser.org/&lt;/a>&lt;/p></description></item><item><title>Site Notice</title><link>/site/notice/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/notice/</guid><description>&lt;p>Information disclosed under Digital Economy Law (575/2004), France:&lt;/p>
+&lt;p>
+&lt;a href="http://www.zuser.org/" target="_blank" rel="noopener">http://www.zuser.org/&lt;/a>&lt;/p></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/</guid><description>&lt;h3 id="bergamo-italy---jun-25-2024--jun-28-2024">Bergamo (Italy) - Jun 25, 2024 — Jun 28, 2024&lt;/h3>
+&lt;br>
+&lt;p>The ABZ conference is dedicated to the cross-fertilization of state-based and machine-based formal methods, like Abstract State Machines (ASM), Alloy, B, TLA, VDM and Z, that share a common conceptual foundation and are widely used in both academia and industry for the design and analysis of hardware and software systems. The conference aims for a vital exchange of knowledge and experience among the research communities around different formal methods.&lt;/p>
+&lt;h3 id="news">News&lt;/h3>
+&lt;p>TBA&lt;/p>
+&lt;h3 id="sponsors">Sponsors&lt;/h3>
+&lt;p>TBA&lt;/p></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/calls/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/calls/</guid><description>&lt;h2 id="call-for-papers">Call for papers&lt;/h2>
+&lt;p>The ABZ conference is dedicated to the cross-fertilization of state-based and machine-based formal methods, like Abstract State Machines (ASM), Alloy, B, TLA, VDM and Z, that share a common conceptual foundation and are widely used in both academia and industry for the design and analysis of hardware and software systems. The conference aims for a vital exchange of knowledge and experience among the research communities around different formal methods.&lt;/p>
+&lt;p>The name ABZ goes back to the first conference in London in 2008, where the ASM, B and Z conference series were merged into a joint event. In the following years other formal methods were added, e.g. Alloy in 2010 (Orford, Canada), VDM in 2012 (Pisa, Italy), and TLA + in 2014 (Toulouse, France). After the also successful 2016 conferences in Linz, Austria and 2018 in Southampton, UK, it was decided to name the conference &amp;ldquo;ABZ: International Conference on Rigorous State Based Methods&amp;rdquo;, to stress the openness for further state-based formal methods. We hope to continue many fruitful discussions between representatives of the individual methods in the past, which will bring us closer to the common goal of this research community: the creation of reliable and safe software.&lt;/p>
+&lt;p>ABZ 2024 will have a main conference track, a case study track, a doctoral symposium, tutorials, and workshops.&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;a href="../maintrack">Main Conference&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="../casestudy">Case Study&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="../doctoralsymposium">Doctoral Symposium&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="../tutorialworkshops">Tutorials and Workshops&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Accepted papers will appear in the Springer LNCS proceedings.&lt;/p>
+&lt;div>&lt;img src="/img/Springer_Logo.jpg">&lt;img src="/img/LNCS-Logo.jpg">&lt;/div>
+&lt;h3 id="submission-process">Submission Process&lt;/h3>
+&lt;p>Authors should consult
+&lt;a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/19242230/data/v11" target="_blank" rel="noopener">Springer&amp;rsquo;s authors' guidelines&lt;/a> and use their proceedings templates, either for
+&lt;a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238648/data/v6" target="_blank" rel="noopener">LaTeX&lt;/a> or for
+&lt;a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238706/data/v2" target="_blank" rel="noopener">Word&lt;/a>, for the preparation of their papers. Springer encourages authors to include their
+&lt;a href="https://www.springer.com/gp/authors-editors/orcid" target="_blank" rel="noopener">ORCIDs&lt;/a> in their papers. In addition, the corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign a Consent-to-Publish form. The corresponding author signing the copyright form should match the corresponding author marked on the paper. Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made.&lt;/p>
+&lt;p>Authors interested in contributing to ABZ 2024 in Open Access or Open Choice should refer to the corresponding
+&lt;a href="https://www.springer.com/gp/computer-science/lncs/open-access-publishing-in-computer-proceedings" target="_blank" rel="noopener">Springer webpage&lt;/a>.&lt;/p>
+&lt;p class="text-center">&lt;a href="" class="btn btn-primary btn-lg" role="button" target="_blank">Submit contribution&lt;br>&lt;br>&lt;br>&lt;small>via EquinOCS&lt;/small>&lt;/a>&lt;/p></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/casestudy/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/casestudy/</guid><description>&lt;h2 id="case-study---call-for-papers">Case Study - Call for Papers&lt;/h2>
+&lt;p>As successfully practiced in previous editions of ABZ, the 10th edition of ABZ will include again special sessions dedicated to a shared real-life case study.&lt;/p>
+&lt;p>The objective of this session is to enrich the set of case studies (
+&lt;a href="https://abz-conf.org/case-studies/" target="_blank" rel="noopener">https://abz-conf.org/case-studies/&lt;/a>) developed with Rigorous State Based Methods with a practical and real-life case study.&lt;/p>
+&lt;p>The case study proposed in this edition is the Mechanical Lung Ventilator (MLV). The MLV is intended to provide ventilation support for patients that require mechanical ventilation in two operative modes: Pressure Controlled Ventilation (PCV) and Pressure Support Ventilation (PSV). The former is used when patients are not able to start breathing on their own, while the latter support patients by partially taking over the work of breathing.&lt;/p>
+&lt;p>The suggested outcomes (as reported in the specification document) are:&lt;/p>
+&lt;ul>
+&lt;li>A classical approach consists in modeling the system or part of it and applying the classical V&amp;amp;V activities, like formal verification of the correctness or validation of scenarios. One could check that the behavior of the system is correct, like in case of some types of errors, the system goes into a fail-safe mode.&lt;/li>
+&lt;li>A critical aspect of the system is its temporal behavior. Many properties and constraints have explicit temporal requirements (like after 10 seconds &amp;hellip;). One could model these aspects and make a temporal analysis of the system.&lt;/li>
+&lt;li>After the good experience of ABZ2022, we decided to also include the GUI. Research activities could refer to modeling this critical component and analyzing the human-computer interaction.&lt;/li>
+&lt;li>Generation of executable source code and implement a prototype of the ventilator on a simple electronic board like Arduino (or part of it).&lt;/li>
+&lt;/ul>
+&lt;p>All the pdf versions of the specification document are available here (we keep track of all the changes in the documents):
+&lt;a href="https://github.com/foselab/abz2024_casestudy_MLV" target="_blank" rel="noopener">https://github.com/foselab/abz2024_casestudy_MLV&lt;/a>&lt;/p>
+&lt;p>All the questions and doubts can be discussed here:
+&lt;a href="https://github.com/foselab/abz2024_casestudy_MLV/issues" target="_blank" rel="noopener">https://github.com/foselab/abz2024_casestudy_MLV/issues&lt;/a>&lt;/p>
+&lt;p>If you have any question/comment on the case study, you can contact:&lt;/p>
+&lt;ul>
+&lt;li>Silvia Bonfanti, University of Bergamo,
+&lt;a href="mailto:silvia.bonfanti@unibg.it">silvia.bonfanti@unibg.it&lt;/a>&lt;/li>
+&lt;li>Angelo Gargantini, University of Bergamo,
+&lt;a href="mailto:angelo.gargantini@unibg.it">angelo.gargantini@unibg.it&lt;/a>&lt;/li>
+&lt;li>ABZ 2024,
+&lt;a href="mailto:abz2024@unibg.it">abz2024@unibg.it&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="abz-2024-invites">ABZ 2024 invites:&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Case study papers&lt;/strong>: Full papers reporting on the experiments conducted with any of the state based techniques in the scope of ABZ 2024 case study. A paper of no more than &lt;em>16 pages (excluding references)&lt;/em> in
+&lt;a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" target="_blank" rel="noopener">LNCS format&lt;/a> is expected and will be reviewed.&lt;/li>
+&lt;/ul>
+&lt;div>&lt;img src="/img/Springer_Logo.jpg">&lt;img src="/img/LNCS-Logo.jpg">&lt;/div>
+&lt;p>Accepted papers will appear in the Springer LNCS proceedings.&lt;/p>
+&lt;h3 id="submission-process">Submission Process&lt;/h3>
+&lt;p>Authors should consult
+&lt;a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/19242230/data/v11" target="_blank" rel="noopener">Springer&amp;rsquo;s authors' guidelines&lt;/a> and use their proceedings templates, either for
+&lt;a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238648/data/v6" target="_blank" rel="noopener">LaTeX&lt;/a> or for
+&lt;a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238706/data/v2" target="_blank" rel="noopener">Word&lt;/a>, for the preparation of their papers.Springer encourages authors to include their
+&lt;a href="https://www.springer.com/gp/authors-editors/orcid" target="_blank" rel="noopener">ORCIDs&lt;/a> in their papers. In addition, the corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign a Consent-to-Publish form. The corresponding author signing the copyright form should match the corresponding author marked on the paper. Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made.&lt;/p>
+&lt;p>Authors interested in contributing to ABZ 2024 in Open Access or Open Choice should refer to the corresponding
+&lt;a href="https://www.springer.com/gp/computer-science/lncs/open-access-publishing-in-computer-proceedings" target="_blank" rel="noopener">Springer webpage&lt;/a>.&lt;/p>
+&lt;p class="text-center">&lt;a href="" class="btn btn-primary btn-lg" role="button" target="_blank">Submit contribution&lt;br>&lt;br>&lt;br>&lt;small>via EquinOCS&lt;/small>&lt;/a>&lt;/p>
+&lt;h3 id="important-dates">Important Dates&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>Abstract submission (optional):&lt;/strong>&lt;/td>
+&lt;td>February 3, 2024&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Paper submission:&lt;/strong>&lt;/td>
+&lt;td>February 10, 2024&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Notification:&lt;/strong>&lt;/td>
+&lt;td>April 6, 2024&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Final version:&lt;/strong>&lt;/td>
+&lt;td>April 20, 2024&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/doctoralsymposium/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/doctoralsymposium/</guid><description>&lt;h2 id="doctoral-symposium---call-for-papers">Doctoral Symposium - Call for Papers&lt;/h2>
+&lt;p>The ABZ PhD Symposium is an international forum for PhD students studying all areas related to state based formal methods for software and system development.&lt;/p>
+&lt;p>This forum is a good opportunity for PhD students to&lt;/p>
+&lt;ul>
+&lt;li>bring together PhD students and established and known researchers of the state based formal methods community,&lt;/li>
+&lt;li>provide PhD students with fruitful feedback and advice on their research approach,&lt;/li>
+&lt;li>enable PhD students to interact with other PhD students and to stimulate exchange of ideas suggestions and experiences among participants,&lt;/li>
+&lt;li>provide PhD students an opportunity to present, share and discuss their research in a constructive and critical atmosphere.&lt;/li>
+&lt;/ul>
+&lt;p>We seek PhD students who have either determined the direction of their thesis research (probably with some preliminary results already published), but who still have substantial work to complete, or PhD student participants who are in the early stages of their dissertations. It is not required to have a paper accepted for the main conference in order to participate to the ABZ 2024 Doctoral Symposium.&lt;/p>
+&lt;h3 id="abz-2024-invites">ABZ 2024 invites:&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Contribution to doctoral symposium&lt;/strong>: This is an excellent opportunity for PhD students to present their ongoing work and receive valuable feedback from the ABZ community. A paper of no more than &lt;em>4 pages (excluding references)&lt;/em> in
+&lt;a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" target="_blank" rel="noopener">LNCS format&lt;/a> is expected and will be reviewed.&lt;/li>
+&lt;/ul>
+&lt;p>Preferably, submissions should include&lt;/p>
+&lt;ul>
+&lt;li>Title of the paper and the author name&lt;/li>
+&lt;li>Problem statement, motivations, and progress&lt;/li>
+&lt;li>Current development and related work&lt;/li>
+&lt;li>Proposed solutions, approach and methodology, and their significance&lt;/li>
+&lt;li>Current results and assessement&lt;/li>
+&lt;li>Future work&lt;/li>
+&lt;/ul>
+&lt;div>&lt;img src="/img/Springer_Logo.jpg">&lt;img src="/img/LNCS-Logo.jpg">&lt;/div>
+&lt;p>Accepted papers will be published in the Springer LNCS proceedings.&lt;/p>
+&lt;h3 id="submission-process">Submission Process&lt;/h3>
+&lt;p>Authors should consult
+&lt;a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/19242230/data/v11" target="_blank" rel="noopener">Springer&amp;rsquo;s authors' guidelines&lt;/a> and use their proceedings templates, either for
+&lt;a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238648/data/v6" target="_blank" rel="noopener">LaTeX&lt;/a> or for
+&lt;a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238706/data/v2" target="_blank" rel="noopener">Word&lt;/a>, for the preparation of their papers.Springer encourages authors to include their
+&lt;a href="https://www.springer.com/gp/authors-editors/orcid" target="_blank" rel="noopener">ORCIDs&lt;/a> in their papers. In addition, the corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign a Consent-to-Publish form. The corresponding author signing the copyright form should match the corresponding author marked on the paper. Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made.&lt;/p>
+&lt;p>Authors interested in contributing to ABZ 2024 in Open Access or Open Choice should refer to the corresponding
+&lt;a href="https://www.springer.com/gp/computer-science/lncs/open-access-publishing-in-computer-proceedings" target="_blank" rel="noopener">Springer webpage&lt;/a>.&lt;/p>
+&lt;p class="text-center">&lt;a href="" class="btn btn-primary btn-lg" role="button" target="_blank">Submit contribution&lt;br>&lt;br>&lt;br>&lt;small>via EquinOCS&lt;/small>&lt;/a>&lt;/p>
+&lt;h3 id="important-dates">Important Dates&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>Paper submission:&lt;/strong>&lt;/td>
+&lt;td>February 24, 2024&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Notification:&lt;/strong>&lt;/td>
+&lt;td>April 6, 2024&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Final version:&lt;/strong>&lt;/td>
+&lt;td>April 20, 2024&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/importantdates/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/importantdates/</guid><description>&lt;h2 id="important-dates">Important Dates&lt;/h2>
+&lt;p>All dates anywhere on earth&lt;/p>
+&lt;h3 id="workshopstutorials">Workshops/Tutorials&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>Workshop proposal submission:&lt;/strong>&lt;/td>
+&lt;td>December 01, 2023&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Workshop notification:&lt;/strong>&lt;/td>
+&lt;td>December 15, 2023&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Tutorial proposal submission:&lt;/strong>&lt;/td>
+&lt;td>March 16, 2024&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3 id="case-study-track">Case Study Track&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>Abstract submission (optional):&lt;/strong>&lt;/td>
+&lt;td>February 3, 2024&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Paper submission:&lt;/strong>&lt;/td>
+&lt;td>February 10, 2024&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Notification:&lt;/strong>&lt;/td>
+&lt;td>April 6, 2024&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Final version:&lt;/strong>&lt;/td>
+&lt;td>April 20, 2024&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3 id="main-track">Main Track&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>Abstract submission (optional):&lt;/strong>&lt;/td>
+&lt;td>February 3, 2024&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Paper submission (including research/short/industry/journal-first papers):&lt;/strong>&lt;/td>
+&lt;td>February 10, 2024&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Notification:&lt;/strong>&lt;/td>
+&lt;td>April 6, 2024&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Final version:&lt;/strong>&lt;/td>
+&lt;td>April 20, 2024&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3 id="doctoral-symposium">Doctoral Symposium&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>Paper submission:&lt;/strong>&lt;/td>
+&lt;td>February 24, 2024&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Notification:&lt;/strong>&lt;/td>
+&lt;td>April 6, 2024&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Final version:&lt;/strong>&lt;/td>
+&lt;td>April 20, 2024&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3 id="conference">Conference&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>Workshps and Tutorials (Bergamo, Italy)&lt;/strong>&lt;/td>
+&lt;td>June 25, 2024&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>ABZ 2024 Conference (Bergamo, Italy)&lt;/strong>&lt;/td>
+&lt;td>June 26-28, 2024&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/keynotes/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/keynotes/</guid><description>&lt;h2 id="keynotes">Keynotes&lt;/h2>
+&lt;p>TBA&lt;/p></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/maintrack/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/maintrack/</guid><description>&lt;h2 id="main-abz-track---call-for-papers">Main ABZ Track - Call for Papers&lt;/h2>
+&lt;p>Contributions are solicited on all aspects of the theory and applications of ASMs, Alloy, B, TLA, VDM, Z and other state-based rigour approaches in software/hardware engineering, including the development of tools and industrial applications. The program spans from theoretical and methodological foundations to practical applications, emphasizing system engineering methods and tools that are distinguished by mathematical rigor and have proved to be industrially viable. The main goal of the conference is to contribute to the integration of accurate state- and machine-based system development methods, clarifying their commonalities and differences to better understand how to combine different approaches for accomplishing the various tasks in modeling, experimental validation, mathematical verification of reliable high-quality hardware/software systems. Although organized to host several formal methods in a single event, editorial control of the joint conference is vested in one integrated program committee.&lt;/p>
+&lt;h3 id="abz-2024-invites">ABZ 2024 invites:&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Full research papers&lt;/strong>: Full research papers which have to be original, unpublished and not submitted elsewhere. A paper of no more than &lt;em>16 pages (excluding references)&lt;/em> in
+&lt;a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" target="_blank" rel="noopener">LNCS format&lt;/a> is expected and will be reviewed.&lt;/li>
+&lt;li>&lt;strong>Short papers&lt;/strong>: Short papers to present and validate a work in progress or tool demonstrations. A paper of no more than &lt;em>6 pages (excluding references)&lt;/em> in
+&lt;a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" target="_blank" rel="noopener">LNCS format&lt;/a> is expected and will be reviewed.&lt;/li>
+&lt;li>&lt;strong>Application in industry papers&lt;/strong>: Reporting on work or experiences on the application of state based formal methods in industry. A paper of no more than &lt;em>8 pages (excluding references)&lt;/em> in
+&lt;a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" target="_blank" rel="noopener">LNCS format&lt;/a> is expected and will be reviewed. It is also an interesting option for industrial practitioners who sometimes face too many constraints to prepare a full paper.&lt;/li>
+&lt;li>&lt;strong>Journal-First papers&lt;/strong>: Journal-First paper summarize recently published papers in high-quality journals. The aim of journal-first papers is to further enrich the program of ABZ and to provide more visibility to an already published journal papers in the scope of the ABZ conference. An extended abstract of no more than &lt;em>6 pages (excluding references)&lt;/em> in
+&lt;a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" target="_blank" rel="noopener">LNCS format&lt;/a> is expected and will be reviewed.&lt;/li>
+&lt;/ul>
+&lt;div>&lt;img src="/img/Springer_Logo.jpg">&lt;img src="/img/LNCS-Logo.jpg">&lt;/div>
+&lt;p>Accepted papers will appear in the Springer LNCS proceedings.&lt;/p>
+&lt;h3 id="submission-process">Submission Process&lt;/h3>
+&lt;p>Authors should consult
+&lt;a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/19242230/data/v11" target="_blank" rel="noopener">Springer&amp;rsquo;s authors' guidelines&lt;/a> and use their proceedings templates, either for
+&lt;a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238648/data/v6" target="_blank" rel="noopener">LaTeX&lt;/a> or for
+&lt;a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238706/data/v2" target="_blank" rel="noopener">Word&lt;/a>, for the preparation of their papers. Springer encourages authors to include their
+&lt;a href="https://www.springer.com/gp/authors-editors/orcid" target="_blank" rel="noopener">ORCIDs&lt;/a> in their papers. In addition, the corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign a Consent-to-Publish form. The corresponding author signing the copyright form should match the corresponding author marked on the paper. Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made.&lt;/p>
+&lt;p>Authors interested in contributing to ABZ 2024 in Open Access or Open Choice should refer to the corresponding
+&lt;a href="https://www.springer.com/gp/computer-science/lncs/open-access-publishing-in-computer-proceedings" target="_blank" rel="noopener">Springer webpage&lt;/a>.&lt;/p>
+&lt;p class="text-center">&lt;a href="" class="btn btn-primary btn-lg" role="button" target="_blank">Submit contribution&lt;br>&lt;br>&lt;br>&lt;small>via EquinOCS&lt;/small>&lt;/a>&lt;/p>
+&lt;h3 id="important-dates">Important Dates&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>Abstract submission (optional):&lt;/strong>&lt;/td>
+&lt;td>February 3, 2024&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Paper submission (including research/short/industry/journal-first papers):&lt;/strong>&lt;/td>
+&lt;td>February 10, 2024&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Notification:&lt;/strong>&lt;/td>
+&lt;td>April 6, 2024&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Final version:&lt;/strong>&lt;/td>
+&lt;td>April 20, 2024&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/program/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/program/</guid><description>&lt;h2 id="program">Program&lt;/h2>
+&lt;p>TBA&lt;/p></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/registration/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/registration/</guid><description>&lt;h2 id="participation">Participation&lt;/h2>
+&lt;p>TBA&lt;/p></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/team/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/team/</guid><description>&lt;h2 id="organization">Organization&lt;/h2>
+&lt;h3 id="program-chairs">Program Chairs&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;a href="https://riccobene.di.unimi.it/" target="_blank" rel="noopener">Elvinia Riccobene, Università degli Studi di Milano, Milano, Italy&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="https://www.cs.hhu.de/lehrstuehle-und-arbeitsgruppen/softwaretechnik-und-programmiersprachen/unser-team/team/leuschel" target="_blank" rel="noopener">Michael Leuschel, Heinrich-Heine-Universität, Düsseldorf, Germany&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="case-study-chairs">Case Study Chairs&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;a href="https://cs.unibg.it/bonfanti/" target="_blank" rel="noopener">Silvia Bonfanti, University of Bergamo, Bergamo, Italy&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="https://cs.unibg.it/garganti/" target="_blank" rel="noopener">Angelo Gargantini, University of Bergamo, Bergamo, Italy&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="workshoptutorial-chairs">Workshop/Tutorial Chairs&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;a href="https://claudiomenghi.github.io/" target="_blank" rel="noopener">Claudio Menghi, University of Bergamo, Bergamo, Italy&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="https://www.uni-ulm.de/in/sp/team/dr-alexander-raschke/" target="_blank" rel="noopener">Alexander Raschke, Ulm University, Ulm, Germany&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="sponsor-chair">Sponsor Chair&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;a href="https://claudiomenghi.github.io/" target="_blank" rel="noopener">Claudio Menghi, University of Bergamo, Bergamo, Italy&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="doctoral-symposium-chairs">Doctoral Symposium Chairs&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;a href="https://www.cs.hhu.de/lehrstuehle-und-arbeitsgruppen/softwaretechnik-und-programmiersprachen/unser-team/team/koerner" target="_blank" rel="noopener">Philipp Körner, Heinrich-Heine-Universität, Düsseldorf, Germany&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="https://www.unimi.it/it/ugov/person/chiara-braghin" target="_blank" rel="noopener">Chiara Braghin, Università degli Studi di Milano, Milano, Italy&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="socialpublicity-chair">Social/Publicity Chair&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;a href="https://www.jku.at/en/institute-of-software-systems-engineering/about-us/team/atif-mashkoor/" target="_blank" rel="noopener">Atif Mashkoor, JKU Linz, Linz, Austria&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="https://www.researchgate.net/profile/Fabian-Vul" target="_blank" rel="noopener">Fabian Vu, Heinrich-Heine-Universität, Düsseldorf, Germany&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="web-chairs">Web Chairs&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;a href="https://cs.unibg.it/bombarda/" target="_blank" rel="noopener">Andrea Bombarda, University of Bergamo, Bergamo, Italy&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="https://scholar.google.com/citations?user=twr3edgAAAAJ&amp;amp;hl=en" target="_blank" rel="noopener">Mario Lilli, Università degli Studi di Milano, Milano, Italy&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="local-chair">Local Chair&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;a href="https://cs.unibg.it/scandurra/" target="_blank" rel="noopener">Patrizia Scandurra, University of Bergamo, Bergamo, Italy&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="registration-chair">Registration Chair&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;a href="https://cs.unibg.it/bonfanti/" target="_blank" rel="noopener">Silvia Bonfanti, University of Bergamo, Bergamo, Italy&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="program-committee">Program Committee&lt;/h2>
+&lt;p>TBA&lt;/p></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/tutorialworkshops/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/tutorialworkshops/</guid><description>&lt;h2 id="call-for-workshops-and-tutorials">Call for Workshops and Tutorials&lt;/h2>
+&lt;p>Researchers and practitioners are invited to submit proposals for workshops and tutorials held in conjunction with ABZ 2024. Workshops and tutorials will be held on June 25, 2024 (right before the main conference on June 26 – June 28, 2024).&lt;/p>
+&lt;p>ABZ workshops provide an opportunity for researchers and practitioners to exchange and explore innovative ideas and challenges on rigorous state-based methods, at an early stage.&lt;/p>
+&lt;p>In addition, ABZ edition 2024 hosts tutorials on topics related to state-based formal methods from theoretical foundations to practical applications. Tutorials at ABZ provide a valuable opportunity for conference participants to expand their knowledge and skills in specific research and/or practical topics related to rigorous state-based methods.&lt;/p>
+&lt;h3 id="workshop-proposal-submissions">Workshop Proposal Submissions&lt;/h3>
+&lt;p>The proposal should include the following information:&lt;/p>
+&lt;ul>
+&lt;li>Workshop title and acronym&lt;/li>
+&lt;li>Contact information for the workshop organizers (name, affiliation, email) and the main contact&lt;/li>
+&lt;li>Abstract for ABZ 2024 website (if workshop is accepted)&lt;/li>
+&lt;li>Description of the workshop&lt;/li>
+&lt;li>Format
+&lt;ul>
+&lt;li>Workshop format (e.g., paper presentations, keynotes, breakout sessions, panel-like discussions) and plans for generating discussions&lt;/li>
+&lt;li>Duration - half day or one day&lt;/li>
+&lt;li>Special services, logistic and/or equipment constraints&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="tutorial-proposal-submissions">Tutorial Proposal Submissions&lt;/h3>
+&lt;p>The proposal should include the following information:&lt;/p>
+&lt;ul>
+&lt;li>Tutorial title&lt;/li>
+&lt;li>Contact information of tutorial presenter(s), including name, affiliation, email&lt;/li>
+&lt;li>Tutorial summary for ABZ 2024 website (if tutorial is accepted)&lt;/li>
+&lt;li>Description of the tutorial&lt;/li>
+&lt;li>Format
+&lt;ul>
+&lt;li>How tutorial will be conducted (e.g., lecture, hands-on exercises, facilitated group discussion, group activities, role playing, games)&lt;/li>
+&lt;li>Duration - half day or one day&lt;/li>
+&lt;li>Special services, logistic and/or equipment constraints&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="submission-process">Submission Process&lt;/h3>
+&lt;p>Submissions must follow the
+&lt;a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" target="_blank" rel="noopener">LNCS style&lt;/a>. All proposals should be submitted before the submission deadline (see
+&lt;a href="../importantdates">here&lt;/a>) using the online submission site:
+&lt;a href="">TBA&lt;/a>&lt;/p>
+&lt;h3 id="important-dates">Important Dates&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>Workshop proposal submission:&lt;/strong>&lt;/td>
+&lt;td>December 01, 2023&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Workshop notification:&lt;/strong>&lt;/td>
+&lt;td>December 15, 2023&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Tutorial proposal submission:&lt;/strong>&lt;/td>
+&lt;td>March 16, 2024&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/venue/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/venue/</guid><description>&lt;h2 id="venue-university-of-bergamo">Venue: University of Bergamo&lt;/h2>
+&lt;h3 id="location">Location&lt;/h3>
+&lt;p>Piazzale S. Agostino, 2 &lt;br>
+24129 Bergamo &lt;br>
+Italy &lt;br>&lt;/p>
+&lt;iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d44580.57918470652!2d9.672382!3d45.705295!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4781513d0fa828bb%3A0xd1867fa937e65199!2sSala%20Conferenze%2C%20San&amp;#39;t%20Agostino!5e0!3m2!1sit!2sus!4v1688026989070!5m2!1sit!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">&lt;/iframe>
+&lt;h2 id="about-bergamo">About Bergamo&lt;/h2>
+&lt;p>Bergamo is a small city in Lombardy, in the northern part of Italy, yet it is rich in history and culture. &lt;br>
+The impressive &lt;strong>Venetian Walls&lt;/strong>, enclosing the beauties of the Upper Town for more than four centuries, are recognized as a &lt;strong>Unesco World Heritage&lt;/strong>.&lt;/p>
+&lt;p>For touristic information, the official website is: &lt;br>&lt;/p>
+&lt;p>
+&lt;a href="https://www.visitbergamo.net/en/" target="_blank" rel="noopener">https://www.visitbergamo.net/en/&lt;/a>&lt;/p>
+&lt;p>The value of Bergamo as touristic attraction has often been published on the news:&lt;/p>
+&lt;ul>
+&lt;li>See the recent article in the Travel section of the Financial Times
+&lt;a href="https://www.ft.com/content/02497aca-c22d-431e-918f-011b91406ef1" target="_blank" rel="noopener">“Brescia and Bergamo — rediscovering Italy’s twin treasures”&lt;/a>&lt;/li>
+&lt;li>There is also an older article on the New York Times
+&lt;a href="https://www.nytimes.com/2016/06/26/travel/bergamo-northern-italy-jane-smiley.html" target="_blank" rel="noopener">“In the June Light of Northern Italy, the Bliss of Bergamo”&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/workshop/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/workshop/</guid><description>&lt;h2 id="workshops">Workshops&lt;/h2>
+&lt;p>TBA&lt;/p></description></item><item><title>Site Notice</title><link>/site/notice/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/notice/</guid><description>&lt;p>Information disclosed under Digital Economy Law (575/2004), France:&lt;/p>
 &lt;h3 id="contact">Contact&lt;/h3>
 &lt;div class="container">
 &lt;div class="row">
@@ -273,20 +746,26 @@ ABZ Conference and Community.
 All Rights reserved.
 Any usage of material or information available on this website, including the reproduction, sales, alteration and publication is prohibited unless specifically approved by the ABZ Conference and Community.&lt;/p>
 &lt;h3 id="domain-encryption-and-servers">Domain, Encryption and Servers&lt;/h3>
-&lt;p>The Top-Level Domain (TLD) &lt;a href="https://abz-conf.org">https://abz-conf.org&lt;/a> and all sub-domains are provided by the services from &lt;a href="https://namecheap.com">https://namecheap.com&lt;/a>, the SSL/TLS certificate for encryption is provided by the services from &lt;a href="https://letsencrypt.org">https://letsencrypt.org&lt;/a>, and the (virtual) server infrastructure and hosting of this website is provided by &lt;a href="https://pages.github.com">https://pages.github.com&lt;/a>.&lt;/p>
+&lt;p>The Top-Level Domain (TLD)
+&lt;a href="https://abz-conf.org" target="_blank" rel="noopener">https://abz-conf.org&lt;/a> and all sub-domains are provided by the services from
+&lt;a href="https://namecheap.com" target="_blank" rel="noopener">https://namecheap.com&lt;/a>, the SSL/TLS certificate for encryption is provided by the services from
+&lt;a href="https://letsencrypt.org" target="_blank" rel="noopener">https://letsencrypt.org&lt;/a>, and the (virtual) server infrastructure and hosting of this website is provided by
+&lt;a href="https://pages.github.com" target="_blank" rel="noopener">https://pages.github.com&lt;/a>.&lt;/p>
 &lt;h3 id="cookies-and-analytics">Cookies and Analytics&lt;/h3>
 &lt;p>This website uses no analytics software of any kind.
 The only cookie the website uses and stores is a &lt;code>cookieconsent_status&lt;/code>.
 This cookie consent status is used to store that the page informed you about this page and does only appear the first time you visit this page.&lt;/p>
 &lt;h3 id="twitter-plugin">Twitter Plugin&lt;/h3>
-&lt;p>Our website contains social plugins from &lt;a href="https://twitter.com">https://twitter.com&lt;/a>.
+&lt;p>Our website contains social plugins from
+&lt;a href="https://twitter.com" target="_blank" rel="noopener">https://twitter.com&lt;/a>.
 These plugins are solely provided by Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA.
 When you visit the start page of our website that contains the social plugin, your browser establishes a direct connection to the servers of Twitter, which is used to retrieve the contents of the plugin.
 Through this process, Twitter is aware that you have visited this website.
 If you are logged in to Twitter while browsing this website, Twitter can match your visit with your account.
 By interacting with the plugin, this information is sent directly to Twitter and processed there.
 If you would like to opt out, please log out of Twitter before visiting this website.
-For the information on the purpose and scope of data collection and procession by Twitter, as well as your rights in this respect and settings options for protecting your privacy please visit Twitter’s privacy policy: &lt;a href="https://twitter.com/privacy">https://twitter.com/privacy&lt;/a>.&lt;/p></description></item><item><title>New ABZ Website</title><link>/post/notice/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0200</pubDate><guid>/post/notice/</guid><description>&lt;p>TODO&lt;/p></description></item><item><title>ABZ 2021 (Ulm, Germany)</title><link>/2021/</link><pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate><guid>/2021/</guid><description/></item><item><title>ABZ 2020 (Ulm, Germany)</title><link>/2020/</link><pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate><guid>/2020/</guid><description>&lt;p>This conference was postponed due to the international outbreak of CoVid-19. See
+For the information on the purpose and scope of data collection and procession by Twitter, as well as your rights in this respect and settings options for protecting your privacy please visit Twitter’s privacy policy:
+&lt;a href="https://twitter.com/privacy" target="_blank" rel="noopener">https://twitter.com/privacy&lt;/a>.&lt;/p></description></item><item><title>New ABZ Website</title><link>/post/notice/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0200</pubDate><guid>/post/notice/</guid><description>&lt;p>TODO&lt;/p></description></item><item><title>ABZ 2021 (Ulm, Germany)</title><link>/2021/</link><pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate><guid>/2021/</guid><description/></item><item><title>ABZ 2020 (Ulm, Germany)</title><link>/2020/</link><pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate><guid>/2020/</guid><description>&lt;p>This conference was postponed due to the international outbreak of CoVid-19. See
 &lt;a href="/2021/">ABZ 2021&lt;/a>&lt;/p></description></item><item><title>A Verified Low-Level Implementation of the Adaptive Exterior Light and Speed Control System</title><link>/publication/krings2020abz/</link><pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate><guid>/publication/krings2020abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>In this article, we present an approach to the ABZ 2020 case study, that differs from the ones usually presented at ABZ: Rather than using a (correct-by-construction) approach following a formal method, we use MISRA C for a low-level implementation instead. We strictly adhere to test-driven development for validation, and only afterwards apply model checking using CBMC for verification. In consequence, our realization of the ABZ case study can serve as a baseline reference for comparison, allowing to assess the benefit provided by the various formal modeling languages, methods and tools.&lt;/p>
 &lt;h2 id="document">Document&lt;/h2>
@@ -596,7 +1075,7 @@ crossref = {DBLP:conf/asm/2018}
 &lt;li>&lt;strong>Resources and tools:&lt;/strong>
 Rodin, ProB&lt;/li>
 &lt;li>&lt;strong>Website:&lt;/strong>
-&lt;a href="http://info.usherbrooke.ca/mfrappier/abz2018-ERTMS-Case-Study">http://info.usherbrooke.ca/mfrappier/abz2018-ERTMS-Case-Study&lt;/a>&lt;/li>
+&lt;a href="http://info.usherbrooke.ca/mfrappier/abz2018-ERTMS-Case-Study" target="_blank" rel="noopener">http://info.usherbrooke.ca/mfrappier/abz2018-ERTMS-Case-Study&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;p>For more information, please contact the &lt;a href ="mailto:amel.mammar@telecom-sudparis.eu;laleau@u-pec.fr">authors&lt;/a>&lt;/p></description></item><item><title>Diagram-Led Formal Modelling Using iUML-B for Hybrid ERTMS Level 3</title><link>/publication/dghaym2018abz/</link><pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate><guid>/publication/dghaym2018abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>We demonstrate diagrammatic Event-B formal modelling of a hybrid, &amp;lsquo;fixed virtual block&amp;rsquo; approach to train movement control for the emerging European Rail Traffic Management System (ERTMS) level 3. We perform a refinement-based formal development and verification of the no-collision safety requirement. The development reveals limitations in the specification and identifies assumptions on the environment. We reflect on our team-based approach to finding useful modelling abstractions and demonstrate a systematic modelling method using the UMLlike state and class diagrams of iUML-B. We suggest enhancements to the existing iUML-B method that would have benefitted this development.&lt;/p>
@@ -680,7 +1159,7 @@ Openflexo, Rodin, The SysMLKaos Domain Modeling Tool&lt;/li>
 &lt;li>&lt;strong>Required OS:&lt;/strong>
 Linux, Mac, Windows&lt;/li>
 &lt;li>&lt;strong>Website:&lt;/strong>
-&lt;a href="https://github.com/stuenofotso/SysML_KAOS_Domain_Model_Parser/tree/master/ABZ18_ERTMS">https://github.com/stuenofotso/SysML_KAOS_Domain_Model_Parser/tree/master/ABZ18_ERTMS&lt;/a>&lt;/li>
+&lt;a href="https://github.com/stuenofotso/SysML_KAOS_Domain_Model_Parser/tree/master/ABZ18_ERTMS" target="_blank" rel="noopener">https://github.com/stuenofotso/SysML_KAOS_Domain_Model_Parser/tree/master/ABZ18_ERTMS&lt;/a>&lt;/li>
 &lt;li>&lt;strong>Remarks and recommendation:&lt;/strong>
 The developed model focuses on formal verification of the main requirements of the protocol. Its main objective is to assess the SysML/KAOS method and to compare it with direct specification approaches using only plain Event-B.&lt;/li>
 &lt;/ul></description></item><item><title>Modelling the Hybrid ERTMS/ETCS Level 3 Case Study in Spin</title><link>/publication/arcaini2018abz/</link><pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate><guid>/publication/arcaini2018abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
@@ -720,7 +1199,7 @@ Spin&lt;/li>
 &lt;li>&lt;strong>Resources and tools:&lt;/strong>
 Spin&lt;/li>
 &lt;li>&lt;strong>Website:&lt;/strong>
-&lt;a href="http://d3s.mff.cuni.cz/~kofron/abz18casestudy.html">http://d3s.mff.cuni.cz/~kofron/abz18casestudy.html&lt;/a>&lt;/li>
+&lt;a href="http://d3s.mff.cuni.cz/~kofron/abz18casestudy.html" target="_blank" rel="noopener">http://d3s.mff.cuni.cz/~kofron/abz18casestudy.html&lt;/a>&lt;/li>
 &lt;li>&lt;strong>Model Archive:&lt;/strong>
 &lt;a href="/data/abz18/arcaini2018abz.zip">ZIP&lt;/a>&lt;/li>
 &lt;/ul>
@@ -1739,6 +2218,8 @@ isbn=&amp;quot;978-3-319-07512-9&amp;quot;
 ProB&lt;/p>
 &lt;p>For more information, please contact the &lt;a href ="mailto:leuschel@cs.uni-duesseldorf.de">authors&lt;/a>&lt;/p>
 &lt;/li>
-&lt;/ul></description></item><item><title>ABZ 2012 (Pisa, Italy)</title><link>/2012/</link><pubDate>Tue, 19 Jun 2012 00:00:00 +0000</pubDate><guid>/2012/</guid><description/></item><item><title>ABZ 2010 (Orford, Canada)</title><link>/2010/</link><pubDate>Tue, 01 Jun 2010 00:00:00 +0000</pubDate><guid>/2010/</guid><description/></item><item><title>ABZ 2008 (London, UK)</title><link>/2008/</link><pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate><guid>/2008/</guid><description/></item><item><title>AMAN Case Study (ABZ 2020)</title><link>/case-study/abz23/</link><pubDate>Thu, 01 Jan 1970 00:33:43 +0000</pubDate><guid>/case-study/abz23/</guid><description>&lt;p>This document presents the case study for ABZ 2023 conference. The case study introduces a safety critical interactive system called
+&lt;/ul></description></item><item><title>ABZ 2012 (Pisa, Italy)</title><link>/2012/</link><pubDate>Tue, 19 Jun 2012 00:00:00 +0000</pubDate><guid>/2012/</guid><description/></item><item><title>ABZ 2010 (Orford, Canada)</title><link>/2010/</link><pubDate>Tue, 01 Jun 2010 00:00:00 +0000</pubDate><guid>/2010/</guid><description/></item><item><title>ABZ 2008 (London, UK)</title><link>/2008/</link><pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate><guid>/2008/</guid><description/></item><item><title>Mechanical Lung Ventilator (ABZ 2024)</title><link>/case-study/abz24/</link><pubDate>Thu, 01 Jan 1970 00:33:44 +0000</pubDate><guid>/case-study/abz24/</guid><description>&lt;p>This document presents the case study for ABZ 2024 conference. The case study introduces Mechanical Lung Ventilator (MLV). The MLV is intended to provide ventilation support for patients that require mechanical ventilation in two operative modes: Pressure Controlled Ventilation (PCV) and Pressure Support Ventilation (PSV). The former is used when patients are not able to start breathing on their own, while the latter support patients by partially taking over the work of breathing. which is a partly-autonomous scheduler of landing sequences of aircraft in airports. This interactive systems interleaves Air Traffic Controllers activities with automation in AMAN. While some AMAN systems are currently deployed in airports, we consider here only a subset of functions which represent a challenge in modelling and verification.&lt;/p>
+&lt;p>For a more detailed description of the case study, and the document reporting the requirements see
+&lt;a href="../../site/2024/casestudy">here&lt;/a>.&lt;/p></description></item><item><title>AMAN Case Study (ABZ 2023)</title><link>/case-study/abz23/</link><pubDate>Thu, 01 Jan 1970 00:33:43 +0000</pubDate><guid>/case-study/abz23/</guid><description>&lt;p>This document presents the case study for ABZ 2023 conference. The case study introduces a safety critical interactive system called
 AMAN (Arrival MANager) which is a partly-autonomous scheduler of landing sequences of aircraft in airports. This interactive systems interleaves Air Traffic Controllers activities with automation in AMAN. While some AMAN systems are currently deployed in airports, we consider here only a subset of functions which represent a challenge in modelling and verification.&lt;/p></description></item><item><title>Adaptive Exterior Light and Speed Control System (ABZ 2020)</title><link>/case-study/abz20/</link><pubDate>Thu, 01 Jan 1970 00:33:40 +0000</pubDate><guid>/case-study/abz20/</guid><description>&lt;p>This document describes two systems from the automotive domain: an adaptive exterior light system (ELS) and a speed control system (SCS). This specification is based on the SPES XT running example. Besides their general architectures, the requirements of the software based controllers are described. Both systems are only loosely coupled, which makes it possible to handle them independently&lt;/p></description></item><item><title>The Hybrid ERTMS/ETCS Level 3 (ABZ 2018)</title><link>/case-study/abz18/</link><pubDate>Thu, 01 Jan 1970 00:33:38 +0000</pubDate><guid>/case-study/abz18/</guid><description>&lt;p>This document presents a description of the European Rail Traffic Management System (ERTMS) case study. ERTMS is a system of standards for management and interoperation of signalling for railways by the European Union (EU). The case study focuses on the ERTMS Level 3 Hybrid principle, which accommodates different types of trains including ERTMS trains equiped with the Train Integrity Monitoring System (TIMS), ERTMS trains without TIMS, and non-ERTMS trains.&lt;/p></description></item><item><title>The Hemodialysis Machine (ABZ 2016)</title><link>/case-study/abz16/</link><pubDate>Thu, 01 Jan 1970 00:33:36 +0000</pubDate><guid>/case-study/abz16/</guid><description>&lt;p>This documents presents a description of a case study concerning the control of a hemodialysis (HD) machine.
 It provides an overview of the requirements and the design of an HD machine including a sketch of the machine’s functionality, related safety conditions, and a top-level system architectural description.&lt;/p></description></item><item><title>The Landing Gear System (ABZ 2014)</title><link>/case-study/abz14/</link><pubDate>Thu, 01 Jan 1970 00:33:34 +0000</pubDate><guid>/case-study/abz14/</guid><description>&lt;p>This document presents a landing gear system. It describes the system and provides some of its requirements. We propose this case study as a benchmark for techniques and tools dedicated to the verification of behavioral properties of systems.&lt;/p></description></item></channel></rss>

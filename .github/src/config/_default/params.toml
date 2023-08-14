@@ -89,6 +89,8 @@ docs_section_pager = true
 
 sharing = true
 
+contacts = true
+
 link_authors = true
 
 abstract_length = 135
