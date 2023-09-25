@@ -37,6 +37,8 @@ The proposal should include the following information:
   - Duration - half day or one day 
   - Special services, logistic and/or equipment constraints
  
+Proposals can be sent to the chairs [claudio.menghi@unibg.it](mailto:claudio.menghi@unibg.it) and [alexander.raschke@uni-ulm.de](mailto:alexander.raschke@uni-ulm.de)
+ 
 ### Tutorial Proposal Submissions
 
 The proposal should include the following information:
@@ -49,6 +51,8 @@ The proposal should include the following information:
   - How tutorial will be conducted (e.g., lecture, hands-on exercises, facilitated group discussion, group activities, role playing, games)
   - Duration - half day or one day
   - Special services, logistic and/or equipment constraints
+ 
+Proposals can be sent to the chairs [claudio.menghi@unibg.it](mailto:claudio.menghi@unibg.it) and [alexander.raschke@uni-ulm.de](mailto:alexander.raschke@uni-ulm.de)
 
 ### Submission Process
 Submissions must follow the [LNCS style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines). All proposals should be submitted before the submission deadline (see [here](../importantdates)) using the online submission site: [TBA]()
