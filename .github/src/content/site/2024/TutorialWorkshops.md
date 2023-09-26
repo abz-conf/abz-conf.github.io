@@ -51,7 +51,7 @@ The proposal should include the following information:
   - Special services, logistic and/or equipment constraints
 
 ### Submission Process
-Proposals can be sent to the chairs [claudio.menghi@unibg.it](mailto:claudio.menghi@unibg.it) and [alexander.raschke@uni-ulm.de](mailto:alexander.raschke@uni-ulm.de) before the submission deadline.
+Proposals can be sent to the chairs [claudio.menghi@unibg.it](mailto:claudio.menghi@unibg.it) and [alexander.raschke@uni-ulm.de](mailto:alexander.raschke@uni-ulm.de) before the submission deadline (see [here](../importantdates)).
 
 ### Important Dates
 
