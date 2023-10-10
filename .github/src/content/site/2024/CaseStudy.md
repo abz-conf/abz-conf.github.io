@@ -58,6 +58,8 @@ Authors interested in contributing to ABZ 2024 in Open Access or Open Choice sho
 
 <p class="text-center"><a href="https://equinocs.springernature.com/service/ABZ2024" class="btn btn-primary btn-lg" role="button" target="_blank">Submit contribution<br><br><br><small>via EquinOCS</small></a></p>
 
+EquinOCS guidelines for authors can be found [here](https://support.springernature.com/en/support/solutions/articles/6000245512-authors-of-papers-chapters)
+
 ### Important Dates
 
 |          |         |
