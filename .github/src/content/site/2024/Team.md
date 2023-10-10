@@ -43,7 +43,7 @@ skyline:
 * [Philipp Körner, Heinrich-Heine-Universität, Düsseldorf, Germany](https://www.cs.hhu.de/lehrstuehle-und-arbeitsgruppen/softwaretechnik-und-programmiersprachen/unser-team/team/koerner)
 * [Chiara Braghin, Università degli Studi di Milano, Milano, Italy](https://www.unimi.it/it/ugov/person/chiara-braghin)
 
-### Social/Publicity Chair
+### Social/Publicity Chairs
 
 * [Atif Mashkoor, JKU Linz, Linz, Austria](https://www.jku.at/en/institute-of-software-systems-engineering/about-us/team/atif-mashkoor/)
 * [Fabian Vu, Heinrich-Heine-Universität, Düsseldorf, Germany](https://www.researchgate.net/profile/Fabian-Vul)
