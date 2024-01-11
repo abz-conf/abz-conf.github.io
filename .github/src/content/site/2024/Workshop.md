@@ -31,6 +31,7 @@ For Rodin users, the workshop will provide an opportunity to share tool experien
 Participants may attend or present both in person or remotely. 
 If you are willing to participate remotely, please contact the organizers.
 
+Additional details can be found at [https://isse.jku.at/ivoire/index.php/Main_Page](https://wiki.event-b.org/index.php/Rodin_Workshop_2024)
 #### Format and date
 
 The workshop will host presentations, with ample time for discussions.
