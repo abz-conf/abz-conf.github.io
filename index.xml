@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ABZ</title><link>/</link><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><description>ABZ</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2023 ABZ Conference</copyright><lastBuildDate>Tue, 25 Jun 2024 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>ABZ</title><link>/</link></image><item><title>ABZ 2024 (Bergamo, Italy)</title><link>/2024/</link><pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate><guid>/2024/</guid><description>&lt;!--&lt;meta http-equiv="refresh" content="0; URL='../site/2024'" />-->
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ABZ</title><link>/</link><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><description>ABZ</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2024 ABZ Conference</copyright><lastBuildDate>Tue, 25 Jun 2024 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>ABZ</title><link>/</link></image><item><title>ABZ 2024 (Bergamo, Italy)</title><link>/2024/</link><pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate><guid>/2024/</guid><description>&lt;!--&lt;meta http-equiv="refresh" content="0; URL='../site/2024'" />-->
 &lt;p>The ABZ conference is dedicated to the cross-fertilization of state-based and machine-based formal methods, like Abstract State Machines (ASM), Alloy, B, TLA, VDM and Z, that share a common conceptual foundation and are widely used in both academia and industry for the design and analysis of hardware and software systems. The conference aims for a vital exchange of knowledge and experience among the research communities around different formal methods.&lt;/p></description></item><item><title>ABZ 2023 (Nancy, France)</title><link>/2023/</link><pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate><guid>/2023/</guid><description/></item><item><title>BibTex-Entries of ASM workshops and References</title><link>/method/asm/bibtex-references/</link><pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate><guid>/method/asm/bibtex-references/</guid><description>&lt;p>BibTex-Entries of the mentioned &lt;strong>ASM Workshop Proceedings&lt;/strong> 1994-2007 (preceding the merge of those workshops with the user meetings of Z and B to the ABZ Conference, started in 2008) and the references can be found
 &lt;a href="/method/asm/bibtex-references/">here&lt;/a>.&lt;/p>
 &lt;pre>&lt;code>@Proceedings{Asm94,
@@ -698,7 +698,62 @@ The impressive &lt;strong>Venetian Walls&lt;/strong>, enclosing the beauties of 
 &lt;li>There is also an older article on the New York Times
 &lt;a href="https://www.nytimes.com/2016/06/26/travel/bergamo-northern-italy-jane-smiley.html" target="_blank" rel="noopener">“In the June Light of Northern Italy, the Bliss of Bergamo”&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/workshop/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/workshop/</guid><description>&lt;h2 id="workshops">Workshops&lt;/h2>
-&lt;p>TBA&lt;/p></description></item><item><title>Site Notice</title><link>/site/notice/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/notice/</guid><description>&lt;p>Information disclosed under Digital Economy Law (575/2004), France:&lt;/p>
+&lt;p>ABZ 2024 will host the two following workshops.&lt;/p>
+&lt;h3 id="rodin-workshop">Rodin workshop&lt;/h3>
+&lt;p>Event-B is a formal method for system-level modeling and analysis. The Rodin Platform is an Eclipse-based toolset for Event-B that provides effective support for modeling and automated proof. The platform is open source and is further extendable with plug-ins. A range of plug-ins have already been developed.&lt;/p>
+&lt;p>The purpose of this workshop is to bring together existing and potential users and developers of the Rodin toolset and to foster a broader community of Rodin users and developers.&lt;/p>
+&lt;p>For Rodin users, the workshop will provide an opportunity to share tool experiences and gain an understanding of ongoing tool developments. For plug-in developers, the workshop will provide an opportunity to showcase their tools and to achieve better coordination of tool development efforts.&lt;/p>
+&lt;p>Participants may attend or present both in person or remotely.
+If you are willing to participate remotely, please contact the organizers.&lt;/p>
+&lt;h4 id="format-and-date">Format and date&lt;/h4>
+&lt;p>The workshop will host presentations, with ample time for discussions.&lt;/p>
+&lt;p>The Rodin workshop will be held on June 25, 2024.&lt;/p>
+&lt;h4 id="organizers">Organizers&lt;/h4>
+&lt;ul>
+&lt;li>Asieh Salehi Fathabadi (University of Southampton)
+&lt;a href="mailto:A.Salehi-Fathabadi@soton.ac.uk">A.Salehi-Fathabadi@soton.ac.uk&lt;/a>&lt;/li>
+&lt;li>Guillaume Verdier (Université de Paris-Est Créteil)
+&lt;a href="mailto:Guillaume.Verdier@irit.fr">Guillaume.Verdier@irit.fr&lt;/a>&lt;/li>
+&lt;li>Neeraj Kumar Singh (INPT-ENSEEIHT / IRIT)
+&lt;a href="mailto:neeraj.singh@toulouse-inp.fr">neeraj.singh@toulouse-inp.fr&lt;/a>&lt;/li>
+&lt;li>Sebastian Stock (Johannes Kepler University)
+&lt;a href="mailto:sebastian.stock@jku.at">sebastian.stock@jku.at&lt;/a>&lt;/li>
+&lt;li>Main contact: Laurent Voisin (Systerel)
+&lt;a href="mailto:laurent.voisin@systerel.fr">laurent.voisin@systerel.fr&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="ivoire-workshop">IVOIRE workshop&lt;/h3>
+&lt;p>Historically, formal methods and supported environments have focused more on only one-half of the quality-assurance process: verification (are we building the software right?).
+The other half, validation (are we building the right software?), has been given much less attention, i.e., we have fewer automated/push-button tools available for validation, unlike verification.
+The IVOIRE workshop focuses on developing an enhanced formal paradigm based on an extension of the refinement framework that includes a comprehensive validation process and toolchain to perform validation obligations.&lt;/p>
+&lt;p>The main goal of this workshop is to provide a platform for formal methods practitioners, researchers, and academics to discuss various issues associated with validation for formal methods, including but not limited to:&lt;/p>
+&lt;ul>
+&lt;li>Validation obligations or other systematic approaches to validation&lt;/li>
+&lt;li>Relation between refinement and validation and the interplay between verification and validation&lt;/li>
+&lt;li>Environments and tools to manage the validation process&lt;/li>
+&lt;li>Evaluations, benchmarking, case studies, etc.&lt;/li>
+&lt;/ul>
+&lt;p>Additional details can be found at
+&lt;a href="https://isse.jku.at/ivoire/index.php/Main_Page" target="_blank" rel="noopener">https://isse.jku.at/ivoire/index.php/Main_Page&lt;/a>&lt;/p>
+&lt;h4 id="format-and-date-1">Format and date&lt;/h4>
+&lt;p>The workshop will host paper presentations.&lt;/p>
+&lt;p>The IVOIRE workshop will be held on June 25, 2024.&lt;/p>
+&lt;h4 id="organizers-1">Organizers&lt;/h4>
+&lt;p>&lt;em>Workshop chairs&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Atif Mashkoor (JKU Linz, Austria)
+&lt;a href="mailto:atif.mashkoor@jku.at">atif.mashkoor@jku.at&lt;/a>&lt;/li>
+&lt;li>Michael Leuschel (HHU Düsseldorf, Germany)
+&lt;a href="mailto:leuschel@hhu.de">leuschel@hhu.de&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;em>Workshop organizing committee&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Sebastian Stock (JKU Linz, Austria)
+&lt;a href="mailto:sebastian.stock@jku.at">sebastian.stock@jku.at&lt;/a>&lt;/li>
+&lt;li>Fabian Vu (HHU Düsseldorf, Germany)
+&lt;a href="mailto:fabian.vu@uni-duesseldorf.de">fabian.vu@uni-duesseldorf.de&lt;/a>&lt;/li>
+&lt;li>David Geleßus (HHU Düsseldorf, Germany)
+&lt;a href="mailto:dagel101@hhu.de">dagel101@hhu.de&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Site Notice</title><link>/site/notice/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/notice/</guid><description>&lt;p>Information disclosed under Digital Economy Law (575/2004), France:&lt;/p>
 &lt;h3 id="contact">Contact&lt;/h3>
 &lt;div class="container">
 &lt;div class="row">
@@ -749,7 +804,7 @@ Mariahilfer Straße 36&lt;br>
 &lt;p>Despite careful examination, we assume no liability for external links.
 Responsibility for the content of external links lies with the owners and responsible operators.&lt;/p>
 &lt;h3 id="copyright">Copyright&lt;/h3>
-&lt;p>All contents, texts, graphics, layouts, code or software are Copyright © 2023
+&lt;p>All contents, texts, graphics, layouts, code or software are Copyright © 2024
 ABZ Conference and Community.
 All Rights reserved.
 Any usage of material or information available on this website, including the reproduction, sales, alteration and publication is prohibited unless specifically approved by the ABZ Conference and Community.&lt;/p>
