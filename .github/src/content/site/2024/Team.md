@@ -105,5 +105,3 @@ skyline:
 * Maurice ter Beek, CNR, Italy
 * Laurent Voisin, Systerel, France
 * Wolf Zimmermann, Martin Luther University Halle-Wittenberg, Germany
-
-TBA
