@@ -63,4 +63,47 @@ skyline:
 
 ## Program Committee
 
+* Yamine Ait Ameur, IRIT/INPT-ENSEEIHT, France
+* André Étienne, Université Sorbonne Paris Nord, LIPN, CNRS UMR, France
+* Paolo Arcaini, National Institute of Informatics, Japan
+* Richard Banach, University of Manchester, UK
+* Egon Boerger, University of Pisa, Italy
+* Chiara Braghin, University of Milan, Italy
+* Michael Butler, University of Southampton, UK
+* Maximiliano Cristiá, Universidad Nacional de Rosario, Argentina
+* Alcino Cunha, University of Minho, Portugal
+* Juergen Dingel, Queen's University, Ontario
+* Catherine Dubois, ENSIIE-Samovar, France
+* Guillaume Dupont, IRIT/INPT-ENSEEIHT, France
+* Gidon Ernst, LMU Munich, Germany
+* Flavio Ferrarotti, Software Competence Centre Hagenberg, Austria
+* Mamoun Filali Amine, IRIT CNRS Université Paul Sabatier, France
+* Marc Frappier, Université de Sherbrooke, Canada
+* Frederic Gervais, Univ Paris Est Creteil, LACL, France
+* Vincenzo Gervasi, University of Pisa, Italy
+* Stefan Hallerstede, Aarhus University, Denmark
+* Klaus Havelund, Jet Propulsion Laboratory, USA
+* Thai Son Hoang, University of Southampton, UK
+* Fuyuki Ishikawa, National Institute of Informatics, Japan
+* Philipp Körner, University of Düsseldorf, Germany
+* Olga Kouchnarenko, University of Franche-Comté, France
+* Régine Laleau, Paris Est Creteil University, France
+* Thierry Lecomte, CLEARSY, France
+* Frederic Mallet, Université Côte d'Azur, France
+* Tiziana Margaria, University of Limerick, Ireland
+* Atif Mashkoor, Johannes Kepler University, Austria
+* Claudio Menghi, University of Bergamo, Italy
+* Dominique Mery, Université de Lorraine, LORIA, France
+* Stephan Merz, Inria, France
+* Rosemary Monahan, Maynooth University, Ireland
+* Philipp Paulweber, fiskaly GmbH, Austria
+* Andreas Prinz, University of Agder, Norway
+* Alexander Raschke, Ulm University, Germany
+* Gerhard Schellhorn, Universitaet Augsburg, Germany
+* Klaus-Dieter Shewe, Zhejiang University, China
+* Neeraj Singh, INPT-ENSEEIHT / IRIT, University of Toulouse, France
+* Maurice ter Beek, CNR, Italy
+* Laurent Voisin, Systerel, France
+* Wolf Zimmermann, Martin Luther University Halle-Wittenberg, Germany
+
 TBA
