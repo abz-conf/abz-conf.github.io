@@ -31,7 +31,7 @@ For Rodin users, the workshop will provide an opportunity to share tool experien
 Participants may attend or present both in person or remotely. 
 If you are willing to participate remotely, please contact the organizers.
 
-Additional details can be found at [https://isse.jku.at/ivoire/index.php/Main_Page](https://wiki.event-b.org/index.php/Rodin_Workshop_2024)
+Additional details can be found at [https://wiki.event-b.org/index.php/Rodin_Workshop_2024](https://wiki.event-b.org/index.php/Rodin_Workshop_2024)
 #### Format and date
 
 The workshop will host presentations, with ample time for discussions.
@@ -44,6 +44,7 @@ The Rodin workshop will be held on June 25, 2024.
 - Guillaume Verdier (Université de Paris-Est Créteil) <Guillaume.Verdier@irit.fr>
 - Neeraj Kumar Singh (INPT-ENSEEIHT / IRIT) <neeraj.singh@toulouse-inp.fr>
 - Sebastian Stock (Johannes Kepler University) <sebastian.stock@jku.at>
+- Kristin Rutenkolk (Heinrich Heine University Düsseldorf) <kristin.rutenkolk@hhu.de>
 - Main contact: Laurent Voisin (Systerel) <laurent.voisin@systerel.fr>
 
 ### IVOIRE workshop
