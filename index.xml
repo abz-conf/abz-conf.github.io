@@ -227,8 +227,8 @@ $yamine@n7.fr$ &lt;br/>
 &lt;a href="http://www.zuser.org/" target="_blank" rel="noopener">http://www.zuser.org/&lt;/a>&lt;/p></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/</guid><description>&lt;h3 id="bergamo-italy---jun-25-2024--jun-28-2024">Bergamo (Italy) - Jun 25, 2024 — Jun 28, 2024&lt;/h3>
 &lt;br>
 &lt;p>The ABZ conference is dedicated to the cross-fertilization of state-based and machine-based formal methods, like Abstract State Machines (ASM), Alloy, B, TLA, VDM and Z, that share a common conceptual foundation and are widely used in both academia and industry for the design and analysis of hardware and software systems. The conference aims for a vital exchange of knowledge and experience among the research communities around different formal methods.&lt;/p>
-&lt;h3 id="news">News&lt;/h3>
-&lt;p>TBA&lt;/p>
+&lt;!--### News
+TBA -->
 &lt;h3 id="sponsors">Sponsors&lt;/h3>
 &lt;p>TBA&lt;/p></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/calls/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/calls/</guid><description>&lt;h2 id="call-for-papers">Call for papers&lt;/h2>
 &lt;p>The ABZ conference is dedicated to the cross-fertilization of state-based and machine-based formal methods, like Abstract State Machines (ASM), Alloy, B, TLA, VDM and Z, that share a common conceptual foundation and are widely used in both academia and industry for the design and analysis of hardware and software systems. The conference aims for a vital exchange of knowledge and experience among the research communities around different formal methods.&lt;/p>
@@ -749,7 +749,7 @@ The impressive &lt;strong>Venetian Walls&lt;/strong>, enclosing the beauties of 
 &lt;p>Participants may attend or present both in person or remotely.
 If you are willing to participate remotely, please contact the organizers.&lt;/p>
 &lt;p>Additional details can be found at
-&lt;a href="https://wiki.event-b.org/index.php/Rodin_Workshop_2024" target="_blank" rel="noopener">https://isse.jku.at/ivoire/index.php/Main_Page&lt;/a>&lt;/p>
+&lt;a href="https://wiki.event-b.org/index.php/Rodin_Workshop_2024" target="_blank" rel="noopener">https://wiki.event-b.org/index.php/Rodin_Workshop_2024&lt;/a>&lt;/p>
 &lt;h4 id="format-and-date">Format and date&lt;/h4>
 &lt;p>The workshop will host presentations, with ample time for discussions.&lt;/p>
 &lt;p>The Rodin workshop will be held on June 25, 2024.&lt;/p>
@@ -763,6 +763,8 @@ If you are willing to participate remotely, please contact the organizers.&lt;/p
 &lt;a href="mailto:neeraj.singh@toulouse-inp.fr">neeraj.singh@toulouse-inp.fr&lt;/a>&lt;/li>
 &lt;li>Sebastian Stock (Johannes Kepler University)
 &lt;a href="mailto:sebastian.stock@jku.at">sebastian.stock@jku.at&lt;/a>&lt;/li>
+&lt;li>Kristin Rutenkolk (Heinrich Heine University Düsseldorf)
+&lt;a href="mailto:kristin.rutenkolk@hhu.de">kristin.rutenkolk@hhu.de&lt;/a>&lt;/li>
 &lt;li>Main contact: Laurent Voisin (Systerel)
 &lt;a href="mailto:laurent.voisin@systerel.fr">laurent.voisin@systerel.fr&lt;/a>&lt;/li>
 &lt;/ul>
