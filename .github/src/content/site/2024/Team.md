@@ -63,6 +63,7 @@ skyline:
 
 ## Program Committee
 
+* Lisitsa Alexei, University of Liverpool, UK
 * Yamine Ait Ameur, IRIT/INPT-ENSEEIHT, France
 * André Étienne, Université Sorbonne Paris Nord, LIPN, CNRS UMR, France
 * Paolo Arcaini, National Institute of Informatics, Japan
@@ -105,3 +106,4 @@ skyline:
 * Maurice ter Beek, CNR, Italy
 * Laurent Voisin, Systerel, France
 * Wolf Zimmermann, Martin Luther University Halle-Wittenberg, Germany
+* Aguirre	Nazareno,	Universidad Nacional de Río Cuarto,	Argentina
