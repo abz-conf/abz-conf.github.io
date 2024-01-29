@@ -63,9 +63,9 @@ skyline:
 
 ## Program Committee
 
-* Lisitsa Alexei, University of Liverpool, UK
 * Yamine Ait Ameur, IRIT/INPT-ENSEEIHT, France
-* André Étienne, Université Sorbonne Paris Nord, LIPN, CNRS UMR, France
+* Nazareno Aguirre,	Universidad Nacional de Río Cuarto,	Argentina
+* Étienne André, Université Sorbonne Paris Nord, LIPN, CNRS UMR, France
 * Paolo Arcaini, National Institute of Informatics, Japan
 * Richard Banach, University of Manchester, UK
 * Egon Boerger, University of Pisa, Italy
@@ -90,7 +90,9 @@ skyline:
 * Olga Kouchnarenko, University of Franche-Comté, France
 * Régine Laleau, Paris Est Creteil University, France
 * Thierry Lecomte, CLEARSY, France
+* Alexei Lisitsa, University of Liverpool, UK
 * Frederic Mallet, Université Côte d'Azur, France
+* Amel Mammar, TELECOM Sud Paris, France
 * Tiziana Margaria, University of Limerick, Ireland
 * Atif Mashkoor, Johannes Kepler University, Austria
 * Claudio Menghi, University of Bergamo, Italy
@@ -106,4 +108,3 @@ skyline:
 * Maurice ter Beek, CNR, Italy
 * Laurent Voisin, Systerel, France
 * Wolf Zimmermann, Martin Luther University Halle-Wittenberg, Germany
-* Aguirre	Nazareno,	Universidad Nacional de Río Cuarto,	Argentina
