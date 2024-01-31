@@ -70,7 +70,9 @@ skyline:
 * Richard Banach, University of Manchester, UK
 * Egon Boerger, University of Pisa, Italy
 * Chiara Braghin, University of Milan, Italy
+* Adam Bryant, Galois Inc., USA
 * Michael Butler, University of Southampton, UK
+* José	Creissac Campos, University of Minho & HASLab/INESC TEC, Portugal
 * Maximiliano Cristiá, Universidad Nacional de Rosario, Argentina
 * Alcino Cunha, University of Minho, Portugal
 * Juergen Dingel, Queen's University, Ontario
