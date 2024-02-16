@@ -32,8 +32,7 @@ skyline:
 
 ## Author Policy
 
-* Authors are expected to present their paper physically (i.e. on-site). Please contact us quickly at abz2024@unibg.it if no author can attend the conference on site.
-* At least one “Author Registration” per paper accepted is required before April, 20th.
+At least one “Author Registration” per paper accepted is required before April, 20th.
 
 ## Student Policy
 
