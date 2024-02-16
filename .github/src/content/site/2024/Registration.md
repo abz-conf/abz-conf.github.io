@@ -16,6 +16,35 @@ skyline:
   image: "bergamo-skyline.svg"
   url: "https://en.wikipedia.org/wiki/Bergamo"
 ---
-## Participation
+## Registration fees (all values are in EUR)
 
-TBA
+|  **Registration type** | **Due date** |   |
+|---|---|---|
+| Author registration (workshops are included) | April 20, 2024 | €480 |
+| Early full regstration | May 25, 2024 | €480 |
+| Early student registration | May 25, 2024 | €250 |
+| Early workshop registration only (1 day) | May 25, 2024 | €120 |
+| Late full registration  | June 16, 2024 | €550 |
+| Late student registration  | June 16, 2024 | €300 |
+| Late workshop registration only (1 day)  | June 16, 2024 | €180 |
+
+## Author Policy
+
+* Authors are expected to present their paper physically (i.e. on-site). Please contact us quickly at abz2024@unibg.it if no author can attend the conference on site.
+* At least one “Author Registration” per paper accepted is required before April, 20th.
+
+## Student Policy
+
+For registrations at the student rate, a proof of student status – such as a confirmation of registration provided by the university or a confirmation letter by the PhD advisor - must be sent by email to abz2024@unibg.it together with the payment receipt.
+
+## Visa Information
+
+If you need a visa for traveling to Italy, we can provide you with an invitation letter needed for obtaining the visa. You have to explicitly indicate it in the email when you send the payment receipt to abz2024@unibg.it.
+
+## What is included in the price:
+
+* Gadgets
+* Catering
+* Reception ticket
+* Banquet ticket
+* Città Alta guided tour with dinner
