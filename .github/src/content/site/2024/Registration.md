@@ -44,7 +44,7 @@ If you need a visa for traveling to Italy, we can provide you with an invitation
 ## What is included in the price:
 
 * Gadgets
-* Catering
-* Reception ticket
-* Banquet ticket
-* Città Alta guided tour with dinner
+* Lunches and coffee breaks
+* Welcome Reception on June 25th
+* Social City Tour with dinner on June 26th
+* Social dinner on June 27th
