@@ -30,6 +30,8 @@ skyline:
 | Late student registration (workshops are included) | June 16, 2024 | €300 |
 | Late workshop registration only (1 day)  | June 16, 2024 | €180 |
 
+Extra tickets for Welcome Reception on June 25th, Social City Tour with dinner on June 26th, Social dinner on June 27th can be purchased during registration
+
 ## Author Policy
 
 At least one “Author Registration” per paper accepted is required before April, 20th.
