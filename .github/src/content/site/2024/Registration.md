@@ -18,6 +18,8 @@ skyline:
 ---
 ## Registration fees (all values are in EUR)
 
+***The registration system will open at the beginning of April***
+
 |  **Registration type** | **Due date** |   |
 |---|---|---|
 | Author registration (workshops are included) | April 20, 2024 | €480 |
