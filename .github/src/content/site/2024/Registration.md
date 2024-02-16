@@ -22,10 +22,10 @@ skyline:
 |---|---|---|
 | Author registration (workshops are included) | April 20, 2024 | €480 |
 | Early full regstration (workshops are included) | May 25, 2024 | €480 |
-| Early student registration | May 25, 2024 | €250 |
+| Early student registration (workshops are included) | May 25, 2024 | €250 |
 | Early workshop registration only (1 day) | May 25, 2024 | €120 |
 | Late full registration (workshops are included) | June 16, 2024 | €550 |
-| Late student registration  | June 16, 2024 | €300 |
+| Late student registration (workshops are included) | June 16, 2024 | €300 |
 | Late workshop registration only (1 day)  | June 16, 2024 | €180 |
 
 ## Author Policy
@@ -42,9 +42,16 @@ For registrations at the student rate, a proof of student status – such as a c
 If you need a visa for traveling to Italy, we can provide you with an invitation letter needed for obtaining the visa. You have to explicitly indicate it in the email when you send the payment receipt to abz2024@unibg.it.
 
 ## What is included in the price:
+Author/Full/Student registrations include:
 
 * Gadgets
 * Lunches and coffee breaks
 * Welcome Reception on June 25th
 * Social City Tour with dinner on June 26th
 * Social dinner on June 27th
+
+Workshop registration includes:
+
+* Gadgets
+* Lunches and coffee breaks on June 25th
+* Welcome Reception on June 25th
