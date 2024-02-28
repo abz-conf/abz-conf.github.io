@@ -506,8 +506,31 @@ TBA -->
 &lt;td>June 26-28, 2024&lt;/td>
 &lt;/tr>
 &lt;/tbody>
-&lt;/table></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/keynotes/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/keynotes/</guid><description>&lt;h2 id="keynotes">Keynotes&lt;/h2>
-&lt;p>TBA&lt;/p></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/maintrack/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/maintrack/</guid><description>&lt;h2 id="main-abz-track---call-for-papers">Main ABZ Track - Call for Papers&lt;/h2>
+&lt;/table></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/keynotes/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/keynotes/</guid><description>&lt;h2 id="keynote-speakers">Keynote speakers&lt;/h2>
+&lt;h3 id="basin-david--eth-zurich">Basin David @ ETH Zurich&lt;/h3>
+&lt;div width=100%>
+&lt;table>
+&lt;tr>
+&lt;td>
+&lt;img src="https://people.inf.ethz.ch/basin/basin2014-medium.jpg" width=200px>
+&lt;/td>
+&lt;td>
+&lt;table>
+&lt;tr>&lt;td>
+&lt;h3>&lt;b>Getting Electronic Payments Right&lt;/b>&lt;/h3>
+&lt;/td>&lt;/tr>
+&lt;tr>&lt;td>
+&lt;b>&lt;i>Abstract&lt;/i>&lt;/b> &lt;br>EMV is the international protocol standard for smartcard payments and is used in billions of payment cards worldwide. Despite the standard’s advertised security, various issues have been previously uncovered, deriving from logical flaws that are hard to spot in EMV’s lengthy and complex specification, running over 2,000 pages. We have formalized various models of EMV in Tamarin, a symbolic model checker for cryptographic protocols. Tamarin was extremely effective in finding critical flaws, both known and new. For example, we discovered multiple ways that an attacker can use a victim's EMV card (e.g., Mastercard or Visa Card) for high-valued purchases without the victim's supposedly required PIN. Said more simply, the PIN on your EMV card is useless! We report on this, as well as follow-up work with an EMV consortium member on verifying the latest, improved version of the protocol, the EMV Kernel C-8. Overall our work provides evidence that security protocol model checkers like Tamarin have an essential role to play in developing real-world payment protocols and that they are up to this challenge.
+&lt;/td>&lt;/tr>
+&lt;tr>&lt;td>
+&lt;b>&lt;i>Speaker resumè&lt;/i>&lt;/b> &lt;br>David Basin is a full professor of Computer Science at ETH Zurich, since 2003. His research areas are Information Security and Software Engineering. He is the founding director of the ZISC, the Zurich Information Security Center, which he led from 2003-2011. He served as Editor-in-Chief of the ACM Transactions on Privacy and Security (2015-2020) and of Springer-Verlag's book series on Information Security and Cryptography (2008-present). He has co-founded three security companies, is on the board of directors of Anapaya Systems AG, and on various management and scientific advisory boards. He is an IEEE Fellow and an ACM Fellow.
+&lt;/td>&lt;/tr>
+&lt;/table>
+&lt;/td>
+&lt;/tr>
+&lt;/table>
+&lt;/div>
+&lt;p>Page Update in Progress&lt;/p></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/maintrack/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/maintrack/</guid><description>&lt;h2 id="main-abz-track---call-for-papers">Main ABZ Track - Call for Papers&lt;/h2>
 &lt;p>Contributions are solicited on all aspects of the theory and applications of ASMs, Alloy, B, TLA, VDM, Z and other state-based rigour approaches in software/hardware engineering, including the development of tools and industrial applications. The program spans from theoretical and methodological foundations to practical applications, emphasizing system engineering methods and tools that are distinguished by mathematical rigor and have proved to be industrially viable. The main goal of the conference is to contribute to the integration of accurate state- and machine-based system development methods, clarifying their commonalities and differences to better understand how to combine different approaches for accomplishing the various tasks in modeling, experimental validation, mathematical verification of reliable high-quality hardware/software systems. Although organized to host several formal methods in a single event, editorial control of the joint conference is vested in one integrated program committee.&lt;/p>
 &lt;h3 id="abz-2024-invites">ABZ 2024 invites:&lt;/h3>
 &lt;ul>
