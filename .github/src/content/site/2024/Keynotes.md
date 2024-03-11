@@ -57,13 +57,13 @@ Here it is the list of keynote speakers (in alphabetic order by name).
     <td>
       <table>
         <tr><td>
-            <h3><b>TBA</b></h3>
+            <h3><b>What happens when the Government starts encouraging the use of formal methods?</b></h3>
         </td></tr>
         <tr><td>
             <b><i>Abstract</i></b> <br>TBA
         </td></tr>
         <tr><td>
-            <b><i>Short Bio</i></b> <br><a href="https://galois.com/team/joe-kiniry/">Dr. Kiniry</a> is a Principal Scientist at Galois and the Research Lead of several programs on Rigorous Systems and Software Engineering (Model-based Systems Engineering with Digital Twins), Hardware/Firmware Security, Trustworthy and Verifiable Elections, High-assurance Cryptography, and Audits-for-Good.  Dr. Kiniry is also the Principled CEO and Chief Scientist of Free & Fair, a Galois spin-out focusing on high-assurance elections technologies and services. Prior to joining Galois in 2014, Dr. Kiniry was a Full Professor at the Technical University of Denmark (DTU), he also held a guest appointment at the IT University of Copenhagen, and he has held permanent positions at four universities in Denmark, Ireland, and The Netherlands. His primary research interest is in applying formal methods to systems development (hardware, firmware, and software), especially in the areas of system correctness and security.
+            <b><i>Short Bio</i></b> <br><a href="https://galois.com/team/joe-kiniry/">Dr. Joe Kiniry</a> is a Principal Scientist at Galois and is the CEO and Chief Scientist at Free & Fair. Over the past twenty-five years he has been everything from a tenured professor at several universities to a founder and chief scientist or CTO at several companies. He has been involved in security in some fashion since the early 80s when he hacked and wrote video games on 8 bit computers. These days, his day job is applying formal methods to nationally critical systems and trying to help the worlds’ elections and democracies be more trustworthy.
         </td></tr>
       </table>
     </td>
