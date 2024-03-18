@@ -83,7 +83,7 @@
 [[conference]]
   parent = "Attending"
   name = "Accommodation"
-  url = "Accommodation"
+  url = "accommodation"
   weight = 70
 
 [[conference]]
