@@ -19,12 +19,29 @@ skyline:
 
 ## Venue: University of Bergamo
 
-### Location
+#### Location
+[**University of Bergamo - Department of Human and Social Sciences**](https://en.unibg.it/services-facilities/facilities/campuses/santagostino) <br>
 Piazzale S. Agostino, 2 <br>
 24129 Bergamo <br>
 Italy <br>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d44580.57918470652!2d9.672382!3d45.705295!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4781513d0fa828bb%3A0xd1867fa937e65199!2sSala%20Conferenze%2C%20San&#39;t%20Agostino!5e0!3m2!1sit!2sus!4v1688026989070!5m2!1sit!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+## How to reach the venue
+
+#### From Bergamo airport (Milan-Bergamo Airport - Orio al Serio)
+Take BUS Line 1 / airport to Porta S. Agostino stop.
+
+#### From the station
+- BUS Line 1 - From the train station to Città Alta (Colle Aperto) the bus has a frequency of 15 minutes.
+
+You can also walk to Porta Nuova in a few minutes, where you can take:<br>
+- Bus Line 1
+- Bus Line 1A (from Torre de 'Roveri)
+- Bus Line 1B (from Scanzo)
+- Bus Line 1C (from Grassobbio)
+
+The complete map of the ATB links is available at this [link](https://www.atb.bergamo.it/user/download.aspx?FILE=OBJ00181.PDF&TIPO=FLE&NOME=mappa-della-rete.PDF).
 
 ## About Bergamo
 
