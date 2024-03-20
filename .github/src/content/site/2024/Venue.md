@@ -29,8 +29,14 @@ Italy <br>
 
 ## How to reach the venue
 
-#### From Bergamo airport (Milan-Bergamo Airport - Orio al Serio)
+#### From Bergamo airport (Milan-Bergamo Airport - Orio al Serio - BGY)
 Take BUS Line 1 / airport to Porta S. Agostino stop.
+
+#### From Linate airport (LIN)
+From Linate airport you can take the metro to the railway station (Centrale or Lambrate), and then the train to Bergamo. The ticket for the metro is €2,20. 
+
+#### From Malpensa airport (MXP)
+From Malpensa airport you can reach the railway Central Station of Milan by bus (1h journey, every 10 minutes), operated by [Autostradale](www.autostradale.it/?lang=en-GB) and [Malpensashuttle](www.malpensashuttle.com/en/index.html). There is also a [train](www.malpensaexpress.it/en/) running from MXP and Milano Centrale (or Milano Cadorna, but then you need to take the metro). The train is faster than the bus, but be careful to take the right direction to Milano Centrale.
 
 #### From the station
 - BUS Line 1 - From the train station to Città Alta (Colle Aperto) the bus has a frequency of 15 minutes.
