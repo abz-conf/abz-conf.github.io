@@ -66,5 +66,5 @@ EquinOCS guidelines for authors can be found [here](https://support.springernatu
 | -------- | ------- |
 | **Abstract submission (mandatory):**  | ~~February 3, 2024~~ February 10, 2024    |
 | **Paper submission (firm deadline):**  | ~~February 10, 2024~~ February 24, 2024    |
-| **Notification:** |  April 6, 2024    |
+| **Notification:** |  ~~April 6, 2024~~ April 9, 2024    |
 | **Final version:**    | April 20, 2024    |
