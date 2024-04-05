@@ -335,7 +335,7 @@ TBA -->
 &lt;/tr>
 &lt;tr>
 &lt;td>&lt;strong>Notification:&lt;/strong>&lt;/td>
-&lt;td>April 6, 2024&lt;/td>
+&lt;td>&lt;del>April 6, 2024&lt;/del> April 9, 2024&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>&lt;strong>Final version:&lt;/strong>&lt;/td>
@@ -394,7 +394,7 @@ TBA -->
 &lt;/tr>
 &lt;tr>
 &lt;td>&lt;strong>Notification:&lt;/strong>&lt;/td>
-&lt;td>April 6, 2024&lt;/td>
+&lt;td>&lt;del>April 6, 2024&lt;/del> April 9, 2024&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>&lt;strong>Final version:&lt;/strong>&lt;/td>
@@ -472,7 +472,7 @@ TBA -->
 &lt;/tr>
 &lt;tr>
 &lt;td>&lt;strong>Notification:&lt;/strong>&lt;/td>
-&lt;td>April 6, 2024&lt;/td>
+&lt;td>&lt;del>April 6, 2024&lt;/del> April 9, 2024&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>&lt;strong>Final version:&lt;/strong>&lt;/td>
@@ -579,13 +579,13 @@ TBA -->
 &lt;td>
 &lt;table>
 &lt;tr>&lt;td>
-&lt;h3>&lt;b>TBA&lt;/b>&lt;/h3>
+&lt;h3>&lt;b>Formal Methods and Tools applied in the railway domain&lt;/b>&lt;/h3>
 &lt;/td>&lt;/tr>
 &lt;tr>&lt;td>
-&lt;b>&lt;i>Abstract&lt;/i>&lt;/b> &lt;br>TBA
+&lt;b>&lt;i>Abstract&lt;/i>&lt;/b> &lt;br>ABZ and other state-based formal methods and tools are successfully applied to the development of safety-critical systems for decades now, in particular in the transport domain, without a single language or tool emerging as the dominant solution for system design. Formal methods are highly recommended by the current safety standards in the railway industry, but railway engineers often lack the knowledge to transform their semi-formal models into formal models, with a precise semantics, to serve as input to formal methods tools. We share the results of performing empirical studies in the railway domain, including usability analyses of formal methods tools involving railway practitioners. We discuss, in particular with respect to railway systems and their modelling, our experiences in applying rigorous state-based methods and tools to a variety of case studies, for which we interacted with a number of companies from the railway domain. We report on lessons learned from these experiences and provide pointers to drive future research towards facilitating further synergies between - on the one hand - researchers and developers of ABZ and other state-based formal methods and tools, and - on the other hand - practitioners from the railway industry.
 &lt;/td>&lt;/tr>
 &lt;tr>&lt;td>
-&lt;b>&lt;i>Short Bio&lt;/i>&lt;/b> &lt;br>&lt;a href="https://www.isti.cnr.it/it/chi-siamo/people-detail/361/Maurice_Henri_ter_Beek">Maurice ter Beek&lt;/a> is senior researcher at CNR-ISTI (Pisa, Italy) where he heads the Formal Methods and Tools lab. He obtained his Ph.D. at Leiden University (The Netherlands). He has authored over 150 peer-reviewed papers, edited over 30 proceedings and special issues of journals, and serves on the editorial boards of the journals Formal Aspects of Computing, International Journal on Software Tools for Technology Transfer, Journal of Logical and Algebraic Methods in Programming, Science of Computer Programming, PeerJ Computer Science and ERCIM News. His research interests are formal methods and model-checking tools for the specification and verification of safety-critical software systems and communication protocols, focusing in particular on applications in software product line engineering and railway systems. He is member of the Steering Committees of the COORDINATION, ETAPS, FMICS (currently chair), iFM and SPLC conference series, and regularly serves on the PC of relevant formal methods and software product line conferences like FM, FMICS, iFM, SPLC and VaMoS, all of which he also chaired, and ABZ, FASE, FormaliSE, SEFM and SPIN. He is board member of Formal Methods Europe (FME).
+&lt;b>&lt;i>Short Bio&lt;/i>&lt;/b> &lt;br>&lt;a href="https://fmt.isti.cnr.it/~mtbeek/">Maurice ter Beek&lt;/a> is senior researcher at CNR-ISTI (Pisa, Italy) where he heads the Formal Methods and Tools lab. He obtained his Ph.D. at Leiden University (The Netherlands). He has authored over 150 peer-reviewed papers, edited over 30 proceedings and special issues of journals, and serves on the editorial boards of the journals Formal Aspects of Computing, International Journal on Software Tools for Technology Transfer, Journal of Logical and Algebraic Methods in Programming, Science of Computer Programming, PeerJ Computer Science and ERCIM News. His research interests are formal methods and model-checking tools for the specification and verification of safety-critical software systems and communication protocols, focusing in particular on applications in software product line engineering and railway systems. He is member of the Steering Committees of the COORDINATION, ETAPS, FMICS (currently chair), iFM and SPLC conference series, and regularly serves on the PC of relevant formal methods and software product line conferences like FM, FMICS, iFM, SPLC and VaMoS, all of which he also chaired, and ABZ, FASE, FormaliSE, SEFM and SPIN. He is board member of Formal Methods Europe (FME).
 &lt;/td>&lt;/tr>
 &lt;/table>
 &lt;/td>
@@ -636,7 +636,7 @@ TBA -->
 &lt;/tr>
 &lt;tr>
 &lt;td>&lt;strong>Notification:&lt;/strong>&lt;/td>
-&lt;td>April 6, 2024&lt;/td>
+&lt;td>&lt;del>April 6, 2024&lt;/del> April 9, 2024&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>&lt;strong>Final version:&lt;/strong>&lt;/td>
