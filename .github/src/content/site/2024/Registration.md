@@ -32,6 +32,15 @@ Follow these guidelines for the payments: [Payment Guidelines](https://drive.goo
 
 Extra tickets for Welcome Reception on June 25th, Social City Tour with dinner on June 26th, Social dinner on June 27th can be purchased during registration. Add the extra tickets amount to the registration fee, and make the payment accordingly.
 
+The fees for the extra tickets are the following
+
+|  **Ticket** | **Amount** |
+|---|---|
+| Welcome Reception on June 25th | €15 |
+| Social City Tour with dinner on June 26th | €50 |
+| Social dinner on June 27th | €80 |
+
+
 ## Author Policy
 
 At least one “Author Registration” per paper accepted is required before April, 20th.
