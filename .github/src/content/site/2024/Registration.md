@@ -32,7 +32,7 @@ Follow these guidelines for the payments: [Payment Guidelines](https://drive.goo
 
 Extra tickets for Welcome Reception on June 25th, Social City Tour with dinner on June 26th, Social dinner on June 27th can be purchased during registration. Add the extra tickets amount to the registration fee, and make the payment accordingly.
 
-The fees for the extra tickets are the following
+The fees for the extra tickets are the followings
 
 |  **Ticket** | **Amount** |
 |---|---|
