@@ -18,7 +18,7 @@ skyline:
 ---
 ## Registration fees (all values are in EUR)
 
-***The registration system will open at the beginning of April***
+Follow these guidelines for the payments: [Payment Guidelines](https://drive.google.com/file/d/12f7umFDx9XjrjS0US8WMcGL9GUOq6aU3/view)
 
 |  **Registration type** | **Due date** |   |
 |---|---|---|
@@ -30,7 +30,16 @@ skyline:
 | Late student registration (workshops are included) | June 16, 2024 | €300 |
 | Late workshop registration only (1 day)  | June 16, 2024 | €180 |
 
-Extra tickets for Welcome Reception on June 25th, Social City Tour with dinner on June 26th, Social dinner on June 27th can be purchased during registration
+Extra tickets for Welcome Reception on June 25th, Social City Tour with dinner on June 26th, Social dinner on June 27th can be purchased during registration. Add the extra tickets amount to the registration fee, and make the payment accordingly.
+
+The fees for the extra tickets are the followings
+
+|  **Ticket** | **Amount** |
+|---|---|
+| Welcome Reception on June 25th | €15 |
+| Social City Tour with dinner on June 26th | €50 |
+| Social dinner on June 27th | €80 |
+
 
 ## Author Policy
 
