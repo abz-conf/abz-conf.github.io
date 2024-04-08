@@ -18,7 +18,7 @@ skyline:
 ---
 ## Registration fees (all values are in EUR)
 
-Follow these guidelines for the payments: [Payment Guidelines](https://drive.google.com/file/d/12f7umFDx9XjrjS0US8WMcGL9GUOq6aU3/view)
+### Follow these guidelines for the payments: [Payment Guidelines](https://drive.google.com/file/d/12f7umFDx9XjrjS0US8WMcGL9GUOq6aU3/view)
 
 |  **Registration type** | **Due date** |   |
 |---|---|---|
