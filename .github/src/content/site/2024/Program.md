@@ -18,6 +18,9 @@ skyline:
 ---
 ## Program
 
+TBA
+
+<!--
 <div style='width:100%; display:inline-block; overflow-wrap: break-word;'><div><div style='display:inline-block; width:100%;'><center><h1>June, 25th</h1></center></div><div>
 <div style='border-bottom: 0.2ex solid gray;'><div style='width:15%; display:inline-block;'><b>Time</b></div><div style='display:inline-block; width:75%;'><b>Talk</b></div><div style='width:10%; display:inline-block;'><b>Topic</b></div></div>
 <div style='border-bottom: 0.2ex solid gray;'><div style='width:15%; display:inline-block; overflow-wrap: break-word;'>09:00 - 10:30</div><div style='display:inline-block; width:75%; '><b>1st Time slot - 1st Workshop</b></div><div style='width:10%; display:inline-block;'></div></div>
@@ -92,4 +95,5 @@ skyline:
 <div style='border-bottom: 0.2ex solid gray; background-color:Gainsboro''><div style='width:15%; display:inline-block; overflow-wrap: break-word;'>12:15 - 12:30</div><div style='display:inline-block; width:75%; '><b>Closing section</b></div><div style='width:10%; display:inline-block;'></div></div>
 <div style='border-bottom: 0.2ex solid gray; background-color:#e89b26''><div style='width:15%; display:inline-block; overflow-wrap: break-word;'>12:30 - 14:00</div><div style='display:inline-block; width:75%; '><b>Lunch break and greetings</b></div><div style='width:10%; display:inline-block;'></div></div>
 </div><br>
+-->
 
