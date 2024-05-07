@@ -92,13 +92,13 @@ days:
         start: "15:00"
         end: "15:20"
         author: Manar Altamimi,  Nawfal  Al Hashimy, Asieh Salehi Fathabadi, Gary Wills
-        topic: Theory Extention
+        topic: Modeling/Industrial
         abstract: This paper introduces a novel approach to formal modelling and verification of ownership, addressing safety concerns in property transfer processes.The Event-B formal method, graphically represented using iUML-B notation, is used to establish a robust framework for modeling and verifying ownership systems. The verified Event-B model refines and enhances user requirements at the design stage before system implementation. The research focuses on property ownership within the legal framework of the Kingdom of Saudi Arabia, specifically property sales. The research uncovers that, despite conscientious efforts to scrutinise user requirements, the formal model development exposes limitations and inadequacies in the initial specifications. The verification process introduces essential requirements to mitigate potential fraudulent activities, enhancing the security and dependability of ownership claims.
       - paper: Designing Exception Handling using Event-B
         start: "15:20"
         end: "15:35"
         author: Asieh Salehi Fathabadi, Colin Snook, Thai Son Hoang, Robert Thorburn, Michael Butler, Leonardo Aniello, Vladimiro Sassone
-        topic: Verification
+        topic: Modeling/Verification
         abstract: Exception handling is a well-known error recovery approach employed to improve robustness of software. While programming lan- guages offer exception handling for responding to detected failures, the design of exception handling is a complex task that needs designers’ insights and domain expertise to identify exceptions and recover from them to put the system back in a safe state. The challenge is to ensure that a complex closed system including controller and its environment remain in a safe state while undertaking abnormal state changes in the controller as part of its exception recovery process. Formal methods supporting excep- tion handling can address this complexity, by addressing it in the abstract design stages utilising mathematical modelling and proofs. Event-B is a state-based formal method for modelling and verifying the consistency of discrete systems. However it lacks support for explicit handling of exceptions. In this paper, we use UML-B state machines to support the identification and handling of exceptions, followed by verification of exception handler recovery mechanisms using the built-in model checker and prover in the Event-B toolset. We also discuss an implementation of the modelled exception handling in the 'C' programming language as a first stage towards automatic code generation of exception handlers.
       - paper: Coffee break 
         start: "15:35"
