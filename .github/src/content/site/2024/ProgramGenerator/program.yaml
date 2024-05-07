@@ -146,7 +146,7 @@ days:
         background: "#e89b26"
       - paper: "Session Chair: "
         background: "#83a9c6"
-      - paper: A Lean Reflective Abstract State Machine Definition
+      - paper: The Meaning of Self-Modifying Programs for Sequential Machines
         start: "10:45"
         end: "11:15"
         author: Egon Boerger, Vincenzo Gervasi
@@ -232,21 +232,13 @@ days:
         start: "19:30"
         end: "24:00"
         background: "#e89b26"
-        
-      
-      
-      
-      
-  
-      
-      
   - day: June, 28th
     program:
       - paper: What happens when the Government starts encouraging the use of formal methods?
         start: "09:00"
         end: "10:00"
         topic: "Keynote"
-        author: Jow Kiniry (Invited)
+        author: Joe Kiniry (Invited)
         abstract: "Over the past decade, US Government R&amp;D RFPs have gone from never mentioning formal methods to frequently mandating formal methods.  What's more, several recent White House reports have explicitly called out formal methods. For example, the 2016 NIST Interagency Report ''Dramatically Reducing Software Vulnerabilities: Report to the White House Office of Science and Technology Policy'' calls out formal methods as one of five key technical approaches critical to fulfilling the goals set forth in the US Government's 2016 Federal Cybersecurity R&amp;D Strategic Plan. More recently, in February 2024 the Office of the National Cyber Director (ONCD) published the report ''Back to the Building Blocks: A Path Toward Secure and Measurable Software'' in response to President Biden's National Cybersecurity Strategy and in alignment with Executive Order 14028 on Improving the Nation's Cybersecurity, issued in 2021.  Its abstract states: “In this report, the case is made that the technical community is well-positioned to drive progress on both strategic goals. First, in order to reduce memory safety vulnerabilities at scale, creators of software and hardware can better secure the building blocks of cyberspace. This report focuses on the programming language as a primary building block, and explores hardware architecture and formal methods as complementary approaches to achieve similar outcomes. Second, in order to establish accurate cybersecurity quality metrics, advances can be made to address the hard and complex research problem of software measurability. This report explores how such metrics can shift market forces to improve cybersecurity quality across the ecosystem. In essence, the US Government is now strongly recommending that nationally critical systems are written in safe programming languages, models and implementations of critical components must be formally assured, and that code should run on security-centric hardware architectures.'' This talk reflects upon this evolution over the past ten years from my point of view as a PI of dozens of major formal methods-centric R&amp;D programs for the Government and industry.  Why has there been such an uptick in interest?  What are the R&amp;D challenges that lie ahead?  How might we, as a community, prioritize R&amp;D activities for transition?  What can the ABZ community learn from this arc?  What's next?"
       - paper: "Session Chair: "
         background: "#83a9c6"
@@ -277,7 +269,7 @@ days:
       - paper: "Verifying HyperLTL properties in Event-B"
         start: "11:30"
         end: "11:45"
-        author: Jean-Paul Bodeveix, Thomas Carle, Elie Fares, Mamoun FILALI AMINE, Thai Son Hoang
+        author: Jean-Paul Bodeveix, Thomas Carle, Elie Fares, Mamoun Filali Amine, Thai Son Hoang
         topic: Verification
         abstract: "The study presented in this paper is motivated by the verification of properties related to hardware architectures, namely timing anomalies that qualify a counter-intuitive timing behaviour. They are avoided by a monotonicity property which is an Hyper-LTL property. We present how to prove some classes of Hyper-LTL properties with Event-B."
       - paper: Small Step Incremental Verification of Compilers
