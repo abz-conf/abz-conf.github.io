@@ -307,7 +307,7 @@ TBA -->
 &lt;td>
 &lt;table>
 &lt;tr>&lt;td>
-&lt;h3>&lt;b>Getting Electronic Payments Right&lt;/b>&lt;/h3>
+&lt;h3>&lt;b>Getting Electronic Payments Right&lt;/b>&lt;/h3>&lt;br>&lt;i>- Lecture partially supported by FME&lt;/i>
 &lt;/td>&lt;/tr>
 &lt;tr>&lt;td>
 &lt;b>&lt;i>Abstract&lt;/i>&lt;/b> &lt;br>EMV is the international protocol standard for smartcard payments and is used in billions of payment cards worldwide. Despite the standard’s advertised security, various issues have been previously uncovered, deriving from logical flaws that are hard to spot in EMV’s lengthy and complex specification, running over 2,000 pages. We have formalized various models of EMV in Tamarin, a symbolic model checker for cryptographic protocols. Tamarin was extremely effective in finding critical flaws, both known and new. For example, we discovered multiple ways that an attacker can use a victim's EMV card (e.g., Mastercard or Visa Card) for high-valued purchases without the victim's supposedly required PIN. Said more simply, the PIN on your EMV card is useless! We report on this, as well as follow-up work with an EMV consortium member on verifying the latest, improved version of the protocol, the EMV Kernel C-8. Overall our work provides evidence that security protocol model checkers like Tamarin have an essential role to play in developing real-world payment protocols and that they are up to this challenge.
@@ -357,7 +357,7 @@ This talk reflects upon this evolution over the past ten years from my point of 
 &lt;td>
 &lt;table>
 &lt;tr>&lt;td>
-&lt;h3>&lt;b>Formal Methods and Tools applied in the railway domain&lt;/b>&lt;/h3>
+&lt;h3>&lt;b>Formal Methods and Tools applied in the railway domain&lt;/b>&lt;/h3>&lt;br>&lt;i>- Lecture partially supported by FME&lt;/i>
 &lt;/td>&lt;/tr>
 &lt;tr>&lt;td>
 &lt;b>&lt;i>Abstract&lt;/i>&lt;/b> &lt;br>ABZ and other state-based formal methods and tools are successfully applied to the development of safety-critical systems for decades now, in particular in the transport domain, without a single language or tool emerging as the dominant solution for system design. Formal methods are highly recommended by the current safety standards in the railway industry, but railway engineers often lack the knowledge to transform their semi-formal models into formal models, with a precise semantics, to serve as input to formal methods tools. We share the results of performing empirical studies in the railway domain, including usability analyses of formal methods tools involving railway practitioners. We discuss, in particular with respect to railway systems and their modelling, our experiences in applying rigorous state-based methods and tools to a variety of case studies, for which we interacted with a number of companies from the railway domain. We report on lessons learned from these experiences and provide pointers to drive future research towards facilitating further synergies between - on the one hand - researchers and developers of ABZ and other state-based formal methods and tools, and - on the other hand - practitioners from the railway industry.
