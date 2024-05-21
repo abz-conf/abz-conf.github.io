@@ -105,7 +105,7 @@ skyline:
 * Andreas Prinz, University of Agder, Norway
 * Alexander Raschke, Ulm University, Germany
 * Gerhard Schellhorn, Universitaet Augsburg, Germany
-* Klaus-Dieter Shewe, Zhejiang University, China
+* Klaus-Dieter Schewe, Zhejiang University, China
 * Neeraj Singh, INPT-ENSEEIHT / IRIT, University of Toulouse, France
 * Maurice ter Beek, CNR, Italy
 * Laurent Voisin, Systerel, France
