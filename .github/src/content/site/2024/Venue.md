@@ -49,6 +49,14 @@ You can also walk to Porta Nuova in a few minutes, where you can take:<br>
 
 The complete map of the ATB links is available at this [link](https://www.atb.bergamo.it/user/download.aspx?FILE=OBJ00181.PDF&TIPO=FLE&NOME=mappa-della-rete.PDF).
 
+#### By Car
+
+We do not recommend reaching the venue by car, as the entire Città Alta area is a Limited Traffic Zone (only selected vehicles, e.g., residents, can access that area). The Limited Traffic Zone is active between 10:00 to 12:00 and between 14:00 to 19:00.
+
+You can find the map of all areas involved in the Limited Traffic Zone, as well as the map of all the cameras surveilling the entries, [here](https://territorio.comune.bergamo.it/gfmaplet/?map=ZoneTL&highlightFeatures=ZTL|4|ID_ZONA=1%20) (unfortunately, only available in Italian).
+
+If you wish to park in Città Alta, there is a [new parking](https://maps.app.goo.gl/ce2DAMZfRvy3WQzD7) very close to the conference venue, and you can access the Limited Traffic Zone if you park there. It costs 3,50 €/h.
+
 ## About Bergamo
 
 Bergamo is a small city in Lombardy, in the northern part of Italy, yet it is rich in history and culture. <br>
