@@ -290,7 +290,7 @@ days:
         author: Edward Sabinus
         topic: Doctoral Symposium
         abstract: "Abstract State Machines (ASMs) are widely used in the formalization and verification of the semantics of software or hardware. However, tools for assisting this process for evolving specifications are still lacking. With evolving we denote adding extensions without refactoring. We want to create a tool assisting in the verification of evolving specifications. Our approach is to translate ASM specifications into the language of an existing proof checker, construct the proofs as far as possible automatically, and check the proofs with the proof checker. Further, we want proofs of evolvable specifications also to be evolvable. This paper gives a brief overview of the approach and discusses the first step of this work, namely the translation of ASM specifications into the language of an existing proof checker, with consideration of automation possibilities."
-      - paper: Closing section 
+      - paper: Closing session 
         start: "12:45"
         end: "13:00"
         background: Gainsboro
