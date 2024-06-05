@@ -22,10 +22,10 @@ skyline:
 
 |  **Registration type** | **Due date** |   |
 |---|---|---|
-| Author registration (workshops are included) | April 20, 2024 | €480 |
-| Early full regstration (workshops are included) | May 25, 2024 | €480 |
-| Early student registration (workshops are included) | May 25, 2024 | €250 |
-| Early workshop registration only (1 day) | May 25, 2024 | €120 |
+| ~~Author registration (workshops are included)~~ | ~~April 20, 2024~~ | ~~€480~~ |
+| ~~Early full regstration (workshops are included)~~ | ~~May 25, 2024~~ | ~~€480~~ |
+| ~~Early student registration (workshops are included)~~ | ~~May 25, 2024~~ | ~~€250~~ |
+| ~~Early workshop registration only (1 day)~~ | ~~May 25, 2024~~ | ~~€120~~ |
 | Late full registration (workshops are included) | June 16, 2024 | €550 |
 | Late student registration (workshops are included) | June 16, 2024 | €300 |
 | Late workshop registration only (1 day)  | June 16, 2024 | €180 |
