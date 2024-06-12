@@ -7,6 +7,7 @@ def generatePages():
         program = yaml.load(file, Loader=yaml.FullLoader)
         for day in program['days']:
             webpage += "<div style='width:100%; display:inline-block; overflow-wrap: break-word;'><div><div style='display:inline-block; width:100%;'><center><h1>" + day['day'] + "</h1></center></div><div>\n"
+            webpage += "<div style='width:100%; display:inline-block; overflow-wrap: break-word;'><div><div style='display:inline-block; width:100%;'><center><h3>" + day['room'] + "</h3></center></div><div>\n"
             webpage += "<div style='border-bottom: 0.2ex solid gray;'><div style='width:15%; display:inline-block;'><b>Time</b></div><div style='display:inline-block; width:75%;'><b>Talk</b></div><div style='width:10%; display:inline-block;'><b>Topic</b></div></div>\n"
             for papers in day['program']:
                 if "start" in papers and "end" in papers:
