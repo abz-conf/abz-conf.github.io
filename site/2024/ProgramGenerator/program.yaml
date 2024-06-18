@@ -1,36 +1,98 @@
 days:
   - day: June, 25th
+    workshopOrConference: Workshop
     room: "Conference Room: Room 5"
     program:
-      - paper: <a href='https://wiki.event-b.org/index.php/Rodin_Workshop_2024'>Rodin Workshop</a> - 1st Time Slot
+      - paper: "Session Chair: <i>Laurent Voisin</i>"
+        background: "#83a9c6"
+      - paper: What's new in Rodin 3.9 and the Theory plug-in
         start: "09:00"
+        end: "09:30"
+        author: Guillaume Verdier, Laurent Voisin, Idir Ait-Sadoune
+        topic: Rodin Workshop
+      - paper: "Semantics formalisation: Some experience with the Theory Plug-in"
+        start: "09:30"
+        end: "10:00"
+        author: Son Thai Hoang
+        topic: Rodin Workshop
+      - paper: "Schemata of Recursive Functions and Iterative Algorithms"
+        start: "10:00"
         end: "10:30"
+        author: Dominique Cansell
+        topic: Rodin Workshop
       - paper: Coffee break 
         start: "10:30"
         end: "11:00"
         background: "#e89b26"
-      - paper: <a href='https://wiki.event-b.org/index.php/Rodin_Workshop_2024'>Rodin Workshop</a> - 2nd Time Slot
+      - paper: "Session Chair: <i>Son Thai Hoang</i>"
+        background: "#83a9c6"
+      - paper: "Validation of Domain and Meta Models: From Event-B Theories to Practice"
         start: "11:00"
+        end: "11:30"
+        author: Michael Leuschel, Yamine Ait-Ameur, Guillaume Dupont, Peter Riviere, Neeraj Kumar Singh
+        topic: Rodin Workshop
+      - paper: "Developing the UML-B modelling tools"
+        start: "11:30"
+        end: "12:00"
+        author: Colin Snook
+        topic: Rodin Workshop
+      - paper: "Correct-by-Construction Synthesis of Sequential Algorithms"
+        start: "12:00"
         end: "12:30"
+        author: Dominique Cansell, Neeraj Kumar Singh
+        topic: Rodin Workshop
       - paper: Lunch break
         start: "12:30"
         end: "14:00"
         background: "#e89b26"
-      - paper: <a href='https://isse.jku.at/ivoire/index.php/IVOIRE_Workshop_2024'>IVOIRE Workshop</a> - 1st Time Slot
+      - paper: "Session Chair: <i>David Gele&#223;us</i>"
+        background: "#83a9c6"
+      - paper: "Validation of Domain and Meta Models: From Event-B Theories to Practice"
         start: "14:00"
+        end: "14:30"
+        author: Michael Leuschel
+        topic: IVOIRE Workshop
+      - paper: "IVOIRE Project: Results and Insights"
+        start: "14:30"
+        end: "15:00"
+        author: Atif Mashkoor
+        topic: IVOIRE Workshop
+      - paper: "Validation Obligations in Practice"
+        start: "15:00"
         end: "15:30"
+        author: Fabian Vu
+        topic: IVOIRE Workshop
       - paper: Coffee break 
         start: "15:30"
         end: "16:00"
         background: "#e89b26"
-      - paper: <a href='https://isse.jku.at/ivoire/index.php/IVOIRE_Workshop_2024'>IVOIRE Workshop</a> - 2nd Time Slot
+      - paper: "Session Chair: <i>Fabian Vu</i>"
+        background: "#83a9c6"
+      - paper: "An Exercise in Multi-modeling"
         start: "16:00"
+        end: "16:30"
+        author: Jean-Pierre Jacquot
+        topic: IVOIRE Workshop
+      - paper: "Validation Obligations Manager"
+        start: "16:30"
+        end: "17:00"
+        author: David Gele&#223;us
+        topic: IVOIRE Workshop
+      - paper: "What Should I Verify?"
+        start: "17:00"
+        end: "17:30"
+        author: Marie Farrell
+        topic: IVOIRE Workshop
+      - paper:  Discussion and conclusion
+        start: "17:30"
         end: "18:00"
+        topic: IVOIRE Workshop
       - paper: Welcome Reception
         start: "19:00"
         end: "21:00"
         background: "#e89b26"
   - day: June, 26th
+    workshopOrConference: Conference
     room: "Conference Room: Room 5"
     program:
       - paper: "Session Chair: <i>Elvinia Riccobene</i>"
@@ -68,12 +130,12 @@ days:
         author: Mehmet Said Nur Yagmahan, Abdolbaghi Rezazadeh, Michael Butler
         topic: Modeling/Industrial
         abstract: Cloud computing technologies help developers build scalable distributed apps. Serverless architecture, or Function as a Service (FaaS), which separates app businesses into multiple functions, is one of the cloud-native architectures that has gained popularity. Those functions can be developed and deployed independently without provisioning in?frastructure. Despite the considerable advantages and increasing popularity of cloud?native apps, developers face many challenges when building their cloud?native applications. To ensure the robustness and security of cloud-native apps and protect crucial resources, the design and implementation of functions and associated access control systems play a pivotal role. In this paper, we have employed formal methods and tools to develop a set of patterns to help cloud-native application developers to design robust serverless apps. We have used Event-B and its associated toolset, Rodin, to construct these formal patterns and demonstrated how these patterns can be used in practical case studies.   
-      - paper: A Modeling and Verification Framework for Ethereum Smart Contracts
+      - paper: Designing Exception Handling using Event-B
         start: "12:05"
         end: "12:20"
-        author: Simone Valentini, Chiara Braghin, Elvinia Riccobene
-        topic: Modeling
-        abstract: Blockchain has shown to be a versatile technology with applications ranging from financial services and supply chain management to healthcare, identity verification, and beyond. Thanks to the usage of smart contracts, blockchain can streamline and automate complex processes, eliminating the need for intermediaries and reducing administrative overhead. Smart contracts often handle valuable assets and execute critical functions, making them attractive targets for attackers. Thus, the need for secure and reliable smart contracts is crucial. The long-term research we present aims to face the problem of safety and security assurance of smart contracts at design time. We are investigating the usage of the Abstract State Machine (ASM) formal method for the specification, validation, and verification of Ethereum smart contracts. We provide (i) a set of ASM libraries that simplify smart contracts modeling, (ii) models of malicious contracts to be used to check the robustness of a  contract against some given attacks, (iii) patterns of properties to be checked to guarantee the operational correctness of the contract and its adherence to certain predefined properties.
+        author: Asieh Salehi Fathabadi, Colin Snook, Thai Son Hoang, Robert Thorburn, Michael Butler, Leonardo Aniello, Vladimiro Sassone
+        topic: Modeling/Verification
+        abstract: Exception handling is a well-known error recovery approach employed to improve robustness of software. While programming languages offer exception handling for responding to detected failures, the design of exception handling is a complex task that needs designers’ insights and domain expertise to identify exceptions and recover from them to put the system back in a safe state. The challenge is to ensure that a complex closed system including controller and its environment remain in a safe state while undertaking abnormal state changes in the controller as part of its exception recovery process. Formal methods supporting excep- tion handling can address this complexity, by addressing it in the abstract design stages utilising mathematical modelling and proofs. Event-B is a state-based formal method for modelling and verifying the consistency of discrete systems. However it lacks support for explicit handling of exceptions. In this paper, we use UML-B state machines to support the identification and handling of exceptions, followed by verification of exception handler recovery mechanisms using the built-in model checker and prover in the Event-B toolset. We also discuss an implementation of the modelled exception handling in the 'C' programming language as a first stage towards automatic code generation of exception handlers.
       - paper: Lunch break
         start: "12:30"
         end: "14:00"
@@ -98,12 +160,12 @@ days:
         author: Manar Altamimi,  Nawfal  Al Hashimy, Asieh Salehi Fathabadi, Gary Wills
         topic: Modeling/Industrial
         abstract: This paper introduces a novel approach to formal modelling and verification of ownership, addressing safety concerns in property transfer processes.The Event-B formal method, graphically represented using iUML-B notation, is used to establish a robust framework for modeling and verifying ownership systems. The verified Event-B model refines and enhances user requirements at the design stage before system implementation. The research focuses on property ownership within the legal framework of the Kingdom of Saudi Arabia, specifically property sales. The research uncovers that, despite conscientious efforts to scrutinise user requirements, the formal model development exposes limitations and inadequacies in the initial specifications. The verification process introduces essential requirements to mitigate potential fraudulent activities, enhancing the security and dependability of ownership claims.
-      - paper: Designing Exception Handling using Event-B
+      - paper: A Modeling and Verification Framework for Ethereum Smart Contracts
         start: "15:20"
         end: "15:35"
-        author: Asieh Salehi Fathabadi, Colin Snook, Thai Son Hoang, Robert Thorburn, Michael Butler, Leonardo Aniello, Vladimiro Sassone
+        author: Simone Valentini, Chiara Braghin, Elvinia Riccobene
         topic: Modeling/Verification
-        abstract: Exception handling is a well-known error recovery approach employed to improve robustness of software. While programming lan- guages offer exception handling for responding to detected failures, the design of exception handling is a complex task that needs designers’ insights and domain expertise to identify exceptions and recover from them to put the system back in a safe state. The challenge is to ensure that a complex closed system including controller and its environment remain in a safe state while undertaking abnormal state changes in the controller as part of its exception recovery process. Formal methods supporting excep- tion handling can address this complexity, by addressing it in the abstract design stages utilising mathematical modelling and proofs. Event-B is a state-based formal method for modelling and verifying the consistency of discrete systems. However it lacks support for explicit handling of exceptions. In this paper, we use UML-B state machines to support the identification and handling of exceptions, followed by verification of exception handler recovery mechanisms using the built-in model checker and prover in the Event-B toolset. We also discuss an implementation of the modelled exception handling in the 'C' programming language as a first stage towards automatic code generation of exception handlers.
+        abstract: Blockchain has shown to be a versatile technology with applications ranging from financial services and supply chain management to healthcare, identity verification, and beyond. Thanks to the usage of smart contracts, blockchain can streamline and automate complex processes, eliminating the need for intermediaries and reducing administrative overhead. Smart contracts often handle valuable assets and execute critical functions, making them attractive targets for attackers. Thus, the need for secure and reliable smart contracts is crucial. The long-term research we present aims to face the problem of safety and security assurance of smart contracts at design time. We are investigating the usage of the Abstract State Machine (ASM) formal method for the specification, validation, and verification of Ethereum smart contracts. We provide (i) a set of ASM libraries that simplify smart contracts modeling, (ii) models of malicious contracts to be used to check the robustness of a  contract against some given attacks, (iii) patterns of properties to be checked to guarantee the operational correctness of the contract and its adherence to certain predefined properties.
       - paper: Coffee break 
         start: "15:35"
         end: "16:05"
