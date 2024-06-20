@@ -47,7 +47,7 @@ You can also walk to Porta Nuova in a few minutes, where you can take:<br>
 - Bus Line 1B (from Scanzo)
 - Bus Line 1C (from Grassobbio)
 
-The complete map of the ATB links is available at this [link](https://www.atb.bergamo.it/user/download.aspx?FILE=OBJ00181.PDF&TIPO=FLE&NOME=mappa-della-rete.PDF).
+The complete map of the ATB links is available at this [link](https://www.atb.bergamo.it/en/public-transport/dowload-the-map-of-the-service).
 
 #### By Car
 
