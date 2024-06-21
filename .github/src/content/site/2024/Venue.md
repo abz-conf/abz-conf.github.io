@@ -37,6 +37,7 @@ From Linate airport you can take the metro to the railway station (Centrale or L
 
 #### From Malpensa airport (MXP)
 From Malpensa airport you can reach the railway Central Station of Milan by bus (1h journey, every 10 minutes), operated by [Autostradale](www.autostradale.it/?lang=en-GB) and [Malpensashuttle](www.malpensashuttle.com/en/index.html). There is also a [train](www.malpensaexpress.it/en/) running from MXP and Milano Centrale (or Milano Cadorna, but then you need to take the metro). The train is faster than the bus, but be careful to take the right direction to Milano Centrale.
+Then, from the Central Station of Milan, you can take the train to Bergamo. The ticket for the train is €6,00.
 
 #### From the station
 - BUS Line 1 - From the train station to Città Alta (Colle Aperto) the bus has a frequency of 15 minutes.
@@ -47,7 +48,7 @@ You can also walk to Porta Nuova in a few minutes, where you can take:<br>
 - Bus Line 1B (from Scanzo)
 - Bus Line 1C (from Grassobbio)
 
-The complete map of the ATB links is available at this [link](https://www.atb.bergamo.it/user/download.aspx?FILE=OBJ00181.PDF&TIPO=FLE&NOME=mappa-della-rete.PDF).
+The complete map of the ATB links is available at this [link](https://www.atb.bergamo.it/en/public-transport/dowload-the-map-of-the-service).
 
 #### By Car
 
