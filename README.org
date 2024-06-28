@@ -34,8 +34,18 @@ The ABZ website can be found under the folder =.github/src/content/site=
 
 For each edition you should have:
 
-- A folder (see =.github/src/content/site/2024/=) containing all pages, written using Markdown, for that ABZ edition
+- A folder, with the year as the name (see =.github/src/content/site/2024/=), containing all pages, written using Markdown, for that ABZ edition
 - A markdown file, with the year as the name (see =.github/src/content/site/2024.md=), representing the homepage of that ABZ edition
+- A markdown file with the year as the name, shown in the ABZ organization webisite and saved under =.github/src/content/event/=
+
+If new menus or pages are needed for the ABZ edition of the year =X=, besides creating the corresponding markdown file under the =X= folder, it is also needed to add the corresponding entry in the file =.github/src/config/_default/menus.toml=
+This file contains several entries, one for each webisite page. Entries having =[[main]]= as first label are those of the pages of the ABZ organization website. Instead, those marked with =[[conference]]= are available in the ABZ edition website.
+For each entry, you can specify:
+
+- =parent= the name of the parent entry. It is used when you are specifying a sub-menu entry, thus it can be otpional
+- =name= the name shown on the webpage
+- =url= the name of the markdown file (without extension)
+- =weight= defines the order in which menus are shown
 
 
 
