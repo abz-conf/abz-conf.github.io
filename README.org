@@ -59,7 +59,7 @@ Images can be used as well in ABZ webpages. If they are needed, they have to be 
 
 Writing and maintaining the program of the conference can be a complex process, as it involves several people and several updates due to participants' constraints. 
 To simplify this process, I have developed a very simple Python script that can automatically generate the program starting from a YAML file. 
-The script is available in the folder =.github/src/data/ProgramGenerator= which contains:
+The script is available in the folder =program_generator= which contains:
 
 - =program.yaml= the file containing the program of the conference
 - =pageGenerator.py= the script that generates the program and creates the file =page.html= in the same folder. The content of this file can be copied and pasted into the =Program.md= file of the corresponding ABZ edition folder
