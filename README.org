@@ -28,6 +28,15 @@ TBA
 
 - =./= ... contains the generated website (do not modify!)
 
+** How to add a new section for new editions of ABZ
+
+The ABZ website can be found under the folder =.github/src/content/site=
+
+For each edition you should have:
+
+- A folder (see =.github/src/content/site/2024/=) containing all pages for that ABZ edition
+- A markdown file, with the year as the name (see =.github/src/content/site/2024.md=), representing the homepage of that ABZ edition
+
 ** License
 
 This project uses for all textual information a CC-BY-4.0 license.
