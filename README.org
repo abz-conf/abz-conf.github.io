@@ -32,9 +32,11 @@ For each edition you should have:
 Traditionally, the ABZ conference website has an image of the city skyline in the upper right corner of the page, in the menu bar.
 If you want to continue including the skyline, it should be placed under the folder =.github/src/static/img= as an svg file. In the pages in which the skyline has to be shown, in the header of the markdown page, you should fill the following lines:
 
-==skyline: 
+#+BEGIN_SRC
+skyline:
     image: "bergamo-skyline.svg"
     url: "https://en.wikipedia.org/wiki/Bergamo"==
+#+END_SRC
 
 The =image= field is the name of the skyline image, while the =url= field is the link to the information page of the city.
 
