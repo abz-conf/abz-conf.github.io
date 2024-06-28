@@ -19,15 +19,26 @@
 
 * =abz-conf.github.io=: ABZ Conference and Community Website
 
-** How to add a new section for new editions of ABZ
+** How to add a new section for new ABZ editions of
 
-The ABZ website can be found under the folder =.github/src/content/site=
+The ABZ conference website can be found under the folder =.github/src/content/site=
 
 For each edition you should have:
 
 - A folder, with the year as the name (see =.github/src/content/site/2024/=), containing all pages, written using Markdown, for that ABZ edition
 - A markdown file, with the year as the name (see =.github/src/content/site/2024.md=), representing the homepage of that ABZ edition
-- A markdown file with the year as the name, shown in the ABZ organization webisite and saved under =.github/src/content/event/=
+- A markdown file with the year as the name, shown in the ABZ organization webisite and saved under =.github/src/content/event/=. In this way, the new ABZ edition will be available under the list of events in the ABZ organization website
+
+Traditionally, the ABZ conference website has an image of the city skyline in the upper right corner of the page, in the menu bar.
+If you want to continue including the skyline, it should be placed under the folder =.github/src/static/img= as an svg file. In the pages in which the skyline has to be shown, in the header of the markdown page, you should fill the following lines:
+
+==skyline: 
+    image: "bergamo-skyline.svg"
+    url: "https://en.wikipedia.org/wiki/Bergamo"==
+
+The =image= field is the name of the skyline image, while the =url= field is the link to the information page of the city.
+
+*** Navigation bar menus
 
 If new menus or pages are needed for the ABZ edition of the year =X=, besides creating the corresponding markdown file under the =X= folder, it is also needed to add the corresponding entry in the file =.github/src/config/_default/menus.toml=
 This file contains several entries, one for each webisite page. Entries having =[[main]]= as first label are those of the pages of the ABZ organization website. Instead, those marked with =[[conference]]= are available in the ABZ edition website.
@@ -38,6 +49,36 @@ For each entry, you can specify:
 - =url= the name of the markdown file (without extension)
 - =weight= defines the order in which menus are shown
 
+*** Images
+
+Images can be used as well in ABZ webpages. If they are needed, they have to be places under the folder =.github/src/static/img/=.
+
+*** Automatic generation of the program
+
+Writing and maintaining the program of the conference can be a complex process, as it involves several people and several updates due to participants' constraints. 
+To simplify this process, I have developed a very simple Python script that can automatically generate the program starting from a YAML file. 
+The script is available in the folder =.github/src/data/ProgramGenerator= which contains:
+
+- =program.yaml= the file containing the program of the conference
+- =pageGenerator.py= the script that generates the program and creates the file =page.html= in the same folder. The content of this file can be copied and pasted in the =Program.md= file of the corresponding ABZ edition folder
+
+The =program.yaml= file contains the =days= array, in which every =day= element has the following structure:
+
+- =day= is the name or date of the dat to be shown on the program webpage
+- =workshopOrConference= can be either "Workshop" or "Conference". It is used to distinguish between the two types of events and to show them with different labels in the program
+- =room= is the name of the room hosting the events for that day
+- =program= is the array of all the papers/events/entries of the specific day. Each entry contains the following fields:
+  - =paper= the name of the paper/event/entry. It is the only mandatory field
+  - =background= the color to be used as the background
+  - =start= the starting time
+  - =end= the end time
+  - =author= the list of the authors of the paper
+  - =topic= the topic of the paper
+  - =abstract= the abstract of the paper
+
+** Additional info
+
+
 TBA
 
 - =hugo= 0.83.1 (extended)
@@ -45,6 +86,10 @@ TBA
 - =.github/src/content= ...
 
 - =./= ... contains the generated website (do not modify!)
+
+** Credits
+
+- ABZ 2024: Andrea Bombarda
 
 ** License
 
