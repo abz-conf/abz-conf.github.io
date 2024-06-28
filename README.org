@@ -17,16 +17,7 @@
 
 #+options: toc:nil
 
-
 * =abz-conf.github.io=: ABZ Conference and Community Website
-
-TBA
-
-- =hugo= 0.83.1 (extended)
-
-- =.github/src/content= ...
-
-- =./= ... contains the generated website (do not modify!)
 
 ** How to add a new section for new editions of ABZ
 
@@ -47,7 +38,13 @@ For each entry, you can specify:
 - =url= the name of the markdown file (without extension)
 - =weight= defines the order in which menus are shown
 
+TBA
 
+- =hugo= 0.83.1 (extended)
+
+- =.github/src/content= ...
+
+- =./= ... contains the generated website (do not modify!)
 
 ** License
 
