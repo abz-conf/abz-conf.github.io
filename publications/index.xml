@@ -1,4 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Publications | ABZ</title><link>/publications/</link><atom:link href="/publications/index.xml" rel="self" type="application/rss+xml"/><description>Publications</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2024 ABZ Conference</copyright><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Publications</title><link>/publications/</link></image><item><title>A Verified Low-Level Implementation of the Adaptive Exterior Light and Speed Control System</title><link>/publication/krings2020abz/</link><pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate><guid>/publication/krings2020abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Publications | ABZ</title><link>/publications/</link><atom:link href="/publications/index.xml" rel="self" type="application/rss+xml"/><description>Publications</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2024 ABZ Conference</copyright><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Publications</title><link>/publications/</link></image><item><title>An Event-B Model of a Mechanical Lung Ventilator</title><link>/publication/mammar2024abz/</link><pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate><guid>/publication/mammar2024abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>In this paper, we present a formal Event-B model of the Mechanical Lung Ventilator (MLV), the case study provided by the ABZ’24 conference. This system aims at helping patients maintain good breathing by providing mechanical ventilation. For this purpose, two modes are possible: Pressure Controlled Ventilation (PCV) and Pressure Support Ventilation (PSV). In the former mode, respiratory cycles are completely defined by the patient that is able to start breathing on its own. In the latter mode, the respiratory cycle is constant and controlled by the ventilator. Let us note that it is possible to move from a given mode to the other depending on the breathing capabilities of the patient under ventilation. In this paper, we illustrate the use of a correct-by-construction approach, the Event-B formal method and its refinement process, for the formal modeling and the verification of such a complex and critical system. The development of the formal models has been achieved under the Rodin platform that provides us with automatic and interactive provers used to verify the correctness of the models. We have also validated the built Event-B models using the ProB animator/model checker.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-63790-2_25.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@InProceedings{Mammar2024abz,
+author=&amp;quot;Mammar, Amel&amp;quot;,
+editor=&amp;quot;Bonfanti, Silvia
+and Gargantini, Angelo
+and Leuschel, Michael
+and Riccobene, Elvinia
+and Scandurra, Patrizia&amp;quot;,
+title=&amp;quot;An Event-B Model of a Mechanical Lung Ventilator&amp;quot;,
+booktitle=&amp;quot;Rigorous State-Based Methods&amp;quot;,
+year=&amp;quot;2024&amp;quot;,
+publisher=&amp;quot;Springer Nature Switzerland&amp;quot;,
+address=&amp;quot;Cham&amp;quot;,
+pages=&amp;quot;307--323&amp;quot;,
+abstract=&amp;quot;In this paper, we present a formal Event-B model of the Mechanical Lung Ventilator (MLV), the case study provided by the ABZ'24 conference. This system aims at helping patients maintain good breathing by providing mechanical ventilation. For this purpose, two modes are possible: Pressure Controlled Ventilation (PCV) and Pressure Support Ventilation (PSV). In the former mode, respiratory cycles are completely defined by the patient that is able to start breathing on its own. In the latter mode, the respiratory cycle is constant and controlled by the ventilator. Let us note that it is possible to move from a given mode to the other depending on the breathing capabilities of the patient under ventilation. In this paper, we illustrate the use of a correct-by-construction approach, the Event-B formal method and its refinement process, for the formal modeling and the verification of such a complex and critical system. The development of the formal models has been achieved under the Rodin platform that provides us with automatic and interactive provers used to verify the correctness of the models. We have also validated the built Event-B models using the ProB animator/model checker.&amp;quot;,
+isbn=&amp;quot;978-3-031-63790-2&amp;quot;
+}
+&lt;/code>&lt;/pre>
+&lt;h2 id="sources">Sources&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Model Archive:&lt;/strong>
+&lt;a href="https://github.com/AmelMammar/MechanicalLungVentilator" target="_blank" rel="noopener">GitHub&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Presentation:&lt;/strong>
+&lt;a href="/data/abz24/mammar2024abz.zip">PDF&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Used formal method:&lt;/strong>
+&lt;a href="/method/event-b">Event-B&lt;/a>&lt;/p>
+&lt;p>For more information, please contact the &lt;a href ="mailto:amel.mammar@telecom-sudparis.eu">authors&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>A Verified Low-Level Implementation of the Adaptive Exterior Light and Speed Control System</title><link>/publication/krings2020abz/</link><pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate><guid>/publication/krings2020abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>In this article, we present an approach to the ABZ 2020 case study, that differs from the ones usually presented at ABZ: Rather than using a (correct-by-construction) approach following a formal method, we use MISRA C for a low-level implementation instead. We strictly adhere to test-driven development for validation, and only afterwards apply model checking using CBMC for verification. In consequence, our realization of the ABZ case study can serve as a baseline reference for comparison, allowing to assess the benefit provided by the various formal modeling languages, methods and tools.&lt;/p>
 &lt;h2 id="document">Document&lt;/h2>
 &lt;div id="pdfobject-viewer">&lt;/div>
