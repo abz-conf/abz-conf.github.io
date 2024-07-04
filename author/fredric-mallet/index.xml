@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fredric Mallet | ABZ</title><link>/author/fredric-mallet/</link><atom:link href="/author/fredric-mallet/index.xml" rel="self" type="application/rss+xml"/><description>Fredric Mallet</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2024 ABZ Conference</copyright><lastBuildDate>Wed, 03 Jul 2024 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Fredric Mallet</title><link>/author/fredric-mallet/</link></image><item><title>Real-Time CCSL: Application to the Mechanical Lung Ventilator</title><link>/publication/tokariev2024abz/</link><pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate><guid>/publication/tokariev2024abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>This case-study paper reports on our experience in modelling the mechanical lung ventilator using the Clock Constraint Specification Language (CCSL). CCSL captures the causal and temporal behaviour of a system by specifying constraints on logical clocks. Logical clocks are integer counters where the occurrence of an event, a tick, advances the counter and marks the advance in time. In this framework, chronometric clocks become logical clocks just with a special external meaning. Encoding chronometric clocks as counters may result in verification inefficiency and hard-to-read specifications. The paper introduces in the language some real-time constructs to directly encode phenomena like clock drift, skew and jitter. This makes patterns explicit in turn enabling optimizations. To realize these optimizations, we alter the internal symbolic representation of clock constraints. We also introduce an explicit notion of parameters and intervals. While for some constraints it mainly consists of adding syntactic sugar and pre-processing facilities, we believe it improves the readability. We illustrate the new constructs on the mechanical lung ventilator system. We start with a purely logical specification, we point at the sources of inefficiencies and then we discuss the benefits of the extensions on specific parts.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-63790-2_24.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@InProceedings{10.1007/978-3-031-63790-2_24,
+author=&amp;quot;Tokariev, Pavlo
+and Mallet, Fr{\'e}d{\'e}ric&amp;quot;,
+editor=&amp;quot;Bonfanti, Silvia
+and Gargantini, Angelo
+and Leuschel, Michael
+and Riccobene, Elvinia
+and Scandurra, Patrizia&amp;quot;,
+title=&amp;quot;Real-Time CCSL: Application to the Mechanical Lung Ventilator&amp;quot;,
+booktitle=&amp;quot;Rigorous State-Based Methods&amp;quot;,
+year=&amp;quot;2024&amp;quot;,
+publisher=&amp;quot;Springer Nature Switzerland&amp;quot;,
+address=&amp;quot;Cham&amp;quot;,
+pages=&amp;quot;289--306&amp;quot;,
+abstract=&amp;quot;This case-study paper reports on our experience in modelling the mechanical lung ventilator using the Clock Constraint Specification Language (CCSL). CCSL captures the causal and temporal behaviour of a system by specifying constraints on logical clocks. Logical clocks are integer counters where the occurrence of an event, a tick, advances the counter and marks the advance in time. In this framework, chronometric clocks become logical clocks just with a special external meaning. Encoding chronometric clocks as counters may result in verification inefficiency and hard-to-read specifications.&amp;quot;,
+isbn=&amp;quot;978-3-031-63790-2&amp;quot;
+}
+&lt;/code>&lt;/pre>
+&lt;h2 id="sources">Sources&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Model Archive:&lt;/strong>
+&lt;a href="https://github.com/PaulRaUnite/mlv_spec/releases/tag/v0.1" target="_blank" rel="noopener">GitHub&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Presentation:&lt;/strong>
+&lt;a href="/data/abz24/tokariev2024abz.pdf">PDF&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Used formal method:&lt;/strong>
+&lt;a href="/method/CCSL">CCSL&lt;/a>&lt;/p>
+&lt;p>For more information, please contact the &lt;a href ="mailto:Pavlo.Tokariev@inria.fr;Frederic.Mallet@univ-cotedazur.fr">authors&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item></channel></rss>
