@@ -89,7 +89,7 @@ isbn="978-3-031-63790-2"
 - **Model Archive:**
   [GitHub](https://github.com/AmelMammar/MechanicalLungVentilator)
 - **Presentation:**
-  [PDF](/data/abz24/mammar2024abz.zip)
+  [PDF](/data/abz24/mammar2024abz.pdf)
 - **Used formal method:**
   [Event-B](/method/event-b)
 
