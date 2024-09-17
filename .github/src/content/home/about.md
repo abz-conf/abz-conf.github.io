@@ -12,8 +12,8 @@ twitter:
   height: 500
 
 event:
-  link: 2024
-  text: ABZ'24
+  link: 2025
+  text: ABZ'25
   
 ---
 
