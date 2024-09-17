@@ -1,13 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sites | ABZ</title><link>/site/</link><atom:link href="/site/index.xml" rel="self" type="application/rss+xml"/><description>Sites</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2024 ABZ Conference</copyright><lastBuildDate>Tue, 17 Sep 2024 00:00:00 +0100</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Sites</title><link>/site/</link></image><item><title>ABZ 2025 – 11th International Conference on Rigorous State Based Methods</title><link>/site/2025/</link><pubDate>Tue, 17 Sep 2024 00:00:00 +0100</pubDate><guid>/site/2025/</guid><description>&lt;h3 id="düsseldorf-germany---jun-10-2025--jun-13-2025">Düsseldorf (Germany) - Jun 10, 2025 — Jun 13, 2025&lt;/h3>
 &lt;br>
 &lt;p>The ABZ conference is dedicated to the cross-fertilization of state-based and machine-based formal methods, like Abstract State Machines (ASM), Alloy, B, TLA, VDM and Z, that share a common conceptual foundation and are widely used in both academia and industry for the design and analysis of hardware and software systems. The conference aims for a vital exchange of knowledge and experience among the research communities around different formal methods.&lt;/p>
-&lt;h3 id="supporters-for-abz2024-were">Supporters for ABZ'2024 were&lt;/h3>
+&lt;!--
+### Supporters for ABZ'2024 were
 &lt;div>&lt;img src="/img/UniBG-DIGIP-Logo.jpg">&lt;/div>
 &lt;div>&lt;img src="/img/logo_UNIMI.jpg">&lt;/div>
-&lt;div>&lt;a href="https://www.fmeurope.org">&lt;img src="/img/FME.png" width="170" style="margin-left: 100px;">&lt;/a> &lt;/div></description></item><item><title>ABZ 2025 – 11th International Conference on Rigorous State Based Methods</title><link>/site/2025/venue/</link><pubDate>Tue, 17 Sep 2024 00:00:00 +0100</pubDate><guid>/site/2025/venue/</guid><description>&lt;h2 id="venue-haus-der-universität">Venue: Haus der Universität&lt;/h2>
+&lt;div>&lt;a href="https://www.fmeurope.org">&lt;img src="/img/FME.png" width="170" style="margin-left: 100px;">&lt;/a> &lt;/div>
+--></description></item><item><title>ABZ 2025 – 11th International Conference on Rigorous State Based Methods</title><link>/site/2025/team/</link><pubDate>Tue, 17 Sep 2024 00:00:00 +0100</pubDate><guid>/site/2025/team/</guid><description>&lt;h2 id="organization">Organization&lt;/h2>
+&lt;h3 id="program-chairs">Program Chairs&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;a href="https://www.cs.hhu.de/lehrstuehle-und-arbeitsgruppen/softwaretechnik-und-programmiersprachen/unser-team/team/leuschel" target="_blank" rel="noopener">Michael Leuschel, Heinrich-Heine-Universität, Düsseldorf, Germany&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="http://research.nii.ac.jp/~f-ishikawa/en/" target="_blank" rel="noopener">Fuyuki Ishikawa, National Institute of Informatics, Tokyo, Japan&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="case-study-chairs">Case Study Chairs&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;a href="https://www.cs.hhu.de/lehrstuehle-und-arbeitsgruppen/softwaretechnik-und-programmiersprachen/unser-team/team/vu" target="_blank" rel="noopener">Fabian Vu, Heinrich-Heine-Universität, Düsseldorf, Germany&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="workshoptutorial-chairs">Workshop/Tutorial Chairs&lt;/h3>
+&lt;h3 id="sponsor-chair">Sponsor Chair&lt;/h3>
+&lt;h3 id="doctoral-symposium-chairs">Doctoral Symposium Chairs&lt;/h3>
+&lt;h3 id="socialpublicity-chairs">Social/Publicity Chairs&lt;/h3>
+&lt;h3 id="web-chairs">Web Chairs&lt;/h3>
+&lt;h3 id="local-chair">Local Chair&lt;/h3>
+&lt;h3 id="registration-chair">Registration Chair&lt;/h3>
+&lt;h2 id="program-committee">Program Committee&lt;/h2></description></item><item><title>ABZ 2025 – 11th International Conference on Rigorous State Based Methods</title><link>/site/2025/venue/</link><pubDate>Tue, 17 Sep 2024 00:00:00 +0100</pubDate><guid>/site/2025/venue/</guid><description>&lt;h2 id="venue-haus-der-universität">Venue: Haus der Universität&lt;/h2>
 &lt;h4 id="location">Location&lt;/h4>
 &lt;p>
-&lt;a href="https://https://www.hdu.hhu.de" target="_blank" rel="noopener">&lt;strong>Haus der Universität&lt;/strong>&lt;/a> &lt;br>
+&lt;a href="https://www.hdu.hhu.de/en" target="_blank" rel="noopener">&lt;strong>Haus der Universität&lt;/strong>&lt;/a> &lt;br>
 Schadowplatz 14&lt;br>
 40212 Düsseldorf &lt;br>
 Germany &lt;br>&lt;/p></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/</guid><description>&lt;h3 id="bergamo-italy---jun-25-2024--jun-28-2024">Bergamo (Italy) - Jun 25, 2024 — Jun 28, 2024&lt;/h3>
