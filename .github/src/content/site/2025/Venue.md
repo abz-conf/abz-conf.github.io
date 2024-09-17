@@ -13,8 +13,8 @@ header:
   image: ""
 
 skyline: 
-  image: "bergamo-skyline.svg"
-  url: "https://en.wikipedia.org/wiki/Bergamo"
+  image: "duesseldorf-hafen.png"
+  url: "https://de.wikipedia.org/wiki/Düsseldorf"
 ---
 
 ## Venue: Haus der Universität
