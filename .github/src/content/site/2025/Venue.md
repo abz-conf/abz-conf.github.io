@@ -13,14 +13,14 @@ header:
   image: ""
 
 skyline: 
-  image: "bergamo-skyline.svg"
-  url: "https://en.wikipedia.org/wiki/Bergamo"
+  image: "duesseldorf-hafen.png"
+  url: "https://de.wikipedia.org/wiki/Düsseldorf"
 ---
 
 ## Venue: Haus der Universität
 
 #### Location
-[**Haus der Universität**](https://https://www.hdu.hhu.de) <br>
+[**Haus der Universität**](https://www.hdu.hhu.de/en) <br>
 Schadowplatz 14<br>
 40212 Düsseldorf  <br>
 Germany <br>
