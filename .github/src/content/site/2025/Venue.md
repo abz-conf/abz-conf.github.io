@@ -20,7 +20,7 @@ skyline:
 ## Venue: Haus der Universität
 
 #### Location
-[**Haus der Universität**](https://https://www.hdu.hhu.de) <br>
+[**Haus der Universität**](https://www.hdu.hhu.de/en) <br>
 Schadowplatz 14<br>
 40212 Düsseldorf  <br>
 Germany <br>
