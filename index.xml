@@ -131,7 +131,19 @@ He has worked on tools such as ProB, U2B, csp2B and the Rodin toolset for Event-
 &lt;a href="https://www.hdu.hhu.de/en" target="_blank" rel="noopener">&lt;strong>Haus der Universität&lt;/strong>&lt;/a> &lt;br>
 Schadowplatz 14&lt;br>
 40212 Düsseldorf &lt;br>
-Germany &lt;br>&lt;/p></description></item><item><title>An Event-B Model of a Mechanical Lung Ventilator</title><link>/publication/mammar2024abz/</link><pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate><guid>/publication/mammar2024abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+Germany &lt;br>&lt;/p></description></item><item><title>ABZ 2025 – 11th International Conference on Rigorous State Based Methods</title><link>/site/2025/workshop/</link><pubDate>Tue, 17 Sep 2024 00:00:00 +0100</pubDate><guid>/site/2025/workshop/</guid><description>&lt;h2 id="workshops">Workshops&lt;/h2>
+&lt;p>ABZ 2025 will host the following workshops (to be completed).&lt;/p>
+&lt;h3 id="rodin-workshop">Rodin workshop&lt;/h3>
+&lt;p>Event-B is a formal method for system-level modeling and analysis. The Rodin Platform is an Eclipse-based toolset for Event-B that provides effective support for modeling and automated proof. The platform is open source and is further extendable with plug-ins. A range of plug-ins have already been developed.&lt;/p>
+&lt;p>The purpose of this workshop is to bring together existing and potential users and developers of the Rodin toolset and to foster a broader community of Rodin users and developers.&lt;/p>
+&lt;p>For Rodin users, the workshop will provide an opportunity to share tool experiences and gain an understanding of ongoing tool developments. For plug-in developers, the workshop will provide an opportunity to showcase their tools and to achieve better coordination of tool development efforts.&lt;/p>
+&lt;p>Participants may attend or present both in person or remotely.
+If you are willing to participate remotely, please contact the organizers.&lt;/p>
+&lt;p>Additional details can be found at
+&lt;a href="https://wiki.event-b.org/index.php/Rodin_Workshop_2025" target="_blank" rel="noopener">https://wiki.event-b.org/index.php/Rodin_Workshop_2025&lt;/a>&lt;/p>
+&lt;h4 id="format-and-date">Format and date&lt;/h4>
+&lt;p>The workshop will host presentations, with ample time for discussions.&lt;/p>
+&lt;p>The Rodin workshop will be held on June 10, 2025.&lt;/p></description></item><item><title>An Event-B Model of a Mechanical Lung Ventilator</title><link>/publication/mammar2024abz/</link><pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate><guid>/publication/mammar2024abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>In this paper, we present a formal Event-B model of the Mechanical Lung Ventilator (MLV), the case study provided by the ABZ’24 conference. This system aims at helping patients maintain good breathing by providing mechanical ventilation. For this purpose, two modes are possible: Pressure Controlled Ventilation (PCV) and Pressure Support Ventilation (PSV). In the former mode, respiratory cycles are completely defined by the patient that is able to start breathing on its own. In the latter mode, the respiratory cycle is constant and controlled by the ventilator. Let us note that it is possible to move from a given mode to the other depending on the breathing capabilities of the patient under ventilation. In this paper, we illustrate the use of a correct-by-construction approach, the Event-B formal method and its refinement process, for the formal modeling and the verification of such a complex and critical system. The development of the formal models has been achieved under the Rodin platform that provides us with automatic and interactive provers used to verify the correctness of the models. We have also validated the built Event-B models using the ProB animator/model checker.&lt;/p>
 &lt;h2 id="document">Document&lt;/h2>
 &lt;div id="pdfobject-viewer">&lt;/div>

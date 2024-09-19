@@ -130,7 +130,19 @@ He has worked on tools such as ProB, U2B, csp2B and the Rodin toolset for Event-
 &lt;a href="https://www.hdu.hhu.de/en" target="_blank" rel="noopener">&lt;strong>Haus der Universität&lt;/strong>&lt;/a> &lt;br>
 Schadowplatz 14&lt;br>
 40212 Düsseldorf &lt;br>
-Germany &lt;br>&lt;/p></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/</guid><description>&lt;h3 id="bergamo-italy---jun-25-2024--jun-28-2024">Bergamo (Italy) - Jun 25, 2024 — Jun 28, 2024&lt;/h3>
+Germany &lt;br>&lt;/p></description></item><item><title>ABZ 2025 – 11th International Conference on Rigorous State Based Methods</title><link>/site/2025/workshop/</link><pubDate>Tue, 17 Sep 2024 00:00:00 +0100</pubDate><guid>/site/2025/workshop/</guid><description>&lt;h2 id="workshops">Workshops&lt;/h2>
+&lt;p>ABZ 2025 will host the following workshops (to be completed).&lt;/p>
+&lt;h3 id="rodin-workshop">Rodin workshop&lt;/h3>
+&lt;p>Event-B is a formal method for system-level modeling and analysis. The Rodin Platform is an Eclipse-based toolset for Event-B that provides effective support for modeling and automated proof. The platform is open source and is further extendable with plug-ins. A range of plug-ins have already been developed.&lt;/p>
+&lt;p>The purpose of this workshop is to bring together existing and potential users and developers of the Rodin toolset and to foster a broader community of Rodin users and developers.&lt;/p>
+&lt;p>For Rodin users, the workshop will provide an opportunity to share tool experiences and gain an understanding of ongoing tool developments. For plug-in developers, the workshop will provide an opportunity to showcase their tools and to achieve better coordination of tool development efforts.&lt;/p>
+&lt;p>Participants may attend or present both in person or remotely.
+If you are willing to participate remotely, please contact the organizers.&lt;/p>
+&lt;p>Additional details can be found at
+&lt;a href="https://wiki.event-b.org/index.php/Rodin_Workshop_2025" target="_blank" rel="noopener">https://wiki.event-b.org/index.php/Rodin_Workshop_2025&lt;/a>&lt;/p>
+&lt;h4 id="format-and-date">Format and date&lt;/h4>
+&lt;p>The workshop will host presentations, with ample time for discussions.&lt;/p>
+&lt;p>The Rodin workshop will be held on June 10, 2025.&lt;/p></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/</guid><description>&lt;h3 id="bergamo-italy---jun-25-2024--jun-28-2024">Bergamo (Italy) - Jun 25, 2024 — Jun 28, 2024&lt;/h3>
 &lt;br>
 &lt;p>The ABZ conference is dedicated to the cross-fertilization of state-based and machine-based formal methods, like Abstract State Machines (ASM), Alloy, B, TLA, VDM and Z, that share a common conceptual foundation and are widely used in both academia and industry for the design and analysis of hardware and software systems. The conference aims for a vital exchange of knowledge and experience among the research communities around different formal methods.&lt;/p>
 &lt;h3 id="proceedings-online-accessible">Proceedings online accessible&lt;/h3>
