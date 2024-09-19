@@ -38,11 +38,9 @@ skyline:
 
 * [Philipp Körner, Heinrich-Heine-Universität, Düsseldorf, Germany](https://www.cs.hhu.de/lehrstuehle-und-arbeitsgruppen/softwaretechnik-und-programmiersprachen/unser-team/team/koerner)
 
-### Social/Publicity Chairs
+### Publicity/Social/Web Chairs
 
-
-### Web Chairs
-
+* [Jan Gruteser, Heinrich-Heine-Universität, Düsseldorf, Germany](https://www.cs.hhu.de/lehrstuehle-und-arbeitsgruppen/softwaretechnik-und-programmiersprachen/unser-team/team/gruteser)
 
 ### Local Chair
 
