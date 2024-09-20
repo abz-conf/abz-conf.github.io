@@ -21,12 +21,12 @@ skyline:
 
 ### Program Chairs
 
-* [Michael Leuschel, Heinrich-Heine-Universität, Düsseldorf, Germany](https://www.cs.hhu.de/lehrstuehle-und-arbeitsgruppen/softwaretechnik-und-programmiersprachen/unser-team/team/leuschel)
+* [Michael Leuschel, Heinrich-Heine-Universität, Germany](https://www.cs.hhu.de/lehrstuehle-und-arbeitsgruppen/softwaretechnik-und-programmiersprachen/unser-team/team/leuschel)
 * [Fuyuki Ishikawa, National Institute of Informatics, Tokyo, Japan](http://research.nii.ac.jp/~f-ishikawa/en/)
 
 ### Case Study Chairs
 
-* [Fabian Vu, Heinrich-Heine-Universität, Düsseldorf, Germany](https://www.cs.hhu.de/lehrstuehle-und-arbeitsgruppen/softwaretechnik-und-programmiersprachen/unser-team/team/vu)
+* [Fabian Vu, Heinrich-Heine-Universität, Germany](https://www.cs.hhu.de/lehrstuehle-und-arbeitsgruppen/softwaretechnik-und-programmiersprachen/unser-team/team/vu)
 
 ### Workshop/Tutorial Chairs
 
@@ -36,11 +36,12 @@ skyline:
 
 ### Doctoral Symposium Chairs
 
-* [Philipp Körner, Heinrich-Heine-Universität, Düsseldorf, Germany](https://www.cs.hhu.de/lehrstuehle-und-arbeitsgruppen/softwaretechnik-und-programmiersprachen/unser-team/team/koerner)
+* [Asieh Salehi Fathabadi, University of Southampton, UK](https://www.southampton.ac.uk/people/5xb2d2/doctor-asieh-salehi-fathabadi)
+* [Philipp Körner, Heinrich-Heine-Universität, Germany](https://www.cs.hhu.de/lehrstuehle-und-arbeitsgruppen/softwaretechnik-und-programmiersprachen/unser-team/team/koerner)
 
 ### Publicity/Social/Web Chairs
 
-* [Jan Gruteser, Heinrich-Heine-Universität, Düsseldorf, Germany](https://www.cs.hhu.de/lehrstuehle-und-arbeitsgruppen/softwaretechnik-und-programmiersprachen/unser-team/team/gruteser)
+* [Jan Gruteser, Heinrich-Heine-Universität, Germany](https://www.cs.hhu.de/lehrstuehle-und-arbeitsgruppen/softwaretechnik-und-programmiersprachen/unser-team/team/gruteser)
 
 ### Local Chair
 
