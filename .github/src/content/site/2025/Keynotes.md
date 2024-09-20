@@ -49,4 +49,29 @@ Here it is the list of keynote speakers (in alphabetic order by name).
 </div>
 
 
+### Nils Jansen @ Ruhr-University Bochum
+
+<div width=100%>
+<table>
+  <tr>
+    <td width=20%>
+      <img src="https://informatik.rub.de/wp-content/uploads/2023/11/Jansen-1024x1024.jpg" width=200px>
+    </td>
+    <td>
+      <table>
+        <tr><td>
+            <h3><b>TBA</b></h3><br>
+        </td></tr>
+        <tr><td>
+            <b><i>Abstract</i></b> <br>TBA
+        </td></tr>
+        <tr><td>
+            <b><i>Short Bio</i></b> <br><a href="https://informatik.rub.de/jansen/">Nils Jansen</a> is Professor of Artificial Intelligence and Formal Methods at the Ruhr-University Bochum. He is also an Associate Professor with the Institute for Computing and Information Sciences at Radboud University Nijmegen, The Netherlands. Nils mission is to increase the trustworthiness of Artificial Intelligence, bringing together the areas of machine learning and formal methods, in particular, formal verification. He tackles problems that are inspired by autonomous systems and planning problems in robotics. Nils Jansen has been awarded an ERC Starting Grant named DEUCE: Data-Driven Verification and Learning under Uncertainty.
+        </td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</div>
+
 
