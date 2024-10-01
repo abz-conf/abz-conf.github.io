@@ -1,0 +1,41 @@
+---
+title: ABZ 2025 – 11th International Conference on Rigorous State Based Methods
+date:  "2024-09-17T00:00:00+01:00"
+draft: false
+share: false
+contacts: true
+commentable: false
+editable: false
+
+# Optional header image (relative to `static/img/` folder).
+header:
+  caption: ""
+  image: ""
+
+skyline: 
+  image: "DuesseldorfSkyline_alternative_small.svg"
+  url: "https://de.wikipedia.org/wiki/Düsseldorf"
+---
+
+## Main ABZ Track - Call for Papers
+
+Contributions are solicited on all aspects of the theory and applications of ASMs, Alloy, B, TLA, VDM, Z and other state-based rigour approaches in software/hardware engineering, including the development of tools and industrial applications. The program spans from theoretical and methodological foundations to practical applications, emphasizing system engineering methods and tools that are distinguished by mathematical rigor and have proved to be industrially viable. The main goal of the conference is to contribute to the integration of accurate state- and machine-based system development methods, clarifying their commonalities and differences to better understand how to combine different approaches for accomplishing the various tasks in modeling, experimental validation, mathematical verification of reliable high-quality hardware/software systems. Although organized to host several formal methods in a single event, editorial control of the joint conference is vested in one integrated program committee.
+
+### ABZ 2025 invites:
+
+- **Full research papers**: Full research papers which have to be original, unpublished and not submitted elsewhere.  A paper of no more than *16 pages (excluding references)* in [LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) is expected and will be reviewed.
+- **Short papers**: Short papers to present and validate a work in progress or tool demonstrations. A paper of no more than *6 pages (excluding references)* in [LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) is expected and will be reviewed. 
+- **Application in industry papers**: Reporting on work or experiences on the application of state based formal methods in industry. A paper of no more than *8 pages (excluding references)* in [LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) is expected and will be reviewed. It is also an interesting option for industrial practitioners who sometimes face too many constraints to prepare a full paper.
+- **Journal-First papers**: Journal-First paper summarize recently published papers in high-quality journals. The aim of journal-first papers is to further enrich the program of ABZ and to provide more visibility to an already published journal papers in the scope of the ABZ conference. An extended abstract of no more than *6 pages (excluding references)* in [LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) is expected and will be reviewed.
+
+
+
+### Important Dates
+
+
+|          |         |
+| -------- | ------- |
+| **Abstract submission (mandatory):**  | February 3, 2025   |
+| **Paper submission (including research/short/industry/journal-first papers):**  | February 10, 2025    |
+| **Notification:** |  March 29, 2025    |
+| **Final version:**    | April 9, 2025    |

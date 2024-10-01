@@ -30,8 +30,8 @@ Please contact the organisers as soon as possible for workshop or tutorial propo
 
 |          |         |
 | -------- | ------- |
-| **Abstract submission: **  | February 3, 2025    |
-| **Paper submission :**  | February 10, 2025    |
+| **Abstract submission:**  | February 3, 2025    |
+| **Paper submission:**  | February 10, 2025    |
 | **Notification:** |  March 29, 2025    |
 | **Final version:**    | April 9, 2025    |
 
