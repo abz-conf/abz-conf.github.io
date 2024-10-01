@@ -13,7 +13,7 @@ header:
   image: ""
 
 skyline: 
-  image: "duesseldorf-hafen.png"
+  image: "DuesseldorfSkyline_alternative_small.svg"
   url: "https://de.wikipedia.org/wiki/Düsseldorf"
 ---
 
