@@ -21,7 +21,7 @@ skyline:
 
 The ABZ PhD Symposium is an international forum for PhD students studying all areas related to state based formal methods for software and system development.
 
-This forum is a good opportunity for PhD students to
+This forum is a good opportunity to
 
 - bring together PhD students and established and known researchers of the state based formal methods community,
 - provide PhD students with fruitful feedback and advice on their research approach,
