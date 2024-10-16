@@ -30,33 +30,33 @@ There is no special call for workshops or tutorials this year.
 
 ### Case Study Track
 
-|          |         |
-| -------- | ------- |
-| **Abstract submission:**  | February 3, 2025    |
-| **Paper submission:**  | February 10, 2025    |
-| **Notification:** |  March 29, 2025    |
-| **Final version:**    | April 9, 2025    |
+|                          |                   |
+|--------------------------|-------------------|
+| **Abstract submission:** | February 3, 2025  |
+| **Paper submission:**    | February 10, 2025 |
+| **Notification:**        | March 29, 2025    |
+| **Final version:**       | April 9, 2025     |
 
 ### Main Track
 
-|          |         |
-| -------- | ------- |
-| **Abstract submission (mandatory):**  | February 3, 2025   |
-| **Paper submission (including research/short/industry/journal-first papers):**  | February 10, 2025    |
-| **Notification:** |  March 29, 2025    |
-| **Final version:**    | April 9, 2025    |
+|                                                                                |                   |
+|--------------------------------------------------------------------------------|-------------------|
+| **Abstract submission (mandatory):**                                           | February 3, 2025  |
+| **Paper submission (including research/short/industry/journal-first papers):** | February 10, 2025 |
+| **Notification:**                                                              | March 29, 2025    |
+| **Final version:**                                                             | April 9, 2025     |
 
 ### Doctoral Symposium
 
-|          |         |
-| -------- | ------- |
-| **Paper submission:**  | February 24, 2025    |
-| **Notification:** |  March 29, 2025    |
-| **Final version:**    | April 9, 2025    |
+|                       |                   |
+|-----------------------|-------------------|
+| **Paper submission:** | February 24, 2025 |
+| **Notification:**     | March 29, 2025    |
+| **Final version:**    | April 9, 2025     |
 
 ### Conference
 
-|          |         |
-| -------- | ------- |
-| **Workshps and Tutorials (Düsseldorf, Germany)**  | June 10, 2025    |
-| **ABZ 2025 Conference (Düsseldorf, Germany)**  | June 11-13, 2025    |
+|                                                   |                  |
+|---------------------------------------------------|------------------|
+| **Workshops and Tutorials (Düsseldorf, Germany)** | June 10, 2025    |
+| **ABZ 2025 Conference (Düsseldorf, Germany)**     | June 11-13, 2025 |

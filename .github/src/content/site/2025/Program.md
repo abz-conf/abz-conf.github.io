@@ -23,7 +23,7 @@ skyline:
 
 To be announced in April/May 2025.
 
-|          |         |
-| -------- | ------- |
-| **Workshps and Tutorials (Düsseldorf, Germany)**  | June 10, 2025    |
-| **ABZ 2025 Conference (Düsseldorf, Germany)**  | June 11-13, 2025    |
+|                                                   |                  |
+|---------------------------------------------------|------------------|
+| **Workshops and Tutorials (Düsseldorf, Germany)** | June 10, 2025    |
+| **ABZ 2025 Conference (Düsseldorf, Germany)**     | June 11-13, 2025 |
