@@ -19,11 +19,13 @@ skyline:
 
 ## Important Dates 
 
-All dates anywhere on earth
+Below are the important submission and notification dates.
+All submission dates anywhere on earth.
 
 ### Workshops/Tutorials
 
-Please contact the organisers as soon as possible for workshop or tutorial proposals.
+Please contact the organisers directly as soon as possible for workshop or tutorial proposals.
+There is no special call for workshops or tutorials this year.
 
 
 ### Case Study Track
@@ -48,7 +50,7 @@ Please contact the organisers as soon as possible for workshop or tutorial propo
 
 |          |         |
 | -------- | ------- |
-| **Paper submission:**  | February 24, 2025s    |
+| **Paper submission:**  | February 24, 2025    |
 | **Notification:** |  March 29, 2025    |
 | **Final version:**    | April 9, 2025    |
 
