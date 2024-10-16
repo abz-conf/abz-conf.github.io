@@ -49,8 +49,8 @@ and to derive assumptions and model a controller for which the safety can be gua
 The challenge is also to present the safety case in such a way that it is convincing
 to readers not entirely familiar with the formal method employed.&lt;/p>
 &lt;p>The case study is designed such that the formal model can be used as a safety shield within
-a highway simulation environment. We provide [pre-trained (unsafe) AI agents]((
-&lt;a href="https://github.com/hhu-stups/abz2025_casestudy_autonomous_driving%29" target="_blank" rel="noopener">https://github.com/hhu-stups/abz2025_casestudy_autonomous_driving)&lt;/a>, which can
+a highway simulation environment. We provide
+&lt;a href="https://github.com/hhu-stups/abz2025_casestudy_autonomous_driving" target="_blank" rel="noopener">pre-trained unsafe AI agents&lt;/a>, which can
 be used to experiment with.
 This part of the case study is optional.&lt;/p>
 &lt;div>&lt;img src="/img/CaseStudy25_Highway.png">&lt;/div>
