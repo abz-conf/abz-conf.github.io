@@ -18,7 +18,7 @@ skyline:
 ---
 ## Case Study - Call for Papers
 
-As successfully practiced in previous editions of ABZ, the 110th edition of ABZ will include again special sessions dedicated to a shared real-life case study.
+As successfully practiced in previous editions of ABZ, the 11th edition of ABZ will include again special sessions dedicated to a shared real-life case study.
 
 The objective of this session is to enrich the set of case studies ([https://abz-conf.org/case-studies/](https://abz-conf.org/case-studies/)) developed with Rigorous State Based Methods with a practical and real-life case study.
 Its goal is also cross-fertilisation, enabling practitioners of the individual formal methods to
@@ -39,6 +39,9 @@ The case study is designed such that the formal model can be used as a safety sh
 a highway simulation environment. We provide [pre-trained (unsafe) AI agents]((https://github.com/hhu-stups/abz2025_casestudy_autonomous_driving), which can
 be used to experiment with.
 This part of the case study is optional.
+
+
+<div><img src="/img/CaseStudy25_Highway.png"></div>
 
 All the pdf versions of the specification document are available here (we keep track of all the changes in the documents): 
 [https://github.com/hhu-stups/abz2025_casestudy_autonomous_driving/case_study](https://github.com/hhu-stups/abz2025_casestudy_autonomous_driving/case_study)
