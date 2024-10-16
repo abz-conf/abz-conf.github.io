@@ -35,7 +35,7 @@ with easy access to the airport and central rail station.&lt;/p>
 &lt;a href="https://www.springer.com/gp/authors-editors/orcid" target="_blank" rel="noopener">ORCIDs&lt;/a> in their papers. In addition, the corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign a Consent-to-Publish form. The corresponding author signing the copyright form should match the corresponding author marked on the paper. Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made.&lt;/p>
 &lt;p>Authors interested in contributing to ABZ 2025 in Open Access or Open Choice should refer to the corresponding
 &lt;a href="https://www.springer.com/gp/computer-science/lncs/open-access-publishing-in-computer-proceedings" target="_blank" rel="noopener">Springer webpage&lt;/a>.&lt;/p></description></item><item><title>ABZ 2025 – 11th International Conference on Rigorous State Based Methods</title><link>/site/2025/casestudy/</link><pubDate>Tue, 17 Sep 2024 00:00:00 +0100</pubDate><guid>/site/2025/casestudy/</guid><description>&lt;h2 id="case-study---call-for-papers">Case Study - Call for Papers&lt;/h2>
-&lt;p>As successfully practiced in previous editions of ABZ, the 110th edition of ABZ will include again special sessions dedicated to a shared real-life case study.&lt;/p>
+&lt;p>As successfully practiced in previous editions of ABZ, the 11th edition of ABZ will include again special sessions dedicated to a shared real-life case study.&lt;/p>
 &lt;p>The objective of this session is to enrich the set of case studies (
 &lt;a href="https://abz-conf.org/case-studies/" target="_blank" rel="noopener">https://abz-conf.org/case-studies/&lt;/a>) developed with Rigorous State Based Methods with a practical and real-life case study.
 Its goal is also cross-fertilisation, enabling practitioners of the individual formal methods to
@@ -54,6 +54,7 @@ a highway simulation environment. We provide [pre-trained (unsafe) AI agents]((
 &lt;a href="https://github.com/hhu-stups/abz2025_casestudy_autonomous_driving%29" target="_blank" rel="noopener">https://github.com/hhu-stups/abz2025_casestudy_autonomous_driving)&lt;/a>, which can
 be used to experiment with.
 This part of the case study is optional.&lt;/p>
+&lt;div>&lt;img src="/img/CaseStudy25_Highway.png">&lt;/div>
 &lt;p>All the pdf versions of the specification document are available here (we keep track of all the changes in the documents):
 &lt;a href="https://github.com/hhu-stups/abz2025_casestudy_autonomous_driving/case_study" target="_blank" rel="noopener">https://github.com/hhu-stups/abz2025_casestudy_autonomous_driving/case_study&lt;/a>&lt;/p>
 &lt;p>All the questions and doubts can be discussed here:
