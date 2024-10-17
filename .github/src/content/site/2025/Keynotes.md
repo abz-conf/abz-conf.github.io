@@ -76,3 +76,24 @@ Here it is the list of keynote speakers (in alphabetic order by name).
 </div>
 
 
+### Thierry Lecomte @ CLEARSY
+
+<div width=100%>
+<table>
+  <tr>
+    <td>
+      <table>
+        <tr><td>
+            <h3><b>TBA</b></h3><br>
+        </td></tr>
+        <tr><td>
+            <b><i>Abstract</i></b> <br>TBA
+        </td></tr>
+        <tr><td>
+            <b><i>Short Bio</i></b> <br><a href="https://scholar.google.com/citations?user=9vhYDNEAAAAJ&hl=en">Thierry Lecomte/a> is in charge of R&D at CLEARSY, a French SME specialized in safety critical systems. His activities are related to the development of formal/formally proven CASE tools, formal modelling and data / configuration validation.
+        </td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</div>
