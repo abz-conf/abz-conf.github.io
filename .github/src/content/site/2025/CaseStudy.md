@@ -16,7 +16,8 @@ skyline:
   image: "DuesseldorfSkyline_alternative_small.svg"
   url: "https://de.wikipedia.org/wiki/Düsseldorf"
 ---
-## Case Study - Call for Papers
+## Case Study: Safety Controller for Autonomous Driving - Call for Papers
+
 
 As successfully practiced in previous editions of ABZ, the 11th edition of ABZ will include again special sessions dedicated to a shared real-life case study.
 
@@ -24,7 +25,7 @@ The objective of this session is to enrich the set of case studies ([https://abz
 Its goal is also cross-fertilisation, enabling practitioners of the individual formal methods to
 better understand each other.
 
-The case study is about a safety controller for autonomous driving on a highway.
+The case study is about a <b>safety controller for autonomous driving on a highway</b>.
 The description contains two variations of the case study.
 First, in the simpler setting, we just consider a single-lane highway where each vehicle can accelerate and brake.
 The goal is to keep a safe distance to the preceding car.
@@ -45,6 +46,7 @@ This part of the case study is optional.
 
 All the pdf versions of the specification document are available here (we keep track of all the changes in the documents): 
 [https://github.com/hhu-stups/abz2025_casestudy_autonomous_driving/tree/main/case_study](https://github.com/hhu-stups/abz2025_casestudy_autonomous_driving/tree/main/case_study)
+The current version is [v1 of the specification document](https://raw.githubusercontent.com/hhu-stups/abz2025_casestudy_autonomous_driving/refs/heads/main/case_study/specification_v1.pdf).
 
 All the questions and doubts can be discussed here: 
 [https://github.com/hhu-stups/abz2025_casestudy_autonomous_driving/issues](https://github.com/hhu-stups/abz2025_casestudy_autonomous_driving/issues) 
