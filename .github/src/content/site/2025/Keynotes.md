@@ -75,12 +75,14 @@ Here it is the list of keynote speakers (in alphabetic order by name).
 </table>
 </div>
 
-
 ### Thierry Lecomte @ CLEARSY
 
 <div width=100%>
 <table>
   <tr>
+    <td width=20%>
+      <img src="/img/tl-mooc-half.jpg" width=200px>
+    </td>
     <td>
       <table>
         <tr><td>
