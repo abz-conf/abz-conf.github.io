@@ -92,7 +92,7 @@ Here it is the list of keynote speakers (in alphabetic order by name).
             <b><i>Abstract</i></b> <br>TBA
         </td></tr>
         <tr><td>
-            <b><i>Short Bio</i></b> <br> With 30 years of experience in R&D, <a href="https://scholar.google.com/citations?user=9vhYDNEAAAAJ&hl=en">Thierry Lecomte/a> has worked on industrial projects in the automotive, healthcare, microelectronics, nuclear energy, railway and space industries. Today he is R&D director of CLEARSY, a French SME specialized in the invention of safety critical systems, where he has worked since its creation in 2001.
+            <b><i>Short Bio</i></b> <br> With 30 years of experience in R&D, <a href="https://scholar.google.com/citations?user=9vhYDNEAAAAJ&hl=en">Thierry Lecomte</a> has worked on industrial projects in the automotive, healthcare, microelectronics, nuclear energy, railway and space industries. Today he is R&D director of CLEARSY, a French SME specialized in the invention of safety critical systems, where he has worked since its creation in 2001.
 His current subjects of interest are safety and security co-engineering, safe artificial intelligence, and autonomous mobility - all related to formal methods.
         </td></tr>
       </table>
