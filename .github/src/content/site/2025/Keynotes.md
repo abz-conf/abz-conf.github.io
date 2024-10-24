@@ -86,10 +86,10 @@ Here it is the list of keynote speakers (in alphabetic order by name).
     <td>
       <table>
         <tr><td>
-            <h3><b>TBA</b></h3><br>
+            <h3><b>Mathematical Proofs and Moving Trains: The Double Life of Atelier B</b></h3><br>
         </td></tr>
         <tr><td>
-            <b><i>Abstract</i></b> <br>TBA
+            <b><i>Abstract</i></b> <br>Atelier B has played a crucial role in ensuring the safety of critical systems for over three decades. This presentation explores the recent evolution of the Atelier B, from the last keynote in 2016 in Linz to its current, expanded role in system engineering across industries. We will revisit key milestones, such as the modeling of complex systems, the development and programming of the CLEARSY Safety Platform, and its use in educating students and engineers. The session will also showcase how the versatility of Atelier B has been harnessed to model, prove, and implement robust systems—from automated metros to industrial control. Through these advancements, Atelier B continues to shape the landscape of high-integrity software development, merging mathematical rigor with practical, real-world applications.
         </td></tr>
         <tr><td>
             <b><i>Short Bio</i></b> <br> With 30 years of experience in R&D, <a href="https://scholar.google.com/citations?user=9vhYDNEAAAAJ&hl=en">Thierry Lecomte</a> has worked on industrial projects in the automotive, healthcare, microelectronics, nuclear energy, railway and space industries. Today he is R&D director of CLEARSY, a French SME specialized in the invention of safety critical systems, where he has worked since its creation in 2001.
