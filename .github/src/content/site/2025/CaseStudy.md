@@ -45,8 +45,8 @@ This part of the case study is optional.
 <div><img src="/img/CaseStudy25_Highway.png"></div>
 
 All the pdf versions of the specification document are available here (we keep track of all the changes in the documents): 
-[https://github.com/hhu-stups/abz2025_casestudy_autonomous_driving/tree/main/case_study](https://github.com/hhu-stups/abz2025_casestudy_autonomous_driving/tree/main/case_study)
-The current version is [v1 of the specification document](https://raw.githubusercontent.com/hhu-stups/abz2025_casestudy_autonomous_driving/refs/heads/main/case_study/specification_v1.pdf).
+[https://github.com/hhu-stups/abz2025_casestudy_autonomous_driving/tree/main/case_study](https://github.com/hhu-stups/abz2025_casestudy_autonomous_driving/tree/main/case_study).
+The current version is [v2 of the specification document](https://raw.githubusercontent.com/hhu-stups/abz2025_casestudy_autonomous_driving/refs/heads/main/case_study/specification_v2.pdf).
 
 All the questions and doubts can be discussed here: 
 [https://github.com/hhu-stups/abz2025_casestudy_autonomous_driving/issues](https://github.com/hhu-stups/abz2025_casestudy_autonomous_driving/issues) 
