@@ -42,6 +42,7 @@ skyline:
 ### Publicity/Social/Web Chairs
 
 * [Jan Gruteser, Heinrich-Heine-Universität, Germany](https://www.cs.hhu.de/lehrstuehle-und-arbeitsgruppen/softwaretechnik-und-programmiersprachen/unser-team/team/gruteser)
+* [Fabian Vu, Heinrich-Heine-Universität, Germany](https://www.cs.hhu.de/lehrstuehle-und-arbeitsgruppen/softwaretechnik-und-programmiersprachen/unser-team/team/vu)
 
 ### Local Chair
 
@@ -51,4 +52,43 @@ skyline:
 
 ## Program Committee
 
-
+* Yamine Ait Ameur, IRIT/INPT-ENSEEIHT, France
+* Thoshiaki Aoki, JAIST, Japan
+* Paolo Arcaini, National Institute of Informatics, Japan
+* Richard Banach, University of Manchester, UK
+* Silvia Bonfanti, University of Bergramo, Italy
+* Chiara Braghin, University of Milan, Italy
+* Maximiliano Cristiá, Universidad Nacional de Rosario, Argentina
+* Alcino Cunha, University of Minho, Portugal
+* Catherine Dubois, ENSIIE-Samovar, France
+* Guillaume Dupont, IRIT/INPT-ENSEEIHT, France
+* Marie Farell, University of Manchester, UK
+* Flavio Ferrarotti, Software Competence Centre Hagenberg, Austria
+* Marc Frappier, Université de Sherbrooke, Canada
+* Angelo Gargantini, University of Bergamo, Italy
+* Uwe Glässer, Simon Fraser University, Canada
+* Stefan Hallerstede, Aarhus University, Denmark
+* Thai Son Hoang, University of Southampton, UK
+* Akram Idani, 	Laboratoire d'Informatique de Grenoble, France
+* Fuyuki Ishikawa, National Institute of Informatics, Japan
+* Ensuk Kang, Carnegie Mellon University, USA
+* Tsutomu Kobayashi, Japan Aerospace Exploration Agency, Japan
+* Philipp Körner, University of Düsseldorf, Germany
+* Igor Konnov, Informal Systems, Austria
+* Régine Laleau, Paris Est Creteil University, France
+* Thierry Lecomte, CLEARSY, France
+* Michael Leuschel, University of Düsseldorf, Germany
+* Frederic Mallet, Université Côte d'Azur, France
+* Atif Mashkoor, Johannes Kepler University, Austria
+* Stephan Merz, Inria, France
+* Alexander Raschke, Ulm University, Germany
+* Elvinia Riccobene, University of Milan, Italy
+* Asieh	Salehi Fathabadi, University of Southampton, UK
+* Patrizia Scandurra, University of Bergamo, Italy
+* Gerhard Schellhorn, Universitaet Augsburg, Germany
+* Klaus-Dieter Schewe, Zhejiang University, China
+* Emil Sekerinski, McMaster University, Canda
+* Neeraj Singh, INPT-ENSEEIHT / IRIT, University of Toulouse, France
+* Maurice ter Beek, CNR, Italy
+* Laurent Voisin, Systerel, France
+* Hillel Wayne, USA
