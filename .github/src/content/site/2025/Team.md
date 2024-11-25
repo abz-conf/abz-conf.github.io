@@ -52,7 +52,7 @@ skyline:
 
 ## Program Committee
 
-* Yamine Ait Ameur, IRIT/INPT-ENSEEIHT, France
+* Yamine Ait Ameur, ENSEEIHT, France
 * Toshiaki Aoki, JAIST, Japan
 * Paolo Arcaini, National Institute of Informatics, Japan
 * Richard Banach, University of Manchester, UK
@@ -60,8 +60,8 @@ skyline:
 * Chiara Braghin, University of Milan, Italy
 * Maximiliano Cristiá, Universidad Nacional de Rosario, Argentina
 * Alcino Cunha, University of Minho, Portugal
-* Catherine Dubois, ENSIIE-Samovar, France
-* Guillaume Dupont, IRIT/INPT-ENSEEIHT, France
+* Catherine Dubois, ENSIIE, France
+* Guillaume Dupont, ENSEEIHT, France
 * Marie Farell, University of Manchester, UK
 * Flavio Ferrarotti, Software Competence Centre Hagenberg, Austria
 * Marc Frappier, Université de Sherbrooke, Canada
@@ -69,7 +69,7 @@ skyline:
 * Uwe Glässer, Simon Fraser University, Canada
 * Stefan Hallerstede, Aarhus University, Denmark
 * Thai Son Hoang, University of Southampton, UK
-* Akram Idani, 	Laboratoire d'Informatique de Grenoble, France
+* Akram Idani, 	Univ. Grenoble Alpes, VERIMAG lab, France
 * Fuyuki Ishikawa, National Institute of Informatics, Japan
 * Ensuk Kang, Carnegie Mellon University, USA
 * Tsutomu Kobayashi, Japan Aerospace Exploration Agency, Japan
@@ -88,7 +88,7 @@ skyline:
 * Gerhard Schellhorn, Universitaet Augsburg, Germany
 * Klaus-Dieter Schewe, Zhejiang University, China
 * Emil Sekerinski, McMaster University, Canda
-* Neeraj Singh, INPT-ENSEEIHT / IRIT, University of Toulouse, France
+* Neeraj Singh, ENSEEIHT, France
 * Maurice ter Beek, CNR, Italy
 * Laurent Voisin, Systerel, France
 * Hillel Wayne, USA
