@@ -53,7 +53,7 @@ skyline:
 ## Program Committee
 
 * Yamine Ait Ameur, IRIT/INPT-ENSEEIHT, France
-* Thoshiaki Aoki, JAIST, Japan
+* Toshiaki Aoki, JAIST, Japan
 * Paolo Arcaini, National Institute of Informatics, Japan
 * Richard Banach, University of Manchester, UK
 * Silvia Bonfanti, University of Bergramo, Italy
@@ -74,7 +74,7 @@ skyline:
 * Ensuk Kang, Carnegie Mellon University, USA
 * Tsutomu Kobayashi, Japan Aerospace Exploration Agency, Japan
 * Philipp Körner, University of Düsseldorf, Germany
-* Igor Konnov, Informal Systems, Austria
+* Igor Konnov, Austria
 * Régine Laleau, Paris Est Creteil University, France
 * Thierry Lecomte, CLEARSY, France
 * Michael Leuschel, University of Düsseldorf, Germany
