@@ -80,6 +80,7 @@ skyline:
 * Michael Leuschel, University of Düsseldorf, Germany
 * Frederic Mallet, Université Côte d'Azur, France
 * Atif Mashkoor, Johannes Kepler University, Austria
+* Dominique Mery, Université de Lorraine, LORIA, France
 * Stephan Merz, Inria, France
 * Alexander Raschke, Ulm University, Germany
 * Elvinia Riccobene, University of Milan, Italy
