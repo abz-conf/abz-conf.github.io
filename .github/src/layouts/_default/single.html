@@ -13,19 +13,22 @@
   <!-- div class="article-container" -->
   <div class="universal-wrapper">
 
-    {{ if .Params.use_twitter }}
+    {{ if or .Params.use_twitter .Params.use_email}}
       <div class="row">
         <div class="col-md-8">
           {{ .Content }}
         </div>
         <div class="col-md-4">
           <meta name="card:dnt" content="on">
+          {{ if .Params.use_email}}
           <div style="text-align: center; cursor: pointer;" class="card" >
               <div class="card-body" >
                   <h5 class="card-title" style="text-align:left;">Contact Us:</h5>
                   <h7 class="card-title"><a href="mailto:{{ .Params.email }}">{{ .Params.email }}</a></h7>
               </div>
           </div>
+          {{ end }}
+          {{ if .Params.use_twitter }}
           <div style="text-align: center;">
       <meta name="twitter:dnt" content="on">
       <a class="twitter-timeline"
@@ -37,11 +40,12 @@
          href="https://twitter.com/{{ $twitter_id }}">Tweets by @{{ $twitter_id }}
       </a>
       <script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+      {{ end }}
       <!-- script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script -->
           </div>
         </div>
     </div>
-    
+
     {{ else }}
       <div class="article-style">
         {{ .Content }}
