@@ -56,10 +56,10 @@ Authors interested in contributing to ABZ 2025 in Open Access or Open Choice sho
 <p class="text-center"><a href="https://equinocs.springernature.com/service/ABZ2024" class="btn btn-primary btn-lg" role="button" target="_blank">Submit contribution<br><br><br><small>via EquinOCS</small></a></p>
 
 
-### Important Dates (tentative)
+### Important Dates
 
-|          |         |
-| -------- | ------- |
-| **Paper submission:**  | February 2025    |
-| **Notification:** |  April 2025    |
-| **Final version:**    | April 2025    |
+|                       |                   |
+|-----------------------|-------------------|
+| **Paper submission:** | February 24, 2025 |
+| **Notification:**     | March 29, 2025    |
+| **Final version:**    | April 9, 2025     |

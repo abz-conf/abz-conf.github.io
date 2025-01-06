@@ -33,12 +33,12 @@ Contributions are solicited on all aspects of the theory and applications of ASM
 ### Important Dates
 
 
-|          |         |
-| -------- | ------- |
-| **Abstract submission (mandatory):**  | February 3, 2025   |
-| **Paper submission (including research/short/industry/journal-first papers):**  | February 10, 2025    |
-| **Notification:** |  March 29, 2025    |
-| **Final version:**    | April 9, 2025    |
+|                                                                                |                   |
+|--------------------------------------------------------------------------------|-------------------|
+| **Abstract submission (mandatory):**                                           | February 3, 2025  |
+| **Paper submission (including research/short/industry/journal-first papers):** | February 10, 2025 |
+| **Notification:**                                                              | March 29, 2025    |
+| **Final version:**                                                             | April 9, 2025     |
 
 
 <div><img src="/img/Springer_Logo.jpg"><img src="/img/LNCS-Logo.jpg"></div>
