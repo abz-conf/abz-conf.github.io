@@ -28,7 +28,7 @@ This forum is a good opportunity to
 - enable PhD students to interact with other PhD students and to stimulate exchange of ideas suggestions and experiences among participants,
 - provide PhD students an opportunity to present, share and discuss their research in a constructive and critical atmosphere.
 
-We seek PhD students who have either determined the direction of their thesis research (probably with some preliminary results already published), but who still have substantial work to complete, or PhD student participants who are in the early stages of their dissertations. It is not required to have a paper accepted for the main conference in order to participate to the ABZ 2024 Doctoral Symposium.
+We seek PhD students who have either determined the direction of their thesis research (probably with some preliminary results already published), but who still have substantial work to complete, or PhD student participants who are in the early stages of their dissertations. It is not required to have a paper accepted for the main conference in order to participate in the ABZ 2025 Doctoral Symposium.
 
 ### ABZ 2025 invites:
 
