@@ -28,10 +28,6 @@ skyline:
 
 * [Fabian Vu, Heinrich-Heine-Universität, Germany](https://www.cs.hhu.de/lehrstuehle-und-arbeitsgruppen/softwaretechnik-und-programmiersprachen/unser-team/team/vu)
 
-### Workshop/Tutorial Chairs
-
-
-### Sponsor Chair
 
 
 ### Doctoral Symposium Chairs
@@ -46,8 +42,12 @@ skyline:
 
 ### Local Chair
 
+* [Michael Leuschel, Heinrich-Heine-Universität, Germany](https://www.cs.hhu.de/lehrstuehle-und-arbeitsgruppen/softwaretechnik-und-programmiersprachen/unser-team/team/leuschel)
 
 ### Registration Chair
+
+* Claudia Kiometzis, Heinrich-Heine-Universität, Germany
+
 
 
 ## Program Committee
