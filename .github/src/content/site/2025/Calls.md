@@ -42,6 +42,6 @@ Authors should consult [Springer's authors' guidelines](https://resource-cms.spr
 
 Authors interested in contributing to ABZ 2025 in Open Access or Open Choice should refer to the corresponding
 
-<p class="text-center"><a href="https://equinocs.springernature.com/service/ABZ2024" class="btn btn-primary btn-lg" role="button" target="_blank">Submit contribution<br><br><br><small>via EquinOCS</small></a></p>
+<p class="text-center"><a href="https://easychair.org/conferences/?conf=abz2025" class="btn btn-primary btn-lg" role="button" target="_blank">Submit contribution<br><br><br><small>via easychair</small></a></p>
 
 [Springer webpage](https://www.springer.com/gp/computer-science/lncs/open-access-publishing-in-computer-proceedings).
