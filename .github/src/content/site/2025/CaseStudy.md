@@ -77,10 +77,10 @@ Authors interested in contributing to ABZ 2025 in Open Access or Open Choice sho
 
 Submissions deadlines have been extended:
 
-|          |         |
-| -------- | ------- |
-| **Abstract submission:**  | February 15, 2025   |
-| **Paper submission (including research/short/industry/journal-first papers):**  | February 18, 2025    |
-| **Notification:** |  March 29, 2025    |
-| **Final version:**    | April 9, 2025    |
+|                                                                                |                       |
+|--------------------------------------------------------------------------------|-----------------------|
+| **Abstract submission:**                                                       | February 15, 2025     |
+| **Paper submission (including research/short/industry/journal-first papers):** | February 22, 2025 AOE |
+| **Notification:**                                                              | March 29, 2025        |
+| **Final version:**                                                             | April 9, 2025         |
 
