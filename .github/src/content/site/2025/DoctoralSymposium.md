@@ -62,6 +62,6 @@ Authors interested in contributing to ABZ 2025 in Open Access or Open Choice sho
 
 |                       |                   |
 |-----------------------|-------------------|
-| **Paper submission:** | February 24, 2025 |
+| **Paper submission:** | March 2, 2025 AOE |
 | **Notification:**     | March 29, 2025    |
 | **Final version:**    | April 9, 2025     |

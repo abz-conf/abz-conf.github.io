@@ -30,7 +30,7 @@ ABZ 2025 will have a main conference track, a case study track, a doctoral sympo
 * [Doctoral Symposium](../doctoralsymposium)
 * [Tutorials and Workshops](../tutorialworkshops)
 
-Submissions deadlines have been extended (abstract: 15th of February, full submission: 22nd of February).
+Submissions deadlines have been extended (abstract: March 1st, full submission: March 2nd).
 
 Accepted papers will appear in the Springer LNCS proceedings.
 

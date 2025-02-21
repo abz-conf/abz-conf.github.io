@@ -19,4 +19,4 @@ skyline:
 
 ## Accommodation
 
-Suggestions will appear soon.
+We have secured an advantageous rate with the Tribe hotel near the central station of Düsseldorf.
