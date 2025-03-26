@@ -31,10 +31,38 @@ For Rodin users, the workshop will provide an opportunity to share tool experien
 Participants may attend or present both in person or remotely. 
 If you are willing to participate remotely, please contact the organizers.
 
-Additional details can be found at [https://wiki.event-b.org/index.php/Rodin_Workshop_2025](https://wiki.event-b.org/index.php/Rodin_Workshop_2025)
 #### Format and date
 
 The workshop will host presentations, with ample time for discussions.
 
 The Rodin workshop will be held on June 10, 2025.
+
+#### Submission
+
+If you are interested in giving a presentation at the Rodin workshop or have a plug-in to demonstrate, send a short abstract (1 or 2 pages PDF) to rodin@ecs.soton.ac.uk by 10th May.
+We will endeavour to accommodate all submissions that are clearly relevant to Rodin and Event-B.
+The proceedings of the workshop will be available as a technical report at the University of Southampton.
+
+Additional details can be found at [https://wiki.event-b.org/index.php/Rodin_Workshop_2025](https://wiki.event-b.org/index.php/Rodin_Workshop_2025)
+
+#### Exclusive Opportunity: Special Issue Publication
+
+This year, we are excited to announce that selected high-quality submissions will be invited to contribute to a Special Issue: Formal Methods in Computer Science: Theory and Applications
+This issue will be published in the renowned Mathematics journal (ISSN 2227-7390, IF 2.3, JCR Q1). Authors of accepted submissions will have the exclusive opportunity to submit a manuscript with a special discount (up to 100%) on publication fees, subject to peer review.
+
+### Formal Methods for Autonomous Flying Systems
+
+This workshop will consist of two parts:
+- a presentation and tutorial on using B and ProB in the classroom to enable students to write formal B models which can control drones
+- additional contributions by participants
+
+Our goal is to provide a platform for discussing challenges, issues and solutions in the domain of autonomous flying systems.
+Relevant topics are:
+- Modeling, Validation, and Verification of flying systems
+- Modeling, Validation, and Verification of multi-agent systems
+- Validation and verification of AI-driven systems
+- Runtime monitoring and runtime verification
+- Application of formal methods to real-world flying systems
+- Simulation and Co-simulation
+- Case studies in the aviation domain
 
