@@ -56,13 +56,20 @@ This workshop will consist of two parts:
 - a presentation and tutorial on using B and ProB in the classroom to enable students to write formal B models which can control drones
 - additional contributions by participants
 
-Our goal is to provide a platform for discussing challenges, issues and solutions in the domain of autonomous flying systems.
+Unmanned aerial vehicle, including drones and electric flying taxis, will be essential in the future, supporting areas like logistics, transportation, infrastructure monitoring, disaster response, defense, and surveillance.
+Accidents involving unmanned aerial vehicle could lead to serious threats to human lives, the environment,
+or cause significant financial damages. Therefore, ensuring the safety of unmanned aerial vehicle is crucial.
+This workshop focuses on using formal methods as a key approach to improve and ensure the safety of unmanned aerial vehicle.
+Our goal is to provide a platform for discussing challenges, issues and solutions in the domain of unmanned aerial vehicle.
 Relevant topics are:
-- Modeling, Validation, and Verification of flying systems
+
+- Modeling, Validation, and Verification of aerial vehicles
 - Modeling, Validation, and Verification of multi-agent systems
 - Validation and verification of AI-driven systems
 - Runtime monitoring and runtime verification
-- Application of formal methods to real-world flying systems
+- Application of formal methods to real-world aerial vehicles
 - Simulation and Co-simulation
-- Case studies in the aviation domain
+- Case studies with aerial vehicles
+
+If you are interested in giving a presentation at the workshop, send a short abstract (1 or 2 pages of PDF) to fabian.vu@hhu.de.
 
