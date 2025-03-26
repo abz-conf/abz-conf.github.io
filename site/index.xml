@@ -587,17 +587,23 @@ This issue will be published in the renowned Mathematics journal (ISSN 2227-7390
 &lt;li>a presentation and tutorial on using B and ProB in the classroom to enable students to write formal B models which can control drones&lt;/li>
 &lt;li>additional contributions by participants&lt;/li>
 &lt;/ul>
-&lt;p>Our goal is to provide a platform for discussing challenges, issues and solutions in the domain of autonomous flying systems.
+&lt;p>Unmanned aerial vehicle, including drones and electric flying taxis, will be essential in the future, supporting areas like logistics, transportation, infrastructure monitoring, disaster response, defense, and surveillance.
+Accidents involving unmanned aerial vehicle could lead to serious threats to human lives, the environment,
+or cause significant financial damages. Therefore, ensuring the safety of unmanned aerial vehicle is crucial.
+This workshop focuses on using formal methods as a key approach to improve and ensure the safety of unmanned aerial vehicle.
+Our goal is to provide a platform for discussing challenges, issues and solutions in the domain of unmanned aerial vehicle.
 Relevant topics are:&lt;/p>
 &lt;ul>
-&lt;li>Modeling, Validation, and Verification of flying systems&lt;/li>
+&lt;li>Modeling, Validation, and Verification of aerial vehicles&lt;/li>
 &lt;li>Modeling, Validation, and Verification of multi-agent systems&lt;/li>
 &lt;li>Validation and verification of AI-driven systems&lt;/li>
 &lt;li>Runtime monitoring and runtime verification&lt;/li>
-&lt;li>Application of formal methods to real-world flying systems&lt;/li>
+&lt;li>Application of formal methods to real-world aerial vehicles&lt;/li>
 &lt;li>Simulation and Co-simulation&lt;/li>
-&lt;li>Case studies in the aviation domain&lt;/li>
-&lt;/ul></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/</guid><description>&lt;h3 id="bergamo-italy---jun-25-2024--jun-28-2024">Bergamo (Italy) - Jun 25, 2024 — Jun 28, 2024&lt;/h3>
+&lt;li>Case studies with aerial vehicles&lt;/li>
+&lt;/ul>
+&lt;p>If you are interested in giving a presentation at the workshop, send a short abstract (1 or 2 pages of PDF) to
+&lt;a href="mailto:fabian.vu@hhu.de">fabian.vu@hhu.de&lt;/a>.&lt;/p></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/</guid><description>&lt;h3 id="bergamo-italy---jun-25-2024--jun-28-2024">Bergamo (Italy) - Jun 25, 2024 — Jun 28, 2024&lt;/h3>
 &lt;br>
 &lt;p>The ABZ conference is dedicated to the cross-fertilization of state-based and machine-based formal methods, like Abstract State Machines (ASM), Alloy, B, TLA, VDM and Z, that share a common conceptual foundation and are widely used in both academia and industry for the design and analysis of hardware and software systems. The conference aims for a vital exchange of knowledge and experience among the research communities around different formal methods.&lt;/p>
 &lt;h3 id="proceedings-online-accessible">Proceedings online accessible&lt;/h3>

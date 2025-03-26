@@ -588,17 +588,23 @@ This issue will be published in the renowned Mathematics journal (ISSN 2227-7390
 &lt;li>a presentation and tutorial on using B and ProB in the classroom to enable students to write formal B models which can control drones&lt;/li>
 &lt;li>additional contributions by participants&lt;/li>
 &lt;/ul>
-&lt;p>Our goal is to provide a platform for discussing challenges, issues and solutions in the domain of autonomous flying systems.
+&lt;p>Unmanned aerial vehicle, including drones and electric flying taxis, will be essential in the future, supporting areas like logistics, transportation, infrastructure monitoring, disaster response, defense, and surveillance.
+Accidents involving unmanned aerial vehicle could lead to serious threats to human lives, the environment,
+or cause significant financial damages. Therefore, ensuring the safety of unmanned aerial vehicle is crucial.
+This workshop focuses on using formal methods as a key approach to improve and ensure the safety of unmanned aerial vehicle.
+Our goal is to provide a platform for discussing challenges, issues and solutions in the domain of unmanned aerial vehicle.
 Relevant topics are:&lt;/p>
 &lt;ul>
-&lt;li>Modeling, Validation, and Verification of flying systems&lt;/li>
+&lt;li>Modeling, Validation, and Verification of aerial vehicles&lt;/li>
 &lt;li>Modeling, Validation, and Verification of multi-agent systems&lt;/li>
 &lt;li>Validation and verification of AI-driven systems&lt;/li>
 &lt;li>Runtime monitoring and runtime verification&lt;/li>
-&lt;li>Application of formal methods to real-world flying systems&lt;/li>
+&lt;li>Application of formal methods to real-world aerial vehicles&lt;/li>
 &lt;li>Simulation and Co-simulation&lt;/li>
-&lt;li>Case studies in the aviation domain&lt;/li>
-&lt;/ul></description></item><item><title>An Event-B Model of a Mechanical Lung Ventilator</title><link>/publication/mammar2024abz/</link><pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate><guid>/publication/mammar2024abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;li>Case studies with aerial vehicles&lt;/li>
+&lt;/ul>
+&lt;p>If you are interested in giving a presentation at the workshop, send a short abstract (1 or 2 pages of PDF) to
+&lt;a href="mailto:fabian.vu@hhu.de">fabian.vu@hhu.de&lt;/a>.&lt;/p></description></item><item><title>An Event-B Model of a Mechanical Lung Ventilator</title><link>/publication/mammar2024abz/</link><pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate><guid>/publication/mammar2024abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>In this paper, we present a formal Event-B model of the Mechanical Lung Ventilator (MLV), the case study provided by the ABZ’24 conference. This system aims at helping patients maintain good breathing by providing mechanical ventilation. For this purpose, two modes are possible: Pressure Controlled Ventilation (PCV) and Pressure Support Ventilation (PSV). In the former mode, respiratory cycles are completely defined by the patient that is able to start breathing on its own. In the latter mode, the respiratory cycle is constant and controlled by the ventilator. Let us note that it is possible to move from a given mode to the other depending on the breathing capabilities of the patient under ventilation. In this paper, we illustrate the use of a correct-by-construction approach, the Event-B formal method and its refinement process, for the formal modeling and the verification of such a complex and critical system. The development of the formal models has been achieved under the Rodin platform that provides us with automatic and interactive provers used to verify the correctness of the models. We have also validated the built Event-B models using the ProB animator/model checker.&lt;/p>
 &lt;h2 id="document">Document&lt;/h2>
 &lt;div id="pdfobject-viewer">&lt;/div>
