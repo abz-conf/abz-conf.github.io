@@ -562,11 +562,36 @@ See
 &lt;p>For Rodin users, the workshop will provide an opportunity to share tool experiences and gain an understanding of ongoing tool developments. For plug-in developers, the workshop will provide an opportunity to showcase their tools and to achieve better coordination of tool development efforts.&lt;/p>
 &lt;p>Participants may attend or present both in person or remotely.
 If you are willing to participate remotely, please contact the organizers.&lt;/p>
-&lt;p>Additional details can be found at
-&lt;a href="https://wiki.event-b.org/index.php/Rodin_Workshop_2025" target="_blank" rel="noopener">https://wiki.event-b.org/index.php/Rodin_Workshop_2025&lt;/a>&lt;/p>
 &lt;h4 id="format-and-date">Format and date&lt;/h4>
 &lt;p>The workshop will host presentations, with ample time for discussions.&lt;/p>
-&lt;p>The Rodin workshop will be held on June 10, 2025.&lt;/p></description></item><item><title>An Event-B Model of a Mechanical Lung Ventilator</title><link>/publication/mammar2024abz/</link><pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate><guid>/publication/mammar2024abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>The Rodin workshop will be held on June 10, 2025.&lt;/p>
+&lt;h4 id="submission">Submission&lt;/h4>
+&lt;p>If you are interested in giving a presentation at the Rodin workshop or have a plug-in to demonstrate, send a short abstract (1 or 2 pages PDF) to
+&lt;a href="mailto:rodin@ecs.soton.ac.uk">rodin@ecs.soton.ac.uk&lt;/a> by 10th May.
+We will endeavour to accommodate all submissions that are clearly relevant to Rodin and Event-B.
+The proceedings of the workshop will be available as a technical report at the University of Southampton.&lt;/p>
+&lt;p>Additional details can be found at
+&lt;a href="https://wiki.event-b.org/index.php/Rodin_Workshop_2025" target="_blank" rel="noopener">https://wiki.event-b.org/index.php/Rodin_Workshop_2025&lt;/a>&lt;/p>
+&lt;h4 id="exclusive-opportunity-special-issue-publication">Exclusive Opportunity: Special Issue Publication&lt;/h4>
+&lt;p>This year, we are excited to announce that selected high-quality submissions will be invited to contribute to a Special Issue: Formal Methods in Computer Science: Theory and Applications
+This issue will be published in the renowned Mathematics journal (ISSN 2227-7390, IF 2.3, JCR Q1). Authors of accepted submissions will have the exclusive opportunity to submit a manuscript with a special discount (up to 100%) on publication fees, subject to peer review.&lt;/p>
+&lt;h3 id="formal-methods-for-autonomous-flying-systems">Formal Methods for Autonomous Flying Systems&lt;/h3>
+&lt;p>This workshop will consist of two parts:&lt;/p>
+&lt;ul>
+&lt;li>a presentation and tutorial on using B and ProB in the classroom to enable students to write formal B models which can control drones&lt;/li>
+&lt;li>additional contributions by participants&lt;/li>
+&lt;/ul>
+&lt;p>Our goal is to provide a platform for discussing challenges, issues and solutions in the domain of autonomous flying systems.
+Relevant topics are:&lt;/p>
+&lt;ul>
+&lt;li>Modeling, Validation, and Verification of flying systems&lt;/li>
+&lt;li>Modeling, Validation, and Verification of multi-agent systems&lt;/li>
+&lt;li>Validation and verification of AI-driven systems&lt;/li>
+&lt;li>Runtime monitoring and runtime verification&lt;/li>
+&lt;li>Application of formal methods to real-world flying systems&lt;/li>
+&lt;li>Simulation and Co-simulation&lt;/li>
+&lt;li>Case studies in the aviation domain&lt;/li>
+&lt;/ul></description></item><item><title>An Event-B Model of a Mechanical Lung Ventilator</title><link>/publication/mammar2024abz/</link><pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate><guid>/publication/mammar2024abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>In this paper, we present a formal Event-B model of the Mechanical Lung Ventilator (MLV), the case study provided by the ABZ’24 conference. This system aims at helping patients maintain good breathing by providing mechanical ventilation. For this purpose, two modes are possible: Pressure Controlled Ventilation (PCV) and Pressure Support Ventilation (PSV). In the former mode, respiratory cycles are completely defined by the patient that is able to start breathing on its own. In the latter mode, the respiratory cycle is constant and controlled by the ventilator. Let us note that it is possible to move from a given mode to the other depending on the breathing capabilities of the patient under ventilation. In this paper, we illustrate the use of a correct-by-construction approach, the Event-B formal method and its refinement process, for the formal modeling and the verification of such a complex and critical system. The development of the formal models has been achieved under the Rodin platform that provides us with automatic and interactive provers used to verify the correctness of the models. We have also validated the built Event-B models using the ProB animator/model checker.&lt;/p>
 &lt;h2 id="document">Document&lt;/h2>
 &lt;div id="pdfobject-viewer">&lt;/div>

@@ -561,11 +561,36 @@ See
 &lt;p>For Rodin users, the workshop will provide an opportunity to share tool experiences and gain an understanding of ongoing tool developments. For plug-in developers, the workshop will provide an opportunity to showcase their tools and to achieve better coordination of tool development efforts.&lt;/p>
 &lt;p>Participants may attend or present both in person or remotely.
 If you are willing to participate remotely, please contact the organizers.&lt;/p>
-&lt;p>Additional details can be found at
-&lt;a href="https://wiki.event-b.org/index.php/Rodin_Workshop_2025" target="_blank" rel="noopener">https://wiki.event-b.org/index.php/Rodin_Workshop_2025&lt;/a>&lt;/p>
 &lt;h4 id="format-and-date">Format and date&lt;/h4>
 &lt;p>The workshop will host presentations, with ample time for discussions.&lt;/p>
-&lt;p>The Rodin workshop will be held on June 10, 2025.&lt;/p></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/</guid><description>&lt;h3 id="bergamo-italy---jun-25-2024--jun-28-2024">Bergamo (Italy) - Jun 25, 2024 — Jun 28, 2024&lt;/h3>
+&lt;p>The Rodin workshop will be held on June 10, 2025.&lt;/p>
+&lt;h4 id="submission">Submission&lt;/h4>
+&lt;p>If you are interested in giving a presentation at the Rodin workshop or have a plug-in to demonstrate, send a short abstract (1 or 2 pages PDF) to
+&lt;a href="mailto:rodin@ecs.soton.ac.uk">rodin@ecs.soton.ac.uk&lt;/a> by 10th May.
+We will endeavour to accommodate all submissions that are clearly relevant to Rodin and Event-B.
+The proceedings of the workshop will be available as a technical report at the University of Southampton.&lt;/p>
+&lt;p>Additional details can be found at
+&lt;a href="https://wiki.event-b.org/index.php/Rodin_Workshop_2025" target="_blank" rel="noopener">https://wiki.event-b.org/index.php/Rodin_Workshop_2025&lt;/a>&lt;/p>
+&lt;h4 id="exclusive-opportunity-special-issue-publication">Exclusive Opportunity: Special Issue Publication&lt;/h4>
+&lt;p>This year, we are excited to announce that selected high-quality submissions will be invited to contribute to a Special Issue: Formal Methods in Computer Science: Theory and Applications
+This issue will be published in the renowned Mathematics journal (ISSN 2227-7390, IF 2.3, JCR Q1). Authors of accepted submissions will have the exclusive opportunity to submit a manuscript with a special discount (up to 100%) on publication fees, subject to peer review.&lt;/p>
+&lt;h3 id="formal-methods-for-autonomous-flying-systems">Formal Methods for Autonomous Flying Systems&lt;/h3>
+&lt;p>This workshop will consist of two parts:&lt;/p>
+&lt;ul>
+&lt;li>a presentation and tutorial on using B and ProB in the classroom to enable students to write formal B models which can control drones&lt;/li>
+&lt;li>additional contributions by participants&lt;/li>
+&lt;/ul>
+&lt;p>Our goal is to provide a platform for discussing challenges, issues and solutions in the domain of autonomous flying systems.
+Relevant topics are:&lt;/p>
+&lt;ul>
+&lt;li>Modeling, Validation, and Verification of flying systems&lt;/li>
+&lt;li>Modeling, Validation, and Verification of multi-agent systems&lt;/li>
+&lt;li>Validation and verification of AI-driven systems&lt;/li>
+&lt;li>Runtime monitoring and runtime verification&lt;/li>
+&lt;li>Application of formal methods to real-world flying systems&lt;/li>
+&lt;li>Simulation and Co-simulation&lt;/li>
+&lt;li>Case studies in the aviation domain&lt;/li>
+&lt;/ul></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/</guid><description>&lt;h3 id="bergamo-italy---jun-25-2024--jun-28-2024">Bergamo (Italy) - Jun 25, 2024 — Jun 28, 2024&lt;/h3>
 &lt;br>
 &lt;p>The ABZ conference is dedicated to the cross-fertilization of state-based and machine-based formal methods, like Abstract State Machines (ASM), Alloy, B, TLA, VDM and Z, that share a common conceptual foundation and are widely used in both academia and industry for the design and analysis of hardware and software systems. The conference aims for a vital exchange of knowledge and experience among the research communities around different formal methods.&lt;/p>
 &lt;h3 id="proceedings-online-accessible">Proceedings online accessible&lt;/h3>
