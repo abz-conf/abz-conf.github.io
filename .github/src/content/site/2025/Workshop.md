@@ -50,6 +50,15 @@ Additional details can be found at [https://wiki.event-b.org/index.php/Rodin_Wor
 This year, we are excited to announce that selected high-quality submissions will be invited to contribute to a Special Issue: Formal Methods in Computer Science: Theory and Applications
 This issue will be published in the renowned Mathematics journal (ISSN 2227-7390, IF 2.3, JCR Q1). Authors of accepted submissions will have the exclusive opportunity to submit a manuscript with a special discount (up to 100%) on publication fees, subject to peer review.
 
+#### Organisers
+
+- Asieh Salehi Fathabadi, University of Southampton
+- Laurent Voisin, Systerel
+- Neeraj Kumar Singh,  INPT-ENSEEIHT / IRIT, University of Toulouse
+- Michael Leuschel, Heinrich-Heine-Universität, Germany
+- Son Hoang,  University of Southampton
+
+
 ### Formal Methods for Autonomous Flying Systems
 
 This workshop will consist of two parts:
