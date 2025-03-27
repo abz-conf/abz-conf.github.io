@@ -20,7 +20,7 @@ skyline:
 
 ABZ 2025 will host the following workshops (to be completed).
 
-### Rodin workshop
+### Rodin Workshop
 
 Event-B is a formal method for system-level modeling and analysis. The Rodin Platform is an Eclipse-based toolset for Event-B that provides effective support for modeling and automated proof. The platform is open source and is further extendable with plug-ins. A range of plug-ins have already been developed.
 
@@ -31,7 +31,7 @@ For Rodin users, the workshop will provide an opportunity to share tool experien
 Participants may attend or present both in person or remotely. 
 If you are willing to participate remotely, please contact the organizers.
 
-#### Format and date
+#### Format and Date
 
 The workshop will host presentations, with ample time for discussions.
 
@@ -59,18 +59,27 @@ This issue will be published in the renowned Mathematics journal (ISSN 2227-7390
 - Son Hoang,  University of Southampton
 
 
-### Formal Methods for Autonomous Flying Systems
+### Tutorial and Workshop: Exploring Formal Methods for Unmanned Aerial Vehicles
 
-This workshop will consist of two parts:
+Unmanned aerial vehicle, including drones and electric flying taxis, will be essential in the future, supporting areas like logistics, transportation, infrastructure monitoring, disaster response, defense, and surveillance.
+Accidents involving unmanned aerial vehicle could lead to serious threats to human lives, the environment, or cause significant financial damages. Therefore, ensuring the safety of unmanned aerial vehicle is crucial. 
+This event focuses on using formal methods as a key approach to improve and ensure the safety of unmanned aerial vehicle.
+
+
+
+This event will consist of two parts:
 - a presentation and tutorial on using B and ProB in the classroom to enable students to write formal B models which can control drones
 - additional contributions by participants
 
-Unmanned aerial vehicle, including drones and electric flying taxis, will be essential in the future, supporting areas like logistics, transportation, infrastructure monitoring, disaster response, defense, and surveillance.
-Accidents involving unmanned aerial vehicle could lead to serious threats to human lives, the environment,
-or cause significant financial damages. Therefore, ensuring the safety of unmanned aerial vehicle is crucial.
-This workshop focuses on using formal methods as a key approach to improve and ensure the safety of unmanned aerial vehicle.
-Our goal is to provide a platform for discussing challenges, issues and solutions in the domain of unmanned aerial vehicle.
-Relevant topics are:
+#### Part I. Tutorial 
+
+In an educational setting, we assigned students the task of selecting a drone-related problem (collision avoidance, exploring the environment, chasing another drone, etc.), modeling it with Classical B and Event-B, and formulating, validating, and verifying safety properties using ProB and Rodin. The formal models were then connected to Crazyflie drones for real-life demonstration. On the technical side, we enhanced ProB to enable communication with the drones, allowing us to read sensor data and control then. In the first part of the workshop, we present a tutorial on writing formal B models to control drones and present our experiences on teaching.
+
+#### Part 2. Workshop
+
+In the second part, we invite other participants to give a presentation in the workshop. Our goal is to provide a platform for discussing challenges, issues and solutions in the domain of unmanned aerial vehicle, and explore new research directions together.
+
+Relevant topics include, but are not limited to:
 
 - Modeling, Validation, and Verification of aerial vehicles
 - Modeling, Validation, and Verification of multi-agent systems
@@ -80,5 +89,6 @@ Relevant topics are:
 - Simulation and Co-simulation
 - Case studies with aerial vehicles
 
-If you are interested in giving a presentation at the workshop, send a short abstract (1 or 2 pages of PDF) to fabian.vu@hhu.de.
+
+If you are interested in giving a presentation at the workshop, we encourage you to send a short abstract (1 or 2 pages of PDF) to Fabian.Vu@hhu.de.
 
