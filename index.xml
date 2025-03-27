@@ -563,13 +563,13 @@ See
 &lt;a href="https://www.vrr.de/en/" target="_blank" rel="noopener">www.vrr.de&lt;/a> or
 &lt;a href="http://www.rheinbahn.com" target="_blank" rel="noopener">www.rheinbahn.com&lt;/a>.&lt;/p></description></item><item><title>ABZ 2025 – 11th International Conference on Rigorous State Based Methods</title><link>/site/2025/workshop/</link><pubDate>Tue, 17 Sep 2024 00:00:00 +0100</pubDate><guid>/site/2025/workshop/</guid><description>&lt;h2 id="workshops">Workshops&lt;/h2>
 &lt;p>ABZ 2025 will host the following workshops (to be completed).&lt;/p>
-&lt;h3 id="rodin-workshop">Rodin workshop&lt;/h3>
+&lt;h3 id="rodin-workshop">Rodin Workshop&lt;/h3>
 &lt;p>Event-B is a formal method for system-level modeling and analysis. The Rodin Platform is an Eclipse-based toolset for Event-B that provides effective support for modeling and automated proof. The platform is open source and is further extendable with plug-ins. A range of plug-ins have already been developed.&lt;/p>
 &lt;p>The purpose of this workshop is to bring together existing and potential users and developers of the Rodin toolset and to foster a broader community of Rodin users and developers.&lt;/p>
 &lt;p>For Rodin users, the workshop will provide an opportunity to share tool experiences and gain an understanding of ongoing tool developments. For plug-in developers, the workshop will provide an opportunity to showcase their tools and to achieve better coordination of tool development efforts.&lt;/p>
 &lt;p>Participants may attend or present both in person or remotely.
 If you are willing to participate remotely, please contact the organizers.&lt;/p>
-&lt;h4 id="format-and-date">Format and date&lt;/h4>
+&lt;h4 id="format-and-date">Format and Date&lt;/h4>
 &lt;p>The workshop will host presentations, with ample time for discussions.&lt;/p>
 &lt;p>The Rodin workshop will be held on June 10, 2025.&lt;/p>
 &lt;h4 id="submission">Submission&lt;/h4>
@@ -590,18 +590,20 @@ This issue will be published in the renowned Mathematics journal (ISSN 2227-7390
 &lt;li>Michael Leuschel, Heinrich-Heine-Universität, Germany&lt;/li>
 &lt;li>Son Hoang, University of Southampton&lt;/li>
 &lt;/ul>
-&lt;h3 id="formal-methods-for-autonomous-flying-systems">Formal Methods for Autonomous Flying Systems&lt;/h3>
-&lt;p>This workshop will consist of two parts:&lt;/p>
+&lt;h3 id="tutorial-and-workshop-exploring-formal-methods-for-unmanned-aerial-vehicles">Tutorial and Workshop: Exploring Formal Methods for Unmanned Aerial Vehicles&lt;/h3>
+&lt;p>Unmanned aerial vehicle, including drones and electric flying taxis, will be essential in the future, supporting areas like logistics, transportation, infrastructure monitoring, disaster response, defense, and surveillance.
+Accidents involving unmanned aerial vehicle could lead to serious threats to human lives, the environment, or cause significant financial damages. Therefore, ensuring the safety of unmanned aerial vehicle is crucial.
+This event focuses on using formal methods as a key approach to improve and ensure the safety of unmanned aerial vehicle.&lt;/p>
+&lt;p>This event will consist of two parts:&lt;/p>
 &lt;ul>
 &lt;li>a presentation and tutorial on using B and ProB in the classroom to enable students to write formal B models which can control drones&lt;/li>
 &lt;li>additional contributions by participants&lt;/li>
 &lt;/ul>
-&lt;p>Unmanned aerial vehicle, including drones and electric flying taxis, will be essential in the future, supporting areas like logistics, transportation, infrastructure monitoring, disaster response, defense, and surveillance.
-Accidents involving unmanned aerial vehicle could lead to serious threats to human lives, the environment,
-or cause significant financial damages. Therefore, ensuring the safety of unmanned aerial vehicle is crucial.
-This workshop focuses on using formal methods as a key approach to improve and ensure the safety of unmanned aerial vehicle.
-Our goal is to provide a platform for discussing challenges, issues and solutions in the domain of unmanned aerial vehicle.
-Relevant topics are:&lt;/p>
+&lt;h4 id="part-i-tutorial">Part I. Tutorial&lt;/h4>
+&lt;p>In an educational setting, we assigned students the task of selecting a drone-related problem (collision avoidance, exploring the environment, chasing another drone, etc.), modeling it with Classical B and Event-B, and formulating, validating, and verifying safety properties using ProB and Rodin. The formal models were then connected to Crazyflie drones for real-life demonstration. On the technical side, we enhanced ProB to enable communication with the drones, allowing us to read sensor data and control then. In the first part of the workshop, we present a tutorial on writing formal B models to control drones and present our experiences on teaching.&lt;/p>
+&lt;h4 id="part-2-workshop">Part 2. Workshop&lt;/h4>
+&lt;p>In the second part, we invite other participants to give a presentation in the workshop. Our goal is to provide a platform for discussing challenges, issues and solutions in the domain of unmanned aerial vehicle, and explore new research directions together.&lt;/p>
+&lt;p>Relevant topics include, but are not limited to:&lt;/p>
 &lt;ul>
 &lt;li>Modeling, Validation, and Verification of aerial vehicles&lt;/li>
 &lt;li>Modeling, Validation, and Verification of multi-agent systems&lt;/li>
@@ -611,8 +613,8 @@ Relevant topics are:&lt;/p>
 &lt;li>Simulation and Co-simulation&lt;/li>
 &lt;li>Case studies with aerial vehicles&lt;/li>
 &lt;/ul>
-&lt;p>If you are interested in giving a presentation at the workshop, send a short abstract (1 or 2 pages of PDF) to
-&lt;a href="mailto:fabian.vu@hhu.de">fabian.vu@hhu.de&lt;/a>.&lt;/p></description></item><item><title>An Event-B Model of a Mechanical Lung Ventilator</title><link>/publication/mammar2024abz/</link><pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate><guid>/publication/mammar2024abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>If you are interested in giving a presentation at the workshop, we encourage you to send a short abstract (1 or 2 pages of PDF) to
+&lt;a href="mailto:Fabian.Vu@hhu.de">Fabian.Vu@hhu.de&lt;/a>.&lt;/p></description></item><item><title>An Event-B Model of a Mechanical Lung Ventilator</title><link>/publication/mammar2024abz/</link><pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate><guid>/publication/mammar2024abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>In this paper, we present a formal Event-B model of the Mechanical Lung Ventilator (MLV), the case study provided by the ABZ’24 conference. This system aims at helping patients maintain good breathing by providing mechanical ventilation. For this purpose, two modes are possible: Pressure Controlled Ventilation (PCV) and Pressure Support Ventilation (PSV). In the former mode, respiratory cycles are completely defined by the patient that is able to start breathing on its own. In the latter mode, the respiratory cycle is constant and controlled by the ventilator. Let us note that it is possible to move from a given mode to the other depending on the breathing capabilities of the patient under ventilation. In this paper, we illustrate the use of a correct-by-construction approach, the Event-B formal method and its refinement process, for the formal modeling and the verification of such a complex and critical system. The development of the formal models has been achieved under the Rodin platform that provides us with automatic and interactive provers used to verify the correctness of the models. We have also validated the built Event-B models using the ProB animator/model checker.&lt;/p>
 &lt;h2 id="document">Document&lt;/h2>
 &lt;div id="pdfobject-viewer">&lt;/div>
