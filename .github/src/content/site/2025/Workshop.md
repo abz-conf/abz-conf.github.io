@@ -70,27 +70,29 @@ This event focuses on using formal methods as a key approach to improve and ensu
 
 
 This event will consist of two parts:
-- a presentation and tutorial on using B and ProB in the classroom to enable students to write formal B models which can control drones
+- a presentation and tutorial on using B and ProB in the classroom to enable students to write formal B models for high-level control of drones
 - additional contributions by participants
 
 #### Part I. Tutorial 
 
-In an educational setting, we assigned students the task of selecting a drone-related problem (collision avoidance, exploring the environment, chasing another drone, etc.), modeling it with Classical B and Event-B, and formulating, validating, and verifying safety properties using ProB and Rodin. The formal models were then connected to Crazyflie drones for real-life demonstration. On the technical side, we enhanced ProB to enable communication with the drones, allowing us to read sensor data and control then. In the first part of the workshop, we present a tutorial on writing formal B models to control drones and present our experiences on teaching.
+In an educational setting, we assigned students the task of selecting a drone-related problem (collision avoidance, exploring the environment, chasing another drone, etc.), modeling it with Classical B and Event-B, and formulating, validating, and verifying safety properties using ProB and Rodin.
+The formal models were then connected to Crazyflie drones for real-life demonstration.
+On the technical side, we [enhanced ProB to enable communication with the drones](https://prob.hhu.de/w/index.php?title=JSON_and_Sockets), allowing us to read sensor data and control then. In the first part of the workshop, we present a tutorial on writing formal B models to control drones and present our experiences on teaching and getting the high-level control for drones to work.
 
 #### Part 2. Workshop
 
-In the second part, we invite other participants to give a presentation in the workshop. Our goal is to provide a platform for discussing challenges, issues and solutions in the domain of unmanned aerial vehicle, and explore new research directions together.
+In the second part, we invite other participants to give a presentation in the workshop.
+Our goal is to provide a platform for discussing challenges, issues and solutions in using formal methods for unmanned aerial vehicles and robotic systems, and explore new research and teaching directions together.
 
 Relevant topics include, but are not limited to:
 
-- Modeling, Validation, and Verification of aerial vehicles
-- Modeling, Validation, and Verification of multi-agent systems
+- Formal modeling, validation, and verification of aerial vehicles or robotic systems, including multi-agent systems
 - Validation and verification of AI-driven systems
-- Runtime monitoring and runtime verification
-- Application of formal methods to real-world aerial vehicles
-- Simulation and Co-simulation
-- Case studies with aerial vehicles
+- Formal methods tool support: simulation, co-simulation, runtime monitoring, runtime verification, ...
+- High-level control for aerial vehicles or robotic systems
+- Application of formal methods to real-world aerial vehicles or robotic systems
+- Teaching resources for formal models and aerial vehicles or robotic systems
 
 
-If you are interested in giving a presentation at the workshop, we encourage you to send a short abstract (1 or 2 pages of PDF) to Fabian.Vu@hhu.de.
+If you are interested in giving a presentation at the workshop, we encourage you to send a short abstract (1 or 2 pages of PDF) to Fabian.Vu@hhu.de by <b>May 10th 2025</b> (but ideally as soon as possible).
 
