@@ -65,7 +65,7 @@ This issue will be published in the renowned Mathematics journal (ISSN 2227-7390
 
 Unmanned aerial vehicle, including drones and electric flying taxis, will be essential in the future, supporting areas like logistics, transportation, infrastructure monitoring, disaster response, defense, and surveillance.
 Accidents involving unmanned aerial vehicle could lead to serious threats to human lives, the environment, or cause significant financial damages. Therefore, ensuring the safety of unmanned aerial vehicle is crucial. 
-This event focuses on using formal methods as a key approach to improve and ensure the safety of unmanned aerial vehicle.
+This event focuses on using formal methods as a key approach to improve and ensure the safety of unmanned aerial vehicles.
 
 
 
@@ -77,11 +77,12 @@ This event will consist of two parts:
 
 In an educational setting, we assigned students the task of selecting a drone-related problem (collision avoidance, exploring the environment, chasing another drone, etc.), modeling it with Classical B and Event-B, and formulating, validating, and verifying safety properties using ProB and Rodin.
 The formal models were then connected to Crazyflie drones for real-life demonstration.
-On the technical side, we [enhanced ProB to enable communication with the drones](https://prob.hhu.de/w/index.php?title=JSON_and_Sockets), allowing us to read sensor data and control then. In the first part of the workshop, we present a tutorial on writing formal B models to control drones and present our experiences on teaching and getting the high-level control for drones to work.
+On the technical side, we [enhanced ProB to enable communication with the drones](https://prob.hhu.de/w/index.php?title=JSON_and_Sockets), allowing us to read sensor data and control them.
+In the first part of the workshop, we present a tutorial on writing formal B models to control drones and present our experiences on teaching and getting the high-level control for drones to work.
 
 #### Part 2. Workshop
 
-In the second part, we invite other participants to give a presentation in the workshop.
+In the second part, we invite other participants to give a presentation.
 Our goal is to provide a platform for discussing challenges, issues and solutions in using formal methods for unmanned aerial vehicles and robotic systems, and explore new research and teaching directions together.
 
 Relevant topics include, but are not limited to:
