@@ -593,7 +593,7 @@ This issue will be published in the renowned Mathematics journal (ISSN 2227-7390
 &lt;img src="/img/prob_drone.jpeg" style="width: 100%; height: auto; display: block;">
 &lt;p>Unmanned aerial vehicle, including drones and electric flying taxis, will be essential in the future, supporting areas like logistics, transportation, infrastructure monitoring, disaster response, defense, and surveillance.
 Accidents involving unmanned aerial vehicle could lead to serious threats to human lives, the environment, or cause significant financial damages. Therefore, ensuring the safety of unmanned aerial vehicle is crucial.
-This event focuses on using formal methods as a key approach to improve and ensure the safety of unmanned aerial vehicle.&lt;/p>
+This event focuses on using formal methods as a key approach to improve and ensure the safety of unmanned aerial vehicles.&lt;/p>
 &lt;p>This event will consist of two parts:&lt;/p>
 &lt;ul>
 &lt;li>a presentation and tutorial on using B and ProB in the classroom to enable students to write formal B models for high-level control of drones&lt;/li>
@@ -603,9 +603,10 @@ This event focuses on using formal methods as a key approach to improve and ensu
 &lt;p>In an educational setting, we assigned students the task of selecting a drone-related problem (collision avoidance, exploring the environment, chasing another drone, etc.), modeling it with Classical B and Event-B, and formulating, validating, and verifying safety properties using ProB and Rodin.
 The formal models were then connected to Crazyflie drones for real-life demonstration.
 On the technical side, we
-&lt;a href="https://prob.hhu.de/w/index.php?title=JSON_and_Sockets" target="_blank" rel="noopener">enhanced ProB to enable communication with the drones&lt;/a>, allowing us to read sensor data and control then. In the first part of the workshop, we present a tutorial on writing formal B models to control drones and present our experiences on teaching and getting the high-level control for drones to work.&lt;/p>
+&lt;a href="https://prob.hhu.de/w/index.php?title=JSON_and_Sockets" target="_blank" rel="noopener">enhanced ProB to enable communication with the drones&lt;/a>, allowing us to read sensor data and control them.
+In the first part of the workshop, we present a tutorial on writing formal B models to control drones and present our experiences on teaching and getting the high-level control for drones to work.&lt;/p>
 &lt;h4 id="part-2-workshop">Part 2. Workshop&lt;/h4>
-&lt;p>In the second part, we invite other participants to give a presentation in the workshop.
+&lt;p>In the second part, we invite other participants to give a presentation.
 Our goal is to provide a platform for discussing challenges, issues and solutions in using formal methods for unmanned aerial vehicles and robotic systems, and explore new research and teaching directions together.&lt;/p>
 &lt;p>Relevant topics include, but are not limited to:&lt;/p>
 &lt;ul>
