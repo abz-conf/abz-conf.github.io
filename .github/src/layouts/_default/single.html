@@ -13,7 +13,7 @@
   <!-- div class="article-container" -->
   <div class="universal-wrapper">
 
-    {{ if or .Params.use_twitter .Params.use_email}}
+    {{ if or .Params.use_twitter .Params.use_email .Params.logo}}
       <div class="row">
         <div class="col-md-8">
           {{ .Content }}
@@ -26,6 +26,13 @@
                   <h5 class="card-title" style="text-align:left;">Contact Us:</h5>
                   <h7 class="card-title"><a href="mailto:{{ .Params.email }}">{{ .Params.email }}</a></h7>
               </div>
+          </div>
+          {{ end }}
+          {{ if .Params.logo}}
+          <div style="text-align: center; cursor: pointer;" class="card" >
+            <a href="{{ .Params.logo_link }}">
+              <img src="/img/{{ .Params.logo }}" style="width:80%;height:auto;">
+            </a>
           </div>
           {{ end }}
           {{ if .Params.use_twitter }}
