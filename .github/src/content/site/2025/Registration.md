@@ -18,7 +18,11 @@ skyline:
 ---
 ## Registration fees
 
-Will be announced later
+Will be announced shortly, but will be less than 400 EUR.
+
+Full registration will include: coffee breaks, lunch for Tuesday-Friday, a reception dinner on Tuesday and a conference dinner on Thursday.
+The registration fees will be invoiced by the Hotel Tribe Düsseldorf.
+In addition you can book rooms at the preferential rate of 95 EUR per night (for regular-sized rooms).
 
 
 ## Author Policy
@@ -27,7 +31,11 @@ At least one “Author Registration” per paper accepted is required.
 
 ## Student Policy
 
-For registrations at the student rate, a proof of student status – such as a confirmation of registration provided by the university or a confirmation letter by the PhD advisor - must be sent by email together with the payment receipt.
+We are not sure if we can offer special student rates yet.
+We will strive to make the overall rate as affordable as possible.
+
+<!-- For registrations at the student rate, a proof of student status – such as a confirmation of registration provided by the university or a confirmation letter by the PhD advisor - must be sent by email together with the payment receipt. -->
+
 
 ## Visa Information
 
