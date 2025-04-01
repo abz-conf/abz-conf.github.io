@@ -38,12 +38,11 @@ or plane (as are direct S-Bahn train from the airport to the central station tak
 
 Düsseldorf is quite convenient to reach as it has an international airport with direct connections to numerous cities.
 
-[Düsseldorf International Airport](https://www.dus.com/en) is 6 km north-east of Düsseldorf's city center. From there, regional and suburban trains will get you to the conference venue (Stop: _Heinrich-Heine-Allee_ or _Schadowstraße_), see [here](https://www.hdu.hhu.de/en/directions-contact-details) for more information.
+[Düsseldorf International Airport](https://www.dus.com/en) is 6 km north-east of Düsseldorf's city center. From there, regional and suburban trains will get you to the central station (Hauptbahnhof).
 
-Alternatively the [Köln-Bonn Airport](https://www.cologne-bonn-airport.com/en/) provides more destinations and many with budget airlines. The Köln Bonn Airport is located about 60 km south of Düsseldorf. By train you will need one hour to Düsseldorf Central Station. Available connections and timetables you can find [here](https://int.bahn.de) (Enter Köln Bonn Airport as start and Düsseldorf Hbf as destination). From Düsseldorf Central Station, subway trains will get you to the conference venue (Stop: _Heinrich-Heine-Allee_ or _Schadowstraße_), see [here](https://www.hdu.hhu.de/en/directions-contact-details) for more information.
+Alternatively the [Köln-Bonn Airport](https://www.cologne-bonn-airport.com/en/) provides more destinations and many with budget airlines. The Köln Bonn Airport is located about 60 km south of Düsseldorf. By train you will need one hour to Düsseldorf Central Station. Available connections and timetables you can find [here](https://int.bahn.de) (enter Köln Bonn Airport as start and Düsseldorf Hbf as destination).
 
-International [Airport Weeze](https://airport-weeze.com/?lang=en) is 80 km north of Düsseldorf and provides a wide range of low-cost flights. Weeze train station is only 5 minutes, Kevelaer train station 10 minutes away by bus. The local train RE10 to Düsseldorf runs Mondays to Fridays half hourly, on weekends hourly. Connections and timetables you can find [here](https://int.bahn.de) (Enter Weeze Terminal 1 as start and Düsseldorf Hauptbahnhof as destination). From Düsseldorf Central Station,  the Tribe hotel is just a few steps away.
-
+International [Airport Weeze](https://airport-weeze.com/?lang=en) is 80 km north of Düsseldorf and provides a wide range of low-cost flights. Weeze train station is only 5 minutes, Kevelaer train station 10 minutes away by bus. The local train RE10 to Düsseldorf runs Mondays to Fridays half-hourly, on weekends hourly. Connections and timetables you can find [here](https://int.bahn.de) (enter Weeze Terminal 1 as start and Düsseldorf Hbf as destination). From Düsseldorf Central Station, the Tribe hotel is just a few steps away.
 
 #### To Düsseldorf by Rail
 
@@ -52,18 +51,20 @@ Düsseldorf Central Station (Hauptbahnhof) is frequented by a regular train serv
 Paris can also be reached using the [Eurostar](https://www.eurostar.com) train service from Düsseldorf.
 
 From Düsseldorf Central Station, the Tribe hotel is just a few steps away.
+You can either walk (300 m) or take tram lines 708 and 709 (one stop to _Stresemannplatz_) to the conference venue.
 
 
 #### Local Transport
 
 The city centre and the conference venue can be easily and quickly reached from the airport or the central station by bus, tram and subway trains.
-See [here](https://www.hdu.hhu.de/en/directions-contact-details) for more information.
+From Düsseldorf Central Station, the Tribe hotel is just a few steps away.
+You can either walk (300 m) or take tram lines 708 and 709 (one stop to _Stresemannplatz_) to the conference venue.
 
-For travel in Düsseldorf with bus, tram or S-Bahn you will need a ticket with price level A3:
+For travel in Düsseldorf with bus, tram or S-Bahn you will need a ticket with price level A:
 
-- Single ticket: 3,40 €
-- 4-trip ticket: 12,50 €
-- 24 hour pass, 1 person: 8,30 €
+- Single ticket: 3,60 €
+- 4-trip ticket: 14,40 €
+- 24 hour pass, 1 person: 8,80 €
 
 Tickets are available from the ticket machines, several apps (e.g. Rheinbahn, VRR, DB Navigator), from Rheinbahn's customer centres and from many sales partners. Single tickets can also be bought from the bus driver; in trams you can find ticket machines. It is not possible to buy a ticket in the S-Bahn, so be sure you have one before entering an S-Bahn. Most paper tickets have to be stamped before you commence your journey (the single tickets are usually already stamped).
 
