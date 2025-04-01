@@ -56,6 +56,8 @@ You can either walk (300 m) or take tram lines 708 and 709 (one stop to _Stresem
 
 #### Local Transport
 
+_Please note that 9 June is a public holiday and that there is a school holiday on 10 June. Some local transport services may run less frequently._
+
 The city centre and the conference venue can be easily and quickly reached from the airport or the central station by bus, tram and subway trains.
 From Düsseldorf Central Station, the Tribe hotel is just a few steps away.
 You can either walk (300 m) or take tram lines 708 and 709 (one stop to _Stresemannplatz_) to the conference venue.
