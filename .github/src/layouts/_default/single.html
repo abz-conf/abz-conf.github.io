@@ -29,9 +29,9 @@
           </div>
           {{ end }}
           {{ if .Params.logo}}
-          <div style="text-align: center; cursor: pointer;" class="card" >
+          <div style="display: flex; justify-content: center; align-items: center; text-align: center; cursor: pointer;" class="card" >
             <a href="{{ .Params.logo_link }}">
-              <img src="/img/{{ .Params.logo }}" style="width:80%;height:auto;">
+              <img src="/img/{{ .Params.logo }}" style="width:100%;height:auto;">
             </a>
           </div>
           {{ end }}
