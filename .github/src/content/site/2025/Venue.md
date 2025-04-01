@@ -66,6 +66,8 @@ For travel in Düsseldorf with bus, tram or S-Bahn you will need a ticket with p
 - 4-trip ticket: 14,40 €
 - 24 hour pass, 1 person: 8,80 €
 
+Alternatively, you can use [**eezy**](https://www.rheinbahn.com/eezy).
+
 Tickets are available from the ticket machines, several apps (e.g. Rheinbahn, VRR, DB Navigator), from Rheinbahn's customer centres and from many sales partners. Single tickets can also be bought from the bus driver; in trams you can find ticket machines. It is not possible to buy a ticket in the S-Bahn, so be sure you have one before entering an S-Bahn. Most paper tickets have to be stamped before you commence your journey (the single tickets are usually already stamped).
 
 For timetables and further information please refer to: [www.vrr.de](https://www.vrr.de/en/) or www.rheinbahn.com.
