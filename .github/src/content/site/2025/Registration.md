@@ -18,12 +18,15 @@ skyline:
 ---
 ## Registration fees
 
-Will be announced shortly, but will be less than 400 EUR.
+The full author registration fee will be 385 EUR.
+Note: if sufficient persons attend ABZ'2025 we will be able to lower
+the cost, and may even allow you to only pay for actual days attended.
 
 Full registration will include: coffee breaks, lunch for Tuesday-Friday, a reception dinner on Tuesday and a conference dinner on Thursday.
 The registration fees will be invoiced by the Hotel Tribe Düsseldorf.
 In addition you can book rooms at the preferential rate of 95 EUR per night (for regular-sized rooms).
 
+<a href="mailto:abz2025@hhu.de?subject=ABZ 2025 Author Registration&cc=leuschel@hhu.de&body=%0AABZ%272025%20REGISTRATION%20CONFIRMATION%0A----------------------------------%0A%0AName%3A%20%0APaper%3A%20%0ADietary%20Restrictions%3A%20%0A%0AI%20hereby%20confirm%20my%20registration%20for%20the%20ABZ%202025%20conference%0Ataking%20place%20in%20the%20Hotel%20Tribe%2C%20D%C3%BCsseldorf%20from%20June%2010th%20to%20June%2013th%202025.%0AThe%20invoice%20for%20the%20conference%20will%20be%20issued%20later%20by%20the%20Hotel%20Tribe.%0AThe%20costs%20will%20cover%20the%20meeting%20rooms%20and%20other%20facilities%2C%20coffee%20breaks%2C%0Alunches%20and%20two%20evening%20events%20and%20includes%20the%20workshops%20on%20Tuesday.%0AThe%20invoice%20will%20not%20exceed%20380%20Euro%20%28not%20including%20rooms%20or%20breakfast%29.%0AI%20will%20pay%20the%20invoice%20even%20if%20I%20am%20unable%20to%20attend%20the%20event.%0AI%20can%2C%20however%2C%20transfer%20the%20registration%20to%20another%20author%20of%20the%0Asame%20paper%20up%20until%2020%20days%20before%20the%20event.%0A%0ANote%3A%20if%20sufficient%20persons%20attend%20ABZ%272025%20we%20will%20be%20able%20to%20lower%0Athe%20cost%2C%20and%20may%20even%20allow%20you%20to%20only%20pay%20for%20actual%20days%20attended.">Email for Author Registration</a>
 
 ## Author Policy
 
@@ -31,10 +34,10 @@ At least one “Author Registration” per paper accepted is required.
 
 ## Student Policy
 
-We are not sure if we can offer special student rates yet.
-We will strive to make the overall rate as affordable as possible.
+We will (later) offer student rates at cost, 331 EUR for the whole event.
 
-<!-- For registrations at the student rate, a proof of student status – such as a confirmation of registration provided by the university or a confirmation letter by the PhD advisor - must be sent by email together with the payment receipt. -->
+For registrations at the student rate, a proof of student status – such as a confirmation of registration provided by the university or a confirmation letter by the PhD advisor - must be sent by email together with the registration email.
+The student rate is not available for author registrations.
 
 
 ## Visa Information
