@@ -430,7 +430,8 @@ His current subjects of interest are safety and security co-engineering, safe ar
 &lt;h3 id="main-track">Main Track&lt;/h3>
 &lt;details>
 &lt;summary>Klaus-Dieter Schewe and Flavio Ferrarotti. &lt;b>Behavioural Theory of Reflective Parallel Algorithms.&lt;/b>&lt;/summary>
-&lt;pre>&lt;code>We develop a behavioural theory of reflective parallel
+&lt;p style="border: 2px solid gray; padding: 10px;">
+We develop a behavioural theory of reflective parallel
 algorithms (RAs), i.e. synchronous parallel algorithms that
 can modify their own behaviour. The theory comprises a set
 of postulates defining the class of RAs, an abstract
@@ -443,13 +444,14 @@ comprehension terms as values. The model of reflective
 abstract state machines (rASMs) extends ASMs using extended
 states that include an updatable representation of the main
 ASM rule to be executed by the machine in that state.
-&lt;/code>&lt;/pre>
+&lt;/p>
 &lt;/details>
 &lt;details>
 &lt;summary>Chiara Braghin, Giuseppe Del Castillo, Elvinia Riccobene
 and Simone Valentini. &lt;b>Using Symbolic Model Execution to Detect Vulnerabilities of
 Smart Contracts.&lt;/b>&lt;/summary>
-&lt;pre>&lt;code>Smart contracts are programs that automate agreements
+&lt;p style="border: 2px solid gray; padding: 10px;">
+Smart contracts are programs that automate agreements
 between parties without the need for intermediaries.
 Embedded in a blockchain, they ensure transparency,
 immutability, and trustworthiness. While efficient, their
@@ -468,14 +470,15 @@ faulty execution paths resulting in invariant violations.
 In this way, vulnerable execution scenarios of the smart
 contract can be generated.
 As a proof of concept, we show the approach on a running
-case study, the &amp;quot;Auction&amp;quot; smart contract. Furthermore, we
+case study, the "Auction" smart contract. Furthermore, we
 discuss the results of applying the technique to a number
 of Solidity smart contracts.
-&lt;/code>&lt;/pre>
+&lt;/p>
 &lt;/details>
 &lt;details>
 &lt;summary>Vincent Trélat. &lt;b>Safely Encoding B Proof Obligations in SMT-LIB.&lt;/b>&lt;/summary>
-&lt;pre>&lt;code>This paper presents a sound encoding of B proof obligations
+&lt;p style="border: 2px solid gray; padding: 10px;">
+This paper presents a sound encoding of B proof obligations
 in SMT-LIB 2.7, leveraging the recent extensions of SMT-LIB
 to higher-order logic. Our encoding improves upon previous
 approaches by eliminating uninterpreted membership
@@ -487,11 +490,12 @@ of the translation. Preliminary experimental results are
 promising and indicate that our encoding allows solvers to
 efficiently handle certain proof obligations that
 previously failed.
-&lt;/code>&lt;/pre>
+&lt;/p>
 &lt;/details>
 &lt;details>
 &lt;summary>Nikolaj Jakobsen. &lt;b>State-Based Modelling with a Concept DSL.&lt;/b>&lt;/summary>
-&lt;pre>&lt;code>Concept-based design is a new emerging formalism that uses
+&lt;p style="border: 2px solid gray; padding: 10px;">
+Concept-based design is a new emerging formalism that uses
 concepts to facilitate the construction of modular and
 reusable software.
 Concepts are independent and generic units of functionality
@@ -505,11 +509,12 @@ validate concept specifications of software. The practical
 application of Conceptual is examined qualitatively by
 leveraging Alloy’s analysis tools to reason about existing
 concept specifications in the literature.
-&lt;/code>&lt;/pre>
+&lt;/p>
 &lt;/details>
 &lt;details>
 &lt;summary>Soaibuzzaman, Salar Kalantari and Jan Oliver Ringert. &lt;b>On Writing Alloy Models: Metrics and a new Dataset.&lt;/b>&lt;/summary>
-&lt;pre>&lt;code>Alloy is a modeling language that combines relational
+&lt;p style="border: 2px solid gray; padding: 10px;">
+Alloy is a modeling language that combines relational
 first-order logic and temporal logic while providing
 powerful automated analyses via the Alloy Analyzer. Recent
 efforts in tool development and teaching of Alloy have
@@ -524,11 +529,12 @@ We illustrate the differences between the datasets, define
 a Halstead metric to measure the difficulty of models, and
 evaluate model revision histories from both datasets on
 various metrics.
-&lt;/code>&lt;/pre>
+&lt;/p>
 &lt;/details>
 &lt;details>
 &lt;summary>Linas Laibinis, Alexei Iliasov and Alexander Romanovsky. &lt;b>Proof Semantics of Railway Interlocking.&lt;/b>&lt;/summary>
-&lt;pre>&lt;code>SafeCap is a modern toolkit for modelling, simulation and
+&lt;p style="border: 2px solid gray; padding: 10px;">
+SafeCap is a modern toolkit for modelling, simulation and
 formal verification of railway networks, focused on
 fully-automated scalable safety verification of solid state
 interlocking (SSI) programs – a technology at the heart of
@@ -544,13 +550,14 @@ derivation of a number of proof obligations that a specific
 interlocking solution must satisfy. The semantic
 definitions, properties, and inference rules are formalised
 with the proof assistant Coq.
-&lt;/code>&lt;/pre>
+&lt;/p>
 &lt;/details>
 &lt;details>
 &lt;summary>Frederic Reiter, Roman Wetenkamp, Robert Schmid, Richard
 Kretzschmar and Lukas Iffländer. &lt;b>Towards an End-to-End Tool Chain for Traceable and
 Verifiable Railway Signalling Specifications.&lt;/b>&lt;/summary>
-&lt;pre>&lt;code>Specifications for safety-critical railway signaling
+&lt;p style="border: 2px solid gray; padding: 10px;">
+Specifications for safety-critical railway signaling
 systems have
 traditionally been expressed in natural language. Due to a
 lack of trace-
@@ -580,11 +587,12 @@ Currently, we are ap-
 plying our methodology to a case study that involves the
 specification of
 a new ETCS-based moving block signalling system.
-&lt;/code>&lt;/pre>
+&lt;/p>
 &lt;/details>
 &lt;details>
 &lt;summary>Pedro Silva, Nuno Macedo and José N. Oliveira. &lt;b>On Quantitative Solution Iteration in QAlloy.&lt;/b>&lt;/summary>
-&lt;pre>&lt;code>A key feature of model finding techniques allows users to
+&lt;p style="border: 2px solid gray; padding: 10px;">
+A key feature of model finding techniques allows users to
 enumerate and explore alternative solutions. However, it is
 challenging to guarantee that the generated instances are
 relevant to the user, representing effectively different
@@ -608,12 +616,13 @@ Such generic strategies are implemented in QAlloy – a
 quantitative extension to Alloy – and are evaluated against
 several examples ranging, in particular, over the integer
 and fuzzy domains.
-&lt;/code>&lt;/pre>
+&lt;/p>
 &lt;/details>
 &lt;details>
 &lt;summary>Peter Riviere, Duong Dinh Tran, Takashi Tomita and Toshiaki Aoki. &lt;b>A reasoning and explicit algebraic theory for BBSL in
 Event-B: EB4BBSL framework.&lt;/b>&lt;/summary>
-&lt;pre>&lt;code>Automated Driving Systems (ADS) are major engineering and
+&lt;p style="border: 2px solid gray; padding: 10px;">
+Automated Driving Systems (ADS) are major engineering and
 research topics, and ensuring the safety of such a critical
 system becomes crucial. Nevertheless, ADS are inherently
 complex, with many of their components, particularly
@@ -640,11 +649,12 @@ deep-modelling and shallow-modelling, and we use an
 interpretation of BBSL in an Event-B machine. We
 demonstrate our approach in an example of BBSL
 specifications for the braking systems.
-&lt;/code>&lt;/pre>
+&lt;/p>
 &lt;/details>
 &lt;details>
 &lt;summary>Anne Grieu, Jean-Paul Bodeveix and Mamoun Filali-Amine. &lt;b>Translating Event-B models and development proofs to TLA.&lt;/b>&lt;/summary>
-&lt;pre>&lt;code>The work presented here is done in the context of the
+&lt;p style="border: 2px solid gray; padding: 10px;">
+The work presented here is done in the context of the
 French ANR
 ICSPA\footnote{\url{https://anr.fr/Projet-ANR-21-CE25-0015}}
 project which aims at studying formal methods based on set
@@ -662,19 +672,21 @@ Here, we also generate the proof obligations linked to
 invariant preservation in TLA+. Lastly, we translate proof
 interactively built using the Rodin platform to the TLA+
 proof language.
-&lt;/code>&lt;/pre>
+&lt;/p>
 &lt;/details>
 &lt;details>
 &lt;summary>Dominique Cansell and Jean-Raymond Abrial. &lt;b>The Proved Construction of a Protocol with an Example.&lt;/b>&lt;/summary>
-&lt;pre>&lt;code>This paper present a complete proved development of a
+&lt;p style="border: 2px solid gray; padding: 10px;">
+This paper present a complete proved development of a
 protocol inspired by the Lamport's Paxos protocol. Our
 protocol is not fault-tolerant. This work was carried out
 at the end of 2019.
-&lt;/code>&lt;/pre>
+&lt;/p>
 &lt;/details>
 &lt;details>
 &lt;summary>Akram Idani and Aurélien Pepin. &lt;b>Insider Threat Simulation Through Ant Colonies and ProB.&lt;/b>&lt;/summary>
-&lt;pre>&lt;code>In cyber-security, insider threats are particularly
+&lt;p style="border: 2px solid gray; padding: 10px;">
+In cyber-security, insider threats are particularly
 challenging to prevent because they are carried out by
 individuals who already have legitimate access to the
 information system (IS). In fact, insiders exploit their
@@ -689,11 +701,12 @@ algorithm (\textit{API}); that we implemented using ProB.
 We show how the API algorithm can be used to search for
 malicious scenarios and we present the results of our
 experiments in comparison with other approaches.
-&lt;/code>&lt;/pre>
+&lt;/p>
 &lt;/details>
 &lt;details>
 &lt;summary>Alexander Onofrei, Marc Frappier and Émilie Bernard. &lt;b>Model-Based Testing of Non-Deterministic Systems.&lt;/b>&lt;/summary>
-&lt;pre>&lt;code>Testing non-deterministic systems is challenging due to un-
+&lt;p style="border: 2px solid gray; padding: 10px;">
+Testing non-deterministic systems is challenging due to un-
 predictable behaviours arising from timing, concurrency,
 and random in-
 puts. This paper explores the application of model-based
@@ -727,14 +740,15 @@ can effectively
 address the challenges of non-deterministic systems,
 enabling improved
 testing strategies and greater system reliability.
-&lt;/code>&lt;/pre>
+&lt;/p>
 &lt;/details>
 &lt;details>
 &lt;summary>Colin Snook, Asieh Salehi Fathabadi, Thai Son Hoang, Robert
 Thorburn, Michael Butler, Leonardo Aniello and Vladimiro
 Sassone. &lt;b>Developing safe exception recovery mechanisms for CHERI
 capability hardware using UML-B formal analysis.&lt;/b>&lt;/summary>
-&lt;pre>&lt;code>While detection of suspicious or erroneous CPU behaviour
+&lt;p style="border: 2px solid gray; padding: 10px;">
+While detection of suspicious or erroneous CPU behaviour
 can be achieved by generic mechanisms such as memory safe
 processors, recovering safely from the resulting exceptions
 is an application specific problem.
@@ -770,11 +784,12 @@ non-completion of the transaction. We also discuss an
 implementation of the modelled exception handling in the
 `C' programming language as a first stage towards automatic
 code generation of exception handlers.
-&lt;/code>&lt;/pre>
+&lt;/p>
 &lt;/details>
 &lt;details>
 &lt;summary>Ben M. Andrew. &lt;b>Weakening Goals in Logical Specifications.&lt;/b>&lt;/summary>
-&lt;pre>&lt;code>Logical specifications are widely used to represent
+&lt;p style="border: 2px solid gray; padding: 10px;">
+Logical specifications are widely used to represent
 software systems and their desired properties. Under system
 degradation or environmental changes, commonly seen in
 complex real-world robotic systems, these properties may no
@@ -787,12 +802,13 @@ We present a counterexample-guided technique for
 iteratively weakening properties, apply it to propositional
 logic specifications, and discuss planned extensions to
 state-based representations.
-&lt;/code>&lt;/pre>
+&lt;/p>
 &lt;/details>
 &lt;details>
 &lt;summary>Christophe Chen. &lt;b>Formal modelling and reasoning on Assurance Cases expressed
 with GSN in Event-B.&lt;/b>&lt;/summary>
-&lt;pre>&lt;code>An Assurance Case (AC) is a structured argumentation for
+&lt;p style="border: 2px solid gray; padding: 10px;">
+An Assurance Case (AC) is a structured argumentation for
 certification describing how industrial activities support
 system requirements. The principle of AC relies on a goal
 (requirement) decomposition strategy that recursively
@@ -822,14 +838,15 @@ the AC expressed in GSN, the impact analysis on argument
 modification will be controlled. Moreover, references to
 knowledge models and system models will be made explicit in
 order to enhance traceability.
-&lt;/code>&lt;/pre>
+&lt;/p>
 &lt;/details>
 &lt;h3 id="case-study">Case Study&lt;/h3>
 &lt;details>
 &lt;summary>Andrea Bombarda, Silvia Bonfanti, Angelo Gargantini, Nico
 Pellegrinelli and Patrizia Scandurra. &lt;b>Safety enforcement for autonomous driving on a simulated
 highway using Asmeta models@run.time.&lt;/b>&lt;/summary>
-&lt;pre>&lt;code>Mission-critical systems, such as autonomous vehicles,
+&lt;p style="border: 2px solid gray; padding: 10px;">
+Mission-critical systems, such as autonomous vehicles,
 operate in dynamic environments where unexpected events
 should be managed while guaranteeing safe behavior.
 Ensuring the safety of these complex systems is a major
@@ -849,13 +866,14 @@ pre-trained (unsafe) AI agents as provided by the ABZ 2025
 case study. We consider the single-lane case with the
 safety requirement and one scenario of the multi-lane case
 about preferring the right-most lane.
-&lt;/code>&lt;/pre>
+&lt;/p>
 &lt;/details>
 &lt;details>
 &lt;summary>Duong Dinh Tran, Akira Hasegawa, Peter Riviere, Takashi
 Tomita and Toshiaki Aoki. &lt;b>Enhancing Decision-making Safety in Autonomous Driving
 Through Online Model Checking.&lt;/b>&lt;/summary>
-&lt;pre>&lt;code>While artificial intelligence (AI) offers promising
+&lt;p style="border: 2px solid gray; padding: 10px;">
+While artificial intelligence (AI) offers promising
 approaches
 for developing intelligent autonomous driving (AD) agents,
 ensuring the
@@ -884,12 +902,13 @@ the capability
 of online model checking to enhance the safety of AI-driven
 autonomous
 vehicles.
-&lt;/code>&lt;/pre>
+&lt;/p>
 &lt;/details>
 &lt;details>
 &lt;summary>Enguerrand Prebet, Samuel Teuber and André Platzer. &lt;b>Modelling and Verification of Highway Car Control with
 KeYmaera X.&lt;/b>&lt;/summary>
-&lt;pre>&lt;code>This article presents a formal model and formal safety
+&lt;p style="border: 2px solid gray; padding: 10px;">
+This article presents a formal model and formal safety
 proofs for the ABZ’25 case study in differential dynamic
 logic (dL). The case study considers an autonomous car
 driving on a highway avoiding collisions with neighbouring
@@ -908,13 +927,14 @@ highway-env of the ABZ’25 study. We attempt to fix these
 inconsistencies and uncover numerous counterexamples which
 also indicate issues in the provided reinforcement learning
 environment.
-&lt;/code>&lt;/pre>
+&lt;/p>
 &lt;/details>
 &lt;details>
 &lt;summary>Paolo Crisafulli, Adrien Durier, Benjamin Puyobro and
 Burkhart Wolff. &lt;b>Polychronous RSS in a Process-Algebraic Framework - A Case
 Study in Autonomous Driving Safety.&lt;/b>&lt;/summary>
-&lt;pre>&lt;code>The ABZ 2025 conference case study focuses on developing a
+&lt;p style="border: 2px solid gray; padding: 10px;">
+The ABZ 2025 conference case study focuses on developing a
 safety controller for autonomous
 highway driving. Within this context, we present a model of
 interacting agents that synchronize
@@ -939,12 +959,13 @@ makes it well-suited for refinement into implementations
 using synchronous languages such as Lustre and SCADE,
 enabling the development of safe and certifiable systems
 for the automotive industry.
-&lt;/code>&lt;/pre>
+&lt;/p>
 &lt;/details>
 &lt;details>
 &lt;summary>Sebastian Betancourt and Valentina Castiglioni. &lt;b>On The Road Again (Safely): Modelling and Analysis of
 Autonomous Driving with \textsc{Stark}.&lt;/b>&lt;/summary>
-&lt;pre>&lt;code>The Stark tool has been introduced for the the
+&lt;p style="border: 2px solid gray; padding: 10px;">
+The Stark tool has been introduced for the the
 specification, analysis and verification of cyber-physical
 systems operating under uncertainty.
 In this paper, we apply it to the modelling and safety
@@ -960,7 +981,7 @@ statistical model checking.
 We then discuss the use of Stark for the validation of the
 behaviour of reinforcement learning agents in the highway
 environment with the temporal logic DisTL.
-&lt;/code>&lt;/pre>
+&lt;/p>
 &lt;/details></description></item><item><title>ABZ 2025 – 11th International Conference on Rigorous State Based Methods</title><link>/site/2025/registration/</link><pubDate>Tue, 17 Sep 2024 00:00:00 +0100</pubDate><guid>/site/2025/registration/</guid><description>&lt;h2 id="registration-fees">Registration fees&lt;/h2>
 &lt;p>The full author registration fee will be 385 EUR.
 Note: if sufficient persons attend ABZ'2025 we will be able to lower
