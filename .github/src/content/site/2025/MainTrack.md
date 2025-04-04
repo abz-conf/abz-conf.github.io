@@ -46,6 +46,7 @@ Submissions deadlines have been extended:
 <div><img src="/img/Springer_Logo.jpg"><img src="/img/LNCS-Logo.jpg"></div>
 
 Accepted papers will appear in the Springer LNCS proceedings. 
+Page limits (including references and all appendices) for the final versions are 18 pages for full papers, 18 pages for case study papers, 8 pages for short papers and 5 pages for PhD symposium papers.
 
 ### Submission Process
 

@@ -70,6 +70,7 @@ Authors interested in contributing to ABZ 2025 in Open Access or Open Choice sho
 
 <p class="text-center"><a href="https://easychair.org/conferences/?conf=abz2025" class="btn btn-primary btn-lg" role="button" target="_blank">Submit contribution<br><br><br><small>via easychair</small></a></p>
 
+The page limit (including references and all appendices) for the final version is 18 pages for case study papers.
 
 ### Important Dates
 
