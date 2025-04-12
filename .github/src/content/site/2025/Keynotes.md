@@ -32,10 +32,10 @@ Here it is the list of keynote speakers (in alphabetic order by name).
     <td>
       <table>
         <tr><td>
-            <h3><b>TBA</b></h3><br>
+            <h3><b>The role of abstraction and refinement in safety of intelligent systems</b></h3><br>
         </td></tr>
         <tr><td>
-            <b><i>Abstract</i></b> <br>TBA
+            <b><i>Abstract</i></b> <br>Rapid developments in artificial intelligence (AI) and robotics pose challenges to conventional methods of safety assurance.  Machine learning is a very different programming approach to algorithm design, and notions of correctness for machine learning systems are still evolving. Increasing levels of autonomy being deployed in robotic systems means weaker concepts of control and predictability, increasing risk of accidents, and challenging conventional safety assurance methods. The role of abstraction/refinement formal methods, such as Event-B, is quite well established for traditional safety-critical systems, but it remains an open question whether and how such methods are applicable to systems with autonomy and learning-based control. <br>Recent ideas on <em>guaranteed safe AI</em> from leading formal methods researchers propose the use of three components to ensure safe AI systems: a <em>safety specification</em>, a <em>world model</em>, and a <em>verifier</em>. At a high level this represents a systems approach to safety analysis which aligns well with common usage of Event-B in conventional system design. Constructing specifications and world (or environment) models for complex systems remains challenging, and abstraction and refinement approaches are aimed at addressing system complexity through incremental modelling and verification.  Systematic approaches to analysis of (informal) requirements and of safety hazards also play in important role. We explore how existing work on hierarchical analysis and verification could be extended and relaxed to deal with autonomy and machine learning.  The focus is on physical safety rather than broader issues of influences of AI on human behaviours and ethics. <br>The ideas are influenced by collaboration with Asieh Salehi Fathabadi, Colin Snook, Dana Dghaym, Fahad Alotaibi, Haider Al-Shareefy, and Thai Son Hoang.
         </td></tr>
         <tr><td>
             <b><i>Short Bio</i></b> <br><a href="https://www.southampton.ac.uk/people/5wy556/professor-michael-butler">Michael Butler</a> is the Dean of Engineering and Physical Science at the University of Southampton.
