@@ -60,10 +60,10 @@ Here it is the list of keynote speakers (in alphabetic order by name).
     <td>
       <table>
         <tr><td>
-            <h3><b>TBA</b></h3><br>
+            <h3><b>Neurosymbolic Learning Systems: Artificial Intelligence and Formal Methods</b></h3><br>
         </td></tr>
         <tr><td>
-            <b><i>Abstract</i></b> <br>TBA
+            <b><i>Abstract</i></b> <br>Artificial Intelligence (AI) has emerged as a disruptive force in our society. Increasing applications in healthcare, transport, military, and other fields underscore the critical need for a comprehensive understanding and the robustness of an AI’s decision-making process. Neurosymbolic AI aims to create robust AI systems by integrating neural and symbolic AI techniques. We highlight the role of formal methods in such techniques, serving as a rigorous and structured backbone for symbolic AI methods. <br>Moreover, as a specific machine learning technique, we look at deep reinforcement learning (RL) with the promise that autonomous systems can learn to operate in unfamiliar environments with minimal human intervention. However, why haven’t most autonomous systems implemented RL yet? The answer is simple: there are significant unsolved challenges. One of the most important ones is obvious: Autonomous systems operate in unfamiliar, unknown environments. This lack of knowledge is called uncertainty. This talk will explore why making decisions that account for this uncertainty is essential to achieving trustworthiness, reliability, and safety in RL.
         </td></tr>
         <tr><td>
             <b><i>Short Bio</i></b> <br><a href="https://informatik.rub.de/jansen/">Nils Jansen</a> is Professor of Artificial Intelligence and Formal Methods at the Ruhr-University Bochum. He is also an Associate Professor with the Institute for Computing and Information Sciences at Radboud University Nijmegen, The Netherlands.
