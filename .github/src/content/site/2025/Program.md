@@ -269,8 +269,7 @@ Event-B: EB4BBSL framework.</b></summary>
   <summary>Anne Grieu, Jean-Paul Bodeveix and Mamoun Filali-Amine. <b>Translating Event-B models and  development proofs  to TLA.</b></summary>
      <p style="border: 2px solid gray; padding: 10px;">
         The work presented here is done in the context of the
-        French ANR
-        ICSPA\footnote{\url{https://anr.fr/Projet-ANR-21-CE25-0015}}
+        French ANR ICSPA (https://anr.fr/Projet-ANR-21-CE25-0015)
         project which aims at studying formal methods based on set
         theory (B, Event-B, TLA+). The first goal of this project
         concerns the verification of the proofs built with this
@@ -281,7 +280,7 @@ Event-B: EB4BBSL framework.</b></summary>
         In this paper, we present our preliminary work were we
         translate Event-B models, proof obligations and their
         proofs to the TLA+ environment. The translation of models
-        has already been studied in \cite{[HL16]}.
+        has already been studied in [HL16].
         Here, we also generate the proof obligations linked to
         invariant preservation in TLA+. Lastly, we translate proof
         interactively built using the Rodin platform to the TLA+
@@ -313,7 +312,7 @@ Event-B: EB4BBSL framework.</b></summary>
         many proof obligations and constraints must be solved
         interactively. In this paper, we provide a heuristic-based
         forward search based on the ant colony optimization
-        algorithm (\textit{API}); that we implemented using ProB.
+        algorithm (API); that we implemented using ProB.
         We show how the API algorithm can be used to search for
         malicious scenarios and we present the results of our
         experiments in comparison with other approaches.
@@ -379,7 +378,7 @@ capability hardware using UML-B formal analysis.</b></summary>
         potential abnormal conditions are identified and a recovery
         process is designed to return the system to a safe state.
         Exception handling relies on a notion of
-        \emph{transactions} in order to identify how the system can
+        transactions in order to identify how the system can
         be systematically returned to a consistent state.
         Formal methods can address this complexity, by supporting
         the analysis of transactions and exception handling at the
@@ -589,7 +588,7 @@ Study in Autonomous Driving Safety.</b></summary>
 
 <details>
   <summary>Sebastian Betancourt and Valentina Castiglioni. <b>On The Road Again (Safely): Modelling and Analysis of
-Autonomous Driving with \textsc{Stark}.</b></summary>
+Autonomous Driving with Stark.</b></summary>
     <p style="border: 2px solid gray; padding: 10px;">
         The Stark tool has been introduced for the the
         specification, analysis and verification of cyber-physical
