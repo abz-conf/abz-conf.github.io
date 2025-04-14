@@ -320,10 +320,10 @@ He has worked on tools such as ProB, U2B, csp2B and the Rodin toolset for Event-
 &lt;td>
 &lt;table>
 &lt;tr>&lt;td>
-&lt;h3>&lt;b>TBA&lt;/b>&lt;/h3>&lt;br>
+&lt;h3>&lt;b>Neurosymbolic Learning Systems: Artificial Intelligence and Formal Methods&lt;/b>&lt;/h3>&lt;br>
 &lt;/td>&lt;/tr>
 &lt;tr>&lt;td>
-&lt;b>&lt;i>Abstract&lt;/i>&lt;/b> &lt;br>TBA
+&lt;b>&lt;i>Abstract&lt;/i>&lt;/b> &lt;br>Artificial Intelligence (AI) has emerged as a disruptive force in our society. Increasing applications in healthcare, transport, military, and other fields underscore the critical need for a comprehensive understanding and the robustness of an AI’s decision-making process. Neurosymbolic AI aims to create robust AI systems by integrating neural and symbolic AI techniques. We highlight the role of formal methods in such techniques, serving as a rigorous and structured backbone for symbolic AI methods. &lt;br>Moreover, as a specific machine learning technique, we look at deep reinforcement learning (RL) with the promise that autonomous systems can learn to operate in unfamiliar environments with minimal human intervention. However, why haven’t most autonomous systems implemented RL yet? The answer is simple: there are significant unsolved challenges. One of the most important ones is obvious: Autonomous systems operate in unfamiliar, unknown environments. This lack of knowledge is called uncertainty. This talk will explore why making decisions that account for this uncertainty is essential to achieving trustworthiness, reliability, and safety in RL.
 &lt;/td>&lt;/tr>
 &lt;tr>&lt;td>
 &lt;b>&lt;i>Short Bio&lt;/i>&lt;/b> &lt;br>&lt;a href="https://informatik.rub.de/jansen/">Nils Jansen&lt;/a> is Professor of Artificial Intelligence and Formal Methods at the Ruhr-University Bochum. He is also an Associate Professor with the Institute for Computing and Information Sciences at Radboud University Nijmegen, The Netherlands.
