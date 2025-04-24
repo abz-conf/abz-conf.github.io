@@ -88,7 +88,7 @@ skyline:
 * Patrizia Scandurra, University of Bergamo, Italy
 * Gerhard Schellhorn, Universitaet Augsburg, Germany
 * Klaus-Dieter Schewe, Zhejiang University, China
-* Emil Sekerinski, McMaster University, Canda
+* Emil Sekerinski, McMaster University, Canada
 * Neeraj Singh, ENSEEIHT, France
 * Maurice ter Beek, CNR, Italy
 * Laurent Voisin, Systerel, France
