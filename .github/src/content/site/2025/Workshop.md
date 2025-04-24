@@ -47,8 +47,8 @@ Additional details can be found at [https://wiki.event-b.org/index.php/Rodin_Wor
 
 #### Exclusive Opportunity: Special Issue Publication
 
-This year, we are excited to announce that selected high-quality submissions will be invited to contribute to a Special Issue: Formal Methods in Computer Science: Theory and Applications
-This issue will be published in the renowned Mathematics journal (ISSN 2227-7390, IF 2.3, JCR Q1). Authors of accepted submissions will have the exclusive opportunity to submit a manuscript with a special discount (up to 100%) on publication fees, subject to peer review.
+This year, we are excited to announce that a special issue is in the planning stages, and the selected high-quality submissions will be invited to contribute to a Special Issue.
+(Note: The finalisation of the special issue is currently underway.)
 
 #### Organisers
 
