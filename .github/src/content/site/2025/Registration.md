@@ -23,9 +23,15 @@ Note: if sufficient persons attend ABZ'2025 we will be able to lower
 the cost, and may even allow you to only pay for actual days attended.
 
 Full registration will include: coffee breaks, lunch for Tuesday-Friday, a reception dinner on Tuesday and a conference dinner on Thursday.
-The registration fees will be invoiced by the Hotel Tribe Düsseldorf.
-In addition you can book rooms at the preferential rate of 95 EUR per night (for regular-sized rooms).
+The registration fees will be invoiced by the Hotel Tribe Düsseldorf on site.
+You can either pay in cash, via EC card or via credit card.
+Unfortunately, the hotel does not offer advance payment options or advanced billing.
+
+In addition you can book rooms at the guaranteed rate of 95 EUR per night (for regular-sized rooms).
 Please book rooms direct with the hotel, see [our Accomodation page](Accomodation.md).
+You can also book rooms at the Tribe hotel via other platforms or you can stay in another hotel if you prefer.
+
+
 
 ### Author Registration
 
