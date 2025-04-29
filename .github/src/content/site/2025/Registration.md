@@ -28,7 +28,7 @@ You can either pay in cash, via EC card or via credit card.
 Unfortunately, the hotel does not offer advance payment options or advanced billing.
 
 In addition you can book rooms at the guaranteed rate of 95 EUR per night (for regular-sized rooms).
-Please book rooms direct with the hotel, see [our Accomodation page](../accomodation).
+Please book rooms direct with the hotel, see [our Accommodation page](../accommodation).
 You can also book rooms at the Tribe hotel via other platforms or you can stay in another hotel if you prefer.
 
 
