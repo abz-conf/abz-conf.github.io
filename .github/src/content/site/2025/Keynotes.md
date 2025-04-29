@@ -39,7 +39,7 @@ Here it is the list of keynote speakers (in alphabetic order by name).
         </td></tr>
         <tr><td>
             <b><i>Short Bio</i></b> <br><a href="https://www.southampton.ac.uk/people/5wy556/professor-michael-butler">Michael Butler</a> is the Dean of Engineering and Physical Science at the University of Southampton.
-            Michael as made many key theoretical and methodological contributions to the refinement calculus and to the B and Event-B formal methods.
+            Michael has made many key theoretical and methodological contributions to the refinement calculus and to the B and Event-B formal methods.
             He has worked on tools such as ProB, U2B, csp2B and the Rodin toolset for Event-B.
         </td></tr>
       </table>
