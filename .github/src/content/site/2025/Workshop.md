@@ -97,3 +97,13 @@ Relevant topics include, but are not limited to:
 
 If you are interested in giving a presentation at the workshop, we encourage you to send a short abstract (1 or 2 pages of PDF) to Fabian.Vu@hhu.de by <b>May 10th 2025</b> (but ideally as soon as possible).
 
+We already have the following invited talks confirmed:
+
+Marie Farrell. Sharper Specs for Smarter Drones: Formalising Requirements with FRET.
+- Abstract: In this talk I will summarise our recent work on formalising requirements for an autonomous tilt-rotor drone in the ProVANT Emergentia research project. I will describe the process of formalising the natural-language requirements using NASA's Formal Requirements Elicitation Tool (FRET). I will present the progress made in each of the four sequential iterations of the requirements set as new information was elicited and incorporated. 
+
+Thierry Lecomte. Introducing Feasible Safety to Autonomous Firefighting Drone.
+- Abstract: We are presenting the formalization of the safety function of an autonomous aerial firefighting drone, from its system level RoboSim modelling to its implementation in B on a safety computer. The safety function implies a return to the base in case of power shortage or loss of communication with the base. The presentation provides a bird view on the overall experiment with a focus on the technical analyses and low-level formal modeling. 
+
+
+
