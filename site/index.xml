@@ -1193,7 +1193,16 @@ Our goal is to provide a platform for discussing challenges, issues and solution
 &lt;li>Teaching resources for formal models and aerial vehicles or robotic systems&lt;/li>
 &lt;/ul>
 &lt;p>If you are interested in giving a presentation at the workshop, we encourage you to send a short abstract (1 or 2 pages of PDF) to
-&lt;a href="mailto:Fabian.Vu@hhu.de">Fabian.Vu@hhu.de&lt;/a> by &lt;b>May 10th 2025&lt;/b> (but ideally as soon as possible).&lt;/p></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/</guid><description>&lt;h3 id="bergamo-italy---jun-25-2024--jun-28-2024">Bergamo (Italy) - Jun 25, 2024 — Jun 28, 2024&lt;/h3>
+&lt;a href="mailto:Fabian.Vu@hhu.de">Fabian.Vu@hhu.de&lt;/a> by &lt;b>May 10th 2025&lt;/b> (but ideally as soon as possible).&lt;/p>
+&lt;p>We already have the following invited talks confirmed:&lt;/p>
+&lt;p>Marie Farrell. Sharper Specs for Smarter Drones: Formalising Requirements with FRET.&lt;/p>
+&lt;ul>
+&lt;li>Abstract: In this talk I will summarise our recent work on formalising requirements for an autonomous tilt-rotor drone in the ProVANT Emergentia research project. I will describe the process of formalising the natural-language requirements using NASA&amp;rsquo;s Formal Requirements Elicitation Tool (FRET). I will present the progress made in each of the four sequential iterations of the requirements set as new information was elicited and incorporated.&lt;/li>
+&lt;/ul>
+&lt;p>Thierry Lecomte. Introducing Feasible Safety to Autonomous Firefighting Drone.&lt;/p>
+&lt;ul>
+&lt;li>Abstract: We are presenting the formalization of the safety function of an autonomous aerial firefighting drone, from its system level RoboSim modelling to its implementation in B on a safety computer. The safety function implies a return to the base in case of power shortage or loss of communication with the base. The presentation provides a bird view on the overall experiment with a focus on the technical analyses and low-level formal modeling.&lt;/li>
+&lt;/ul></description></item><item><title>ABZ 2024 – 10th International Conference on Rigorous State Based Methods</title><link>/site/2024/</link><pubDate>Wed, 16 Jun 2021 00:00:00 +0100</pubDate><guid>/site/2024/</guid><description>&lt;h3 id="bergamo-italy---jun-25-2024--jun-28-2024">Bergamo (Italy) - Jun 25, 2024 — Jun 28, 2024&lt;/h3>
 &lt;br>
 &lt;p>The ABZ conference is dedicated to the cross-fertilization of state-based and machine-based formal methods, like Abstract State Machines (ASM), Alloy, B, TLA, VDM and Z, that share a common conceptual foundation and are widely used in both academia and industry for the design and analysis of hardware and software systems. The conference aims for a vital exchange of knowledge and experience among the research communities around different formal methods.&lt;/p>
 &lt;h3 id="proceedings-online-accessible">Proceedings online accessible&lt;/h3>
