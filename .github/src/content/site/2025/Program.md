@@ -21,8 +21,8 @@ skyline:
 <div style='width:100%; display:inline-block; overflow-wrap: break-word;'><div><div style='display:inline-block; width:100%;'><center><h1>June, 10th</h1></center></div><div>
 <div style='width:100%; display:inline-block; overflow-wrap: break-word;'><div><div style='display:inline-block; width:100%;'><center><h3>Conference Room: TBD</h3></center></div><div>
 <div style='border-bottom: 0.2ex solid gray;'><div style='width:15%; display:inline-block;'><b>Time</b></div><div style='display:inline-block; width:75%;'><b>Talk</b></div><div style='width:10%; display:inline-block;'><b>Topic</b></div></div>
-<div style='border-bottom: 0.2ex solid gray; background-color:#83a9c6''><div style='display:inline-block; width:75%;'><b>Rodin Workshop (TBD)</b></div></div>
-<div style='border-bottom: 0.2ex solid gray; background-color:#83a9c6''><div style='display:inline-block; width:75%;'><b>Tutorial and Workshop: Exploring Formal Methods for Unmanned Aerial Vehicles (TBD)</b></div></div>
+<div style='border-bottom: 0.2ex solid gray; background-color:Gainsboro''><div style='display:inline-block; width:75%;'><b>Rodin Workshop (TBD)</b></div></div>
+<div style='border-bottom: 0.2ex solid gray; background-color:Gainsboro''><div style='display:inline-block; width:75%;'><b>Tutorial and Workshop: Exploring Formal Methods for Unmanned Aerial Vehicles (TBD)</b></div></div>
 <div style='border-bottom: 0.2ex solid gray; background-color:#e89b26''><div style='width:15%; display:inline-block; overflow-wrap: break-word;'>19:00 - 21:00</div><div style='display:inline-block; width:75%; '><b>Welcome Reception (<i>conference venue</i>)</b></div><div style='width:10%; display:inline-block;'></div></div>
 </div><br>
 <div style='width:100%; display:inline-block; overflow-wrap: break-word;'><div><div style='display:inline-block; width:100%;'><center><h1>Conference Program</h1></center></div><div>
