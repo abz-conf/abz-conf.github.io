@@ -4,9 +4,9 @@ days:
     room: "Conference Room: TBD"
     program:
       - paper: Rodin Workshop (TBD)
-        background: "#83a9c6"
+        background: Gainsboro
       - paper: "Tutorial and Workshop: Exploring Formal Methods for Unmanned Aerial Vehicles (TBD)"
-        background: "#83a9c6"
+        background: Gainsboro
       - paper: Welcome Reception (<i>conference venue</i>)
         start: "19:00"
         end: "21:00"
