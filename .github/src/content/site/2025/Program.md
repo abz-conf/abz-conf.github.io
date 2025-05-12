@@ -17,10 +17,6 @@ skyline:
   url: "https://de.wikipedia.org/wiki/Düsseldorf"
 ---
 
-
-
-## Program
-
 <div style='width:100%; display:inline-block; overflow-wrap: break-word;'><div><div style='display:inline-block; width:100%;'><center><h1>Workshop Program</h1></center></div><div>
 <div style='width:100%; display:inline-block; overflow-wrap: break-word;'><div><div style='display:inline-block; width:100%;'><center><h1>June, 10th</h1></center></div><div>
 <div style='width:100%; display:inline-block; overflow-wrap: break-word;'><div><div style='display:inline-block; width:100%;'><center><h3>Conference Room: TBD</h3></center></div><div>
