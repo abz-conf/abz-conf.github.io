@@ -80,7 +80,7 @@ days:
       - paper: "Case Study: Safety Controller for Autonomous Driving on Highways"
         start: "15:30"
         end: "15:45"
-        author: Michael Leuschel, Fabian Vu and Kristin Rutenkolk.
+        author: Michael Leuschel, Fabian Vu and Kristin Rutenkolk
         topic: Case Study
         abstract: "This requirements document presents the case study for the ABZ conference 2025. The case study is about a safety controller for autonomous driving on a highway. The description contains two variations of the case study. First, in the simpler setting, we just consider a single- lane highway where each vehicle can accelerate and brake. The goal is to keep a safe distance to the preceding car. Second, we consider a multi-lane highway where each vehicle can also change lanes.<br>The challenge is to model the system and its environment, derive assump- tions, and model a controller that guarantees safety. The challenge is also to present the safety case in such a way that it is convincing to readers not entirely familiar with the formal method employed.<br>The case study is designed so that the formal model can be used as a safety shield within a highway simulation environment. We provide pre-trained (unsafe) AI agents for experimental purposes. This part of the case study is optional."
       - paper: "Safety enforcement for autonomous driving on a simulated highway using Asmeta models@run.time"
@@ -206,7 +206,7 @@ days:
         author: Dominique Cansell and Jean-Raymond Abrial
         topic: B
         abstract: The proof assistant Isabelle/HOL is made available inside a flexible system framework allowing for logically safe extensions, which comprise both theories as well as implementations for code-generation, documentation, and specific support for a variety of formal methods. Following the techniques in [23] and the theoretical groundwork in [5], we show the major milestones for the implementation of a B-Tool and the resulting refinement method inside the Isabelle/HOL platform. The pro- totype HOL-B provides IDE support, documentation support, a theory for the Z-Mathematical Toolkit underlying the B-Method, and a gener- ated denotational semantics for the B-Machine concept implemented as specification construct in Isabelle/HOL. Extended by more automated proof machinery geared to refinements, HOL-B can serve as a more portable, flexible and extensible tool for Event-B that may profit from the large Isabelle/HOL libraries providing Algebra and Analysis theories.
-      - paper: Model-Based Testing of Non-Deterministic System
+      - paper: Model-Based Testing of Non-Deterministic Systems
         start: "11:00"
         end: "11:30"
         author: Alexander Onofrei, Marc Frappier and Émilie Bernard
