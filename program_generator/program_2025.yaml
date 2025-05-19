@@ -62,8 +62,51 @@ days:
         start: "13:00"
         end: "14:00"
         background: "#e89b26"
-      - paper: "Tutorial and Workshop: Exploring Formal Methods for Unmanned Aerial Vehicles (TBD)"
+      - paper: "Tutorial and Workshop: Exploring Formal Methods for Unmanned Aerial Vehicles"
         background: Gainsboro
+      - paper: "Session Chair: <i>TBD</i>"
+        background: "#83a9c6"
+      - paper: Introduction
+        start: "14:00"
+        end: "14:10"
+        author: ""
+        topic: Drone Workshop
+      - paper: Tutorial
+        start: "14:10"
+        end: "14:35"
+        author: ""
+        topic: Drone Workshop
+      - paper: Talk 1
+        start: "14:35"
+        end: "15:00"
+        author: ""
+        topic: Drone Workshop
+      - paper: Talk 2
+        start: "15:00"
+        end: "15:25"
+        author: ""
+        topic: Drone Workshop
+      - paper: Coffee break
+        start: "15:25"
+        end: "15:55"
+        background: "#e89b26"
+      - paper: "Session Chair: <i>TBD</i>"
+        background: "#83a9c6"
+      - paper: Talk 3
+        start: "15:55"
+        end: "16:20"
+        author: ""
+        topic: Drone Workshop
+      - paper: Talk 4
+        start: "16:20"
+        end: "16:45"
+        author: ""
+        topic: Drone Workshop
+      - paper: Discussion
+        start: "16:45"
+        end: "17:00"
+        author: ""
+        topic: Drone Workshop
       - paper: Welcome Reception (<i>conference venue</i>)
         start: "19:00"
         end: "21:00"
