@@ -3,8 +3,65 @@ days:
     workshopOrConference: Workshop
     room: "Conference Room: TBD"
     program:
-      - paper: Rodin Workshop (TBD)
+      - paper: 12th Rodin User and Developer Workshop
         background: Gainsboro
+      - paper: "Session Chair: <i>TBD</i>"
+        background: "#83a9c6"
+      - paper: Rodin 3.10 and its plug-ins
+        start: "09:00"
+        end: "09:25"
+        author: "Guillaume Verdier, Laurent Voisin and Idir Ait-Sadoune"
+        topic: Rodin Workshop
+      - paper: Constructing an Event-B Model using Promise-Driven Modeling
+        start: "09:25"
+        end: "09:50"
+        author: "Felix Schaber"
+        topic: Rodin Workshop
+      - paper: "Formal Modeling of Environmental Monitoring Systems Using Event-B: Challenges and Opportunities"
+        start: "09:50"
+        end: "10:15"
+        author: "Muhammad Shirjeel Ijaz, Muhammad Ajaz, Haroon Rashid and Illani Binti Mohd Nawi"
+        topic: Rodin Workshop
+      - paper: Interactive Trace Replay for Event-B Models
+        start: "10:15"
+        end: "10:40"
+        author: "Jan Gruteser and Michael Leuschel"
+        topic: Rodin Workshop
+      - paper: Interactive Proving with ProB
+        start: "10:40"
+        end: "11:05"
+        author: "Katharina Engels, Jan Gruteser and Michael Leuschel"
+        topic: Rodin Workshop
+      - paper: Coffee break
+        start: "11:05"
+        end: "11:20"
+        background: "#e89b26"
+      - paper: "Session Chair: <i>TBD</i>"
+        background: "#83a9c6"
+      - paper: Minimal Bad Sequence on Quasi-Orders
+        start: "11:20"
+        end: "11:45"
+        author: "Dominique Cansell"
+        topic: Rodin Workshop
+      - paper: Project Allocation with Event-B and ProB
+        start: "11:45"
+        end: "12:10"
+        author: "Thai Son Hoang, Abdolbaghi Rezazadeh and Michael Butler"
+        topic: Rodin Workshop
+      - paper: "EB[ASTD]: Meta-modelling framework for ASTD"
+        start: "12:10"
+        end: "12:35"
+        author: "Christophe Chen, Peter Rivière, Neeraj Kumar Singh, Guillaume Dupont, Yamine Ait Ameur and Marc Frappier"
+        topic: Rodin Workshop
+      - paper: Extending EB4EB for Parameterised Events
+        start: "12:35"
+        end: "13:00"
+        author: "Peter Rivière, Neeraj Kumar Singh, Guillaume Dupont, Yamine Ait Ameur"
+        topic: Rodin Workshop
+      - paper: Lunch break
+        start: "13:00"
+        end: "14:00"
+        background: "#e89b26"
       - paper: "Tutorial and Workshop: Exploring Formal Methods for Unmanned Aerial Vehicles (TBD)"
         background: Gainsboro
       - paper: Welcome Reception (<i>conference venue</i>)
