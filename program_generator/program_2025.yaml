@@ -115,7 +115,7 @@ days:
     workshopOrConference: Conference
     room: "Conference Room: TBD"
     program:
-      - paper: "Session Chair: <i>TBD</i>"
+      - paper: "Session Chair: <i>Michael Leuschel</i>"
         background: "#83a9c6"
       - paper: "Mathematical Proofs and Moving Trains: The Double Life of Atelier B"
         author: Thierry Lecomte (Invited)
@@ -202,7 +202,7 @@ days:
   - day: June, 12th
     room: "Conference Room: TBD"
     program:
-      - paper: "Session Chair: <i>TBD</i>"
+      - paper: "Session Chair: <i>Michael Leuschel</i>"
         background: "#83a9c6"
       - paper: "The role of abstraction and refinement in safety of intelligent systems"
         author: Michael Butler (Invited)
@@ -239,7 +239,7 @@ days:
         start: "12:00"
         end: "13:30"
         background: "#e89b26"
-      - paper: "Session Chair: <i>TBD</i>"
+      - paper: "Session Chair: <i>Thierry Lecomte</i>"
         background: "#83a9c6"
       - paper: Proof Semantics of Railway Interlocking
         start: "13:30"
@@ -263,7 +263,7 @@ days:
         start: "15:00"
         end: "15:30"
         background: "#e89b26"   
-      - paper: "Session Chair: <i>TBD</i>"
+      - paper: "Session Chair: <i>Guillaume Dupont</i>"
         background: "#83a9c6"
       - paper: "Polychronous RSS in a Process-Algebraic Framework - A Case Study in Autonomous Driving Safety"
         start: "15:30"
@@ -290,7 +290,7 @@ days:
   - day: June, 13th
     room: "Conference Room: TBD"
     program:
-      - paper: "Session Chair: <i>TBD</i>"
+      - paper: "Session Chair: <i>Michael Leuschel</i>"
         background: "#83a9c6"
       - paper: "Neurosymbolic Learning Systems: Artificial Intelligence and Formal Methods"
         author: Nils Jansen (Invited)
