@@ -151,7 +151,7 @@ days:
         start: "12:00"
         end: "13:30"
         background: "#e89b26"
-      - paper: "Session Chair: <i>TBD</i>"
+      - paper: "Session Chair: <i>Silvia Bonfanti</i>"
         background: "#83a9c6"
       - paper: Behavioural Theory of Reflective Parallel Algorithms
         start: "13:30"
