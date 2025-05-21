@@ -127,7 +127,7 @@ days:
         start: "10:00"
         end: "10:30"
         background: "#e89b26"
-      - paper: "Session Chair: <i>TBD</i>"
+      - paper: "Session Chair: <i>Yamine Ait Ameur</i>"
         background: "#83a9c6"
       - paper: Safely Encoding B Proof Obligations in SMT-LIB
         start: "10:30"
