@@ -5,7 +5,7 @@ days:
     program:
       - paper: 12th Rodin User and Developer Workshop
         background: Gainsboro
-      - paper: "Session Chair: <i>TBD</i>"
+      - paper: "Session Chair: <i>Asieh Salehi Fathabadi</i>"
         background: "#83a9c6"
       - paper: Rodin 3.10 and its plug-ins
         start: "09:00"
@@ -64,18 +64,18 @@ days:
         background: "#e89b26"
       - paper: "Tutorial and Workshop: Exploring Formal Methods for Unmanned Aerial Vehicles"
         background: Gainsboro
-      - paper: "Session Chair: <i>TBD</i>"
-        background: "#83a9c6"
       - paper: Introduction
         start: "14:00"
         end: "14:10"
-        author: ""
+        author: Michael Leuschel
         topic: Drone Workshop
       - paper: Tutorial
         start: "14:10"
         end: "14:35"
-        author: ""
+        author: Fabian Vu
         topic: Drone Workshop
+      - paper: "Session Chair: <i>TBD</i>"
+        background: "#83a9c6"
       - paper: Talk 1
         start: "14:35"
         end: "15:00"
