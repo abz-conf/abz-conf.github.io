@@ -74,33 +74,36 @@ days:
         end: "14:35"
         author: Fabian Vu
         topic: Drone Workshop
-      - paper: "Session Chair: <i>TBD</i>"
+      - paper: "Session Chair: <i>Fabian Vu</i>"
         background: "#83a9c6"
-      - paper: Talk 1
+      - paper: Introducing Feasible Safety to Autonomous Firefighting Drone
         start: "14:35"
         end: "15:00"
-        author: ""
+        author: "Thierry Lecomte"
         topic: Drone Workshop
-      - paper: Talk 2
+        abstract: "We are presenting the formalization of the safety function of an autonomous aerial firefighting drone, from its system level RoboSim modelling to its implementation in B on a safety computer. The safety function implies a return to the base in case of power shortage or loss of communication with the base. The presentation provides a bird view on the overall experiment with a focus on the technical analyses and low-level formal modeling."
+      - paper: "Sharper Specs for Smarter Drones: Formalising Requirements with FRET"
         start: "15:00"
         end: "15:25"
-        author: ""
+        author: Marie Farrell
         topic: Drone Workshop
+        abstract: "In this talk I will summarise our recent work on formalising requirements for an autonomous tilt-rotor drone in the ProVANT Emergentia research project. I will describe the process of formalising the natural-language requirements using NASA's Formal Requirements Elicitation Tool (FRET). I will present the progress made in each of the four sequential iterations of the requirements set as new information was elicited and incorporated."
       - paper: Coffee break
         start: "15:25"
         end: "15:55"
         background: "#e89b26"
       - paper: "Session Chair: <i>TBD</i>"
         background: "#83a9c6"
-      - paper: Talk 3
+      - paper: "Designing safe Cyber-Physical System with a proof and refinement based approach"
         start: "15:55"
         end: "16:20"
-        author: ""
+        author: Guillaume Dupont
         topic: Drone Workshop
+        abstract: "This talk presents a comprehensive formal framework for the formal verification and validation of Cyber-Physical Systems (CPS) in Event-B. The idea is to propose a correct-by-construction way of modelling CPS by integrating continuous and communication aspects in Event-B models. Event-B's powerful refinement operation is extended to encompass continuous behaviours and leverage to propose a general methodology for CPS design."
       - paper: Talk 4
         start: "16:20"
         end: "16:45"
-        author: ""
+        author: "Thai Son Hoang"
         topic: Drone Workshop
       - paper: Discussion
         start: "16:45"
