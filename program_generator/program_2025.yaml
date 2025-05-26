@@ -100,7 +100,7 @@ days:
         author: Guillaume Dupont
         topic: Drone Workshop
         abstract: "This talk presents a comprehensive formal framework for the formal verification and validation of Cyber-Physical Systems (CPS) in Event-B. The idea is to propose a correct-by-construction way of modelling CPS by integrating continuous and communication aspects in Event-B models. Event-B's powerful refinement operation is extended to encompass continuous behaviours and leverage to propose a general methodology for CPS design."
-      - paper: Talk 4
+      - paper: Developing a Trustworthy Integrated Mission Management System for Autonomous Vehicles
         start: "16:20"
         end: "16:45"
         author: "Thai Son Hoang"
