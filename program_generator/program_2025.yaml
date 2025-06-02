@@ -178,7 +178,7 @@ days:
         start: "15:00"
         end: "15:30"
         background: "#e89b26"   
-      - paper: "Session Chair: <i>TBD</i>"
+      - paper: "Session Chair: <i>Marie Farrell</i>"
         background: "#83a9c6"
       - paper: "Case Study: Safety Controller for Autonomous Driving on Highways"
         start: "15:30"
