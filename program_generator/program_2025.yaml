@@ -305,7 +305,7 @@ days:
         start: "10:00"
         end: "10:30"
         background: "#e89b26"
-      - paper: "Session Chair: <i>TBD</i>"
+      - paper: "Session Chair: <i>Philipp Körner</i>"
         background: "#83a9c6"
       - paper: The Proved Construction of a Protocol with an Example
         start: "10:30"
@@ -319,8 +319,6 @@ days:
         author: Alexander Onofrei, Marc Frappier and Émilie Bernard
         topic: B
         abstract: "Testing non-deterministic systems is challenging due to un- predictable behaviours arising from timing, concurrency, and random in- puts. This paper explores the application of model-based testing (MBT) to tackle these challenges, leveraging formal methods and tools to en- sure systematic test coverage. We employ ProB, a model checker for the B method, to analyse a formal model of the system under test (SUT) and generate test scenarios from the formal B model. As a proof of con- cept, we apply MBT to the TLS 1.3 protocol, a widely used complex cryptographic standard, and test one of its implementation using the BouncyCastle OpenSSL Java API. While the TLS handshake is primar- ily deterministic, it includes non-deterministic components like cipher selection and random value generation, making it an excellent candidate for evaluating MBT’s effectiveness. We present the design and logic of our proof of concept, showcasing its flexibility to support various mod- els and SUTs. This study demonstrates that combining formal meth- ods, non-deterministic analysis, and state-based testing can effectively address the challenges of non-deterministic systems, enabling improved testing strategies and greater system reliability."
-      - paper: "Session Chair: <i>TBD</i>"
-        background: "#83a9c6"
       - paper: "Weakening Goals in Logical Specifications"
         start: "11:30"
         end: "12:00"
