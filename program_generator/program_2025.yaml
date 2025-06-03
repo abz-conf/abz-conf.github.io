@@ -1,7 +1,6 @@
 days:
   - day: June, 10th
     workshopOrConference: Workshop
-    room: "Conference Room: TBD"
     program:
       - paper: 12th Rodin User and Developer Workshop
         background: Gainsboro
@@ -116,7 +115,6 @@ days:
         background: "#e89b26"
   - day: June, 11th
     workshopOrConference: Conference
-    room: "Conference Room: TBD"
     program:
       - paper: "Session Chair: <i>Michael Leuschel</i>"
         background: "#83a9c6"
@@ -203,7 +201,6 @@ days:
         end: "17:00"
         background: Gainsboro
   - day: June, 12th
-    room: "Conference Room: TBD"
     program:
       - paper: "Session Chair: <i>Michael Leuschel</i>"
         background: "#83a9c6"
@@ -291,7 +288,6 @@ days:
         end: "24:00"
         background: "#e89b26"
   - day: June, 13th
-    room: "Conference Room: TBD"
     program:
       - paper: "Session Chair: <i>Michael Leuschel</i>"
         background: "#83a9c6"
