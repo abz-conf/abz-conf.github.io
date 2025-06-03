@@ -69,7 +69,7 @@ days:
         end: "14:10"
         author: Michael Leuschel
         topic: Drone Workshop
-      - paper: Tutorial
+      - paper: "Tutorial: Real World-Execution of Drones with ProB"
         start: "14:10"
         end: "14:35"
         author: Fabian Vu
