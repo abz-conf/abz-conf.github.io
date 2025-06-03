@@ -25,8 +25,6 @@ Graf-Adolf-Strasse 81-87 <br>
 40215 Düsseldorf <br>
 Germany <br>
 
-[**→ How to get there**](https://www.hdu.hhu.de/en/directions-contact-details)
-
 It is a three minute walk from the central station and thus ideal for everybody arriving by train
 or plane (as are direct S-Bahn train from the airport to the central station taking 14 minutes).
 
