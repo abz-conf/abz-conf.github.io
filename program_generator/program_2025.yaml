@@ -123,7 +123,7 @@ days:
         end: "9:15"
         background: Gainsboro
         topic: "Tribute"
-        abstract: "[Jean-Raymond Abrial] (https://en.wikipedia.org/wiki/Jean-Raymond_Abrial) is the inventor of the B and Z formal methods. He sadly passed away on May 26th 2025. In this tribute we will honor him and his foundational work for computer science in general, and formal methods in particular."
+        abstract: "<a href=\"https://en.wikipedia.org/wiki/Jean-Raymond_Abrial\">Jean-Raymond Abrial</a> is the inventor of the B and Z formal methods. He sadly passed away on May 26th 2025. In this tribute we will honor him and his foundational work for computer science in general, and formal methods in particular."
       - paper: "Mathematical Proofs and Moving Trains: The Double Life of Atelier B"
         author: Thierry Lecomte (Invited)
         start: "09:15"
