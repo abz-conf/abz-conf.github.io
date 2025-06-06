@@ -91,7 +91,7 @@ days:
         start: "15:25"
         end: "15:55"
         background: "#e89b26"
-      - paper: "Session Chair: <i>TBD</i>"
+      - paper: "Session Chair: <i>Michael Leuschel/Fabian Vu</i>"
         background: "#83a9c6"
       - paper: "Designing safe Cyber-Physical System with a proof and refinement based approach"
         start: "15:55"
