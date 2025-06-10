@@ -314,7 +314,7 @@ days:
         end: "11:00"
         author: Dominique Cansell and Jean-Raymond Abrial
         topic: B
-        abstract: The proof assistant Isabelle/HOL is made available inside a flexible system framework allowing for logically safe extensions, which comprise both theories as well as implementations for code-generation, documentation, and specific support for a variety of formal methods. Following the techniques in [23] and the theoretical groundwork in [5], we show the major milestones for the implementation of a B-Tool and the resulting refinement method inside the Isabelle/HOL platform. The pro- totype HOL-B provides IDE support, documentation support, a theory for the Z-Mathematical Toolkit underlying the B-Method, and a gener- ated denotational semantics for the B-Machine concept implemented as specification construct in Isabelle/HOL. Extended by more automated proof machinery geared to refinements, HOL-B can serve as a more portable, flexible and extensible tool for Event-B that may profit from the large Isabelle/HOL libraries providing Algebra and Analysis theories.
+        abstract: "This paper present a complete proved development of a protocol inspired by the Lamport's Paxos protocol. Our protocol is not fault-tolerant. This work was carried out at the end of 2019."
       - paper: Model-Based Testing of Non-Deterministic Systems
         start: "11:00"
         end: "11:30"
