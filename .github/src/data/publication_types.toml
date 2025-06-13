@@ -26,6 +26,6 @@ types = [ "pub_uncat",	      # 0
           "pub_case_study_descr",   # 9
           "pub_case_study_contrib", #10
           "pub_short_paper",  # 11
-          "pub_long_paper"    # 12
-          "pub_invited_talk", # 13
+          "pub_long_paper",    # 12
+          "pub_invited_talk" # 13
         ]
