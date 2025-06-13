@@ -186,7 +186,10 @@
 - id: pub_patent
   translation: Patent
 
-- id: pub_case_study
+- id: pub_case_study_descr
+  translation: Case Study Description
+
+- id: pub_case_study_contrib
   translation: Case Study
 
 - id: pub_short_paper
@@ -194,6 +197,9 @@
 
 - id: pub_long_paper
   translation: Long Paper
+
+- id: pub_invited_talk
+  translation: Invited Talk
 
 # Project details
 
