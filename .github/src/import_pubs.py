@@ -130,6 +130,7 @@ date: {year}-01-01
 #  11 = "pub_short_paper"
 #  12 = "pub_long_paper"
 #  13 = "pub_invited_talk"
+#  14 = "pub_phd_symposium"
 publication_types:
   - 1   # default is 1 (conference), adjust as needed
 

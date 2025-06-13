@@ -201,6 +201,9 @@
 - id: pub_invited_talk
   translation: Invited Talk
 
+- id: pub_phd_symposium
+  translation: Short Paper (PhD Symposium)
+
 # Project details
 
 - id: open_project_site
