@@ -36,7 +36,7 @@ removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issu
 
 summaryLength = 30
 
-paginate = 10
+paginate = 30
 
 enableEmoji = true
 
