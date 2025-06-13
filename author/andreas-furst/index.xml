@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Andreas Fürst | ABZ</title><link>/author/andreas-furst/</link><atom:link href="/author/andreas-furst/index.xml" rel="self" type="application/rss+xml"/><description>Andreas Fürst</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Andreas Fürst</title><link>/author/andreas-furst/</link></image><item><title>Formal System Modelling Using Abstract Data Types in Event-B</title><link>/publication/fursthbsm14/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>/publication/fursthbsm14/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>We present a formal modelling approach using Abstract Data Types (ADTs) for developing large-scale systems in Event-B. The novelty of our approach is the combination of refinement and instantiation techniques to manage the complexity of systems under development. With ADTs, we model system components on an abstract level, specifying only the necessary properties of the components. At the same time, we postpone the introduction of their concrete definitions to later development steps. We evaluate our approach using a largescale case study in train control systems. The results show that our approach helps reduce system details during early development stages and leads to simpler and more automated proofs.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-662-43652-3_20.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-662-43652-3_20.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{FurstHBSM14,
+author = {Andreas F{\&amp;quot;{u}}rst and
+Thai Son Hoang and
+David A. Basin and
+Naoto Sato and
+Kunihiko Miyazaki},
+editor = {Yamine A{\&amp;quot;{\i}}t Ameur and
+Klaus{-}Dieter Schewe},
+title = {Formal System Modelling Using Abstract Data Types in Event-B},
+booktitle = {Abstract State Machines, Alloy, B, TLA, VDM, and {Z} - 4th International
+Conference, {ABZ} 2014, Toulouse, France, June 2-6, 2014. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {8477},
+pages = {222--237},
+publisher = {Springer},
+year = {2014},
+url = {https://doi.org/10.1007/978-3-662-43652-3\_20},
+doi = {10.1007/978-3-662-43652-3\_20},
+timestamp = {Tue, 14 May 2019 10:00:50 +0200},
+biburl = {https://dblp.org/rec/conf/asm/FurstHBSM14.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item></channel></rss>

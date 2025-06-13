@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gidon Ernst | ABZ</title><link>/author/gidon-ernst/</link><atom:link href="/author/gidon-ernst/index.xml" rel="self" type="application/rss+xml"/><description>Gidon Ernst</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Gidon Ernst</title><link>/author/gidon-ernst/</link></image><item><title>A Relational Encoding for a Clash-Free Subset of ASMs</title><link>/publication/schellhornepr16/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>/publication/schellhornepr16/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>This paper defines a static check for clash-freedom of ASM rules, including sequential and parallel composition, nondeterministic choice, and recursion. The check computes a formula that, if provable, makes a relational encoding of ASM rules possible, which is an important prerequisite for efficient deduction. The check is general enough to cover all sequential rules as well as many typical uses of parallel composition.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-319-33600-8_15.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-319-33600-8_15.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{SchellhornEPR16,
+author = {Gerhard Schellhorn and
+Gidon Ernst and
+J{\&amp;quot;{o}}rg Pf{\&amp;quot;{a}}hler and
+Wolfgang Reif},
+editor = {Michael J. Butler and
+Klaus{-}Dieter Schewe and
+Atif Mashkoor and
+Mikl{\'{o}}s Bir{\'{o}}},
+title = {A Relational Encoding for a Clash-Free Subset of ASMs},
+booktitle = {Abstract State Machines, Alloy, B, TLA, VDM, and {Z} - 5th International
+Conference, {ABZ} 2016, Linz, Austria, May 23-27, 2016, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {9675},
+pages = {237--243},
+publisher = {Springer},
+year = {2016},
+url = {https://doi.org/10.1007/978-3-319-33600-8\_15},
+doi = {10.1007/978-3-319-33600-8\_15},
+timestamp = {Tue, 07 May 2024 20:13:31 +0200},
+biburl = {https://dblp.org/rec/conf/asm/SchellhornEPR16.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Development of a Verified Flash File System</title><link>/publication/schellhornephr14/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>/publication/schellhornephr14/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>This paper gives an overview over the development of a formally verified file system for flash memory. We describe our approach that is based on Abstract State Machines and incremental modular refinement. Some of the important intermediate levels and the features they introduce are given. We report on the verification challenges addressed so far, and point to open problems and future work. We furthermore draw preliminary conclusions on the methodology and the required tool support.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-662-43652-3_2.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-662-43652-3_2.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{SchellhornEPHR14,
+author = {Gerhard Schellhorn and
+Gidon Ernst and
+J{\&amp;quot;{o}}rg Pf{\&amp;quot;{a}}hler and
+Dominik Haneberg and
+Wolfgang Reif},
+editor = {Yamine A{\&amp;quot;{\i}}t Ameur and
+Klaus{-}Dieter Schewe},
+title = {Development of a Verified Flash File System},
+booktitle = {Abstract State Machines, Alloy, B, TLA, VDM, and {Z} - 4th International
+Conference, {ABZ} 2014, Toulouse, France, June 2-6, 2014. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {8477},
+pages = {9--24},
+publisher = {Springer},
+year = {2014},
+url = {https://doi.org/10.1007/978-3-662-43652-3\_2},
+doi = {10.1007/978-3-662-43652-3\_2},
+timestamp = {Tue, 07 May 2024 20:13:31 +0200},
+biburl = {https://dblp.org/rec/conf/asm/SchellhornEPHR14.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Modular Refinement for Submachines of ASMs</title><link>/publication/ernstpsr14/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>/publication/ernstpsr14/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>We describe and formalize a compositional, contract-based submachine refinement for a variant of Abstract State Machines. We motivate the approach by models of the Flash file system case study, where it is infeasible to refine a complete machine as a whole.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-662-43652-3_16.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-662-43652-3_16.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{ErnstPSR14,
+author = {Gidon Ernst and
+J{\&amp;quot;{o}}rg Pf{\&amp;quot;{a}}hler and
+Gerhard Schellhorn and
+Wolfgang Reif},
+editor = {Yamine A{\&amp;quot;{\i}}t Ameur and
+Klaus{-}Dieter Schewe},
+title = {Modular Refinement for Submachines of ASMs},
+booktitle = {Abstract State Machines, Alloy, B, TLA, VDM, and {Z} - 4th International
+Conference, {ABZ} 2014, Toulouse, France, June 2-6, 2014. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {8477},
+pages = {188--203},
+publisher = {Springer},
+year = {2014},
+url = {https://doi.org/10.1007/978-3-662-43652-3\_16},
+doi = {10.1007/978-3-662-43652-3\_16},
+timestamp = {Tue, 07 May 2024 20:13:31 +0200},
+biburl = {https://dblp.org/rec/conf/asm/ErnstPSR14.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item></channel></rss>

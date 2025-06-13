@@ -1,1 +1,1754 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ABZ'12 | ABZ</title><link>/tag/abz12/</link><atom:link href="/tag/abz12/index.xml" rel="self" type="application/rss+xml"/><description>ABZ'12</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Tue, 19 Jun 2012 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>ABZ'12</title><link>/tag/abz12/</link></image><item><title>ABZ 2012 (Pisa, Italy)</title><link>/2012/</link><pubDate>Tue, 19 Jun 2012 00:00:00 +0000</pubDate><guid>/2012/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ABZ'12 | ABZ</title><link>/tag/abz12/</link><atom:link href="/tag/abz12/index.xml" rel="self" type="application/rss+xml"/><description>ABZ'12</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Tue, 19 Jun 2012 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>ABZ'12</title><link>/tag/abz12/</link></image><item><title>ABZ 2012 (Pisa, Italy)</title><link>/2012/</link><pubDate>Tue, 19 Jun 2012 00:00:00 +0000</pubDate><guid>/2012/</guid><description/></item><item><title>A Pattern for Modelling Fault Tolerant Systems in Event-B</title><link>/publication/sulskusp12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/sulskusp12/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Formal methods are used for the specification and verification of software and hardware systems. One class of systems interacts with the outside world through sensors and actuators, and may include nondeterminism from hardware faults or environmental inputs, making modelling more complex.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_35.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-30885-7_35.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{SulskusP12,
+author = {Gintautas Sulskus and
+Michael Poppleton},
+editor = {John Derrick and
+John S. Fitzgerald and
+Stefania Gnesi and
+Sarfraz Khurshid and
+Michael Leuschel and
+Steve Reeves and
+Elvinia Riccobene},
+title = {A Pattern for Modelling Fault Tolerant Systems in Event-B},
+booktitle = {Abstract State Machines, Alloy, B, VDM, and {Z} - Third International
+Conference, {ABZ} 2012, Pisa, Italy, June 18-21, 2012. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {7316},
+pages = {373--376},
+publisher = {Springer},
+year = {2012},
+url = {https://doi.org/10.1007/978-3-642-30885-7\_35},
+doi = {10.1007/978-3-642-30885-7\_35},
+timestamp = {Sun, 02 Jun 2019 21:23:59 +0200},
+biburl = {https://dblp.org/rec/conf/asm/SulskusP12.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>A Practical Event-B Refinement Method Based on a UML-Driven Development Process</title><link>/publication/sousass12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/sousass12/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Event-B is a formal method that allows flexible modelling and refinement of systems. However, it is hard to convince developers to adopt it because they are not used to mathematical models and it doesn’t provide any practical refinement method. On the other hand, UML has become the de facto standard for software modelling since it provides an easy graphical notation and nowadays it is supported by many practical process such as ICONIX. In this paper we propose a method for Event-B refinement based on a diffused UML-driven development process. So far, we have defined the steps of the method and the translation of most of the artifacts presented in ICONIX to Event-B.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_31.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-30885-7_31.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{SousaSS12,
+author = {Thiago C. de Sousa and
+Paulo S{\'{e}}rgio Muniz Silva and
+Colin F. Snook},
+editor = {John Derrick and
+John S. Fitzgerald and
+Stefania Gnesi and
+Sarfraz Khurshid and
+Michael Leuschel and
+Steve Reeves and
+Elvinia Riccobene},
+title = {A Practical Event-B Refinement Method Based on a UML-Driven Development
+Process},
+booktitle = {Abstract State Machines, Alloy, B, VDM, and {Z} - Third International
+Conference, {ABZ} 2012, Pisa, Italy, June 18-21, 2012. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {7316},
+pages = {357--360},
+publisher = {Springer},
+year = {2012},
+url = {https://doi.org/10.1007/978-3-642-30885-7\_31},
+doi = {10.1007/978-3-642-30885-7\_31},
+timestamp = {Mon, 03 Jan 2022 22:35:01 +0100},
+biburl = {https://dblp.org/rec/conf/asm/SousaSS12.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>A Reliability Prediction Method for Abstract State Machines</title><link>/publication/mirandolaps12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/mirandolaps12/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>According to the vision of Design for Reliability, software reliability has to be considered in all the activities within the software development life cycle. In particular, writing formal specifications, like other activities in software development, is error-prone, especially for large-scale systems. This paper presents a reliability prediction method for Abstract State Machines specifications. The method considers the internal structure of an ASM by computing its reliability based on the reliabilities calculated inductively along the call tree of the ASM rules and the structure of the rule bodies.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_26.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-30885-7_26.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{MirandolaPS12,
+author = {Raffaela Mirandola and
+Pasqualina Potena and
+Patrizia Scandurra},
+editor = {John Derrick and
+John S. Fitzgerald and
+Stefania Gnesi and
+Sarfraz Khurshid and
+Michael Leuschel and
+Steve Reeves and
+Elvinia Riccobene},
+title = {A Reliability Prediction Method for Abstract State Machines},
+booktitle = {Abstract State Machines, Alloy, B, VDM, and {Z} - Third International
+Conference, {ABZ} 2012, Pisa, Italy, June 18-21, 2012. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {7316},
+pages = {336--340},
+publisher = {Springer},
+year = {2012},
+url = {https://doi.org/10.1007/978-3-642-30885-7\_26},
+doi = {10.1007/978-3-642-30885-7\_26},
+timestamp = {Thu, 14 Oct 2021 10:31:49 +0200},
+biburl = {https://dblp.org/rec/conf/asm/MirandolaPS12.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>A Semantic Analysis of Logics That Cope with Partial Terms</title><link>/publication/jonesls12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/jonesls12/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Specifications of programs frequently involve operators and functions that are not defined over all of their (syntactic) domains. Proofs about specifications –and those to discharge proof obligations that arise in justifying steps of design– must be based on formal rules. Since classical logic deals only with defined values, some extra thought is required. There are several ways of handling terms that can fail to denote a value — this paper provides a semantically based comparison of three of the best known approaches. In addition, some pointers are given to further alternatives.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_18.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-30885-7_18.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{JonesLS12,
+author = {Cliff B. Jones and
+Matthew J. Lovert and
+L. Jason Steggles},
+editor = {John Derrick and
+John S. Fitzgerald and
+Stefania Gnesi and
+Sarfraz Khurshid and
+Michael Leuschel and
+Steve Reeves and
+Elvinia Riccobene},
+title = {A Semantic Analysis of Logics That Cope with Partial Terms},
+booktitle = {Abstract State Machines, Alloy, B, VDM, and {Z} - Third International
+Conference, {ABZ} 2012, Pisa, Italy, June 18-21, 2012. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {7316},
+pages = {252--265},
+publisher = {Springer},
+year = {2012},
+url = {https://doi.org/10.1007/978-3-642-30885-7\_18},
+doi = {10.1007/978-3-642-30885-7\_18},
+timestamp = {Mon, 03 Mar 2025 20:58:01 +0100},
+biburl = {https://dblp.org/rec/conf/asm/JonesLS12.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>A Simplified Parallel ASM Thesis</title><link>/publication/schewew12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/schewew12/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>We present an idea how to simplify Gurevich’s parallel ASM thesis. The key idea is to modify only the bounded exploration postulate from the sequential ASM thesis by allowing also non-ground comprehension terms. The idea arises from comparison with work on ASM foundations of database transformations.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_27.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-30885-7_27.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{ScheweW12,
+author = {Klaus{-}Dieter Schewe and
+Qing Wang},
+editor = {John Derrick and
+John S. Fitzgerald and
+Stefania Gnesi and
+Sarfraz Khurshid and
+Michael Leuschel and
+Steve Reeves and
+Elvinia Riccobene},
+title = {A Simplified Parallel {ASM} Thesis},
+booktitle = {Abstract State Machines, Alloy, B, VDM, and {Z} - Third International
+Conference, {ABZ} 2012, Pisa, Italy, June 18-21, 2012. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {7316},
+pages = {341--344},
+publisher = {Springer},
+year = {2012},
+url = {https://doi.org/10.1007/978-3-642-30885-7\_27},
+doi = {10.1007/978-3-642-30885-7\_27},
+timestamp = {Sun, 02 Oct 2022 15:55:03 +0200},
+biburl = {https://dblp.org/rec/conf/asm/ScheweW12.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>A Tool Chain for the Automatic Generation of Circus Specifications of Simulink Diagrams</title><link>/publication/marriottzc12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/marriottzc12/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Previous work described how to translate Simulink control law diagrams into Circus specifications to facilitate verification by refinement. This is not a trivial task; several tools have been developed to automate parts of the translation. This paper introduces a new tool chain that extends and integrates existing technology to cover the entire translation and cater for a larger set of diagrams. Our contributions include the integration of data types, generic definitions, and extension of the technique to model action and enabled subsystems. The tool chain has been validated using an industrial case study.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_21.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-30885-7_21.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{MarriottZC12,
+author = {Chris Marriott and
+Frank Zeyda and
+Ana Cavalcanti},
+editor = {John Derrick and
+John S. Fitzgerald and
+Stefania Gnesi and
+Sarfraz Khurshid and
+Michael Leuschel and
+Steve Reeves and
+Elvinia Riccobene},
+title = {A Tool Chain for the Automatic Generation of Circus Specifications
+of Simulink Diagrams},
+booktitle = {Abstract State Machines, Alloy, B, VDM, and {Z} - Third International
+Conference, {ABZ} 2012, Pisa, Italy, June 18-21, 2012. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {7316},
+pages = {294--307},
+publisher = {Springer},
+year = {2012},
+url = {https://doi.org/10.1007/978-3-642-30885-7\_21},
+doi = {10.1007/978-3-642-30885-7\_21},
+timestamp = {Mon, 05 Feb 2024 20:35:41 +0100},
+biburl = {https://dblp.org/rec/conf/asm/MarriottZC12.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>A Unified Processor Model for Compiler Verification and Simulation Using ASM</title><link>/publication/lezuok12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/lezuok12/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>For safety critical embedded systems the correctness of the processor, toolchain and compiler is an important issue. Translation validation is one approach for compiler verification. A common semantic framework to represent source and target language is needed and Abstract State Machines (ASMs) are a well suited and established method. In this paper we present a method to show correctness of instruction selection by performing fully automated simulation proofs over symbolic execution traces of state transformations using an automated first-order theorem prover. We applied this approach to an industrial-strength compiler and created the ASM models in such a way that we are able to reuse them to create a cycle-accurate simulator. To achieve fast simulation we compile the ASM models to C++ and present the compilation scheme in this paper. Finally we present our preliminary results which indicate that a unified ASM model is sufficient for proving correct instruction selection and generating efficient cycle-accurate simulators.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_24.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-30885-7_24.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{LezuoK12,
+author = {Roland Lezuo and
+Andreas Krall},
+editor = {John Derrick and
+John S. Fitzgerald and
+Stefania Gnesi and
+Sarfraz Khurshid and
+Michael Leuschel and
+Steve Reeves and
+Elvinia Riccobene},
+title = {A Unified Processor Model for Compiler Verification and Simulation
+Using {ASM}},
+booktitle = {Abstract State Machines, Alloy, B, VDM, and {Z} - Third International
+Conference, {ABZ} 2012, Pisa, Italy, June 18-21, 2012. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {7316},
+pages = {327--330},
+publisher = {Springer},
+year = {2012},
+url = {https://doi.org/10.1007/978-3-642-30885-7\_24},
+doi = {10.1007/978-3-642-30885-7\_24},
+timestamp = {Sun, 02 Jun 2019 21:23:59 +0200},
+biburl = {https://dblp.org/rec/conf/asm/LezuoK12.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Active Attacking Multicast Key Management Protocol Using Alloy</title><link>/publication/wangj12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/wangj12/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>In this paper, we use Alloy Analyzer, a fully automatic checker, to detect vulnerabilities in the multicast key management protocol proposed by Tanaka and Sato, and discover some previously unknown attacks. We model an active intruder in Alloy, and use Alloy Analyzer to test whether the active intruder can successfully attack the protocol. In this analysis, we check four critical properties that should be satisfied by any secure multicast protocol. However, none of these properties are satisfied. The protocol cannot resist the active intruder. Two unknown flaws caused by the active intruder are disclosed, and another two flaws found by CORAL are identified.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_12.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-30885-7_12.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{WangJ12,
+author = {Ting Wang and
+Dongyao Ji},
+editor = {John Derrick and
+John S. Fitzgerald and
+Stefania Gnesi and
+Sarfraz Khurshid and
+Michael Leuschel and
+Steve Reeves and
+Elvinia Riccobene},
+title = {Active Attacking Multicast Key Management Protocol Using Alloy},
+booktitle = {Abstract State Machines, Alloy, B, VDM, and {Z} - Third International
+Conference, {ABZ} 2012, Pisa, Italy, June 18-21, 2012. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {7316},
+pages = {164--177},
+publisher = {Springer},
+year = {2012},
+url = {https://doi.org/10.1007/978-3-642-30885-7\_12},
+doi = {10.1007/978-3-642-30885-7\_12},
+timestamp = {Sun, 02 Jun 2019 21:23:59 +0200},
+biburl = {https://dblp.org/rec/conf/asm/WangJ12.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>An ASM Model of Concurrency in a Web Browser</title><link>/publication/gervasi12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/gervasi12/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>We define an abstract standards-compliant web browser model. The model focuses on those parts of the browser behaviour which are most relevant for the deployment and execution of web applications, such as interaction with a scripting language (here, ECMAScript), cookies, and asynchronous behaviour of the network layer, while hiding other aspects, such as page navigation and presentational issues. We use a multi-agent Abstract State Machine as our formal model, showing how the browser behaviour can be partitioned into a number of distinct components, and specifying precisely their interactions. The specification can also be used as basis to prove consistency properties of common frameworks for web applications.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_6.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-30885-7_6.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{Gervasi12,
+author = {Vincenzo Gervasi},
+editor = {John Derrick and
+John S. Fitzgerald and
+Stefania Gnesi and
+Sarfraz Khurshid and
+Michael Leuschel and
+Steve Reeves and
+Elvinia Riccobene},
+title = {An {ASM} Model of Concurrency in a Web Browser},
+booktitle = {Abstract State Machines, Alloy, B, VDM, and {Z} - Third International
+Conference, {ABZ} 2012, Pisa, Italy, June 18-21, 2012. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {7316},
+pages = {79--93},
+publisher = {Springer},
+year = {2012},
+url = {https://doi.org/10.1007/978-3-642-30885-7\_6},
+doi = {10.1007/978-3-642-30885-7\_6},
+timestamp = {Sun, 25 Oct 2020 23:07:20 +0100},
+biburl = {https://dblp.org/rec/conf/asm/Gervasi12.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>ASM and Controller Synthesis</title><link>/publication/banachzsw12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/banachzsw12/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>While many systems are naturally viewed as the interaction between a controller subsystem and a controlled, or plant subsystem, they are often most easily understood and designed monolithically. A practical implementation needs to separate controller from plant. We study the problem of when a monolithic ASM system can be split into controller and plant subsystems along syntactic lines derived from variables’ natural affiliations. We give restrictions that enable the split to be carried out cleanly, and we give conditions that ensure that the resulting pair of controller and plant subsystems have the same behaviours as the original design. We illustrate the theory with a case study concerning eating with chopsticks. This leads to an extension of controller synthesis for continuous ASM systems, which are briefly covered. The case study is then extended into the continuous sphere.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_4.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-30885-7_4.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{BanachZSW12,
+author = {Richard Banach and
+Huibiao Zhu and
+Wen Su and
+Xiaofeng Wu},
+editor = {John Derrick and
+John S. Fitzgerald and
+Stefania Gnesi and
+Sarfraz Khurshid and
+Michael Leuschel and
+Steve Reeves and
+Elvinia Riccobene},
+title = {{ASM} and Controller Synthesis},
+booktitle = {Abstract State Machines, Alloy, B, VDM, and {Z} - Third International
+Conference, {ABZ} 2012, Pisa, Italy, June 18-21, 2012. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {7316},
+pages = {51--64},
+publisher = {Springer},
+year = {2012},
+url = {https://doi.org/10.1007/978-3-642-30885-7\_4},
+doi = {10.1007/978-3-642-30885-7\_4},
+timestamp = {Mon, 03 Mar 2025 20:58:01 +0100},
+biburl = {https://dblp.org/rec/conf/asm/BanachZSW12.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Combining VDM with Executable Code</title><link>/publication/nielsenll12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/nielsenll12/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Formal methods have been used and successfully applied to a wide range of industrial applications for many years. However formal methods can be difficult to comprehend for outsiders and the link of formal models and external subsystems which are not modelled can be unclear. In this paper we present an approach which allows formal models to be more easily shared with external stakeholders and enables integration with external code. We demonstrate how an existing interpreter for an executable subset of VDM is extended enabling the combination of formal models with executable code. This eases the way in which a formal model can communicate with an external implementation or be used in graphical prototyping. A small case study is used to demonstrate how the approach can be utilized. In this paper the technique is used to combine VDM and Java, but the principles presented can be seen as a general approach for expanding the capabilities of formal modelling tools with interpretation capabilities.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_19.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-30885-7_19.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{NielsenLL12,
+author = {Claus Ballegaard Nielsen and
+Kenneth Lausdahl and
+Peter Gorm Larsen},
+editor = {John Derrick and
+John S. Fitzgerald and
+Stefania Gnesi and
+Sarfraz Khurshid and
+Michael Leuschel and
+Steve Reeves and
+Elvinia Riccobene},
+title = {Combining {VDM} with Executable Code},
+booktitle = {Abstract State Machines, Alloy, B, VDM, and {Z} - Third International
+Conference, {ABZ} 2012, Pisa, Italy, June 18-21, 2012. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {7316},
+pages = {266--279},
+publisher = {Springer},
+year = {2012},
+url = {https://doi.org/10.1007/978-3-642-30885-7\_19},
+doi = {10.1007/978-3-642-30885-7\_19},
+timestamp = {Sun, 02 Jun 2019 21:23:59 +0200},
+biburl = {https://dblp.org/rec/conf/asm/NielsenLL12.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Continuous ASM, and a Pacemaker Sensing Fragment</title><link>/publication/banachzsw12a/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/banachzsw12a/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>The ASM framework is extended to include continuously varying quantities as well as conventional discretely changing ones. This opens the door to the more faithful modeling of many scenarios where digital systems have to interact with the continuously varying physical world. Transitions in the extended framework are thus either moded (for discontinuous changing quantities), or pliant (for smoothly changing quantities). Refinement and retrenchment are defined in the extended context. The framework is used to develop a fragment of a simple system for the sensing problem for cardiac pacemakers, in the context of the pacemaker verification challenge.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_5.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-30885-7_5.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{BanachZSW12a,
+author = {Richard Banach and
+Huibiao Zhu and
+Wen Su and
+Xiaofeng Wu},
+editor = {John Derrick and
+John S. Fitzgerald and
+Stefania Gnesi and
+Sarfraz Khurshid and
+Michael Leuschel and
+Steve Reeves and
+Elvinia Riccobene},
+title = {Continuous ASM, and a Pacemaker Sensing Fragment},
+booktitle = {Abstract State Machines, Alloy, B, VDM, and {Z} - Third International
+Conference, {ABZ} 2012, Pisa, Italy, June 18-21, 2012. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {7316},
+pages = {65--78},
+publisher = {Springer},
+year = {2012},
+url = {https://doi.org/10.1007/978-3-642-30885-7\_5},
+doi = {10.1007/978-3-642-30885-7\_5},
+timestamp = {Mon, 03 Mar 2025 20:58:01 +0100},
+biburl = {https://dblp.org/rec/conf/asm/BanachZSW12a.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Continuous Behaviour in Event-B: A Sketch</title><link>/publication/banachzsw12b/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/banachzsw12b/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Including provision for continuously varying behaviour as well as discrete state change is considered for Event-B. An extension of Event-B is sketched that accommodates continuous events (called pliant events) in between familiar discrete events (called mode events).&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_29.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-30885-7_29.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{BanachZSW12b,
+author = {Richard Banach and
+Huibiao Zhu and
+Wen Su and
+Xiaofeng Wu},
+editor = {John Derrick and
+John S. Fitzgerald and
+Stefania Gnesi and
+Sarfraz Khurshid and
+Michael Leuschel and
+Steve Reeves and
+Elvinia Riccobene},
+title = {Continuous Behaviour in Event-B: {A} Sketch},
+booktitle = {Abstract State Machines, Alloy, B, VDM, and {Z} - Third International
+Conference, {ABZ} 2012, Pisa, Italy, June 18-21, 2012. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {7316},
+pages = {349--352},
+publisher = {Springer},
+year = {2012},
+url = {https://doi.org/10.1007/978-3-642-30885-7\_29},
+doi = {10.1007/978-3-642-30885-7\_29},
+timestamp = {Mon, 03 Mar 2025 20:58:01 +0100},
+biburl = {https://dblp.org/rec/conf/asm/BanachZSW12b.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Contribution to a Rigorous Analysis of Web Application Frameworks</title><link>/publication/borgercg12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/borgercg12/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>We suggest an approach for accurate modeling and analysis of web application frameworks.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_1.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-30885-7_1.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{BorgerCG12,
+author = {Egon B{\&amp;quot;{o}}rger and
+Antonio Cisternino and
+Vincenzo Gervasi},
+editor = {John Derrick and
+John S. Fitzgerald and
+Stefania Gnesi and
+Sarfraz Khurshid and
+Michael Leuschel and
+Steve Reeves and
+Elvinia Riccobene},
+title = {Contribution to a Rigorous Analysis of Web Application Frameworks},
+booktitle = {Abstract State Machines, Alloy, B, VDM, and {Z} - Third International
+Conference, {ABZ} 2012, Pisa, Italy, June 18-21, 2012. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {7316},
+pages = {1--20},
+publisher = {Springer},
+year = {2012},
+url = {https://doi.org/10.1007/978-3-642-30885-7\_1},
+doi = {10.1007/978-3-642-30885-7\_1},
+timestamp = {Sun, 25 Oct 2020 23:07:20 +0100},
+biburl = {https://dblp.org/rec/conf/asm/BorgerCG12.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Discharging Proof Obligations from Atelier B Using Multiple Automated Provers</title><link>/publication/mentremfa12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/mentremfa12/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>We present a method to discharge proof obligations from Atelier B using multiple SMT solvers. It is based on a faithful modeling of B’s set theory into polymorphic first-order logic. We report on two case studies demonstrating a significant improvement in the ratio of obligations that are automatically discharged.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_17.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-30885-7_17.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{MentreMFA12,
+author = {David Mentr{\'{e}} and
+Claude March{\'{e}} and
+Jean{-}Christophe Filli{\^{a}}tre and
+Masashi Asuka},
+editor = {John Derrick and
+John S. Fitzgerald and
+Stefania Gnesi and
+Sarfraz Khurshid and
+Michael Leuschel and
+Steve Reeves and
+Elvinia Riccobene},
+title = {Discharging Proof Obligations from Atelier {B} Using Multiple Automated
+Provers},
+booktitle = {Abstract State Machines, Alloy, B, VDM, and {Z} - Third International
+Conference, {ABZ} 2012, Pisa, Italy, June 18-21, 2012. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {7316},
+pages = {238--251},
+publisher = {Springer},
+year = {2012},
+url = {https://doi.org/10.1007/978-3-642-30885-7\_17},
+doi = {10.1007/978-3-642-30885-7\_17},
+timestamp = {Sun, 02 Jun 2019 21:23:59 +0200},
+biburl = {https://dblp.org/rec/conf/asm/MentreMFA12.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Event-B Code Generation: Type Extension with Theories</title><link>/publication/edmundsbmsl12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/edmundsbmsl12/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>The Event-B method is a formal modelling approach; our interest is the final step, of generating code for concurrent programs, from Event-B. Our Tasking Event-B tool integrates Event-B to facilitate code generation. The theory plug-in allows mathematical extensions to be added to an Event-B development. When working at the implementation level we need to consider how to translate the newly added types and operators into code. In this paper, we augment the theory plug-in, by adding a Translation Rules section to the tool. This enables us to define translation rules that map Event-B formulas to code. We illustrate the approach using a small case study, where we add a theory of arrays, and specify translation rules for generating Ada code.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_33.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-30885-7_33.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{EdmundsBMSL12,
+author = {Andrew Edmunds and
+Michael J. Butler and
+Issam Maamria and
+Renato Silva and
+Chris Lovell},
+editor = {John Derrick and
+John S. Fitzgerald and
+Stefania Gnesi and
+Sarfraz Khurshid and
+Michael Leuschel and
+Steve Reeves and
+Elvinia Riccobene},
+title = {Event-B Code Generation: Type Extension with Theories},
+booktitle = {Abstract State Machines, Alloy, B, VDM, and {Z} - Third International
+Conference, {ABZ} 2012, Pisa, Italy, June 18-21, 2012. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {7316},
+pages = {365--368},
+publisher = {Springer},
+year = {2012},
+url = {https://doi.org/10.1007/978-3-642-30885-7\_33},
+doi = {10.1007/978-3-642-30885-7\_33},
+timestamp = {Sun, 02 Jun 2019 21:23:59 +0200},
+biburl = {https://dblp.org/rec/conf/asm/EdmundsBMSL12.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Extending Alloy with Partial Instances</title><link>/publication/montaghamir12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/montaghamir12/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Kodkod, the backend of Alloy4, incorporates new features for solving models where part of the solution, that is, a partial instance, is already known. Although Kodkod has had this functionality for some time, it is not explicitly available to the modeller through the Alloy language syntax. We propose an extension to the Alloy language to make partial instances explicitly available to the Alloy user. Explicit partial instances are helpful for the Alloy user in a number of capacities, including test-driven development, regression testing, modelling by example, and combined modelling and meta-modelling. The proposed syntax also gives the modeller explicit access to the performance benefits of Kodkod’s partial instance features.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_9.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-30885-7_9.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{MontaghamiR12,
+author = {Vajih Montaghami and
+Derek Rayside},
+editor = {John Derrick and
+John S. Fitzgerald and
+Stefania Gnesi and
+Sarfraz Khurshid and
+Michael Leuschel and
+Steve Reeves and
+Elvinia Riccobene},
+title = {Extending Alloy with Partial Instances},
+booktitle = {Abstract State Machines, Alloy, B, VDM, and {Z} - Third International
+Conference, {ABZ} 2012, Pisa, Italy, June 18-21, 2012. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {7316},
+pages = {122--135},
+publisher = {Springer},
+year = {2012},
+url = {https://doi.org/10.1007/978-3-642-30885-7\_9},
+doi = {10.1007/978-3-642-30885-7\_9},
+timestamp = {Sun, 02 Jun 2019 21:23:59 +0200},
+biburl = {https://dblp.org/rec/conf/asm/MontaghamiR12.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Extending the Test Template Framework to Deal with Axiomatic Descriptions, Quantifiers and Set Comprehensions</title><link>/publication/cristiaf12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/cristiaf12/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>The Test Template Framework (TTF) is a method for model-based testing (MBT) from Z specifications. Although the TTF covers many features of the Z notation, it does not explain how to deal with axiomatic descriptions, quantifiers and set comprehensions. In this paper we extend the TTF so it can process specifications including these features. The techniques presented here may be useful for other MBT methods for the Z notation or for other notations such as Alloy and B, since they use similar mathematical theories.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_20.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-30885-7_20.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{CristiaF12,
+author = {Maximiliano Cristi{\'{a}} and
+Claudia S. Frydman},
+editor = {John Derrick and
+John S. Fitzgerald and
+Stefania Gnesi and
+Sarfraz Khurshid and
+Michael Leuschel and
+Steve Reeves and
+Elvinia Riccobene},
+title = {Extending the Test Template Framework to Deal with Axiomatic Descriptions,
+Quantifiers and Set Comprehensions},
+booktitle = {Abstract State Machines, Alloy, B, VDM, and {Z} - Third International
+Conference, {ABZ} 2012, Pisa, Italy, June 18-21, 2012. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {7316},
+pages = {280--293},
+publisher = {Springer},
+year = {2012},
+url = {https://doi.org/10.1007/978-3-642-30885-7\_20},
+doi = {10.1007/978-3-642-30885-7\_20},
+timestamp = {Thu, 14 Oct 2021 10:31:49 +0200},
+biburl = {https://dblp.org/rec/conf/asm/CristiaF12.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Formal Proofs for the NYCT Line 7 (Flushing) Modernization Project</title><link>/publication/sabatierbrg12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/sabatierbrg12/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>The New York City Transit Authority has included formal proofs at system level as part of the safety assessment for its New York subway Line 7 modernization project, based on the CBTC from Thales Toronto. ClearSy carries out these proofs. In this paper, we describe the expected results and benefits of such proofs. We also discuss the methodology, in particular the importance of obtaining a natural language precursor for proofs. This step is paramount to find the simplest reasons why the design ensures the wanted properties.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_34.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-30885-7_34.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{SabatierBRG12,
+author = {Denis Sabatier and
+Lilian Burdy and
+Antoine Requet and
+J{\'{e}}r{\^{o}}me Gu{\'{e}}ry},
+editor = {John Derrick and
+John S. Fitzgerald and
+Stefania Gnesi and
+Sarfraz Khurshid and
+Michael Leuschel and
+Steve Reeves and
+Elvinia Riccobene},
+title = {Formal Proofs for the {NYCT} Line 7 (Flushing) Modernization Project},
+booktitle = {Abstract State Machines, Alloy, B, VDM, and {Z} - Third International
+Conference, {ABZ} 2012, Pisa, Italy, June 18-21, 2012. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {7316},
+pages = {369--372},
+publisher = {Springer},
+year = {2012},
+url = {https://doi.org/10.1007/978-3-642-30885-7\_34},
+doi = {10.1007/978-3-642-30885-7\_34},
+timestamp = {Sun, 02 Jun 2019 21:23:59 +0200},
+biburl = {https://dblp.org/rec/conf/asm/SabatierBRG12.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Formal Verification of PLC Programs Using the B Method</title><link>/publication/barbosad12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/barbosad12/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>In this paper we propose an approach to verify PLC programs, a common platform to control systems in the industry. Programs written in the languages of the IEC 61131-3 standard are automatically translated to B machines and are then amenable to formal analysis of safety constraints and general structural properties of the application. This approach thus integrates formal methods into existing industrial processes.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_30.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-30885-7_30.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{BarbosaD12,
+author = {Haniel Barbosa and
+David D{\'{e}}harbe},
+editor = {John Derrick and
+John S. Fitzgerald and
+Stefania Gnesi and
+Sarfraz Khurshid and
+Michael Leuschel and
+Steve Reeves and
+Elvinia Riccobene},
+title = {Formal Verification of {PLC} Programs Using the {B} Method},
+booktitle = {Abstract State Machines, Alloy, B, VDM, and {Z} - Third International
+Conference, {ABZ} 2012, Pisa, Italy, June 18-21, 2012. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {7316},
+pages = {353--356},
+publisher = {Springer},
+year = {2012},
+url = {https://doi.org/10.1007/978-3-642-30885-7\_30},
+doi = {10.1007/978-3-642-30885-7\_30},
+timestamp = {Sat, 19 Oct 2019 20:28:13 +0200},
+biburl = {https://dblp.org/rec/conf/asm/BarbosaD12.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Formalizing Hybrid Systems with Event-B</title><link>/publication/abrialsz12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/abrialsz12/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>This paper contains the development of hybrid systems in Event-B and the Rodin Platform. It follows the seminal approach introduced at the turn of the century in Action Systems. Many examples illustrate our approach.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_13.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-30885-7_13.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{AbrialSZ12,
+author = {Jean{-}Raymond Abrial and
+Wen Su and
+Huibiao Zhu},
+editor = {John Derrick and
+John S. Fitzgerald and
+Stefania Gnesi and
+Sarfraz Khurshid and
+Michael Leuschel and
+Steve Reeves and
+Elvinia Riccobene},
+title = {Formalizing Hybrid Systems with Event-B},
+booktitle = {Abstract State Machines, Alloy, B, VDM, and {Z} - Third International
+Conference, {ABZ} 2012, Pisa, Italy, June 18-21, 2012. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {7316},
+pages = {178--193},
+publisher = {Springer},
+year = {2012},
+url = {https://doi.org/10.1007/978-3-642-30885-7\_13},
+doi = {10.1007/978-3-642-30885-7\_13},
+timestamp = {Sun, 02 Jun 2019 21:23:59 +0200},
+biburl = {https://dblp.org/rec/conf/asm/AbrialSZ12.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Integrated Operational Semantics: Small-Step, Big-Step and Multi-step</title><link>/publication/hayesc12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/hayesc12/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Plotkin’s structural operational semantics provides a tried and tested method for defining the semantics of a programming language via sets of rules that define valid transitions between program configurations. Mosses’ modular structural operational semantics (MSOS) recasts the approach by making use of rules consisting of labelled transitions, allowing a more modular approach to defining language semantics. MSOS can be adapted by using “syntactic” labels that allow local variables and aliasing to be defined without augmenting the semantics with environments and locations. The syntactic labels allow both state-based constructs of imperative languages and event-based constructs of process algebras to the specified in an integrated manner. To illustrate the integrated approach we compare its rules with Plotkin’s original rules for both small-step and big-step operational semantics. One issue that arises is that defining concurrency requires the use of a small-step approach to handle interleaving, while defining a specification command requires a big-step approach. The integrated approach can be generalised to use a sequence of (small) steps as a label; we call this a multi-step operational semantics. This approach allows both concurrency and non-atomic specification commands to be defined.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_2.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-30885-7_2.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{HayesC12,
+author = {Ian J. Hayes and
+Robert Colvin},
+editor = {John Derrick and
+John S. Fitzgerald and
+Stefania Gnesi and
+Sarfraz Khurshid and
+Michael Leuschel and
+Steve Reeves and
+Elvinia Riccobene},
+title = {Integrated Operational Semantics: Small-Step, Big-Step and Multi-step},
+booktitle = {Abstract State Machines, Alloy, B, VDM, and {Z} - Third International
+Conference, {ABZ} 2012, Pisa, Italy, June 18-21, 2012. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {7316},
+pages = {21--35},
+publisher = {Springer},
+year = {2012},
+url = {https://doi.org/10.1007/978-3-642-30885-7\_2},
+doi = {10.1007/978-3-642-30885-7\_2},
+timestamp = {Sun, 02 Jun 2019 21:23:59 +0200},
+biburl = {https://dblp.org/rec/conf/asm/HayesC12.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Learn and Test for Event-B - A Rodin Plugin</title><link>/publication/dincaims12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/dincaims12/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>The Event-B method is a formal approach for reliable systems specification and verification, being supported by the Rodin platform, which includes mature plugins for theorem-proving, model-checking, or model (de)composition features. In order to complement these techniques with test generation and state model inference from Event-B models, we developed a new feature as a Rodin plugin. Our plugin implements a model-learning approach to iteratively construct an approximate automaton model together with an associated test suite. Test suite optimization is further applied according to different optimization criteria.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_32.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-30885-7_32.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{DincaIMS12,
+author = {Ionut Dinca and
+Florentin Ipate and
+Laurentiu Mierla and
+Alin Stefanescu},
+editor = {John Derrick and
+John S. Fitzgerald and
+Stefania Gnesi and
+Sarfraz Khurshid and
+Michael Leuschel and
+Steve Reeves and
+Elvinia Riccobene},
+title = {Learn and Test for Event-B - {A} Rodin Plugin},
+booktitle = {Abstract State Machines, Alloy, B, VDM, and {Z} - Third International
+Conference, {ABZ} 2012, Pisa, Italy, June 18-21, 2012. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {7316},
+pages = {361--364},
+publisher = {Springer},
+year = {2012},
+url = {https://doi.org/10.1007/978-3-642-30885-7\_32},
+doi = {10.1007/978-3-642-30885-7\_32},
+timestamp = {Sun, 02 Jun 2019 21:23:59 +0200},
+biburl = {https://dblp.org/rec/conf/asm/DincaIMS12.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Modeling Synchronization/Communication Patterns in Vision-Based Robot Control Applications Using ASMs</title><link>/publication/luzzanarrs12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/luzzanarrs12/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>This paper proposes the use of the Abstract State Machine method for a rigorous foundation in modeling and validating Vision-Based Robot Control applications. We show how to tailor control tasks definitions and associated synchronization/communication patterns in rigorous and abstract terms by using control state ASMs and an extension of the classical flowchart notation to allow the definition/instantiation of recurring design solutions and to improve model traceability.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_25.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-30885-7_25.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{LuzzanaRRS12,
+author = {Andrea Luzzana and
+Mattia Rossetti and
+Paolo Righettini and
+Patrizia Scandurra},
+editor = {John Derrick and
+John S. Fitzgerald and
+Stefania Gnesi and
+Sarfraz Khurshid and
+Michael Leuschel and
+Steve Reeves and
+Elvinia Riccobene},
+title = {Modeling Synchronization/Communication Patterns in Vision-Based Robot
+Control Applications Using ASMs},
+booktitle = {Abstract State Machines, Alloy, B, VDM, and {Z} - Third International
+Conference, {ABZ} 2012, Pisa, Italy, June 18-21, 2012. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {7316},
+pages = {331--335},
+publisher = {Springer},
+year = {2012},
+url = {https://doi.org/10.1007/978-3-642-30885-7\_25},
+doi = {10.1007/978-3-642-30885-7\_25},
+timestamp = {Sat, 09 Apr 2022 12:45:50 +0200},
+biburl = {https://dblp.org/rec/conf/asm/LuzzanaRRS12.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Modeling the Supervisory Control Theory with Alloy</title><link>/publication/fraikinfs12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/fraikinfs12/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Scientific literature reveals that symbolic representation techniques behind some formal methods are attractive to synthesize parts or verify properties of large discrete event systems. They involve, however, complex encoding schemata and fine tuning heuristic parameters in order to translate specific problems into efficient BDD or SAT-based representations. This approach may be too costly when the main goal is to explore a theory, understand by simulation its underlying concepts and computation procedures, and conduct experiments by applying them to small problems. Based on previous work with Alloy on the synthesis of observers and nonblocking supervisors of a system organized hierarchically with a flat state space estimated to 1031 states, this paper investigates more deeply issues raised with its use in the modeling and prototyping of the supervisory control theory, including the application of models to practical problems. This study was conducted in a broader context than just hierarchical control since it embraces various variants of this theory.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_7.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-30885-7_7.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{FraikinFS12,
+author = {Beno{\^{\i}}t Fraikin and
+Marc Frappier and
+Richard St{-}Denis},
+editor = {John Derrick and
+John S. Fitzgerald and
+Stefania Gnesi and
+Sarfraz Khurshid and
+Michael Leuschel and
+Steve Reeves and
+Elvinia Riccobene},
+title = {Modeling the Supervisory Control Theory with Alloy},
+booktitle = {Abstract State Machines, Alloy, B, VDM, and {Z} - Third International
+Conference, {ABZ} 2012, Pisa, Italy, June 18-21, 2012. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {7316},
+pages = {94--107},
+publisher = {Springer},
+year = {2012},
+url = {https://doi.org/10.1007/978-3-642-30885-7\_7},
+doi = {10.1007/978-3-642-30885-7\_7},
+timestamp = {Sun, 02 Oct 2022 15:55:03 +0200},
+biburl = {https://dblp.org/rec/conf/asm/FraikinFS12.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Preventing Arithmetic Overflows in Alloy</title><link>/publication/milicevicj12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/milicevicj12/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>In a bounded analysis, arithmetic operators become partial, and a different semantics becomes necessary. One approach, mimicking programming languages, is for overflow to result in wrap-around. Although easy to implement, wrap-around produces unexpected counterexamples that do not correspond to cases that would arise in the unbounded setting. This paper describes a new approach, implemented in the latest version of the Alloy Analyzer, in which instances that would involve overflow are suppressed, and consequently, spurious counterexamples are eliminated. The key idea is to interpret quantifiers so that bound variables range only over values that do not cause overflow.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_8.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-30885-7_8.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{MilicevicJ12,
+author = {Aleksandar Milicevic and
+Daniel Jackson},
+editor = {John Derrick and
+John S. Fitzgerald and
+Stefania Gnesi and
+Sarfraz Khurshid and
+Michael Leuschel and
+Steve Reeves and
+Elvinia Riccobene},
+title = {Preventing Arithmetic Overflows in Alloy},
+booktitle = {Abstract State Machines, Alloy, B, VDM, and {Z} - Third International
+Conference, {ABZ} 2012, Pisa, Italy, June 18-21, 2012. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {7316},
+pages = {108--121},
+publisher = {Springer},
+year = {2012},
+url = {https://doi.org/10.1007/978-3-642-30885-7\_8},
+doi = {10.1007/978-3-642-30885-7\_8},
+timestamp = {Sun, 02 Jun 2019 21:23:59 +0200},
+biburl = {https://dblp.org/rec/conf/asm/MilicevicJ12.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Refactoring Abstract State Machine Models</title><link>/publication/shahirfg12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/shahirfg12/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>The Abstract State Machine (ASM) method proposes the concept of ground models for analyzing a target system based on pseudo-code-like descriptions for reasoning about system properties in terms of state machine runs over abstract data structures. This highly iterative process builds on stepwise refinement of ground models that evolve with progressing understanding of functional system requirements. Usually, as complexity increases, reorganization of a model’s internal structure helps enhance its flexibility and robustness. While this approach is common practice, the underlying principles are usually left implicit. In this paper, we propose refactoring patterns to restructure abstract machine models with the goal of improving their intelligibility and maintainability.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_28.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-30885-7_28.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{ShahirFG12,
+author = {Hamed Yaghoubi Shahir and
+Roozbeh Farahbod and
+Uwe Gl{\&amp;quot;{a}}sser},
+editor = {John Derrick and
+John S. Fitzgerald and
+Stefania Gnesi and
+Sarfraz Khurshid and
+Michael Leuschel and
+Steve Reeves and
+Elvinia Riccobene},
+title = {Refactoring Abstract State Machine Models},
+booktitle = {Abstract State Machines, Alloy, B, VDM, and {Z} - Third International
+Conference, {ABZ} 2012, Pisa, Italy, June 18-21, 2012. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {7316},
+pages = {345--348},
+publisher = {Springer},
+year = {2012},
+url = {https://doi.org/10.1007/978-3-642-30885-7\_28},
+doi = {10.1007/978-3-642-30885-7\_28},
+timestamp = {Sun, 02 Jun 2019 21:23:59 +0200},
+biburl = {https://dblp.org/rec/conf/asm/ShahirFG12.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Refinement by Interface Instantiation</title><link>/publication/hallerstedeh12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/hallerstedeh12/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Decomposition is a technique to separate the design of a complex system into smaller sub-models, which improves scalability and team development. In the shared-variable decomposition approach for Event-B sub-models share external variables and communicate through external events which cannot be easily refined. Our first contribution hence is a proposal for a new construct called interface that encapsulates the external variables, along with a mechanism for interface instantiation. Using the new construct and mechanism, external variables can be refined consistently. Our second contribution is an approach for verifying the correctness of Event-B extensions using the supporting Rodin tool. We illustrate our approach by proving the correctness of interface instantiation.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_16.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-30885-7_16.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{HallerstedeH12,
+author = {Stefan Hallerstede and
+Thai Son Hoang},
+editor = {John Derrick and
+John S. Fitzgerald and
+Stefania Gnesi and
+Sarfraz Khurshid and
+Michael Leuschel and
+Steve Reeves and
+Elvinia Riccobene},
+title = {Refinement by Interface Instantiation},
+booktitle = {Abstract State Machines, Alloy, B, VDM, and {Z} - Third International
+Conference, {ABZ} 2012, Pisa, Italy, June 18-21, 2012. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {7316},
+pages = {223--237},
+publisher = {Springer},
+year = {2012},
+url = {https://doi.org/10.1007/978-3-642-30885-7\_16},
+doi = {10.1007/978-3-642-30885-7\_16},
+timestamp = {Sun, 02 Jun 2019 21:23:59 +0200},
+biburl = {https://dblp.org/rec/conf/asm/HallerstedeH12.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Refinement Plans for Informed Formal Design</title><link>/publication/grovil12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/grovil12/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Refinement is a powerful technique for tackling the complexities that arise when formally modelling systems. Here we focus on a posit-and-prove style of refinement, and specifically where a user requires guidance in order to overcome a failed refinement step. We take an integrated approach – combining the complementary strengths of top-down planning and bottom-up theory formation. In this paper we focus mainly on the planning perspective. Specifically, we propose a new technique called refinement plans which combines both modelling and reasoning perspectives. When a refinement step fails, refinement plans provide a basis for automatically generating modelling guidance by abstracting away from the details of low-level proof failures. The refinement plans described here are currently being implemented for the Event-B modelling formalism, and have been assessed on paper using case studies drawn from the literature. Longer-term, our aim is to identify refinement plans that are applicable to a range of modelling formalisms.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_15.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-30885-7_15.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{GrovIL12,
+author = {Gudmund Grov and
+Andrew Ireland and
+Maria Teresa Llano},
+editor = {John Derrick and
+John S. Fitzgerald and
+Stefania Gnesi and
+Sarfraz Khurshid and
+Michael Leuschel and
+Steve Reeves and
+Elvinia Riccobene},
+title = {Refinement Plans for Informed Formal Design},
+booktitle = {Abstract State Machines, Alloy, B, VDM, and {Z} - Third International
+Conference, {ABZ} 2012, Pisa, Italy, June 18-21, 2012. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {7316},
+pages = {208--222},
+publisher = {Springer},
+year = {2012},
+url = {https://doi.org/10.1007/978-3-642-30885-7\_15},
+doi = {10.1007/978-3-642-30885-7\_15},
+timestamp = {Sun, 02 Jun 2019 21:23:59 +0200},
+biburl = {https://dblp.org/rec/conf/asm/GrovIL12.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>SMT Solvers for Rodin</title><link>/publication/deharbefgv12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/deharbefgv12/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Formal development in Event-B generally requires the validation of a large number of proof obligations. Some automatic tools exist to automatically discharge a significant part of them, thus augmenting the efficiency of the formal development. We here investigate the use of SMT (Satisfiability Modulo Theories) solvers in addition to the traditional tools, and detail the techniques used for the cooperation between the Rodin platform and SMT solvers. Our contribution is the definition of two approaches to use SMT solvers, their implementation in a Rodin plug-in, and an experimental evaluation on a large sample of industrial and academic projects. Adding SMT solvers to Atelier B provers reduces to one fourth the number of sequents that need to be proved interactively.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_14.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-30885-7_14.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{DeharbeFGV12,
+author = {David D{\'{e}}harbe and
+Pascal Fontaine and
+Yoann Guyot and
+Laurent Voisin},
+editor = {John Derrick and
+John S. Fitzgerald and
+Stefania Gnesi and
+Sarfraz Khurshid and
+Michael Leuschel and
+Steve Reeves and
+Elvinia Riccobene},
+title = {{SMT} Solvers for Rodin},
+booktitle = {Abstract State Machines, Alloy, B, VDM, and {Z} - Third International
+Conference, {ABZ} 2012, Pisa, Italy, June 18-21, 2012. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {7316},
+pages = {194--207},
+publisher = {Springer},
+year = {2012},
+url = {https://doi.org/10.1007/978-3-642-30885-7\_14},
+doi = {10.1007/978-3-642-30885-7\_14},
+timestamp = {Sun, 02 Jun 2019 21:23:59 +0200},
+biburl = {https://dblp.org/rec/conf/asm/DeharbeFGV12.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Temporal Logic Model Checking in Alloy</title><link>/publication/vakilid12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/vakilid12/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>The declarative and relational aspects of Alloy make it a desirable language to use for high-level modeling of transition systems. However, currently, these models must be translated to another tool to carry out full temporal logic model checking. In this article, we show how a symbolic representation of the semantics of computational tree logic with fairness constraints (CTLFC) can be written in first-order logic with the transitive closure operator, and therefore described in Alloy. Using this encoding, the question of whether a declarative model of a transition system satisfies a temporal logic formula can be solved using the Alloy Analyzer directly. Also, since a declarative description of a model may actually represent a family of transition systems, we define two distinct model checking questions on this family (existential and universal model checking) and show how these properties can be evaluated in the Alloy Analyzer.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_11.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-30885-7_11.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{VakiliD12,
+author = {Amirhossein Vakili and
+Nancy A. Day},
+editor = {John Derrick and
+John S. Fitzgerald and
+Stefania Gnesi and
+Sarfraz Khurshid and
+Michael Leuschel and
+Steve Reeves and
+Elvinia Riccobene},
+title = {Temporal Logic Model Checking in Alloy},
+booktitle = {Abstract State Machines, Alloy, B, VDM, and {Z} - Third International
+Conference, {ABZ} 2012, Pisa, Italy, June 18-21, 2012. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {7316},
+pages = {150--163},
+publisher = {Springer},
+year = {2012},
+url = {https://doi.org/10.1007/978-3-642-30885-7\_11},
+doi = {10.1007/978-3-642-30885-7\_11},
+timestamp = {Sun, 02 Jun 2019 21:23:59 +0200},
+biburl = {https://dblp.org/rec/conf/asm/VakiliD12.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Test Generation for Sequential Nets of Abstract State Machines</title><link>/publication/arcainibg12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/arcainibg12/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Test generation techniques based on model checking suffer from the state space explosion problem. However, for a family of systems that can be easily decomposed in sub-systems, we devise a technique to cope with this problem. To model such systems, we introduce the notion of sequential net of Abstract State Machines (ASMs), which represents a system constituted by a set of ASMs such that only one ASM is active at every time. Given a net of ASMs, we first generate a test suite for every ASM in the net, then we combine the tests in order to obtain a test suite for the entire system. We prove that, under some assumptions, the technique preserves coverage of the entire system. We test our approach on a benchmark and we report a web application example for which we are able to generate complete test suites.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_3.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-30885-7_3.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{ArcainiBG12,
+author = {Paolo Arcaini and
+Francesco Bolis and
+Angelo Gargantini},
+editor = {John Derrick and
+John S. Fitzgerald and
+Stefania Gnesi and
+Sarfraz Khurshid and
+Michael Leuschel and
+Steve Reeves and
+Elvinia Riccobene},
+title = {Test Generation for Sequential Nets of Abstract State Machines},
+booktitle = {Abstract State Machines, Alloy, B, VDM, and {Z} - Third International
+Conference, {ABZ} 2012, Pisa, Italy, June 18-21, 2012. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {7316},
+pages = {36--50},
+publisher = {Springer},
+year = {2012},
+url = {https://doi.org/10.1007/978-3-642-30885-7\_3},
+doi = {10.1007/978-3-642-30885-7\_3},
+timestamp = {Sun, 02 Jun 2019 21:23:59 +0200},
+biburl = {https://dblp.org/rec/conf/asm/ArcainiBG12.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Toward a More Complete Alloy</title><link>/publication/nelsondfk12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/nelsondfk12/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Many model-finding tools, such as Alloy, charge users with providing bounds on the sizes of models. It would be preferable to automatically compute sufficient upper-bounds whenever possible. The Bernays-Schönfinkel-Ramsey fragment of first-order logic can relieve users of this burden in some cases: its sentences are satisfiable iff they are satisfied in a finite model, whose size is computable from the input problem. Researchers have observed, however, that the class of sentences for which such a theorem holds is richer in a many-sorted framework—which Alloy inhabits—than in the one-sorted case. This paper studies this phenomenon in the general setting of order-sorted logic supporting overloading and empty sorts. We establish a syntactic condition generalizing the Bernays-Schönfinkel-Ramsey form that ensures the Finite Model Property. We give a linear-time algorithm for deciding this condition and a polynomial-time algorithm for computing the bound on model sizes. As a consequence, model-finding is a complete decision procedure for sentences in this class. Our work has been incorporated into Margrave, a tool for policy analysis, and applies in real-world situations.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_10.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-30885-7_10.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{NelsonDFK12,
+author = {Timothy Nelson and
+Daniel J. Dougherty and
+Kathi Fisler and
+Shriram Krishnamurthi},
+editor = {John Derrick and
+John S. Fitzgerald and
+Stefania Gnesi and
+Sarfraz Khurshid and
+Michael Leuschel and
+Steve Reeves and
+Elvinia Riccobene},
+title = {Toward a More Complete Alloy},
+booktitle = {Abstract State Machines, Alloy, B, VDM, and {Z} - Third International
+Conference, {ABZ} 2012, Pisa, Italy, June 18-21, 2012. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {7316},
+pages = {136--149},
+publisher = {Springer},
+year = {2012},
+url = {https://doi.org/10.1007/978-3-642-30885-7\_10},
+doi = {10.1007/978-3-642-30885-7\_10},
+timestamp = {Mon, 26 Jun 2023 20:48:45 +0200},
+biburl = {https://dblp.org/rec/conf/asm/NelsonDFK12.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Using the Arbitrator Pattern for Dynamic Process-Instance Extension in a Work-Flow Management System</title><link>/publication/elstermannsf12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/elstermannsf12/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>This paper presents the idea of using the Arbitrator Pattern, a concept from the field of robotics, and applying it to the domain of business process model interpretation, using it as a mechanism to allow dynamic adaption and extension of process instances at runtime. The idea is discussed and a formal specification is given using ASMs to detail the concept that was derived in the process of exploring the problem so far. Furthermore the non-trivial questions and issues are raised that will need to be addressed for this just started work-inprogress to advance.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_23.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-30885-7_23.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{ElstermannSF12,
+author = {Matthes Elstermann and
+Detlef Seese and
+Albert Fleischmann},
+editor = {John Derrick and
+John S. Fitzgerald and
+Stefania Gnesi and
+Sarfraz Khurshid and
+Michael Leuschel and
+Steve Reeves and
+Elvinia Riccobene},
+title = {Using the Arbitrator Pattern for Dynamic Process-Instance Extension
+in a Work-Flow Management System},
+booktitle = {Abstract State Machines, Alloy, B, VDM, and {Z} - Third International
+Conference, {ABZ} 2012, Pisa, Italy, June 18-21, 2012. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {7316},
+pages = {323--326},
+publisher = {Springer},
+year = {2012},
+url = {https://doi.org/10.1007/978-3-642-30885-7\_23},
+doi = {10.1007/978-3-642-30885-7\_23},
+timestamp = {Mon, 03 Mar 2025 20:58:01 +0100},
+biburl = {https://dblp.org/rec/conf/asm/ElstermannSF12.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Verification of Hardware Interaction Properties of Software</title><link>/publication/taylor12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/taylor12/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Many high-integrity software development processes prevent any assumptions about the system hardware, but this makes it impossible to use these techniques on software that must interact with the hardware, such as device drivers. This work takes the opposite approach: if the analyst accepts that the analysis will only be valid for a particular target system then the specification of the system can be used to infer the behaviour of the software that interacts with it. An analysis process is developed that operates on disassembled executable files and formal specifications of the target platform to produce CSP-OZ formal models of the software’s behaviour. This analysis process is implemented in a prototype called Spurinna. This is demonstrated in conjunction with the verification tools Z2SAL and the SAL suite to demonstrate the verification of properties of an example program.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_22.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-30885-7_22.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{Taylor12,
+author = {Ramsay Taylor},
+editor = {John Derrick and
+John S. Fitzgerald and
+Stefania Gnesi and
+Sarfraz Khurshid and
+Michael Leuschel and
+Steve Reeves and
+Elvinia Riccobene},
+title = {Verification of Hardware Interaction Properties of Software},
+booktitle = {Abstract State Machines, Alloy, B, VDM, and {Z} - Third International
+Conference, {ABZ} 2012, Pisa, Italy, June 18-21, 2012. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {7316},
+pages = {308--322},
+publisher = {Springer},
+year = {2012},
+url = {https://doi.org/10.1007/978-3-642-30885-7\_22},
+doi = {10.1007/978-3-642-30885-7\_22},
+timestamp = {Sun, 02 Jun 2019 21:23:59 +0200},
+biburl = {https://dblp.org/rec/conf/asm/Taylor12.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item></channel></rss>

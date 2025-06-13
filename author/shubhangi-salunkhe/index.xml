@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Shubhangi Salunkhe | ABZ</title><link>/author/shubhangi-salunkhe/</link><atom:link href="/author/shubhangi-salunkhe/index.xml" rel="self" type="application/rss+xml"/><description>Shubhangi Salunkhe</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Shubhangi Salunkhe</title><link>/author/shubhangi-salunkhe/</link></image><item><title>Automatic Transformation of SysML Model to Event-B Model for Railway CCS Application</title><link>/publication/salunkhebr21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>/publication/salunkhebr21/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Digitalisation and innovation among the railway systems entail effort-demanding challenges, especially when considering how crucial it is to verify safety requirements and proof security levels. The early Verification and Validation (V&amp;amp;V) of railway systems detect critical issues and avoid severe consequences due to software failure. This paper aims to distinguish the subset of SysML language, which can be verified and usable by a systems engineer. As we are interested in proving safety properties expressed using invariants on states, we consider the Event-B method for this purpose. Later the selected SysML subset is used for automatic transformation and finally performing the verification using a formal verification tool. The transformation is applied on a simple point machine case study from DB Netz AG; First, a SysML model is designed using the Windchill modeler, then automatically transformed to Event-B and finally imported into the RODIN platform for formal verification.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-77543-8_14.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-77543-8_14.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{SalunkheBR21,
+author = {Shubhangi Salunkhe and
+Randolf Berglehner and
+Abdul Rasheeq},
+editor = {Alexander Raschke and
+Dominique M{\'{e}}ry},
+title = {Automatic Transformation of SysML Model to Event-B Model for Railway
+{CCS} Application},
+booktitle = {Rigorous State-Based Methods - 8th International Conference, {ABZ}
+2021, Ulm, Germany, June 9-11, 2021, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {12709},
+pages = {143--149},
+publisher = {Springer},
+year = {2021},
+url = {https://doi.org/10.1007/978-3-030-77543-8\_14},
+doi = {10.1007/978-3-030-77543-8\_14},
+timestamp = {Tue, 15 Jun 2021 17:24:03 +0200},
+biburl = {https://dblp.org/rec/conf/asm/SalunkheBR21.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item></channel></rss>

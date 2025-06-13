@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Loredana Tec | ABZ</title><link>/author/loredana-tec/</link><atom:link href="/author/loredana-tec/index.xml" rel="self" type="application/rss+xml"/><description>Loredana Tec</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Loredana Tec</title><link>/author/loredana-tec/</link></image><item><title>Capturing Membrane Computing by ASMs</title><link>/publication/schewetw18/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>/publication/schewetw18/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Natural computing is a field of research that tries to imitate the ways of “computing” in nature. Membrane computing is a branch of natural computing that exploits hierarchically nested membrane structures that are associated with multisets of objects. The key notion is the P-system, which describes the transitions by rules for the creation, elimination and wandering of objects through membranes as well as manipulation of the membrane structure as such. In this short paper we sketch how P-systems can be captured by parallel ASMs. We further give a glimpse of further generalisations in several directions.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-319-91271-4_27.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-319-91271-4_27.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{ScheweTW18,
+author = {Klaus{-}Dieter Schewe and
+Loredana Tec and
+Qing Wang},
+editor = {Michael J. Butler and
+Alexander Raschke and
+Thai Son Hoang and
+Klaus Reichl},
+title = {Capturing Membrane Computing by ASMs},
+booktitle = {Abstract State Machines, Alloy, B, TLA, VDM, and {Z} - 6th International
+Conference, {ABZ} 2018, Southampton, UK, June 5-8, 2018, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {10817},
+pages = {380--385},
+publisher = {Springer},
+year = {2018},
+url = {https://doi.org/10.1007/978-3-319-91271-4\_27},
+doi = {10.1007/978-3-319-91271-4\_27},
+timestamp = {Sun, 02 Oct 2022 15:55:03 +0200},
+biburl = {https://dblp.org/rec/conf/asm/ScheweTW18.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Distributed Adaptive Systems - Theory, Specification, Reasoning</title><link>/publication/scheweftw18/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>/publication/scheweftw18/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>A distributed system can be characterised by autonomously acting agents, where each agent executes its own program, uses shared resources and communicates with the others, but otherwise is totally oblivious to the behaviour of the other agents. In a distributed adaptive system agents may change their programs, and enter or leave the collection at any time thereby changing the behaviour of the overall system. This article first develops a language-independent axiomatic definition of distributed adaptive systems and then presents concurrent reflective Abstract State Machines (crASMs), an abstract machine model for their specification. It can be proven that any distributed adaptive system as stipulated by the axiomatisation can be step-by-step simulated by a crASM. Proofs about crASMs can be grounded in a multiple-step logic, which extends known complete one-step logics for deterministic and non-deterministic ASMs.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-319-91271-4_2.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-319-91271-4_2.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{ScheweFTW18,
+author = {Klaus{-}Dieter Schewe and
+Flavio Ferrarotti and
+Loredana Tec and
+Qing Wang},
+editor = {Michael J. Butler and
+Alexander Raschke and
+Thai Son Hoang and
+Klaus Reichl},
+title = {Distributed Adaptive Systems - Theory, Specification, Reasoning},
+booktitle = {Abstract State Machines, Alloy, B, TLA, VDM, and {Z} - 6th International
+Conference, {ABZ} 2018, Southampton, UK, June 5-8, 2018, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {10817},
+pages = {16--30},
+publisher = {Springer},
+year = {2018},
+url = {https://doi.org/10.1007/978-3-319-91271-4\_2},
+doi = {10.1007/978-3-319-91271-4\_2},
+timestamp = {Sun, 02 Oct 2022 15:55:03 +0200},
+biburl = {https://dblp.org/rec/conf/asm/ScheweFTW18.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Towards an ASM Thesis for Reflective Sequential Algorithms</title><link>/publication/ferrarottitt16/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>/publication/ferrarottitt16/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Starting from Gurevich’s thesis for sequential algorithms (the so-called “sequential ASM thesis”), we propose a characterization of the behaviour of sequential algorithms enriched with reflection. That is, we present a set of postulates which we conjecture capture the fundamental properties of reflective sequential algorithms (RSAs). Then we look at the plausibility of an ASM thesis for the class of RSAs, defining a model of abstract state machine (which we call reflective ASM) that we conjecture captures the class of RSAs as defined by our postulates.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-319-33600-8_16.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-319-33600-8_16.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{FerrarottiTT16,
+author = {Flavio Ferrarotti and
+Loredana Tec and
+Jos{\'{e}} Maria Turull Torres},
+editor = {Michael J. Butler and
+Klaus{-}Dieter Schewe and
+Atif Mashkoor and
+Mikl{\'{o}}s Bir{\'{o}}},
+title = {Towards an {ASM} Thesis for Reflective Sequential Algorithms},
+booktitle = {Abstract State Machines, Alloy, B, TLA, VDM, and {Z} - 5th International
+Conference, {ABZ} 2016, Linz, Austria, May 23-27, 2016, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {9675},
+pages = {244--249},
+publisher = {Springer},
+year = {2016},
+url = {https://doi.org/10.1007/978-3-319-33600-8\_16},
+doi = {10.1007/978-3-319-33600-8\_16},
+timestamp = {Tue, 14 May 2019 10:00:50 +0200},
+biburl = {https://dblp.org/rec/conf/asm/FerrarottiTT16.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item></channel></rss>

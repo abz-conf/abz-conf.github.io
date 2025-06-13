@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>David Schneider 0001 | ABZ</title><link>/author/david-schneider-0001/</link><atom:link href="/author/david-schneider-0001/index.xml" rel="self" type="application/rss+xml"/><description>David Schneider 0001</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>David Schneider 0001</title><link>/author/david-schneider-0001/</link></image><item><title>Using B and ProB for Data Validation Projects</title><link>/publication/hansensl16/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>/publication/hansensl16/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Constraint satisfaction and data validation problems can be expressed very elegantly in state-based formal methods such as B. However, is B suited for developing larger applications and are there existing tools that scale for these projects? In this paper, we present our experiences on two real-world data validation projects from different domains which are based on the B language and use ProB as the central validation tool. The first project is the validation of university timetables, and the second project is the validation of railway topologies. Based on these two projects, we present a general structure of a data validation project in B and outline common challenges along with various solutions. We also discuss possible evolutions of the B language to make it (even) more suitable for such projects.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-319-33600-8_10.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-319-33600-8_10.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{HansenSL16,
+author = {Dominik Hansen and
+David Schneider and
+Michael Leuschel},
+editor = {Michael J. Butler and
+Klaus{-}Dieter Schewe and
+Atif Mashkoor and
+Mikl{\'{o}}s Bir{\'{o}}},
+title = {Using {B} and ProB for Data Validation Projects},
+booktitle = {Abstract State Machines, Alloy, B, TLA, VDM, and {Z} - 5th International
+Conference, {ABZ} 2016, Linz, Austria, May 23-27, 2016, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {9675},
+pages = {167--182},
+publisher = {Springer},
+year = {2016},
+url = {https://doi.org/10.1007/978-3-319-33600-8\_10},
+doi = {10.1007/978-3-319-33600-8\_10},
+timestamp = {Tue, 14 May 2019 10:00:50 +0200},
+biburl = {https://dblp.org/rec/conf/asm/HansenSL16.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Towards B as a High-Level Constraint Modelling Language - Solving the Jobs Puzzle Challenge</title><link>/publication/leuschels14/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>/publication/leuschels14/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>We argue that B is a good language to conveniently express a wide range of constraint satisfaction problems. We also show that some problems can be solved quite effectively by the ProB tool. We illustrate our claim on several examples, such as the jobs puzzle - for which we solve the challenge set out by Shapiro. Here we show that the B formalization is both very close to the natural language specification and can still be solved efficiently by ProB. Our approach is particularly interesting when a high assurance of correctness is required. Indeed, compared to other existing approaches and tools, validation and double checking of solutions is available for ProB and formal proof can be applied to establish important properties or provide an unambiguous semantics to the problem specification.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-662-43652-3_8.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-662-43652-3_8.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{LeuschelS14,
+author = {Michael Leuschel and
+David Schneider},
+editor = {Yamine A{\&amp;quot;{\i}}t Ameur and
+Klaus{-}Dieter Schewe},
+title = {Towards {B} as a High-Level Constraint Modelling Language - Solving
+the Jobs Puzzle Challenge},
+booktitle = {Abstract State Machines, Alloy, B, TLA, VDM, and {Z} - 4th International
+Conference, {ABZ} 2014, Toulouse, France, June 2-6, 2014. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {8477},
+pages = {101--116},
+publisher = {Springer},
+year = {2014},
+url = {https://doi.org/10.1007/978-3-662-43652-3\_8},
+doi = {10.1007/978-3-662-43652-3\_8},
+timestamp = {Tue, 14 May 2019 10:00:50 +0200},
+biburl = {https://dblp.org/rec/conf/asm/LeuschelS14.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item></channel></rss>

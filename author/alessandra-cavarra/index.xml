@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Alessandra Cavarra | ABZ</title><link>/author/alessandra-cavarra/</link><atom:link href="/author/alessandra-cavarra/index.xml" rel="self" type="application/rss+xml"/><description>Alessandra Cavarra</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Alessandra Cavarra</title><link>/author/alessandra-cavarra/</link></image><item><title>Data Flow Analysis and Testing of Abstract State Machines</title><link>/publication/cavarra08/</link><pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate><guid>/publication/cavarra08/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>This paper introduces an approach to apply data flow testing techniques to Abstract State Machines specifications. Since traditional data flow coverage criteria are strictly based on the mapping between a program and its flow graph, they cannot be directly applied to ASMs. In this context we are interested in tracing the flow of data between states in ASM runs as opposed to between nodes in a program’s flow graph. Therefore, we revise the classical concepts in data flow analysis and define them on two levels: the syntactic (rule) level, and the computational (run) level. We also specify a family of ad hoc data flow coverage criteria and introduce a model checking-based approach to generate automatically test cases satisfying a given set of coverage criteria from ASM models.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-540-87603-8_8.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-540-87603-8_8.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{Cavarra08,
+author = {Alessandra Cavarra},
+editor = {Egon B{\&amp;quot;{o}}rger and
+Michael J. Butler and
+Jonathan P. Bowen and
+Paul Boca},
+title = {Data Flow Analysis and Testing of Abstract State Machines},
+booktitle = {Abstract State Machines, {B} and Z, First International Conference,
+{ABZ} 2008, London, UK, September 16-18, 2008. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {5238},
+pages = {85--97},
+publisher = {Springer},
+year = {2008},
+url = {https://doi.org/10.1007/978-3-540-87603-8\_8},
+doi = {10.1007/978-3-540-87603-8\_8},
+timestamp = {Tue, 14 May 2019 10:00:50 +0200},
+biburl = {https://dblp.org/rec/conf/asm/Cavarra08.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item></channel></rss>

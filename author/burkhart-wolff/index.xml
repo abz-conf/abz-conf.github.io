@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Burkhart Wolff | ABZ</title><link>/author/burkhart-wolff/</link><atom:link href="/author/burkhart-wolff/index.xml" rel="self" type="application/rss+xml"/><description>Burkhart Wolff</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Burkhart Wolff</title><link>/author/burkhart-wolff/</link></image><item><title>Event-B as DSL in Isabelle and HOL Experiences from a Prototype</title><link>/publication/ballenghienw24/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>/publication/ballenghienw24/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>The proof assistant Isabelle/HOL is made available inside a flexible system framework allowing for logically safe extensions, which comprise both theories as well as implementations for code-generation, documentation, and specific support for a variety of formal methods. Following the techniques in [9] and the theoretical groundwork in [4], we show the major milestones for the implementation of a B-Tool and the resulting refinement method inside the Isabelle/HOL platform. The prototype HOL-B provides IDE support, documentation support, a theory for the Z-Mathematical Toolkit underlying the B-Method, and a generated denotational semantics for a B MACHINE specification implemented as a specification construct in Isabelle/HOL. Extended by more automated proof machinery geared to refinements, HOL-B can serve as a more portable, flexible and extensible tool for Event-B that may profit from the large Isabelle/HOL libraries providing Algebra and Analysis theories.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-63790-2_18.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-63790-2_18.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{BallenghienW24,
+author = {Beno{\^{\i}}t Ballenghien and
+Burkhart Wolff},
+editor = {Silvia Bonfanti and
+Angelo Gargantini and
+Michael Leuschel and
+Elvinia Riccobene and
+Patrizia Scandurra},
+title = {Event-B as {DSL} in Isabelle and {HOL} Experiences from a Prototype},
+booktitle = {Rigorous State-Based Methods - 10th International Conference, {ABZ}
+2024, Bergamo, Italy, June 25-28, 2024, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14759},
+pages = {241--247},
+publisher = {Springer},
+year = {2024},
+url = {https://doi.org/10.1007/978-3-031-63790-2\_18},
+doi = {10.1007/978-3-031-63790-2\_18},
+timestamp = {Fri, 19 Jul 2024 23:15:46 +0200},
+biburl = {https://dblp.org/rec/conf/zum/BallenghienW24.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Using Deep Ontologies in Formal Software Engineering</title><link>/publication/bruckeramw23/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>/publication/bruckeramw23/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Isabelle/DOF is an ontology framework on top of Isabelle. It allows for the formal development of ontologies as well as continuous conformity-checking of integrated documents annotated by ontological data. An integrated document may contain text, code, definitions, proofs, and user-programmed constructs supporting a wide range of formal methods Isabelle/DOF is designed to leverage traceability in integrated documents by supporting navigation in Isabelle’s IDE as well as the document generation process. In this paper, we extend Isabelle/DOF with annotations of (\lambda )-terms, a pervasive data-structure underlying Isabelle used to syntactically represent expressions and formulas. Rather than introducing an own programming language for meta-data, we use Higher-order Logic (HOL) for expressions, data-constraints, ontological invariants, and queries via code-generation and reflection. This allows both for powerful query languages and logical reasoning over ontologies in, for example, ontological mappings. Our application examples cover documents targeting formal certifications such as CENELEC 50128, or Common Criteria.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-33163-3_2.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-33163-3_2.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{BruckerAMW23,
+author = {Achim D. Brucker and
+Idir A{\&amp;quot;{\i}}t{-}Sadoune and
+Nicolas M{\'{e}}ric and
+Burkhart Wolff},
+editor = {Uwe Gl{\&amp;quot;{a}}sser and
+Jos{\'{e}} Creissac Campos and
+Dominique M{\'{e}}ry and
+Philippe A. Palanque},
+title = {Using Deep Ontologies in Formal Software Engineering},
+booktitle = {Rigorous State-Based Methods - 9th International Conference, {ABZ}
+2023, Nancy, France, May 30 - June 2, 2023, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14010},
+pages = {15--32},
+publisher = {Springer},
+year = {2023},
+url = {https://doi.org/10.1007/978-3-031-33163-3\_2},
+doi = {10.1007/978-3-031-33163-3\_2},
+timestamp = {Fri, 02 Jun 2023 21:23:53 +0200},
+biburl = {https://dblp.org/rec/conf/zum/BruckerAMW23.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item></channel></rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Roland Lezuo | ABZ</title><link>/author/roland-lezuo/</link><atom:link href="/author/roland-lezuo/index.xml" rel="self" type="application/rss+xml"/><description>Roland Lezuo</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Roland Lezuo</title><link>/author/roland-lezuo/</link></image><item><title>A Unified Processor Model for Compiler Verification and Simulation Using ASM</title><link>/publication/lezuok12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/lezuok12/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>For safety critical embedded systems the correctness of the processor, toolchain and compiler is an important issue. Translation validation is one approach for compiler verification. A common semantic framework to represent source and target language is needed and Abstract State Machines (ASMs) are a well suited and established method. In this paper we present a method to show correctness of instruction selection by performing fully automated simulation proofs over symbolic execution traces of state transformations using an automated first-order theorem prover. We applied this approach to an industrial-strength compiler and created the ASM models in such a way that we are able to reuse them to create a cycle-accurate simulator. To achieve fast simulation we compile the ASM models to C++ and present the compilation scheme in this paper. Finally we present our preliminary results which indicate that a unified ASM model is sufficient for proving correct instruction selection and generating efficient cycle-accurate simulators.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_24.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-30885-7_24.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{LezuoK12,
+author = {Roland Lezuo and
+Andreas Krall},
+editor = {John Derrick and
+John S. Fitzgerald and
+Stefania Gnesi and
+Sarfraz Khurshid and
+Michael Leuschel and
+Steve Reeves and
+Elvinia Riccobene},
+title = {A Unified Processor Model for Compiler Verification and Simulation
+Using {ASM}},
+booktitle = {Abstract State Machines, Alloy, B, VDM, and {Z} - Third International
+Conference, {ABZ} 2012, Pisa, Italy, June 18-21, 2012. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {7316},
+pages = {327--330},
+publisher = {Springer},
+year = {2012},
+url = {https://doi.org/10.1007/978-3-642-30885-7\_24},
+doi = {10.1007/978-3-642-30885-7\_24},
+timestamp = {Sun, 02 Jun 2019 21:23:59 +0200},
+biburl = {https://dblp.org/rec/conf/asm/LezuoK12.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item></channel></rss>

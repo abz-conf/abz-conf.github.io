@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Michael Vernon | ABZ</title><link>/author/michael-vernon/</link><atom:link href="/author/michael-vernon/index.xml" rel="self" type="application/rss+xml"/><description>Michael Vernon</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Michael Vernon</title><link>/author/michael-vernon/</link></image><item><title>Communication Systems in ClawZ</title><link>/publication/vernonzc10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>/publication/vernonzc10/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>We investigate the use of ClawZ, a suite of tools for the verification of implementations of control laws, to construct formal models for control systems in the area of communications and signal-processing intensive applications. Whereas ClawZ has been successfully applied to verify control components in avionic systems, special requirements need to be identified and addressed to extend its use to the aforementioned application domain. This gives rise to several extensions, which we explain and subsequently validate by constructing the Z model of a software-defined radio communication device. The experience reported provides insight into general issues surrounding the use and extension of ClawZ.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-11811-1_25.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-11811-1_25.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{VernonZC10,
+author = {Michael Vernon and
+Frank Zeyda and
+Ana Cavalcanti},
+editor = {Marc Frappier and
+Uwe Gl{\&amp;quot;{a}}sser and
+Sarfraz Khurshid and
+R{\'{e}}gine Laleau and
+Steve Reeves},
+title = {Communication Systems in ClawZ},
+booktitle = {Abstract State Machines, Alloy, {B} and Z, Second International Conference,
+{ABZ} 2010, Orford, QC, Canada, February 22-25, 2010. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {5977},
+pages = {334--348},
+publisher = {Springer},
+year = {2010},
+url = {https://doi.org/10.1007/978-3-642-11811-1\_25},
+doi = {10.1007/978-3-642-11811-1\_25},
+timestamp = {Mon, 05 Feb 2024 20:35:41 +0100},
+biburl = {https://dblp.org/rec/conf/asm/VernonZC10.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item></channel></rss>

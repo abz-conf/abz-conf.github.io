@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bastian Schlich | ABZ</title><link>/author/bastian-schlich/</link><atom:link href="/author/bastian-schlich/index.xml" rel="self" type="application/rss+xml"/><description>Bastian Schlich</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Bastian Schlich</title><link>/author/bastian-schlich/</link></image><item><title>Direct Support for Model Checking Abstract State Machines by Utilizing Simulation</title><link>/publication/beckerskks08/</link><pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate><guid>/publication/beckerskks08/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>This paper presents an approach to model checking abstract state machines (ASMs) without the need for translation of the ASM specification into the modeling language of an existing model checker. Instead, our model checker [mc]square uses the simulation capabilities of CoreASM to build the state space, thereby directly supporting ASMs and circumventing a possible loss of expressiveness in a translation process. This enables our approach to present counterexamples and witnesses directly as sequences of ASM states and at the same time supports the major features of CoreASM like distributed ASMs, n-ary functions or extended rule forms. We show the applicability of this approach in a case study that also reveals possible improvements desirable for minimizing the duration needed for building the state space and its memory consumption.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-540-87603-8_10.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-540-87603-8_10.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{BeckersKKS08,
+author = {J{\&amp;quot;{o}}rg Beckers and
+Daniel Kl{\&amp;quot;{u}}nder and
+Stefan Kowalewski and
+Bastian Schlich},
+editor = {Egon B{\&amp;quot;{o}}rger and
+Michael J. Butler and
+Jonathan P. Bowen and
+Paul Boca},
+title = {Direct Support for Model Checking Abstract State Machines by Utilizing
+Simulation},
+booktitle = {Abstract State Machines, {B} and Z, First International Conference,
+{ABZ} 2008, London, UK, September 16-18, 2008. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {5238},
+pages = {112--124},
+publisher = {Springer},
+year = {2008},
+url = {https://doi.org/10.1007/978-3-540-87603-8\_10},
+doi = {10.1007/978-3-540-87603-8\_10},
+timestamp = {Tue, 14 May 2019 10:00:50 +0200},
+biburl = {https://dblp.org/rec/conf/asm/BeckersKKS08.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item></channel></rss>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Leonardo Aniello | ABZ</title><link>/author/leonardo-aniello/</link><atom:link href="/author/leonardo-aniello/index.xml" rel="self" type="application/rss+xml"/><description>Leonardo Aniello</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Leonardo Aniello</title><link>/author/leonardo-aniello/</link></image><item><title>Designing Exception Handling Using Event-B</title><link>/publication/fathabadishtbas24/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>/publication/fathabadishtbas24/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>The design of exception handling is a complex task requiring insight and domain expertise to ensure that potential abnormal conditions are identified and a recovery process is designed to return the system to a safe state. Formal methods can address this complexity, by supporting the analysis of exception handling at the abstract design stages utilising mathematical modelling and proofs. Event-B is a state-based formal method for modelling and verifying the consistency of discrete systems. However it lacks explicit support for analysing the handling of exceptions. In this paper, we use UML-B state machines to support the modelling of normal behaviour assisting the identification and handling of exceptions. This is followed by verification of exception handler recovery mechanisms using the built-in model checker and provers of the Event-B tool-set.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-63790-2_22.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-63790-2_22.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{FathabadiSHTBAS24,
+author = {Asieh Salehi Fathabadi and
+Colin F. Snook and
+Thai Son Hoang and
+Robert Thorburn and
+Michael J. Butler and
+Leonardo Aniello and
+Vladimiro Sassone},
+editor = {Silvia Bonfanti and
+Angelo Gargantini and
+Michael Leuschel and
+Elvinia Riccobene and
+Patrizia Scandurra},
+title = {Designing Exception Handling Using Event-B},
+booktitle = {Rigorous State-Based Methods - 10th International Conference, {ABZ}
+2024, Bergamo, Italy, June 25-28, 2024, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14759},
+pages = {270--277},
+publisher = {Springer},
+year = {2024},
+url = {https://doi.org/10.1007/978-3-031-63790-2\_22},
+doi = {10.1007/978-3-031-63790-2\_22},
+timestamp = {Thu, 04 Jul 2024 22:05:23 +0200},
+biburl = {https://dblp.org/rec/conf/zum/FathabadiSHTBAS24.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Verifying System-Level Security of a Smart Ballot Box</title><link>/publication/dghaymhbhas21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>/publication/dghaymhbhas21/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Event-B, a refinement-based formal modelling language, has traditionally focused on safety, but now increasingly finds a new role in developing secure systems. In this paper we take a fresh look at security and focus on what security means for the system rather than looking at detailed protocols. We use Event-B for proving security from an abstract view and refining it towards design details, focusing on the refinement of the availability property of the system. We define a general approach to guarantee the availability of events by ensuring the non-strengthening of their guards, taking into consideration their parameter types. We illustrate our approach using a smart ballot system, an integral part of modern voting systems.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-77543-8_3.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-77543-8_3.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{DghaymHBHAS21,
+author = {Dana Dghaym and
+Thai Son Hoang and
+Michael J. Butler and
+Runshan Hu and
+Leonardo Aniello and
+Vladimiro Sassone},
+editor = {Alexander Raschke and
+Dominique M{\'{e}}ry},
+title = {Verifying System-Level Security of a Smart Ballot Box},
+booktitle = {Rigorous State-Based Methods - 8th International Conference, {ABZ}
+2021, Ulm, Germany, June 9-11, 2021, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {12709},
+pages = {34--49},
+publisher = {Springer},
+year = {2021},
+url = {https://doi.org/10.1007/978-3-030-77543-8\_3},
+doi = {10.1007/978-3-030-77543-8\_3},
+timestamp = {Wed, 09 Jun 2021 12:14:31 +0200},
+biburl = {https://dblp.org/rec/conf/asm/DghaymHBHAS21.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item></channel></rss>

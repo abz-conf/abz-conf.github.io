@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Daniel Plagge | ABZ</title><link>/author/daniel-plagge/</link><atom:link href="/author/daniel-plagge/index.xml" rel="self" type="application/rss+xml"/><description>Daniel Plagge</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Daniel Plagge</title><link>/author/daniel-plagge/</link></image><item><title>Refinement-Animation for Event-B - Towards a Method of Validation</title><link>/publication/hallerstedelp10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>/publication/hallerstedelp10/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>We provide a detailed description of refinement in Event-B, both as a contribution in itself and as a foundation for the approach to simultaneous animation of multiple levels of refinement that we propose. We present an algorithm for simultaneous multi-level animation of refinement, and show how it can be used to detect a variety of errors that occur frequently when using refinement. The algorithm has been implemented in ProB and we applied it to several case studies, showing that multi-level animation is tractable also on larger models.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-11811-1_22.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-11811-1_22.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{HallerstedeLP10,
+author = {Stefan Hallerstede and
+Michael Leuschel and
+Daniel Plagge},
+editor = {Marc Frappier and
+Uwe Gl{\&amp;quot;{a}}sser and
+Sarfraz Khurshid and
+R{\'{e}}gine Laleau and
+Steve Reeves},
+title = {Refinement-Animation for Event-B - Towards a Method of Validation},
+booktitle = {Abstract State Machines, Alloy, {B} and Z, Second International Conference,
+{ABZ} 2010, Orford, QC, Canada, February 22-25, 2010. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {5977},
+pages = {287--301},
+publisher = {Springer},
+year = {2010},
+url = {https://doi.org/10.1007/978-3-642-11811-1\_22},
+doi = {10.1007/978-3-642-11811-1\_22},
+timestamp = {Tue, 14 May 2019 10:00:50 +0200},
+biburl = {https://dblp.org/rec/conf/asm/HallerstedeLP10.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item></channel></rss>

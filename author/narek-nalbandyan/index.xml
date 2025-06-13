@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Narek Nalbandyan | ABZ</title><link>/author/narek-nalbandyan/</link><atom:link href="/author/narek-nalbandyan/index.xml" rel="self" type="application/rss+xml"/><description>Narek Nalbandyan</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Narek Nalbandyan</title><link>/author/narek-nalbandyan/</link></image><item><title>Distributed Situation Analysis - A Formal Semantic Framework</title><link>/publication/nalbandyangsw14/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>/publication/nalbandyangsw14/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Situation Analysis is critical for dynamic decision-making in responding to real-world situations. The complex and intricate nature of situation analysis processes calls for evolutionary modeling and formal engineering methods that facilitate experimental validation of abstract mathematical descriptions to link the essential design aspects with rapid prototyping in early development phases. For the transition from abstract concepts and requirements to precise specifications to high level design of situation analysis systems, we derive here a generic ASM ground model as a framework for defining the precise meaning of fundamental situation analysis concepts applicable to different application domain models.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-662-43652-3_14.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-662-43652-3_14.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{NalbandyanGSW14,
+author = {Narek Nalbandyan and
+Uwe Gl{\&amp;quot;{a}}sser and
+Hamed Yaghoubi Shahir and
+Hans Wehn},
+editor = {Yamine A{\&amp;quot;{\i}}t Ameur and
+Klaus{-}Dieter Schewe},
+title = {Distributed Situation Analysis - {A} Formal Semantic Framework},
+booktitle = {Abstract State Machines, Alloy, B, TLA, VDM, and {Z} - 4th International
+Conference, {ABZ} 2014, Toulouse, France, June 2-6, 2014. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {8477},
+pages = {158--173},
+publisher = {Springer},
+year = {2014},
+url = {https://doi.org/10.1007/978-3-662-43652-3\_14},
+doi = {10.1007/978-3-662-43652-3\_14},
+timestamp = {Tue, 14 May 2019 10:00:50 +0200},
+biburl = {https://dblp.org/rec/conf/asm/NalbandyanGSW14.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item></channel></rss>

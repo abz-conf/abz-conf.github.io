@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dominik Hansen | ABZ</title><link>/author/dominik-hansen/</link><atom:link href="/author/dominik-hansen/index.xml" rel="self" type="application/rss+xml"/><description>Dominik Hansen</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Dominik Hansen</title><link>/author/dominik-hansen/</link></image><item><title>Using a Formal B Model at Runtime in a Demonstration of the ETCS Hybrid Level 3 Concept with Real Trains</title><link>/publication/hansen2018abz/</link><pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate><guid>/publication/hansen2018abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dominik Hansen | ABZ</title><link>/author/dominik-hansen/</link><atom:link href="/author/dominik-hansen/index.xml" rel="self" type="application/rss+xml"/><description>Dominik Hansen</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Dominik Hansen</title><link>/author/dominik-hansen/</link></image><item><title>Using a Formal B Model at Runtime in a Demonstration of the ETCS Hybrid Level 3 Concept with Real Trains</title><link>/publication/hansenl0kknns18/</link><pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate><guid>/publication/hansenl0kknns18/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>In this article, we present a concrete realisation of the ETCS Hybrid Level 3 concept, whose practical viability was evaluated in a field demonstration in 2017. Hybrid Level 3 (HL3) introduces Virtual SubSections (VSS) as sub-divisions of classical track sections with Trackside Train Detection (TTD). Our approach introduces an add-on for the Radio Block Centre (RBC) of Thales, called Virtual Block Function (VBF), which computes the occupation states of the VSSs according to the HL3 concept using the train position reports, train integrity information, and the TTD occupation states. From the perspective of the RBC, the VBF behaves as an Interlocking (IXL) that transmits all signal aspects for virtual signals introduced for each VSS to the RBC. We report on the development of the VBF, implemented as a formal B model executed at runtime using ProB and successfully used in a field demonstration to control real trains.&lt;/p>
 &lt;h2 id="document">Document&lt;/h2>
 &lt;div id="pdfobject-viewer">&lt;/div>
@@ -35,7 +35,103 @@ organization={Springer}
 ProB&lt;/p>
 &lt;p>For more information, please contact the &lt;a href ="mailto:hansen@cs.uni-duesseldorf.de;leuschel@cs.uni-duesseldorf.de">authors&lt;/a>&lt;/p>
 &lt;/li>
-&lt;/ul></description></item><item><title>Validation of the ABZ landing gear system using ProB</title><link>/publication/ladenberger2015sttt/</link><pubDate>Sat, 15 Aug 2015 00:00:00 +0000</pubDate><guid>/publication/ladenberger2015sttt/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;/ul></description></item><item><title>Generating Event-B Specifications from Algorithm Descriptions</title><link>/publication/clarkbhhl16/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>/publication/clarkbhhl16/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>We present a high-level algorithm description language which is translated to Event-B specifications for simulation, model checking and proof. Rather than trying to recover the program structure from a lower-level Event-B specification, we start with a high-level description of the algorithm. Our goals are more tractable code generation and more convenient modelling, while keeping the power of the Event-B method in terms of proof and refinement. We present various examples of algorithm descriptions and show that our translation ensures that they can be completely proven within Rodin while achieving a high-level of automatic proof.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-319-33600-8_11.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-319-33600-8_11.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{ClarkBHHL16,
+author = {Joy Clark and
+Jens Bendisposto and
+Stefan Hallerstede and
+Dominik Hansen and
+Michael Leuschel},
+editor = {Michael J. Butler and
+Klaus{-}Dieter Schewe and
+Atif Mashkoor and
+Mikl{\'{o}}s Bir{\'{o}}},
+title = {Generating Event-B Specifications from Algorithm Descriptions},
+booktitle = {Abstract State Machines, Alloy, B, TLA, VDM, and {Z} - 5th International
+Conference, {ABZ} 2016, Linz, Austria, May 23-27, 2016, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {9675},
+pages = {183--197},
+publisher = {Springer},
+year = {2016},
+url = {https://doi.org/10.1007/978-3-319-33600-8\_11},
+doi = {10.1007/978-3-319-33600-8\_11},
+timestamp = {Tue, 14 May 2019 10:00:50 +0200},
+biburl = {https://dblp.org/rec/conf/asm/ClarkBHHL16.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Using B and ProB for Data Validation Projects</title><link>/publication/hansensl16/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>/publication/hansensl16/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Constraint satisfaction and data validation problems can be expressed very elegantly in state-based formal methods such as B. However, is B suited for developing larger applications and are there existing tools that scale for these projects? In this paper, we present our experiences on two real-world data validation projects from different domains which are based on the B language and use ProB as the central validation tool. The first project is the validation of university timetables, and the second project is the validation of railway topologies. Based on these two projects, we present a general structure of a data validation project in B and outline common challenges along with various solutions. We also discuss possible evolutions of the B language to make it (even) more suitable for such projects.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-319-33600-8_10.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-319-33600-8_10.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{HansenSL16,
+author = {Dominik Hansen and
+David Schneider and
+Michael Leuschel},
+editor = {Michael J. Butler and
+Klaus{-}Dieter Schewe and
+Atif Mashkoor and
+Mikl{\'{o}}s Bir{\'{o}}},
+title = {Using {B} and ProB for Data Validation Projects},
+booktitle = {Abstract State Machines, Alloy, B, TLA, VDM, and {Z} - 5th International
+Conference, {ABZ} 2016, Linz, Austria, May 23-27, 2016, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {9675},
+pages = {167--182},
+publisher = {Springer},
+year = {2016},
+url = {https://doi.org/10.1007/978-3-319-33600-8\_10},
+doi = {10.1007/978-3-319-33600-8\_10},
+timestamp = {Tue, 14 May 2019 10:00:50 +0200},
+biburl = {https://dblp.org/rec/conf/asm/HansenSL16.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Validation of the ABZ landing gear system using ProB</title><link>/publication/ladenberger2015sttt/</link><pubDate>Sat, 15 Aug 2015 00:00:00 +0000</pubDate><guid>/publication/ladenberger2015sttt/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>In this article, we present our formalization of the ABZ landing gear case study in Event-B. The development was carried out using the Rodin platform and mainly used superposition refinement to structure the specification. To validate the model, we complemented proof with animation and model checking. For the latter, we used the ProB animator and model checker. Graphical representation of the model turned out to be crucial in the development and validation of the model; this was achieved using the visualization features provided by ProB and BMotion Studio. In addition, we discuss the positive and negative aspects of the Event-B language and tools which we encountered while working on the ABZ case study.&lt;/p>
 &lt;!-- ## Document
 &lt;div id="pdfobject-viewer">&lt;/div>
@@ -127,4 +223,48 @@ isbn=&amp;quot;978-3-319-07512-9&amp;quot;
 ProB&lt;/p>
 &lt;p>For more information, please contact the &lt;a href ="mailto:leuschel@cs.uni-duesseldorf.de">authors&lt;/a>&lt;/p>
 &lt;/li>
-&lt;/ul></description></item></channel></rss>
+&lt;/ul></description></item><item><title>Translating B to TLA + for Validation with TLC</title><link>/publication/hansenl14/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>/publication/hansenl14/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>The state-based formal methods B and TLA  +  share the common base of predicate logic, arithmetic and set theory. However, there are still considerable differences, such as the way to specify state transitions, the different approaches to typing, and the available tool support. In this paper, we present a translation from B to TLA  +  to validate B specifications using the model checker TLC. We provide translation rules for almost all constructs of B, in particular for those which are not built-in in TLA  + . The translation also includes many adaptations and optimizations to allow efficient checking by TLC. Moreover, we present a way to validate liveness properties for B specifications under fairness conditions. Our implemented translator, Tlc4B, automatically translates a B specification to TLA  + , invokes the model checker TLC, and translates the results back to B. We use ProB to double check the counter examples produced by TLC and replay them in the ProB animator. We also present a series of case studies and benchmark tests comparing Tlc4B and ProB.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-662-43652-3_4.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-662-43652-3_4.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{HansenL14,
+author = {Dominik Hansen and
+Michael Leuschel},
+editor = {Yamine A{\&amp;quot;{\i}}t Ameur and
+Klaus{-}Dieter Schewe},
+title = {Translating {B} to {TLA} + for Validation with {TLC}},
+booktitle = {Abstract State Machines, Alloy, B, TLA, VDM, and {Z} - 4th International
+Conference, {ABZ} 2014, Toulouse, France, June 2-6, 2014. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {8477},
+pages = {40--55},
+publisher = {Springer},
+year = {2014},
+url = {https://doi.org/10.1007/978-3-662-43652-3\_4},
+doi = {10.1007/978-3-662-43652-3\_4},
+timestamp = {Tue, 14 May 2019 10:00:50 +0200},
+biburl = {https://dblp.org/rec/conf/asm/HansenL14.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item></channel></rss>

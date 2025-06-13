@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Nancy A. Day | ABZ</title><link>/author/nancy-a.-day/</link><atom:link href="/author/nancy-a.-day/index.xml" rel="self" type="application/rss+xml"/><description>Nancy A. Day</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Nancy A. Day</title><link>/author/nancy-a.-day/</link></image><item><title>Temporal Logic Model Checking in Alloy</title><link>/publication/vakilid12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/vakilid12/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>The declarative and relational aspects of Alloy make it a desirable language to use for high-level modeling of transition systems. However, currently, these models must be translated to another tool to carry out full temporal logic model checking. In this article, we show how a symbolic representation of the semantics of computational tree logic with fairness constraints (CTLFC) can be written in first-order logic with the transitive closure operator, and therefore described in Alloy. Using this encoding, the question of whether a declarative model of a transition system satisfies a temporal logic formula can be solved using the Alloy Analyzer directly. Also, since a declarative description of a model may actually represent a family of transition systems, we define two distinct model checking questions on this family (existential and universal model checking) and show how these properties can be evaluated in the Alloy Analyzer.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_11.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-30885-7_11.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{VakiliD12,
+author = {Amirhossein Vakili and
+Nancy A. Day},
+editor = {John Derrick and
+John S. Fitzgerald and
+Stefania Gnesi and
+Sarfraz Khurshid and
+Michael Leuschel and
+Steve Reeves and
+Elvinia Riccobene},
+title = {Temporal Logic Model Checking in Alloy},
+booktitle = {Abstract State Machines, Alloy, B, VDM, and {Z} - Third International
+Conference, {ABZ} 2012, Pisa, Italy, June 18-21, 2012. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {7316},
+pages = {150--163},
+publisher = {Springer},
+year = {2012},
+url = {https://doi.org/10.1007/978-3-642-30885-7\_11},
+doi = {10.1007/978-3-642-30885-7\_11},
+timestamp = {Sun, 02 Jun 2019 21:23:59 +0200},
+biburl = {https://dblp.org/rec/conf/asm/VakiliD12.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item></channel></rss>

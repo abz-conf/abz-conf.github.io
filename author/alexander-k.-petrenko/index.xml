@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Alexander K. Petrenko | ABZ</title><link>/author/alexander-k.-petrenko/</link><atom:link href="/author/alexander-k.-petrenko/index.xml" rel="self" type="application/rss+xml"/><description>Alexander K. Petrenko</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Alexander K. Petrenko</title><link>/author/alexander-k.-petrenko/</link></image><item><title>Formal Verification of OS Security Model with Alloy and Event-B</title><link>/publication/devyaninkkps14/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>/publication/devyaninkkps14/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>The paper presents a work-in-progress on formal verification of operating system security model, which integrates control of confidentiality and integrity levels with role-based access control. The main goal is to formalize completely the security model and to prove its consistency and conformance to basic correctness requirements concerning keeping levels of integrity and confidentiality. Additional goal is to perform data flow analysis of the model to check whether it can preserve security in the face of certain attacks. Alloy and Event-B were used for formalization and verification of the model. Alloy was applied to provide quick constraint-based checking and uncover various issues concerning inconsistency or incompleteness of the model. Event-B was applied for full-scale deductive verification. Both tools worked well on first steps of model development, while after certain complexity was reached Alloy began to demonstrate some scalability issues.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-662-43652-3_30.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-662-43652-3_30.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{DevyaninKKPS14,
+author = {Petr N. Devyanin and
+Alexey V. Khoroshilov and
+Victor V. Kuliamin and
+Alexander K. Petrenko and
+Ilya V. Shchepetkov},
+editor = {Yamine A{\&amp;quot;{\i}}t Ameur and
+Klaus{-}Dieter Schewe},
+title = {Formal Verification of {OS} Security Model with Alloy and Event-B},
+booktitle = {Abstract State Machines, Alloy, B, TLA, VDM, and {Z} - 4th International
+Conference, {ABZ} 2014, Toulouse, France, June 2-6, 2014. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {8477},
+pages = {309--313},
+publisher = {Springer},
+year = {2014},
+url = {https://doi.org/10.1007/978-3-662-43652-3\_30},
+doi = {10.1007/978-3-662-43652-3\_30},
+timestamp = {Sun, 02 Jun 2019 21:23:59 +0200},
+biburl = {https://dblp.org/rec/conf/asm/DevyaninKKPS14.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item></channel></rss>

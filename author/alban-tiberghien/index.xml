@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Alban Tiberghien | ABZ</title><link>/author/alban-tiberghien/</link><atom:link href="/author/alban-tiberghien/index.xml" rel="self" type="application/rss+xml"/><description>Alban Tiberghien</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Alban Tiberghien</title><link>/author/alban-tiberghien/</link></image><item><title>Specifying Self-configurable Component-Based Systems with FracToy</title><link>/publication/tiberghienms10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>/publication/tiberghienms10/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>One of the key research challenges in autonomic computing is to define rigorous mathematical models for specifying, analyzing, and verifying high-level self-* policies. This paper presents the FracToy formal methodology to specify self-configurable component-based systems, and particularly both their component-based architectural description and their self-configuration policies. This rigorous methodology is based on the first-order relational logic, and is implemented with the Alloy formal specification language. The paper presents the different steps of the FracToy methodology and illustrates them on a self-configurable component-based example.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-11811-1_8.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-11811-1_8.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{TiberghienMS10,
+author = {Alban Tiberghien and
+Philippe Merle and
+Lionel Seinturier},
+editor = {Marc Frappier and
+Uwe Gl{\&amp;quot;{a}}sser and
+Sarfraz Khurshid and
+R{\'{e}}gine Laleau and
+Steve Reeves},
+title = {Specifying Self-configurable Component-Based Systems with FracToy},
+booktitle = {Abstract State Machines, Alloy, {B} and Z, Second International Conference,
+{ABZ} 2010, Orford, QC, Canada, February 22-25, 2010. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {5977},
+pages = {91--104},
+publisher = {Springer},
+year = {2010},
+url = {https://doi.org/10.1007/978-3-642-11811-1\_8},
+doi = {10.1007/978-3-642-11811-1\_8},
+timestamp = {Sun, 25 Oct 2020 23:07:20 +0100},
+biburl = {https://dblp.org/rec/conf/asm/TiberghienMS10.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item></channel></rss>

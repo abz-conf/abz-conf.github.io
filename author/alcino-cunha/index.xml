@@ -1,4 +1,196 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Alcino Cunha | ABZ</title><link>/author/alcino-cunha/</link><atom:link href="/author/alcino-cunha/index.xml" rel="self" type="application/rss+xml"/><description>Alcino Cunha</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Wed, 03 Jun 2020 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Alcino Cunha</title><link>/author/alcino-cunha/</link></image><item><title>Validating Multiple Variants of an Automotive Light System with Electrum</title><link>/publication/cunha2020abz/</link><pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate><guid>/publication/cunha2020abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Alcino Cunha | ABZ</title><link>/author/alcino-cunha/</link><atom:link href="/author/alcino-cunha/index.xml" rel="self" type="application/rss+xml"/><description>Alcino Cunha</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Alcino Cunha</title><link>/author/alcino-cunha/</link></image><item><title>Alloy Goes Fuzzy</title><link>/publication/silvacmo24/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>/publication/silvacmo24/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Humans are good at understanding subjective or vague statements which, however, are hard to express in classical logic. Fuzzy logic is an evolution of classical logic that can cope with vague terms by handling degrees of truth and not just the crisp values true and false. Logic is the formal basis of computing, enabling the formal design of systems supported by tools such as model checkers and theorem provers.This paper shows how a model checker such as Alloy can evolve to handle both classical and fuzzy logic, enabling the specification of high-level quantitative relational models in the fuzzy domain. In particular, the paper showcases how QAlloy-F (a conservative, general-purpose quantitative extension to standard Alloy) can be used to tackle fuzzy problems, namely in the context of validating the design of fuzzy controllers. The evaluation of QAlloy-F against examples taken from various classes of fuzzy case studies shows the approach to be feasible.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-63790-2_4.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-63790-2_4.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{SilvaCMO24,
+author = {Pedro Silva and
+Alcino Cunha and
+Nuno Macedo and
+Jos{\'{e}} N. Oliveira},
+editor = {Silvia Bonfanti and
+Angelo Gargantini and
+Michael Leuschel and
+Elvinia Riccobene and
+Patrizia Scandurra},
+title = {Alloy Goes Fuzzy},
+booktitle = {Rigorous State-Based Methods - 10th International Conference, {ABZ}
+2024, Bergamo, Italy, June 25-28, 2024, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14759},
+pages = {61--79},
+publisher = {Springer},
+year = {2024},
+url = {https://doi.org/10.1007/978-3-031-63790-2\_4},
+doi = {10.1007/978-3-031-63790-2\_4},
+timestamp = {Fri, 19 Jul 2024 23:15:46 +0200},
+biburl = {https://dblp.org/rec/conf/zum/SilvaCMO24.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Adding Records to Alloy</title><link>/publication/brunelccm23/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>/publication/brunelccm23/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Records are a composite data type available in most programming and specification languages, but they are not natively supported by Alloy. As a consequence, users often find themselves having to simulate records in ad hoc ways, a strategy that is error prone and often encumbers the analysis procedures. This paper proposes a conservative extension to the Alloy language to support record signatures. Uniqueness and completeness is imposed on the atoms of such signatures, while still supporting Alloy’s flexible signature hierarchy. The Analyzer has been extended to internally expand such record signatures as partial knowledge for the solving procedure. Evaluation shows that the proposed approach is more efficient than commonly used idioms.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-33163-3_16.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-33163-3_16.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{BrunelCCM23,
+author = {Julien Brunel and
+David Chemouil and
+Alcino Cunha and
+Nuno Macedo},
+editor = {Uwe Gl{\&amp;quot;{a}}sser and
+Jos{\'{e}} Creissac Campos and
+Dominique M{\'{e}}ry and
+Philippe A. Palanque},
+title = {Adding Records to Alloy},
+booktitle = {Rigorous State-Based Methods - 9th International Conference, {ABZ}
+2023, Nancy, France, May 30 - June 2, 2023, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14010},
+pages = {212--219},
+publisher = {Springer},
+year = {2023},
+url = {https://doi.org/10.1007/978-3-031-33163-3\_16},
+doi = {10.1007/978-3-031-33163-3\_16},
+timestamp = {Tue, 25 Jun 2024 21:03:18 +0200},
+biburl = {https://dblp.org/rec/conf/zum/BrunelCCM23.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Task Model Design and Analysis with Alloy</title><link>/publication/cunhamk23/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>/publication/cunhamk23/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>This paper describes a methodology for task model design and analysis using the Alloy Analyzer, a formal, declarative modeling tool. Our methodology leverages (1) a formalization of the HAMSTERS task modeling notation in Alloy and (2) a method for encoding a concrete task model and compose it with a model of the interactive system. The Analyzer then automatically verifies the overall model against desired properties, revealing counter-examples (if any) in terms of interaction scenarios between the operator and the system. In addition, we demonstrate how Alloy can be used to encode various types of operator errors (e.g., inserting or omitting an action) into the base HAMSTERS model and generate erroneous interaction scenarios. Our methodology is applied to a task model describing the interaction of a traffic air controller with a semi-autonomous Arrival MANager (AMAN) planning tool.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-33163-3_23.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-33163-3_23.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{CunhaMK23,
+author = {Alcino Cunha and
+Nuno Macedo and
+Eunsuk Kang},
+editor = {Uwe Gl{\&amp;quot;{a}}sser and
+Jos{\'{e}} Creissac Campos and
+Dominique M{\'{e}}ry and
+Philippe A. Palanque},
+title = {Task Model Design and Analysis with Alloy},
+booktitle = {Rigorous State-Based Methods - 9th International Conference, {ABZ}
+2023, Nancy, France, May 30 - June 2, 2023, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14010},
+pages = {303--320},
+publisher = {Springer},
+year = {2023},
+url = {https://doi.org/10.1007/978-3-031-33163-3\_23},
+doi = {10.1007/978-3-031-33163-3\_23},
+timestamp = {Tue, 25 Jun 2024 21:03:18 +0200},
+biburl = {https://dblp.org/rec/conf/zum/CunhaMK23.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Verifying Temporal Relational Models with Pardinus</title><link>/publication/macedobcc23/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>/publication/macedobcc23/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>This short paper summarizes an article published in the Journal of Automated Reasoning [7]. It presents (\textsf{Pardinus}), an extension of the popular (\textsf{Kodkod}) [12] relational model finder with linear temporal logic (including past operators) to simplify the analysis of dynamic systems. (\textsf{Pardinus}) includes a SAT-based bounded model checking engine and an SMV-based complete model checking engine, both allowing iteration through the different instances (or counterexamples) of a specification. It also supports a decomposed parallel analysis strategy that improves the efficiency of both analysis engines on commodity multi-core machines.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-33163-3_20.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-33163-3_20.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{MacedoBCC23,
+author = {Nuno Macedo and
+Julien Brunel and
+David Chemouil and
+Alcino Cunha},
+editor = {Uwe Gl{\&amp;quot;{a}}sser and
+Jos{\'{e}} Creissac Campos and
+Dominique M{\'{e}}ry and
+Philippe A. Palanque},
+title = {Verifying Temporal Relational Models with Pardinus},
+booktitle = {Rigorous State-Based Methods - 9th International Conference, {ABZ}
+2023, Nancy, France, May 30 - June 2, 2023, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14010},
+pages = {254--261},
+publisher = {Springer},
+year = {2023},
+url = {https://doi.org/10.1007/978-3-031-33163-3\_20},
+doi = {10.1007/978-3-031-33163-3\_20},
+timestamp = {Tue, 25 Jun 2024 21:03:18 +0200},
+biburl = {https://dblp.org/rec/conf/zum/MacedoBCC23.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Validating Multiple Variants of an Automotive Light System with Electrum</title><link>/publication/cunhaml20/</link><pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate><guid>/publication/cunhaml20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>This paper reports on the development and validation of a formal model for an automotive adaptive exterior lights system (ELS) with multiple variants in Electrum, a lightweight formal specification language that extends Alloy with mutable relations and temporal logic. We explore different strategies to address variability, one in pure Electrum and another through an annotative language extension. We then show how Electrum and its Analyzer can be used to validate systems of this nature, namely by checking that the reference scenarios are admissible, and to automatically verify whether the established requirements hold. A prototype was developed to translate the provided validation sequences into Electrum and back to further automate the validation process. The resulting ELS model was validated against the provided validation sequences and verified for most of requirements for all variants.&lt;/p>
 &lt;h2 id="document">Document&lt;/h2>
 &lt;div id="pdfobject-viewer">&lt;/div>
@@ -35,7 +227,58 @@ Electrum&lt;/p>
 Electrum&lt;/p>
 &lt;p>For more information, please contact the &lt;a href ="mailto:nfmmacedo@di.uminho.pt">authors&lt;/a>&lt;/p>
 &lt;/li>
-&lt;/ul></description></item><item><title>Validating the Hybrid ERTMS/ETCS Level 3 Concept with Electrum</title><link>/publication/cunha2018abz/</link><pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate><guid>/publication/cunha2018abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;/ul></description></item><item><title>Experiences on Teaching Alloy with an Automated Assessment Platform</title><link>/publication/macedocpcsprs20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>/publication/macedocpcsprs20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>This paper presents Alloy4Fun, a web application that enables online editing and sharing of Alloy models and instances (including dynamic ones developed with the Electrum extension), to be used mainly in an educational context. By introducing secret paragraphs and commands in the models, Alloy4Fun allows the distribution and automated assessment of simple specification challenges, a mechanism that enables students to learn the language at their own pace. Alloy4Fun stores all versions of shared and analyzed models, as well as derivation trees that depict how they evolved over time: this wealth of information can be mined by researchers or tutors to identify, for example, learning breakdowns in the class or typical mistakes made by Alloy users. Alloy4Fun has been used in formal methods graduate courses for two years and for the latest edition we present results regarding its adoption by the students, as well as preliminary insights regarding the most common bottlenecks when learning Alloy (and Electrum).&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-48077-6_5.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-48077-6_5.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{MacedoCPCSPRS20,
+author = {Nuno Macedo and
+Alcino Cunha and
+Jos{\'{e}} Pereira and
+Renato Carvalho and
+Ricardo Silva and
+Ana C. R. Paiva and
+Miguel Sozinho Ramalho and
+Daniel Castro Silva},
+editor = {Alexander Raschke and
+Dominique M{\'{e}}ry and
+Frank Houdek},
+title = {Experiences on Teaching Alloy with an Automated Assessment Platform},
+booktitle = {Rigorous State-Based Methods - 7th International Conference, {ABZ}
+2020, Ulm, Germany, May 27-29, 2020, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {12071},
+pages = {61--77},
+publisher = {Springer},
+year = {2020},
+url = {https://doi.org/10.1007/978-3-030-48077-6\_5},
+doi = {10.1007/978-3-030-48077-6\_5},
+timestamp = {Tue, 25 Jun 2024 21:03:18 +0200},
+biburl = {https://dblp.org/rec/conf/asm/MacedoCPCSPRS20.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Validating the Hybrid ERTMS/ETCS Level 3 Concept with Electrum</title><link>/publication/cunham18/</link><pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate><guid>/publication/cunham18/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>This paper reports on the development of a formal model for the Hybrid ERTMS/ETCS Level 3 concept in Electrum, a lightweight formal specification language that extends Alloy with mutable relations and temporal logic operators. We show how Electrum and its Analyzer can be used to perform scenario exploration to validate this model, namely to check that all the example operational scenarios described in the reference document are admissible, and to reason about expected safety properties, which can be easily specified and model checked for arbitrary track configurations. The Analyzer depicts scenarios (and counter-examples) in a graphical notation that is logic-agnostic, making them understandable for stakeholders without expertise in formal specification.&lt;/p>
 &lt;h2 id="document">Document&lt;/h2>
 &lt;div id="pdfobject-viewer">&lt;/div>
@@ -72,4 +315,97 @@ Electrum&lt;/p>
 Electrum&lt;/p>
 &lt;p>For more information, please contact the &lt;a href ="mailto:nfmmacedo@di.uminho.pt">authors&lt;/a>&lt;/p>
 &lt;/li>
-&lt;/ul></description></item></channel></rss>
+&lt;/ul></description></item><item><title>Proposition of an Action Layer for Electrum</title><link>/publication/brunelcchmt18/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>/publication/brunelcchmt18/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Electrum is an extension of Alloy that adds (1) mutable signatures and fields to the modeling layer; and (2) connectives from linear temporal logic (with past) and primed variables à la (\textsf {TLA}^+) to the constraint language. The analysis of models can then be translated into a SAT-based bounded model-checking problem, or to an LTL-based unbounded model-checking problem. Electrum has proved to be useful to model and verify dynamic systems with rich configurations. However, when specifying events, the tedious and sometimes error-prone handling of traces and frame conditions (similarly as in Alloy) remained necessary. In this paper, we introduce an extension of Electrum with a so-called “action” layer that addresses these questions.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-319-91271-4_30.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-319-91271-4_30.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{BrunelCCHMT18,
+author = {Julien Brunel and
+David Chemouil and
+Alcino Cunha and
+Thomas Hujsa and
+Nuno Macedo and
+Jeanne Tawa},
+editor = {Michael J. Butler and
+Alexander Raschke and
+Thai Son Hoang and
+Klaus Reichl},
+title = {Proposition of an Action Layer for Electrum},
+booktitle = {Abstract State Machines, Alloy, B, TLA, VDM, and {Z} - 6th International
+Conference, {ABZ} 2018, Southampton, UK, June 5-8, 2018, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {10817},
+pages = {397--402},
+publisher = {Springer},
+year = {2018},
+url = {https://doi.org/10.1007/978-3-319-91271-4\_30},
+doi = {10.1007/978-3-319-91271-4\_30},
+timestamp = {Tue, 25 Jun 2024 21:03:18 +0200},
+biburl = {https://dblp.org/rec/conf/asm/BrunelCCHMT18.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Bounded Model Checking of Temporal Formulas with Alloy</title><link>/publication/cunha14/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>/publication/cunha14/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Alloy is a formal modeling language based on first-order relational logic, with no native support for specifying reactive systems. We propose an extension of Alloy to allow the specification of temporal formulas using LTL, and show how they can be verified by bounded model checking with the Alloy Analyzer.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-662-43652-3_29.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-662-43652-3_29.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{Cunha14,
+author = {Alcino Cunha},
+editor = {Yamine A{\&amp;quot;{\i}}t Ameur and
+Klaus{-}Dieter Schewe},
+title = {Bounded Model Checking of Temporal Formulas with Alloy},
+booktitle = {Abstract State Machines, Alloy, B, TLA, VDM, and {Z} - 4th International
+Conference, {ABZ} 2014, Toulouse, France, June 2-6, 2014. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {8477},
+pages = {303--308},
+publisher = {Springer},
+year = {2014},
+url = {https://doi.org/10.1007/978-3-662-43652-3\_29},
+doi = {10.1007/978-3-662-43652-3\_29},
+timestamp = {Tue, 14 May 2019 10:00:50 +0200},
+biburl = {https://dblp.org/rec/conf/asm/Cunha14.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item></channel></rss>

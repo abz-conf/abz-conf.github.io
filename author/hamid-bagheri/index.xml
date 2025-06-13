@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hamid Bagheri | ABZ</title><link>/author/hamid-bagheri/</link><atom:link href="/author/hamid-bagheri/index.xml" rel="self" type="application/rss+xml"/><description>Hamid Bagheri</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Hamid Bagheri</title><link>/author/hamid-bagheri/</link></image><item><title>Architecture as an Independent Variable for Aspect-Oriented Application Descriptions</title><link>/publication/bagheris10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>/publication/bagheris10/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Software architecture researchers have long assumed that architecture independent application descriptions can be mapped to architectures in many styles, that results vary in quality attributes, and that the choice of a style is driven by consideration of such attributes. In our previous work [1], we demonstrated the feasibility of formally treating architectural style as an independent variable. Given an application description and architectural style description in Alloy [3], we map them to software architecture description that refines the given application in conformance with the given style. To represent a map, we extend a traditional architectural style description (in Alloy) with predicates for mapping application descriptions in a given style to architectural descriptions in the given style. These predicates take application descriptions as parameters and define relationships required to hold between them and computed architectural descriptions. Given an application description, and a map, Alloy computes corresponding architectural descriptions guaranteed to conform to the given architectural style. This paper extends our earlier work to aspect-oriented structures. In doing so, we describe an aspect-enabled application description style and a map taking application descriptions in this style to pipe-and-filter architectures. We use the Alloy Analyzer to compute architecture descriptions, represented as satisfying solutions to the constraints of a map given an application description. The A2A transformer application, developed in our research group, then converts the Alloy-computed architecture to an architecture description in a traditional architecture description language (ADL): here, AspectualACME[2].&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-11811-1_32.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-11811-1_32.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{BagheriS10,
+author = {Hamid Bagheri and
+Kevin J. Sullivan},
+editor = {Marc Frappier and
+Uwe Gl{\&amp;quot;{a}}sser and
+Sarfraz Khurshid and
+R{\'{e}}gine Laleau and
+Steve Reeves},
+title = {Architecture as an Independent Variable for Aspect-Oriented Application
+Descriptions},
+booktitle = {Abstract State Machines, Alloy, {B} and Z, Second International Conference,
+{ABZ} 2010, Orford, QC, Canada, February 22-25, 2010. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {5977},
+pages = {395},
+publisher = {Springer},
+year = {2010},
+url = {https://doi.org/10.1007/978-3-642-11811-1\_32},
+doi = {10.1007/978-3-642-11811-1\_32},
+timestamp = {Tue, 14 May 2019 10:00:50 +0200},
+biburl = {https://dblp.org/rec/conf/asm/BagheriS10.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item></channel></rss>

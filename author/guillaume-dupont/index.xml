@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Guillaume Dupont | ABZ</title><link>/author/guillaume-dupont/</link><atom:link href="/author/guillaume-dupont/index.xml" rel="self" type="application/rss+xml"/><description>Guillaume Dupont</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Guillaume Dupont</title><link>/author/guillaume-dupont/</link></image><item><title>Standalone Event-B Models Analysis Relying on the EB4EB Meta-theory</title><link>/publication/rivieresad23/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>/publication/rivieresad23/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Event-B is a state-based correct-by-construction system design formal method relying on proof and refinement where system models are expressed using set theory and First Order Logic (FOL). Through the generation and discharging of proof obligations (POs), Event-B natively supports the establishment of properties such as safety invariant, convergence and refinement. Other properties, relevant to system verification, may be studied as well, but need to be explicitly formalised by the designer, or expressed in another formal method. This process compromises reusability and is error-prone, especially on larger systems. Recently, the reflexive EB4EB framework has been proposed for formalising Event-B concepts as first-class objects. It allows manipulating these concepts using FOL and set theory in Event-B. In this paper, we propose a rigorous methodology for extending the EB4EB framework, to support new system analysis mechanisms associated to properties that are not natively present in core Event-B. Thanks to the reflexive nature of this framework, new generic and reusable system properties and their associated POs are expressed once and for all, and for any refinement level. For specific systems, designers instantiate these properties and the associated POs are automatically generated and submitted to Event-B’s provers. This methodology is used to define three analyses: deadlock-freeness, invariant weakness analysis and reachability, all of which are demonstrated on a case study.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-33163-3_15.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-33163-3_15.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{RiviereSAD23,
+author = {Peter Riviere and
+Neeraj Kumar Singh and
+Yamine A{\&amp;quot;{\i}}t{-}Ameur and
+Guillaume Dupont},
+editor = {Uwe Gl{\&amp;quot;{a}}sser and
+Jos{\'{e}} Creissac Campos and
+Dominique M{\'{e}}ry and
+Philippe A. Palanque},
+title = {Standalone Event-B Models Analysis Relying on the {EB4EB} Meta-theory},
+booktitle = {Rigorous State-Based Methods - 9th International Conference, {ABZ}
+2023, Nancy, France, May 30 - June 2, 2023, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14010},
+pages = {193--211},
+publisher = {Springer},
+year = {2023},
+url = {https://doi.org/10.1007/978-3-031-33163-3\_15},
+doi = {10.1007/978-3-031-33163-3\_15},
+timestamp = {Tue, 23 May 2023 09:57:42 +0200},
+biburl = {https://dblp.org/rec/conf/zum/RiviereSAD23.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Formally Verified Architecture Patterns of Hybrid Systems Using Proof and Refinement with Event-B</title><link>/publication/dupontaps20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>/publication/dupontaps20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Cyber-Physical Systems (CPS) play a central role in modern days technology. From simple thermostat controllers to more advanced autonomous cars, their versatility makes them perfect candidates for many applications, in particular for safety critical ones. Thus, their certification is a key issue and formal methods are good candidates to assess safety and produce associated certificates. Hybrid systems show continuous-time dynamics depending on mode that is required in several stages of the architecture of Cyber-Physical Systems. Our work addresses the problem of formally verifying hybrid systems using refinement and proof with Event-B. Our previous work [14] presented formally verified generic architecture patterns for designing centralised hybrid systems, based on our generic approach [15]. We extend this work and give a formally verified architecture pattern aimed at modelling distributed hybrid systems, featuring multiple plants and multiple controllers. We validate the approach and illustrate the use of the defined pattern on an extension of a very common case study, borrowed from literature.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-48077-6_12.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-48077-6_12.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{DupontAPS20,
+author = {Guillaume Dupont and
+Yamine A{\&amp;quot;{\i}}t Ameur and
+Marc Pantel and
+Neeraj Kumar Singh},
+editor = {Alexander Raschke and
+Dominique M{\'{e}}ry and
+Frank Houdek},
+title = {Formally Verified Architecture Patterns of Hybrid Systems Using Proof
+and Refinement with Event-B},
+booktitle = {Rigorous State-Based Methods - 7th International Conference, {ABZ}
+2020, Ulm, Germany, May 27-29, 2020, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {12071},
+pages = {169--185},
+publisher = {Springer},
+year = {2020},
+url = {https://doi.org/10.1007/978-3-030-48077-6\_12},
+doi = {10.1007/978-3-030-48077-6\_12},
+timestamp = {Thu, 10 Nov 2022 08:55:26 +0100},
+biburl = {https://dblp.org/rec/conf/asm/DupontAPS20.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Proof-Based Approach to Hybrid Systems Development: Dynamic Logic and Event-B</title><link>/publication/dupontaps18/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>/publication/dupontaps18/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>The design of hybrid systems controllers requires one to handle both discrete and continuous functionalities in a single development framework. In this paper, we propose the design and verification of such controllers using a correct-by-construction approach. We use proof-based formal methods to model and verify the required safety properties of the given controllers. Both Event-B with Rodin, and hybrid programs and dynamic differential logic with KeYmaera are experimented on a common case study related to the modelling of a car controller. Finally, we discuss the lessons learnt from these experiments and draw the first steps towards a generic method for modelling hybrid systems in Event-B.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-319-91271-4_11.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-319-91271-4_11.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{DupontAPS18,
+author = {Guillaume Dupont and
+Yamine A{\&amp;quot;{\i}}t Ameur and
+Marc Pantel and
+Neeraj Kumar Singh},
+editor = {Michael J. Butler and
+Alexander Raschke and
+Thai Son Hoang and
+Klaus Reichl},
+title = {Proof-Based Approach to Hybrid Systems Development: Dynamic Logic
+and Event-B},
+booktitle = {Abstract State Machines, Alloy, B, TLA, VDM, and {Z} - 6th International
+Conference, {ABZ} 2018, Southampton, UK, June 5-8, 2018, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {10817},
+pages = {155--170},
+publisher = {Springer},
+year = {2018},
+url = {https://doi.org/10.1007/978-3-319-91271-4\_11},
+doi = {10.1007/978-3-319-91271-4\_11},
+timestamp = {Thu, 10 Nov 2022 08:55:26 +0100},
+biburl = {https://dblp.org/rec/conf/asm/DupontAPS18.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item></channel></rss>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Alessandro Cavalcante Gurgel | ABZ</title><link>/author/alessandro-cavalcante-gurgel/</link><atom:link href="/author/alessandro-cavalcante-gurgel/index.xml" rel="self" type="application/rss+xml"/><description>Alessandro Cavalcante Gurgel</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Alessandro Cavalcante Gurgel</title><link>/author/alessandro-cavalcante-gurgel/</link></image><item><title>Integrating SMT-Solvers in Z and B Tools</title><link>/publication/gurgelmod10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>/publication/gurgelmod10/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>An important frequent task in both Z and B is the proof of verification conditions (VCs). In Z and B, VCs can be predicates to be discharged as a result of refinement steps, some proof about initialization properties or domain checking. Ideally, a tool that supports any Z and B technique should automatically discharge as many VCs as possible. Here, we present ZB2SMT, a Java package designed to clearly and directly integrate both Z and B tools to the satisfiability module theory (SMT) solvers such as veriT [1], a first-order logic (FOL) theorem prover that accepts the SMT syntax [4] as input. By having the SMT syntax as target we are able to easily integrate with further eleven automatic theorem provers. ZB2SMT is currently used by Batcave [2], an open source tool that generates VCs for the B method and CRefine [3], a tool that supports the Circus refinement calculus. Much of the VCs generated to validate the refinement law applications, are based on FOL predicates. Hence, CRefine uses the ZB2SMT package to automatically prove such predicates. The package integrates elements of Z and B predicates in a common language and transforms these predicates into SMT syntax. In this process, a SMT file is generated containing the predicate and some definitions. It is sent to a chosen SMT solver which yields a Boolean value for the predicate or it can be sent to several SMT solvers in a parallel approach. In order to improve the performance of the proof system, ZB2SMT has a module that can call different instances of solvers at different computers, according to a configuration file. It improves the proof process by allowing different strategies to be performed in parallel, reducing the verification time.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-11811-1_45.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-11811-1_45.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{GurgelMOD10,
+author = {Alessandro Cavalcante Gurgel and
+Val{\'{e}}rio Gutemberg de Medeiros and
+Marcel Vin{\'{\i}}cius Medeiros Oliveira and
+David Boris Paul D{\'{e}}harbe},
+editor = {Marc Frappier and
+Uwe Gl{\&amp;quot;{a}}sser and
+Sarfraz Khurshid and
+R{\'{e}}gine Laleau and
+Steve Reeves},
+title = {Integrating SMT-Solvers in {Z} and {B} Tools},
+booktitle = {Abstract State Machines, Alloy, {B} and Z, Second International Conference,
+{ABZ} 2010, Orford, QC, Canada, February 22-25, 2010. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {5977},
+pages = {412--413},
+publisher = {Springer},
+year = {2010},
+url = {https://doi.org/10.1007/978-3-642-11811-1\_45},
+doi = {10.1007/978-3-642-11811-1\_45},
+timestamp = {Tue, 14 May 2019 10:00:50 +0200},
+biburl = {https://dblp.org/rec/conf/asm/GurgelMOD10.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Tool Support for the CircusRefinement Calculus</title><link>/publication/gurgelco08/</link><pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate><guid>/publication/gurgelco08/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Circus combine both data and behavioural aspects of concurrent systems using a combination of CSP, Z, and Dijkstra’s command language. Its associated refinement theory and calculus distinguishes itself from other such combinations. Using a refinement calculus, we can correctly construct programs in a stepwise fashion. Each step is justified by the application of a refinement law, possibly with the discharge of proof obligations (hereafter called POs). The manual application of the refinement calculus, however, is an error-prone and hard task.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-540-87603-8_37.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-540-87603-8_37.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{GurgelCO08,
+author = {Alessandro Cavalcante Gurgel and
+Cristiano Gurgel de Castro and
+Marcel Vin{\'{\i}}cius Medeiros Oliveira},
+editor = {Egon B{\&amp;quot;{o}}rger and
+Michael J. Butler and
+Jonathan P. Bowen and
+Paul Boca},
+title = {Tool Support for the CircusRefinement Calculus},
+booktitle = {Abstract State Machines, {B} and Z, First International Conference,
+{ABZ} 2008, London, UK, September 16-18, 2008. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {5238},
+pages = {349},
+publisher = {Springer},
+year = {2008},
+url = {https://doi.org/10.1007/978-3-540-87603-8\_37},
+doi = {10.1007/978-3-540-87603-8\_37},
+timestamp = {Tue, 14 May 2019 10:00:50 +0200},
+biburl = {https://dblp.org/rec/conf/asm/GurgelCO08.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item></channel></rss>

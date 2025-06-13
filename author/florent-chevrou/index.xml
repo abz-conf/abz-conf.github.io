@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Florent Chevrou | ABZ</title><link>/author/florent-chevrou/</link><atom:link href="/author/florent-chevrou/index.xml" rel="self" type="application/rss+xml"/><description>Florent Chevrou</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Florent Chevrou</title><link>/author/florent-chevrou/</link></image><item><title>Mechanized Refinement of Communication Models with TLA + +</title><link>/publication/chevrouhmq16/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>/publication/chevrouhmq16/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>In distributed systems, asynchronous communication is often viewed as a whole whereas there are actually many different interaction protocols whose properties are involved in the compatibility of peer compositions. A hierarchy of asynchronous communication models, based on refinements, is established and proven with the TLA(^+) Proof System. The work serves as a first step in the study of the substituability of the communication models when it comes to compatibility checking.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-319-33600-8_27.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-319-33600-8_27.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{ChevrouHMQ16,
+author = {Florent Chevrou and
+Aur{\'{e}}lie Hurault and
+Philippe Mauran and
+Philippe Qu{\'{e}}innec},
+editor = {Michael J. Butler and
+Klaus{-}Dieter Schewe and
+Atif Mashkoor and
+Mikl{\'{o}}s Bir{\'{o}}},
+title = {Mechanized Refinement of Communication Models with {TLA} {\^{}}+ +},
+booktitle = {Abstract State Machines, Alloy, B, TLA, VDM, and {Z} - 5th International
+Conference, {ABZ} 2016, Linz, Austria, May 23-27, 2016, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {9675},
+pages = {312--318},
+publisher = {Springer},
+year = {2016},
+url = {https://doi.org/10.1007/978-3-319-33600-8\_27},
+doi = {10.1007/978-3-319-33600-8\_27},
+timestamp = {Tue, 14 May 2019 10:00:50 +0200},
+biburl = {https://dblp.org/rec/conf/asm/ChevrouHMQ16.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item></channel></rss>

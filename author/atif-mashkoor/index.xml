@@ -1,4 +1,196 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Atif Mashkoor | ABZ</title><link>/author/atif-mashkoor/</link><atom:link href="/author/atif-mashkoor/index.xml" rel="self" type="application/rss+xml"/><description>Atif Mashkoor</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Sun, 08 May 2016 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Atif Mashkoor</title><link>/author/atif-mashkoor/</link></image><item><title>The Hemodialysis Machine Case Study</title><link>/publication/mashkoor2016abz-cs/</link><pubDate>Sun, 08 May 2016 00:00:00 +0000</pubDate><guid>/publication/mashkoor2016abz-cs/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Atif Mashkoor | ABZ</title><link>/author/atif-mashkoor/</link><atom:link href="/author/atif-mashkoor/index.xml" rel="self" type="application/rss+xml"/><description>Atif Mashkoor</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Atif Mashkoor</title><link>/author/atif-mashkoor/</link></image><item><title>Modeling and Analysis of a Safety-Critical Interactive System Through Validation Obligations</title><link>/publication/gelessussvlm23/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>/publication/gelessussvlm23/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>This paper presents insights gained during modeling and analyzing the arrival manager (AMAN) case study in Event-B with validation obligations (VOs). AMAN is a safety-critical interactive system for air traffic controllers to organize the landing of airplanes at airports. The presented model consists of a human-machine interface comprising interactive and autonomous parts. We employ VOs to formalize requirements, uncover contradictions and ambiguities, and validate the model’s compliance with the requirements. To capture the AMAN’s human-machine interaction, we implement an interactive domain-specific visualization and an automatic simulation using the VisB and SimB components of ProB.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-33163-3_22.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-33163-3_22.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{GelessusSVLM23,
+author = {David Gele{\ss}us and
+Sebastian Stock and
+Fabian Vu and
+Michael Leuschel and
+Atif Mashkoor},
+editor = {Uwe Gl{\&amp;quot;{a}}sser and
+Jos{\'{e}} Creissac Campos and
+Dominique M{\'{e}}ry and
+Philippe A. Palanque},
+title = {Modeling and Analysis of a Safety-Critical Interactive System Through
+Validation Obligations},
+booktitle = {Rigorous State-Based Methods - 9th International Conference, {ABZ}
+2023, Nancy, France, May 30 - June 2, 2023, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14010},
+pages = {284--302},
+publisher = {Springer},
+year = {2023},
+url = {https://doi.org/10.1007/978-3-031-33163-3\_22},
+doi = {10.1007/978-3-031-33163-3\_22},
+timestamp = {Fri, 02 Jun 2023 21:23:53 +0200},
+biburl = {https://dblp.org/rec/conf/zum/GelessusSVLM23.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Validation by Abstraction and Refinement</title><link>/publication/stockvglme23/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>/publication/stockvglme23/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>While refinement can help structure the modeling and proving process, it also forces the modeler to introduce features in a particular order. This means that features deeper in the refinement chain cannot be validated in isolation, making some reasoning unnecessarily intricate. In this paper, we present the AVoiR (Abstraction-Validation Obligation-Refinement) framework to ease validation of such complex refinement chains. The triptych AVoiR framework operates as follows: 1) We first simplify a complex model by abstracting away the noise, i.e., removing the information unrelated to properties under analysis. 2) Using the Validation Obligations (VOs) technique, we formalize the validation tasks of the desired property. 3) Finally, we trickle down the validation results by establishing the noiseless model as a parent of the initially investigated model through the standard refinement relationship. Furthermore, by using the technique of VO refinement, we establish the VOs of the abstract model on the initial model. We use a case study from the aviation domain to show the proposed framework’s effectiveness.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-33163-3_12.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-33163-3_12.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{StockVGLME23,
+author = {Sebastian Stock and
+Fabian Vu and
+David Gele{\ss}us and
+Michael Leuschel and
+Atif Mashkoor and
+Alexander Egyed},
+editor = {Uwe Gl{\&amp;quot;{a}}sser and
+Jos{\'{e}} Creissac Campos and
+Dominique M{\'{e}}ry and
+Philippe A. Palanque},
+title = {Validation by Abstraction and Refinement},
+booktitle = {Rigorous State-Based Methods - 9th International Conference, {ABZ}
+2023, Nancy, France, May 30 - June 2, 2023, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14010},
+pages = {160--178},
+publisher = {Springer},
+year = {2023},
+url = {https://doi.org/10.1007/978-3-031-33163-3\_12},
+doi = {10.1007/978-3-031-33163-3\_12},
+timestamp = {Fri, 02 Jun 2023 21:23:53 +0200},
+biburl = {https://dblp.org/rec/conf/zum/StockVGLME23.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Validation of Formal Models by Timed Probabilistic Simulation</title><link>/publication/vulm21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>/publication/vulm21/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>The validation of a formal model consists of checking its conformance with actual requirements. In the context of (Event-) B, some temporal aspects can typically be validated by LTL or CTL model checking, while other properties can be validated via interactive animation or trace replay. In this paper, we present a new simulation-based validation technique for (Event-) B models called SimB. The proposed technique uses annotations to construct simulations, taking probabilistic and real-time aspects of the models into account. In this fashion, statistical properties of a single simulation run or a series of runs can be checked (e.g., Monte Carlo estimation or hypothesis tests). SimB complements animation and model checking, and its usability has been assessed via several case studies.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-77543-8_6.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-77543-8_6.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{VuLM21,
+author = {Fabian Vu and
+Michael Leuschel and
+Atif Mashkoor},
+editor = {Alexander Raschke and
+Dominique M{\'{e}}ry},
+title = {Validation of Formal Models by Timed Probabilistic Simulation},
+booktitle = {Rigorous State-Based Methods - 8th International Conference, {ABZ}
+2021, Ulm, Germany, June 9-11, 2021, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {12709},
+pages = {81--96},
+publisher = {Springer},
+year = {2021},
+url = {https://doi.org/10.1007/978-3-030-77543-8\_6},
+doi = {10.1007/978-3-030-77543-8\_6},
+timestamp = {Tue, 15 Jun 2021 17:24:03 +0200},
+biburl = {https://dblp.org/rec/conf/asm/VuLM21.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>AsmetaA: Animator for Abstract State Machines</title><link>/publication/bonfantigm18/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>/publication/bonfantigm18/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>In this paper, we present AsmetaA  – a graphical animator for Abstract State Machines integrated within the ASMETA framework. The execution of formal specifications through animation provides several advantages, e.g., it provides an immediate feedback about system behavior, it helps understand system evolution, and it increases the overall acceptability of formal methods.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-319-91271-4_25.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-319-91271-4_25.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{BonfantiGM18,
+author = {Silvia Bonfanti and
+Angelo Gargantini and
+Atif Mashkoor},
+editor = {Michael J. Butler and
+Alexander Raschke and
+Thai Son Hoang and
+Klaus Reichl},
+title = {AsmetaA: Animator for Abstract State Machines},
+booktitle = {Abstract State Machines, Alloy, B, TLA, VDM, and {Z} - 6th International
+Conference, {ABZ} 2018, Southampton, UK, June 5-8, 2018, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {10817},
+pages = {369--373},
+publisher = {Springer},
+year = {2018},
+url = {https://doi.org/10.1007/978-3-319-91271-4\_25},
+doi = {10.1007/978-3-319-91271-4\_25},
+timestamp = {Sat, 09 Apr 2022 12:45:50 +0200},
+biburl = {https://dblp.org/rec/conf/asm/BonfantiGM18.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>The Hemodialysis Machine Case Study</title><link>/publication/mashkoor16/</link><pubDate>Sun, 08 May 2016 00:00:00 +0000</pubDate><guid>/publication/mashkoor16/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>This documents presents a description of a case study concerning the control of a hemodialysis (HD) machine. It provides an overview of the requirements and the design of an HD machine including a sketch of the machine’s functionality, related safety conditions, and a top-level system architectural description.&lt;/p>
 &lt;h2 id="document">Document&lt;/h2>
 &lt;div id="pdfobject-viewer">&lt;/div>
@@ -30,4 +222,151 @@ pages=&amp;quot;329--343&amp;quot;,
 abstract=&amp;quot;This documents presents a description of a case study concerning the control of a hemodialysis (HD) machine. It provides an overview of the requirements and the design of an HD machine including a sketch of the machine's functionality, related safety conditions, and a top-level system architectural description.&amp;quot;,
 isbn=&amp;quot;978-3-319-33600-8&amp;quot;
 }
-&lt;/code>&lt;/pre></description></item></channel></rss>
+&lt;/code>&lt;/pre></description></item><item><title>How to Select the Suitable Formal Method for an Industrial Application: A Survey</title><link>/publication/kossakm16/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>/publication/kossakm16/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>The share of formal methods is still marginal in contemporary systems and software engineering. One of the reasons is the absence of systematic guidelines and evaluation criteria that help software practitioners choose the right formal method for the problem at hand. In this paper, we present a comprehensive set of criteria, based on a systematic literature review and decade-long personal experience in industrial projects, for evaluating and comparing different formal methods. We argue that besides technical grounds (e.g., modeling capabilities and supported development phases), formal methods should also be evaluated from social and industrial perspectives. At the end of the paper, we present an evaluation of “ABZ” methods based on the stipulated criteria.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-319-33600-8_13.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-319-33600-8_13.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{KossakM16,
+author = {Felix Kossak and
+Atif Mashkoor},
+editor = {Michael J. Butler and
+Klaus{-}Dieter Schewe and
+Atif Mashkoor and
+Mikl{\'{o}}s Bir{\'{o}}},
+title = {How to Select the Suitable Formal Method for an Industrial Application:
+{A} Survey},
+booktitle = {Abstract State Machines, Alloy, B, TLA, VDM, and {Z} - 5th International
+Conference, {ABZ} 2016, Linz, Austria, May 23-27, 2016, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {9675},
+pages = {213--228},
+publisher = {Springer},
+year = {2016},
+url = {https://doi.org/10.1007/978-3-319-33600-8\_13},
+doi = {10.1007/978-3-319-33600-8\_13},
+timestamp = {Wed, 25 Sep 2019 18:19:23 +0200},
+biburl = {https://dblp.org/rec/conf/asm/KossakM16.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Unified Syntax for Abstract State Machines</title><link>/publication/arcainibdgmrrss16/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>/publication/arcainibdgmrrss16/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>The paper presents our efforts in defining UASM, a unified syntax for Abstract State Machines (ASMs), based on the syntaxes of two of the main ASM frameworks, CoreASM and ASMETA, which have been adapted to accept UASM as input syntax of all their validation and verification tools.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-319-33600-8_14.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-319-33600-8_14.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{ArcainiBDGMRRSS16,
+author = {Paolo Arcaini and
+Silvia Bonfanti and
+Marcel Dausend and
+Angelo Gargantini and
+Atif Mashkoor and
+Alexander Raschke and
+Elvinia Riccobene and
+Patrizia Scandurra and
+Michael Stegmaier},
+editor = {Michael J. Butler and
+Klaus{-}Dieter Schewe and
+Atif Mashkoor and
+Mikl{\'{o}}s Bir{\'{o}}},
+title = {Unified Syntax for Abstract State Machines},
+booktitle = {Abstract State Machines, Alloy, B, TLA, VDM, and {Z} - 5th International
+Conference, {ABZ} 2016, Linz, Austria, May 23-27, 2016, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {9675},
+pages = {231--236},
+publisher = {Springer},
+year = {2016},
+url = {https://doi.org/10.1007/978-3-319-33600-8\_14},
+doi = {10.1007/978-3-319-33600-8\_14},
+timestamp = {Thu, 14 Oct 2021 10:31:49 +0200},
+biburl = {https://dblp.org/rec/conf/asm/ArcainiBDGMRRSS16.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Towards Validation of Requirements Models</title><link>/publication/mashkoorm10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>/publication/mashkoorm10/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>The use of formal methods for software development is escalating over the period of time. The input to this formal specification phase is often the documents obtained during the requirements analysis activity which are either textual or semi-formal. Now there is a traceability gap between analysis and specification phases as verification of the semi-formal analysis model is difficult because of poor understandability of lower level of formalism of verification tools and validation of the formal specification is difficult for customers due to their inability to understand formal models. Our objective is to bridge this gap by a gradual introduction of formalism into the requirement model in order to facilitate its validation.We analyse our requirements with KAOS (Knowledge Acquisition in autOmated Specification) [1] which is a goal-oriented methodology for requirements modeling, then we translate the KAOS goal model, following our derived precise semantics [3], into an Event-B [2] formal specification, and finally we rigourously animate the obtained specification in order to validate its conformance to original requirements with the approach defined in [4].&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-11811-1_38.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-11811-1_38.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{MashkoorM10,
+author = {Atif Mashkoor and
+Abderrahman Matoussi},
+editor = {Marc Frappier and
+Uwe Gl{\&amp;quot;{a}}sser and
+Sarfraz Khurshid and
+R{\'{e}}gine Laleau and
+Steve Reeves},
+title = {Towards Validation of Requirements Models},
+booktitle = {Abstract State Machines, Alloy, {B} and Z, Second International Conference,
+{ABZ} 2010, Orford, QC, Canada, February 22-25, 2010. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {5977},
+pages = {404},
+publisher = {Springer},
+year = {2010},
+url = {https://doi.org/10.1007/978-3-642-11811-1\_38},
+doi = {10.1007/978-3-642-11811-1\_38},
+timestamp = {Tue, 14 May 2019 10:00:50 +0200},
+biburl = {https://dblp.org/rec/conf/asm/MashkoorM10.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item></channel></rss>

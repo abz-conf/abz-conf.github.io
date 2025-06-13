@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hao Wu 0017 | ABZ</title><link>/author/hao-wu-0017/</link><atom:link href="/author/hao-wu-0017/index.xml" rel="self" type="application/rss+xml"/><description>Hao Wu 0017</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Hao Wu 0017</title><link>/author/hao-wu-0017/</link></image><item><title>Verifying Event-B Hybrid Models Using Cyclone</title><link>/publication/wuc23/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>/publication/wuc23/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Modelling hybrid systems using Event-B is challenging and users typically are unsure about whether their Event-B models are over/under-specified. In this short paper, we present a work-in-progress specification language called Cyclone to tackle this challenge. We demonstrate how one can use Cyclone to check an Event-B hybrid model using a car controller example. Our demonstration shows that Cyclone has a great potential to be used to verify Event-B hybrid models.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-33163-3_13.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-33163-3_13.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{WuC23,
+author = {Hao Wu and
+Zheng Cheng},
+editor = {Uwe Gl{\&amp;quot;{a}}sser and
+Jos{\'{e}} Creissac Campos and
+Dominique M{\'{e}}ry and
+Philippe A. Palanque},
+title = {Verifying Event-B Hybrid Models Using Cyclone},
+booktitle = {Rigorous State-Based Methods - 9th International Conference, {ABZ}
+2023, Nancy, France, May 30 - June 2, 2023, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14010},
+pages = {179--184},
+publisher = {Springer},
+year = {2023},
+url = {https://doi.org/10.1007/978-3-031-33163-3\_13},
+doi = {10.1007/978-3-031-33163-3\_13},
+timestamp = {Sun, 03 Mar 2024 18:44:21 +0100},
+biburl = {https://dblp.org/rec/conf/zum/WuC23.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item></channel></rss>

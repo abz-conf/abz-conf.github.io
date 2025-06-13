@@ -1,0 +1,796 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>13 | ABZ</title><link>/publication_types/13/</link><atom:link href="/publication_types/13/index.xml" rel="self" type="application/rss+xml"/><description>13</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>13</title><link>/publication_types/13/</link></image><item><title>Formal Methods and Tools Applied in the Railway Domain</title><link>/publication/beek24/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>/publication/beek24/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>ABZ and other state-based formal methods and tools are successfully applied to the development of safety-critical systems for decades now, in particular in the transport domain, without a single language or tool emerging as the dominant solution for system design. Formal methods are highly recommended by the current safety standards in the railway industry, but railway engineers often lack the knowledge to transform their semi-formal models into formal models, with a precise semantics, to serve as input to formal methods tools. We share the results of performing empirical studies in the railway domain, including usability analyses of formal methods tools involving railway practitioners. We discuss, in particular with respect to railway systems and their modelling, our experiences in applying rigorous state-based methods and tools to a variety of case studies, for which we interacted with a number of companies from the railway domain. We report on lessons learned from these experiences and provide pointers to drive future research towards facilitating further synergies between—on the one hand—researchers and developers of ABZ and other state-based formal methods and tools, and—on the other hand—practitioners from the railway industry.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-63790-2_1.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-63790-2_1.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{Beek24,
+author = {Maurice H. ter Beek},
+editor = {Silvia Bonfanti and
+Angelo Gargantini and
+Michael Leuschel and
+Elvinia Riccobene and
+Patrizia Scandurra},
+title = {Formal Methods and Tools Applied in the Railway Domain},
+booktitle = {Rigorous State-Based Methods - 10th International Conference, {ABZ}
+2024, Bergamo, Italy, June 25-28, 2024, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14759},
+pages = {3--21},
+publisher = {Springer},
+year = {2024},
+url = {https://doi.org/10.1007/978-3-031-63790-2\_1},
+doi = {10.1007/978-3-031-63790-2\_1},
+timestamp = {Thu, 04 Jul 2024 22:05:23 +0200},
+biburl = {https://dblp.org/rec/conf/zum/Beek24.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Refinements of Hybrid Dynamical Systems Logic</title><link>/publication/platzer23/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>/publication/platzer23/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Hybrid dynamical systems describe the mixed discrete dynamics and continuous dynamics of cyber-physical systems such as aircraft, cars, trains, and robots. To justify correctness of their safety-critical controls for their physical models, differential dynamic logic ((\textsf {dL})) provides deductive specification and verification techniques implemented in the theorem prover KeYmaera X. The logic (\textsf {dL}) is useful for proving, e.g., that all runs of a hybrid dynamical system are safe (([{\alpha }]\varphi )), or that there is a run of the hybrid dynamical system ultimately reaching the desired goal ((\langle {\alpha }\rangle {\varphi })). Combinations of (\textsf {dL})’s operators naturally represent safety, liveness, stability and other properties. Variations of (\textsf {dL}) serve additional purposes. Differential refinement logic (dRL) adds an operator (\alpha \le \beta ) expressing that hybrid system (\alpha ) refines hybrid system (\beta ), which is useful, e.g., for relating concrete system implementations to their abstract verification models. Just like (\textsf {dL}), dRL is a logic closed under all operators, which opens up systematic ways of simultaneously relating systems and their properties, of reducing system properties to system relations or, vice versa, reducing system relations to system properties. Differential game logic (dGL) adds the ability of referring to winning strategies of players in hybrid games, which is useful for establishing correctness properties of systems where the actions of different agents may interfere. (\textsf {dL}) and its variations have been used in KeYmaera X for verifying ground robot obstacle avoidance, the Next-Generation Airborne Collision Avoidance System ACAS X, and the kinematics of train control in the Federal Railroad Administration model with track terrain influence and air pressure brake propagation.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-33163-3_1.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-33163-3_1.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{Platzer23,
+author = {Andr{\'{e}} Platzer},
+editor = {Uwe Gl{\&amp;quot;{a}}sser and
+Jos{\'{e}} Creissac Campos and
+Dominique M{\'{e}}ry and
+Philippe A. Palanque},
+title = {Refinements of Hybrid Dynamical Systems Logic},
+booktitle = {Rigorous State-Based Methods - 9th International Conference, {ABZ}
+2023, Nancy, France, May 30 - June 2, 2023, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14010},
+pages = {3--14},
+publisher = {Springer},
+year = {2023},
+url = {https://doi.org/10.1007/978-3-031-33163-3\_1},
+doi = {10.1007/978-3-031-33163-3\_1},
+timestamp = {Fri, 02 Jun 2023 21:23:53 +0200},
+biburl = {https://dblp.org/rec/conf/zum/Platzer23.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Using Deep Ontologies in Formal Software Engineering</title><link>/publication/bruckeramw23/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>/publication/bruckeramw23/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Isabelle/DOF is an ontology framework on top of Isabelle. It allows for the formal development of ontologies as well as continuous conformity-checking of integrated documents annotated by ontological data. An integrated document may contain text, code, definitions, proofs, and user-programmed constructs supporting a wide range of formal methods Isabelle/DOF is designed to leverage traceability in integrated documents by supporting navigation in Isabelle’s IDE as well as the document generation process. In this paper, we extend Isabelle/DOF with annotations of (\lambda )-terms, a pervasive data-structure underlying Isabelle used to syntactically represent expressions and formulas. Rather than introducing an own programming language for meta-data, we use Higher-order Logic (HOL) for expressions, data-constraints, ontological invariants, and queries via code-generation and reflection. This allows both for powerful query languages and logical reasoning over ontologies in, for example, ontological mappings. Our application examples cover documents targeting formal certifications such as CENELEC 50128, or Common Criteria.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-33163-3_2.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-33163-3_2.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{BruckerAMW23,
+author = {Achim D. Brucker and
+Idir A{\&amp;quot;{\i}}t{-}Sadoune and
+Nicolas M{\'{e}}ric and
+Burkhart Wolff},
+editor = {Uwe Gl{\&amp;quot;{a}}sser and
+Jos{\'{e}} Creissac Campos and
+Dominique M{\'{e}}ry and
+Philippe A. Palanque},
+title = {Using Deep Ontologies in Formal Software Engineering},
+booktitle = {Rigorous State-Based Methods - 9th International Conference, {ABZ}
+2023, Nancy, France, May 30 - June 2, 2023, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14010},
+pages = {15--32},
+publisher = {Springer},
+year = {2023},
+url = {https://doi.org/10.1007/978-3-031-33163-3\_2},
+doi = {10.1007/978-3-031-33163-3\_2},
+timestamp = {Fri, 02 Jun 2023 21:23:53 +0200},
+biburl = {https://dblp.org/rec/conf/zum/BruckerAMW23.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Adding Concurrency to a Sequential Refinement Tower</title><link>/publication/schellhornbpr20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>/publication/schellhornbpr20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>This paper defines a concept and a verification methodology for adding concurrency to a sequential refinement tower of abstract state machines, that is based on data refinement and a component structure. We have developed such a refinement tower for the Flashix file system earlier, from which we generate executable (C and Scala) Code. The question we answer in this paper, is how to add concurrency based on locks to such a refinement tower, without breaking the initial modular structure. We achieve this by just enhancing the relevant components, and adding intermediate atomicity refinements that complement the data refinements that are already there. We also give a verification methodology for such atomicity refinements.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-48077-6_2.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-48077-6_2.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{SchellhornBPR20,
+author = {Gerhard Schellhorn and
+Stefan Bodenm{\&amp;quot;{u}}ller and
+J{\&amp;quot;{o}}rg Pf{\&amp;quot;{a}}hler and
+Wolfgang Reif},
+editor = {Alexander Raschke and
+Dominique M{\'{e}}ry and
+Frank Houdek},
+title = {Adding Concurrency to a Sequential Refinement Tower},
+booktitle = {Rigorous State-Based Methods - 7th International Conference, {ABZ}
+2020, Ulm, Germany, May 27-29, 2020, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {12071},
+pages = {6--23},
+publisher = {Springer},
+year = {2020},
+url = {https://doi.org/10.1007/978-3-030-48077-6\_2},
+doi = {10.1007/978-3-030-48077-6\_2},
+timestamp = {Sun, 25 Oct 2020 23:07:20 +0100},
+biburl = {https://dblp.org/rec/conf/asm/SchellhornBPR20.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>ABZ Languages and Tools in Industrial-Scale Application</title><link>/publication/barneshww18/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>/publication/barneshww18/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>We give an early view of an ongoing evaluation of ABZ-style languages and their accompanying tools. The target is specifications of safety- and security-critical (software-rich) systems. Our perspective is that of long-term users of formal methods in all parts of the development life cycle. The evaluation’s scope is the production of specifications. We list requirements for producing specifications, including semantic needs and the resulting requirements on language expressiveness, as well as requirements on tool support for writing, structuring, exploring, and validating specifications. We define criteria for industrial suitability – in our experience – of ABZ languages. We believe that specification structuring is a major discriminating factor for industrial scale-up. So we present an (informal) classification of such mechanisms and illustrate their use by reference to the largest formal specification written by Altran. Our lack of industrial-scale experience in some languages means we are still learning the best mechanisms to use in some cases. We welcome input on this. Finally we discuss remaining work.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-319-91271-4_1.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-319-91271-4_1.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{BarnesHWW18,
+author = {Janet Barnes and
+Jonathan Hammond and
+Angela Wallenburg and
+Thomas Wilson},
+editor = {Michael J. Butler and
+Alexander Raschke and
+Thai Son Hoang and
+Klaus Reichl},
+title = {{ABZ} Languages and Tools in Industrial-Scale Application},
+booktitle = {Abstract State Machines, Alloy, B, TLA, VDM, and {Z} - 6th International
+Conference, {ABZ} 2018, Southampton, UK, June 5-8, 2018, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {10817},
+pages = {3--15},
+publisher = {Springer},
+year = {2018},
+url = {https://doi.org/10.1007/978-3-319-91271-4\_1},
+doi = {10.1007/978-3-319-91271-4\_1},
+timestamp = {Mon, 26 Jun 2023 20:48:45 +0200},
+biburl = {https://dblp.org/rec/conf/asm/BarnesHWW18.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Distributed Adaptive Systems - Theory, Specification, Reasoning</title><link>/publication/scheweftw18/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>/publication/scheweftw18/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>A distributed system can be characterised by autonomously acting agents, where each agent executes its own program, uses shared resources and communicates with the others, but otherwise is totally oblivious to the behaviour of the other agents. In a distributed adaptive system agents may change their programs, and enter or leave the collection at any time thereby changing the behaviour of the overall system. This article first develops a language-independent axiomatic definition of distributed adaptive systems and then presents concurrent reflective Abstract State Machines (crASMs), an abstract machine model for their specification. It can be proven that any distributed adaptive system as stipulated by the axiomatisation can be step-by-step simulated by a crASM. Proofs about crASMs can be grounded in a multiple-step logic, which extends known complete one-step logics for deterministic and non-deterministic ASMs.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-319-91271-4_2.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-319-91271-4_2.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{ScheweFTW18,
+author = {Klaus{-}Dieter Schewe and
+Flavio Ferrarotti and
+Loredana Tec and
+Qing Wang},
+editor = {Michael J. Butler and
+Alexander Raschke and
+Thai Son Hoang and
+Klaus Reichl},
+title = {Distributed Adaptive Systems - Theory, Specification, Reasoning},
+booktitle = {Abstract State Machines, Alloy, B, TLA, VDM, and {Z} - 6th International
+Conference, {ABZ} 2018, Southampton, UK, June 5-8, 2018, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {10817},
+pages = {16--30},
+publisher = {Springer},
+year = {2018},
+url = {https://doi.org/10.1007/978-3-319-91271-4\_2},
+doi = {10.1007/978-3-319-91271-4\_2},
+timestamp = {Sun, 02 Oct 2022 15:55:03 +0200},
+biburl = {https://dblp.org/rec/conf/asm/ScheweFTW18.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>On B and Event-B: Principles, Success and Challenges</title><link>/publication/abrial18/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>/publication/abrial18/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>After more than 20 years since the publication of the book on B [1], and almost 10 years since the publication of the book on Event-B [2], the purpose of this short paper is to present some key points of these technologies.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-319-91271-4_3.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-319-91271-4_3.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{Abrial18,
+author = {Jean{-}Raymond Abrial},
+editor = {Michael J. Butler and
+Alexander Raschke and
+Thai Son Hoang and
+Klaus Reichl},
+title = {On {B} and Event-B: Principles, Success and Challenges},
+booktitle = {Abstract State Machines, Alloy, B, TLA, VDM, and {Z} - 6th International
+Conference, {ABZ} 2018, Southampton, UK, June 5-8, 2018, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {10817},
+pages = {31--35},
+publisher = {Springer},
+year = {2018},
+url = {https://doi.org/10.1007/978-3-319-91271-4\_3},
+doi = {10.1007/978-3-319-91271-4\_3},
+timestamp = {Tue, 14 May 2019 10:00:50 +0200},
+biburl = {https://dblp.org/rec/conf/asm/Abrial18.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Development of a Verified Flash File System</title><link>/publication/schellhornephr14/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>/publication/schellhornephr14/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>This paper gives an overview over the development of a formally verified file system for flash memory. We describe our approach that is based on Abstract State Machines and incremental modular refinement. Some of the important intermediate levels and the features they introduce are given. We report on the verification challenges addressed so far, and point to open problems and future work. We furthermore draw preliminary conclusions on the methodology and the required tool support.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-662-43652-3_2.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-662-43652-3_2.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{SchellhornEPHR14,
+author = {Gerhard Schellhorn and
+Gidon Ernst and
+J{\&amp;quot;{o}}rg Pf{\&amp;quot;{a}}hler and
+Dominik Haneberg and
+Wolfgang Reif},
+editor = {Yamine A{\&amp;quot;{\i}}t Ameur and
+Klaus{-}Dieter Schewe},
+title = {Development of a Verified Flash File System},
+booktitle = {Abstract State Machines, Alloy, B, TLA, VDM, and {Z} - 4th International
+Conference, {ABZ} 2014, Toulouse, France, June 2-6, 2014. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {8477},
+pages = {9--24},
+publisher = {Springer},
+year = {2014},
+url = {https://doi.org/10.1007/978-3-662-43652-3\_2},
+doi = {10.1007/978-3-662-43652-3\_2},
+timestamp = {Tue, 07 May 2024 20:13:31 +0200},
+biburl = {https://dblp.org/rec/conf/asm/SchellhornEPHR14.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>The Rodin Platform Has Turned Ten</title><link>/publication/voisina14/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>/publication/voisina14/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>In this talk, we give an historical account of the development of the Rodin Platform during the last 10 years.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-662-43652-3_1.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-662-43652-3_1.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{VoisinA14,
+author = {Laurent Voisin and
+Jean{-}Raymond Abrial},
+editor = {Yamine A{\&amp;quot;{\i}}t Ameur and
+Klaus{-}Dieter Schewe},
+title = {The Rodin Platform Has Turned Ten},
+booktitle = {Abstract State Machines, Alloy, B, TLA, VDM, and {Z} - 4th International
+Conference, {ABZ} 2014, Toulouse, France, June 2-6, 2014. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {8477},
+pages = {1--8},
+publisher = {Springer},
+year = {2014},
+url = {https://doi.org/10.1007/978-3-662-43652-3\_1},
+doi = {10.1007/978-3-662-43652-3\_1},
+timestamp = {Tue, 29 Dec 2020 18:38:32 +0100},
+biburl = {https://dblp.org/rec/conf/asm/VoisinA14.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Contribution to a Rigorous Analysis of Web Application Frameworks</title><link>/publication/borgercg12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/borgercg12/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>We suggest an approach for accurate modeling and analysis of web application frameworks.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_1.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-30885-7_1.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{BorgerCG12,
+author = {Egon B{\&amp;quot;{o}}rger and
+Antonio Cisternino and
+Vincenzo Gervasi},
+editor = {John Derrick and
+John S. Fitzgerald and
+Stefania Gnesi and
+Sarfraz Khurshid and
+Michael Leuschel and
+Steve Reeves and
+Elvinia Riccobene},
+title = {Contribution to a Rigorous Analysis of Web Application Frameworks},
+booktitle = {Abstract State Machines, Alloy, B, VDM, and {Z} - Third International
+Conference, {ABZ} 2012, Pisa, Italy, June 18-21, 2012. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {7316},
+pages = {1--20},
+publisher = {Springer},
+year = {2012},
+url = {https://doi.org/10.1007/978-3-642-30885-7\_1},
+doi = {10.1007/978-3-642-30885-7\_1},
+timestamp = {Sun, 25 Oct 2020 23:07:20 +0100},
+biburl = {https://dblp.org/rec/conf/asm/BorgerCG12.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Integrated Operational Semantics: Small-Step, Big-Step and Multi-step</title><link>/publication/hayesc12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/hayesc12/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Plotkin’s structural operational semantics provides a tried and tested method for defining the semantics of a programming language via sets of rules that define valid transitions between program configurations. Mosses’ modular structural operational semantics (MSOS) recasts the approach by making use of rules consisting of labelled transitions, allowing a more modular approach to defining language semantics. MSOS can be adapted by using “syntactic” labels that allow local variables and aliasing to be defined without augmenting the semantics with environments and locations. The syntactic labels allow both state-based constructs of imperative languages and event-based constructs of process algebras to the specified in an integrated manner. To illustrate the integrated approach we compare its rules with Plotkin’s original rules for both small-step and big-step operational semantics. One issue that arises is that defining concurrency requires the use of a small-step approach to handle interleaving, while defining a specification command requires a big-step approach. The integrated approach can be generalised to use a sequence of (small) steps as a label; we call this a multi-step operational semantics. This approach allows both concurrency and non-atomic specification commands to be defined.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_2.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-30885-7_2.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{HayesC12,
+author = {Ian J. Hayes and
+Robert Colvin},
+editor = {John Derrick and
+John S. Fitzgerald and
+Stefania Gnesi and
+Sarfraz Khurshid and
+Michael Leuschel and
+Steve Reeves and
+Elvinia Riccobene},
+title = {Integrated Operational Semantics: Small-Step, Big-Step and Multi-step},
+booktitle = {Abstract State Machines, Alloy, B, VDM, and {Z} - Third International
+Conference, {ABZ} 2012, Pisa, Italy, June 18-21, 2012. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {7316},
+pages = {21--35},
+publisher = {Springer},
+year = {2012},
+url = {https://doi.org/10.1007/978-3-642-30885-7\_2},
+doi = {10.1007/978-3-642-30885-7\_2},
+timestamp = {Sun, 02 Jun 2019 21:23:59 +0200},
+biburl = {https://dblp.org/rec/conf/asm/HayesC12.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>A Structure for Dependability Arguments</title><link>/publication/jacksonk10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>/publication/jacksonk10/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>How should a software system be verified? Much research is currently focused on attempts to show that code modules meet their specifications. This is important, but bugs in code are not the weakest link in the chain. The larger problems are identifying and articulating critical properties, and ensuring that the components of a system - not only software modules, but also hardware peripherals, physical environments, and human operators - together establish them. Another common assumption is that verification must take system design and implementation as given. I’ll explain the rationale for, and elements of, a new approach to verification, in which design is driven by verification goals, and verification arguments are structured in a way that exposes the relationship between critical properties and the components that ensure them.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-11811-1_1.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-11811-1_1.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{JacksonK10,
+author = {Daniel Jackson and
+Eunsuk Kang},
+editor = {Marc Frappier and
+Uwe Gl{\&amp;quot;{a}}sser and
+Sarfraz Khurshid and
+R{\'{e}}gine Laleau and
+Steve Reeves},
+title = {A Structure for Dependability Arguments},
+booktitle = {Abstract State Machines, Alloy, {B} and Z, Second International Conference,
+{ABZ} 2010, Orford, QC, Canada, February 22-25, 2010. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {5977},
+pages = {1},
+publisher = {Springer},
+year = {2010},
+url = {https://doi.org/10.1007/978-3-642-11811-1\_1},
+doi = {10.1007/978-3-642-11811-1\_1},
+timestamp = {Tue, 14 May 2019 10:00:50 +0200},
+biburl = {https://dblp.org/rec/conf/asm/JacksonK10.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Formal Probabilistic Analysis: A Higher-Order Logic Based Approach</title><link>/publication/hasant10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>/publication/hasant10/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Traditionally, simulation is used to perform probabilistic analysis. However, it provides less accurate results and cannot handle large-scale problems due to the enormous CPU time requirements. Recently, a significant amount of formalization has been done in higher-order logic that allows us to conduct precise probabilistic analysis using theorem proving and thus overcome the limitations of the simulation. Some major contributions include the formalization of both discrete and continuous random variables and the verification of some of their corresponding probabilistic and statistical properties. This paper describes the infrastructures behind these capabilities and their utilization to conduct the probabilistic analysis of real-world systems.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-11811-1_2.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-11811-1_2.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{HasanT10,
+author = {Osman Hasan and
+Sofi{\`{e}}ne Tahar},
+editor = {Marc Frappier and
+Uwe Gl{\&amp;quot;{a}}sser and
+Sarfraz Khurshid and
+R{\'{e}}gine Laleau and
+Steve Reeves},
+title = {Formal Probabilistic Analysis: {A} Higher-Order Logic Based Approach},
+booktitle = {Abstract State Machines, Alloy, {B} and Z, Second International Conference,
+{ABZ} 2010, Orford, QC, Canada, February 22-25, 2010. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {5977},
+pages = {2--19},
+publisher = {Springer},
+year = {2010},
+url = {https://doi.org/10.1007/978-3-642-11811-1\_2},
+doi = {10.1007/978-3-642-11811-1\_2},
+timestamp = {Fri, 09 Apr 2021 18:50:59 +0200},
+biburl = {https://dblp.org/rec/conf/asm/HasanT10.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Complex Hardware Modules Can Now be Made Free of Functional Errors without Sacrificing Productivity</title><link>/publication/buttner08/</link><pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate><guid>/publication/buttner08/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Complementary to the systems and software focus of the conference, this presentation will be about chips and the progress that has been made in their functional verification. Common ground will be high-level, still cycleaccurate, state-based models of hardware functionalities called Abstract RT. RT stands for register transfer descriptions of hardware such as VHDL or Verilog. An Abstract RT model is a formal specification which permits an automated formal comparison with its implementation, thus detecting any functional discrepancy between code and formal specification. The first part of the presentation will sketch the big picture: Moore‘s Law still holds and permits building huge chips comprising up to hundreds of millions of gates. Under the constraints of shrinking budgets and development times, these so-called systems-on-chip (SoC) can no longer be developed from scratch but must largely be assembled from pre-designed, pre-verified design components such as processors, controllers, a plethora of peripherals and large amounts of memories. Therefore, getting a SoC right depends to a large extent on the quality of these design components - IP for short. At stake are critical errors making it into silicon. These may cost millions of Euros due to delayed market entry, additional engineering and re-production efforts. Hence, the lion’s share of today’s verification efforts goes into the functional verification of such IP.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-540-87603-8_1.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-540-87603-8_1.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{Buttner08,
+author = {Wolfram B{\&amp;quot;{u}}ttner},
+editor = {Egon B{\&amp;quot;{o}}rger and
+Michael J. Butler and
+Jonathan P. Bowen and
+Paul Boca},
+title = {Complex Hardware Modules Can Now be Made Free of Functional Errors
+without Sacrificing Productivity},
+booktitle = {Abstract State Machines, {B} and Z, First International Conference,
+{ABZ} 2008, London, UK, September 16-18, 2008. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {5238},
+pages = {1--3},
+publisher = {Springer},
+year = {2008},
+url = {https://doi.org/10.1007/978-3-540-87603-8\_1},
+doi = {10.1007/978-3-540-87603-8\_1},
+timestamp = {Tue, 14 May 2019 10:00:50 +0200},
+biburl = {https://dblp.org/rec/conf/asm/Buttner08.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Modeling Workflows, Interaction Patterns, Web Services and Business Processes: The ASM-Based Approach</title><link>/publication/borgert08/</link><pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate><guid>/publication/borgert08/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>We survey the use of the Abstract State Machines (ASM) method for a rigorous foundation of modeling and validating web services, workflows, interaction patterns and business processes. We show in particular that one can tailor business process definitions in application-domain yet rigorous terms in such a way that the resulting ASM models can be used as basis for binding contracts between domain experts and IT technologists. The method combines the expressive power and accuracy of rule-based modeling with the intuition provided by visual graph-based descriptions. We illustrate this by an ASM-based semantical framework for the OMG standard for BPMN (Business Process Modeling Notation). The framework supports true concurrency, heterogeneous state and modularity (compositional design and verification techniques). As validation example we report some experiments, carried out with a special-purpose ASM simulator, to evaluate various definitions proposed in the literature for the critical OR-join construct of BPMN.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-540-87603-8_3.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-540-87603-8_3.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{BorgerT08,
+author = {Egon B{\&amp;quot;{o}}rger and
+Bernhard Thalheim},
+editor = {Egon B{\&amp;quot;{o}}rger and
+Michael J. Butler and
+Jonathan P. Bowen and
+Paul Boca},
+title = {Modeling Workflows, Interaction Patterns, Web Services and Business
+Processes: The ASM-Based Approach},
+booktitle = {Abstract State Machines, {B} and Z, First International Conference,
+{ABZ} 2008, London, UK, September 16-18, 2008. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {5238},
+pages = {24--38},
+publisher = {Springer},
+year = {2008},
+url = {https://doi.org/10.1007/978-3-540-87603-8\_3},
+doi = {10.1007/978-3-540-87603-8\_3},
+timestamp = {Tue, 14 May 2019 10:00:50 +0200},
+biburl = {https://dblp.org/rec/conf/asm/BorgerT08.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Refinement of State-Based Systems: ASMs and Big Commuting Diagrams (Abstract)</title><link>/publication/schellhorn08/</link><pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate><guid>/publication/schellhorn08/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Effective and efficient support for the incremental development of verified implementations from abstract requirements has always been of central importance for the successful application of formal methods in practice. Effective means first, that a modelling language is available that allows an adequate problem specification. Second, a refinement theory must be available that preserves the relevant properties of the abstract specification. Efficient means, that the refinement theory reduces the problem to the essential proof obligations necessary, and that the theorem prover provides powerful deduction support. The talk discusses the topic from the experience we have gained from formalizing various refinement theories [1], [2] with the interactive theorem prover KIV [3], as well as from the correctness proofs for various case studies involving refinement.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-540-87603-8_4.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-540-87603-8_4.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{Schellhorn08,
+author = {Gerhard Schellhorn},
+editor = {Egon B{\&amp;quot;{o}}rger and
+Michael J. Butler and
+Jonathan P. Bowen and
+Paul Boca},
+title = {Refinement of State-Based Systems: ASMs and Big Commuting Diagrams
+(Abstract)},
+booktitle = {Abstract State Machines, {B} and Z, First International Conference,
+{ABZ} 2008, London, UK, September 16-18, 2008. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {5238},
+pages = {39--41},
+publisher = {Springer},
+year = {2008},
+url = {https://doi.org/10.1007/978-3-540-87603-8\_4},
+doi = {10.1007/978-3-540-87603-8\_4},
+timestamp = {Tue, 14 May 2019 10:00:50 +0200},
+biburl = {https://dblp.org/rec/conf/asm/Schellhorn08.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>The High Road to Formal Validation:</title><link>/publication/leuschel08/</link><pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate><guid>/publication/leuschel08/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>In this paper we examine the difference between model checking high-level and low-level models. In particular, we compare the ProB model checker for the B-method and the Spin model checker for Promela. While Spin has a dramatically more efficient model checking engine, we show that in practice the performance can be disappointing compared to model checking high-level specifications with ProB. We investigate the reasons for this behaviour, examining expressivity, granularity and Spin’s search algorithms. We also show that certain types of information (such as symmetry) can be more easily inferred and exploited in high-level models, leading to a considerable reduction in model checking time.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-540-87603-8_2.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-540-87603-8_2.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{Leuschel08,
+author = {Michael Leuschel},
+editor = {Egon B{\&amp;quot;{o}}rger and
+Michael J. Butler and
+Jonathan P. Bowen and
+Paul Boca},
+title = {The High Road to Formal Validation:},
+booktitle = {Abstract State Machines, {B} and Z, First International Conference,
+{ABZ} 2008, London, UK, September 16-18, 2008. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {5238},
+pages = {4--23},
+publisher = {Springer},
+year = {2008},
+url = {https://doi.org/10.1007/978-3-540-87603-8\_2},
+doi = {10.1007/978-3-540-87603-8\_2},
+timestamp = {Tue, 14 May 2019 10:00:50 +0200},
+biburl = {https://dblp.org/rec/conf/asm/Leuschel08.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item></channel></rss>

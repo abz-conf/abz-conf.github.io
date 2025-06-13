@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Michael Stegmaier | ABZ</title><link>/author/michael-stegmaier/</link><atom:link href="/author/michael-stegmaier/index.xml" rel="self" type="application/rss+xml"/><description>Michael Stegmaier</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Michael Stegmaier</title><link>/author/michael-stegmaier/</link></image><item><title>A Universal Control Construct for Abstract State Machines</title><link>/publication/stegmaierdrt16/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>/publication/stegmaierdrt16/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Abstract State Machines can be used to specify arbitrary system behaviour. However, when writing executable specifications one often has to write additional statements which organise how, e.g., in which order, the rules are executed. This reduces the readability and comprehensibility of specifications and can introduce additional defects to them. We propose a new syntax construct for the specification of control flow for the ASM language which improves the compactness and readability of specifications by providing syntactic elements for often manually realised behaviour. This construct enables to parametrise which rules shall be selected for execution and how the selected rules are executed. We illustrate how the control construct can improve the code’s readability on some examples. The proposed control construct is also released as a plugin for CoreASM.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-319-33600-8_2.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-319-33600-8_2.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{StegmaierDRT16,
+author = {Michael Stegmaier and
+Marcel Dausend and
+Alexander Raschke and
+Matthias Tichy},
+editor = {Michael J. Butler and
+Klaus{-}Dieter Schewe and
+Atif Mashkoor and
+Mikl{\'{o}}s Bir{\'{o}}},
+title = {A Universal Control Construct for Abstract State Machines},
+booktitle = {Abstract State Machines, Alloy, B, TLA, VDM, and {Z} - 5th International
+Conference, {ABZ} 2016, Linz, Austria, May 23-27, 2016, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {9675},
+pages = {37--53},
+publisher = {Springer},
+year = {2016},
+url = {https://doi.org/10.1007/978-3-319-33600-8\_2},
+doi = {10.1007/978-3-319-33600-8\_2},
+timestamp = {Tue, 14 May 2019 10:00:50 +0200},
+biburl = {https://dblp.org/rec/conf/asm/StegmaierDRT16.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Unified Syntax for Abstract State Machines</title><link>/publication/arcainibdgmrrss16/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>/publication/arcainibdgmrrss16/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>The paper presents our efforts in defining UASM, a unified syntax for Abstract State Machines (ASMs), based on the syntaxes of two of the main ASM frameworks, CoreASM and ASMETA, which have been adapted to accept UASM as input syntax of all their validation and verification tools.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-319-33600-8_14.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-319-33600-8_14.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{ArcainiBDGMRRSS16,
+author = {Paolo Arcaini and
+Silvia Bonfanti and
+Marcel Dausend and
+Angelo Gargantini and
+Atif Mashkoor and
+Alexander Raschke and
+Elvinia Riccobene and
+Patrizia Scandurra and
+Michael Stegmaier},
+editor = {Michael J. Butler and
+Klaus{-}Dieter Schewe and
+Atif Mashkoor and
+Mikl{\'{o}}s Bir{\'{o}}},
+title = {Unified Syntax for Abstract State Machines},
+booktitle = {Abstract State Machines, Alloy, B, TLA, VDM, and {Z} - 5th International
+Conference, {ABZ} 2016, Linz, Austria, May 23-27, 2016, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {9675},
+pages = {231--236},
+publisher = {Springer},
+year = {2016},
+url = {https://doi.org/10.1007/978-3-319-33600-8\_14},
+doi = {10.1007/978-3-319-33600-8\_14},
+timestamp = {Thu, 14 Oct 2021 10:31:49 +0200},
+biburl = {https://dblp.org/rec/conf/asm/ArcainiBDGMRRSS16.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item></channel></rss>

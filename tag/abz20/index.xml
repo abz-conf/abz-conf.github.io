@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ABZ'20 | ABZ</title><link>/tag/abz20/</link><atom:link href="/tag/abz20/index.xml" rel="self" type="application/rss+xml"/><description>ABZ'20</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>ABZ'20</title><link>/tag/abz20/</link></image><item><title>ABZ 2020 (Ulm, Germany)</title><link>/2020/</link><pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate><guid>/2020/</guid><description>&lt;p>This conference was postponed due to the international outbreak of CoVid-19. See
-&lt;a href="/2021/">ABZ 2021&lt;/a>&lt;/p></description></item><item><title>A Verified Low-Level Implementation of the Adaptive Exterior Light and Speed Control System</title><link>/publication/krings2020abz/</link><pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate><guid>/publication/krings2020abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;a href="/2021/">ABZ 2021&lt;/a>&lt;/p>
+&lt;p>Nevertheless, the LNCS volume was published in 2020 and the talks were given as part of ABZ 2021.&lt;/p></description></item><item><title>A Verified Low-Level Implementation of the Adaptive Exterior Light and Speed Control System</title><link>/publication/kringskdr20/</link><pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate><guid>/publication/kringskdr20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>In this article, we present an approach to the ABZ 2020 case study, that differs from the ones usually presented at ABZ: Rather than using a (correct-by-construction) approach following a formal method, we use MISRA C for a low-level implementation instead. We strictly adhere to test-driven development for validation, and only afterwards apply model checking using CBMC for verification. In consequence, our realization of the ABZ case study can serve as a baseline reference for comparison, allowing to assess the benefit provided by the various formal modeling languages, methods and tools.&lt;/p>
 &lt;h2 id="document">Document&lt;/h2>
 &lt;div id="pdfobject-viewer">&lt;/div>
@@ -32,7 +33,7 @@ organization={Springer}
 MISRA C&lt;/p>
 &lt;p>For more information, please contact the &lt;a href ="mailto:sebastian@krin.gs;p.koerner@hhu.de;jannik.dunkelau@hhu.de;chris.rutenkolk@hhu.de">authors&lt;/a>&lt;/p>
 &lt;/li>
-&lt;/ul></description></item><item><title>An Event-B Model of an Automotive Adaptive Exterior Light System</title><link>/publication/mammar2020abz/</link><pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate><guid>/publication/mammar2020abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;/ul></description></item><item><title>An Event-B Model of an Automotive Adaptive Exterior Light System</title><link>/publication/mammarfl20/</link><pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate><guid>/publication/mammarfl20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>This paper introduces an Event-B formal model of the adaptive exterior light system for cars, a case study proposed in the context of the ABZ2020 conference. The system describes the different provided lights and the conditions under which they are switched on/off in order to improve the visibility of the driver without dazzling the oncoming ones. The system can be viewed as a lights controller that reads different information form the available sensors (key state, exterior luminosity, etc.) and takes the adequate actions by acting on the actuators of the lights in order to ensure a good visibility for the driver according to the information read. Our model is built using stepwise refinement with the Event-B method. We consider all the features of the case study, all proof obligations have been discharged using the rodin provers. Our model has been validated using ProB by applying the different provided scenarios. This validation has permitted us to point out and correct some mistakes, ambiguities and oversights in the first versions of the case study.&lt;/p>
 &lt;h2 id="document">Document&lt;/h2>
 &lt;div id="pdfobject-viewer">&lt;/div>
@@ -65,7 +66,7 @@ organization={Springer}
 &lt;a href="/method/event-b">Event-B&lt;/a>&lt;/p>
 &lt;p>For more information, please contact the &lt;a href ="mailto:amel.mammar@telecom-sudparis.eu;marc.frappier@usherbrooke.ca;laleau@u-pec.fr">authors&lt;/a>&lt;/p>
 &lt;/li>
-&lt;/ul></description></item><item><title>Modeling of a Speed Control System using Event-B</title><link>/publication/mammar2020abz_/</link><pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate><guid>/publication/mammar2020abz_/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;/ul></description></item><item><title>Modeling of a Speed Control System using Event-B</title><link>/publication/mammarf20/</link><pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate><guid>/publication/mammarf20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>The present paper presents our proposal of an Event-B model of a speed control system, a part of the case study provided in the ABZ2020 conference. The case study describes how the system regulates the current speed of a car according to a set criteria like the speed desired by the driver, the position of a possible preceding vehicle but also a given speed limit that the driver must not exceed. For that purpose, this controller reads different information form the available sensors (key state, desired speed, etc.) and takes the adequate actions by acting on the actuators of the car&amp;rsquo;s speed according to the read information. To formally model this system, we adopt a stepwise refinement approach with the Event-B method. We consider most features of the case study, all proof obligations have been discharged using the Rodin provers. Our model has been validated using ProB by applying the different provided scenarios. This validation has permitted us to point out and correct some mistakes, ambiguities and oversights contained in the first versions of the case study.&lt;/p>
 &lt;h2 id="document">Document&lt;/h2>
 &lt;div id="pdfobject-viewer">&lt;/div>
@@ -98,7 +99,7 @@ organization={Springer}
 &lt;a href="/method/event-b">Event-B&lt;/a>&lt;/p>
 &lt;p>For more information, please contact the &lt;a href ="mailto:amel.mammar@telecom-sudparis.eu;marc.frappier@usherbrooke.ca">authors&lt;/a>&lt;/p>
 &lt;/li>
-&lt;/ul></description></item><item><title>Modelling an automotive software-intensive system with adaptive features using ASMETA</title><link>/publication/arcaini2020abz/</link><pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate><guid>/publication/arcaini2020abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;/ul></description></item><item><title>Modelling an automotive software-intensive system with adaptive features using ASMETA</title><link>/publication/arcainibgrs20/</link><pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate><guid>/publication/arcainibgrs20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>In the context of automotive domain, modern control systems are software-intensive and have adaptive features to provide safety and comfort. These software-based features demand software engineering approaches and formal methods that are able to guarantee correct operation, since malfunctions may cause harm/damage. Adaptive Exterior Light and the Speed Control Systems are examples of software-intensive systems that equip modern cars. We have used the Abstract State Machines to model the behaviour of both control systems. Each model has been developed through model refinement, following the incremental way in which functional requirements are given. We used the asmeta tool-set to support the simulation of the abstract models, their validation against the informal requirements, and the verification of behavioural properties. In this paper, we discuss our modelling, validation and verification strategies, and the results (in terms of features addressed and not) of our activities. In particular, we provide insights on how we addressed the adaptive features (the adaptive high beam headlights and the adaptive cruise control) by explicitly modelling their software control loops according to the MAPE-K (Monitor-Analyse-Plan-Execute over a shared Knowledge) reference control model for self-adaptive systems.&lt;/p>
 &lt;h2 id="document">Document&lt;/h2>
 &lt;div id="pdfobject-viewer">&lt;/div>
@@ -135,7 +136,7 @@ organization={Springer}
 Asmeta&lt;/p>
 &lt;p>For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>&lt;/p>
 &lt;/li>
-&lt;/ul></description></item><item><title>Modelling and Validating an Automotive System in Classical B and Event-B</title><link>/publication/leuschel2020abz/</link><pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate><guid>/publication/leuschel2020abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;/ul></description></item><item><title>Modelling and Validating an Automotive System in Classical B and Event-B</title><link>/publication/leuschelmw20/</link><pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate><guid>/publication/leuschelmw20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>We have modelled parts of the ABZ automotive case study using the B-method. For the early phases of modelling we have used the classical B for software, while for proof we have used Event-B and Rodin. It is maybe surprising that classical B&amp;rsquo;s machine inclusion mechanism along with operation calls can be used for modular system modelling. Moreover, for one particular style of modelling, the result can then be translated to superposition refinement with event extension in Event-B. Before conducting the proof, we have validated our models using model checking and animation with visualizations. The graphical visualizations were constructed using a new plugin (VisB) which helped uncover errors and transforms our model into an executable, interactive reference specification which can be examined by users without formal background.&lt;/p>
 &lt;h2 id="document">Document&lt;/h2>
 &lt;div id="pdfobject-viewer">&lt;/div>
@@ -173,7 +174,7 @@ organization={Springer}
 VisB&lt;/p>
 &lt;p>For more information, please contact the &lt;a href ="mailto:michael.leuschel@hhu.de">authors&lt;/a>&lt;/p>
 &lt;/li>
-&lt;/ul></description></item><item><title>Validating Multiple Variants of an Automotive Light System with Electrum</title><link>/publication/cunha2020abz/</link><pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate><guid>/publication/cunha2020abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;/ul></description></item><item><title>Validating Multiple Variants of an Automotive Light System with Electrum</title><link>/publication/cunhaml20/</link><pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate><guid>/publication/cunhaml20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>This paper reports on the development and validation of a formal model for an automotive adaptive exterior lights system (ELS) with multiple variants in Electrum, a lightweight formal specification language that extends Alloy with mutable relations and temporal logic. We explore different strategies to address variability, one in pure Electrum and another through an annotative language extension. We then show how Electrum and its Analyzer can be used to validate systems of this nature, namely by checking that the reference scenarios are admissible, and to automatically verify whether the established requirements hold. A prototype was developed to translate the provided validation sequences into Electrum and back to further automate the validation process. The resulting ELS model was validated against the provided validation sequences and verified for most of requirements for all variants.&lt;/p>
 &lt;h2 id="document">Document&lt;/h2>
 &lt;div id="pdfobject-viewer">&lt;/div>
@@ -210,7 +211,7 @@ Electrum&lt;/p>
 Electrum&lt;/p>
 &lt;p>For more information, please contact the &lt;a href ="mailto:nfmmacedo@di.uminho.pt">authors&lt;/a>&lt;/p>
 &lt;/li>
-&lt;/ul></description></item><item><title>Adaptive Exterior Light and Speed Control System</title><link>/publication/houdek2020abz-cs/</link><pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate><guid>/publication/houdek2020abz-cs/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;/ul></description></item><item><title>Adaptive Exterior Light and Speed Control System</title><link>/publication/houdekr20/</link><pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate><guid>/publication/houdekr20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>This case study continues the successful series of case studies for formal specification and verification of the ABZ conference series, which started with the landing gear system and expanded with the hemodialysis medical device and the European Train Control System (ETCS) in the following years. This document describes two systems from the automotive domain: an adaptive exterior light system (ELS) and a speed control system (SCS). This specification is based on the SPES XT running example. Besides their general architectures, the requirements of the software based controllers are described. Both systems are only loosely coupled, which makes it possible to handle them independently&lt;/p>
 &lt;h2 id="document">Document&lt;/h2>
 &lt;div id="pdfobject-viewer">&lt;/div>
@@ -235,4 +236,1347 @@ pages={281--301},
 year={2020},
 organization={Springer}
 }
-&lt;/code>&lt;/pre></description></item><item><title>Adaptive Exterior Light and Speed Control System (ABZ 2020)</title><link>/case-study/abz20/</link><pubDate>Thu, 01 Jan 1970 00:33:40 +0000</pubDate><guid>/case-study/abz20/</guid><description>&lt;p>This document describes two systems from the automotive domain: an adaptive exterior light system (ELS) and a speed control system (SCS). This specification is based on the SPES XT running example. Besides their general architectures, the requirements of the software based controllers are described. Both systems are only loosely coupled, which makes it possible to handle them independently&lt;/p></description></item></channel></rss>
+&lt;/code>&lt;/pre></description></item><item><title>A Characterization of Distributed ASMs with Partial-Order Runs</title><link>/publication/borgers20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>/publication/borgers20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>To overcome the practical limitations of partial-order runs of ‘distributed ASMs’ (Abstract State Machines) proposed by Gurevich, we have defined a concept of concurrent runs of multi-agent ASMs and could show that concurrent ASMs capture a natural language-independent axiomatic definition of concurrent algorithms, thus generalising Gurevich’s seminal ‘Sequential ASM Thesis’ from sequential to concurrent algorithms. However, we remained intrigued by the fact that Blass and Gurevich used partial-order runs of distributed ASMs to explain runs of sequential recursive algorithms. We discovered that also the inverse simulation holds: for every distributed ASM with partial order runs, these runs can be described by runs of a sequential recursive algorithm. This surprising result clarifies the difference in expressivity between partial-order and concurrent runs.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-48077-6_6.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-48077-6_6.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{BorgerS20,
+author = {Egon B{\&amp;quot;{o}}rger and
+Klaus{-}Dieter Schewe},
+editor = {Alexander Raschke and
+Dominique M{\'{e}}ry and
+Frank Houdek},
+title = {A Characterization of Distributed ASMs with Partial-Order Runs},
+booktitle = {Rigorous State-Based Methods - 7th International Conference, {ABZ}
+2020, Ulm, Germany, May 27-29, 2020, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {12071},
+pages = {78--92},
+publisher = {Springer},
+year = {2020},
+url = {https://doi.org/10.1007/978-3-030-48077-6\_6},
+doi = {10.1007/978-3-030-48077-6\_6},
+timestamp = {Mon, 25 May 2020 12:33:39 +0200},
+biburl = {https://dblp.org/rec/conf/asm/BorgerS20.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>A Correct by Construction Approach for the Modeling and the Verification of Cyber-Physical Systems in Event-B</title><link>/publication/afendi20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>/publication/afendi20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Cyber-Physical Systems (CPSs) connect the real world to software systems through a network of sensors and actuators: physical and discrete components interact in complex ways by involving different spatial and temporal scales. One of the most common architectures for CPSs is a discrete software controller which interacts with its physical environment in a closed-loop schema where input from sensors is processed and output is generated and communicated to actuators. We are concerned with the construction and verification of the correctness of such discrete controller using a correct by construction approach, which requires correct integration of discrete and continuous models.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-48077-6_31.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-48077-6_31.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{Afendi20,
+author = {Meryem Afendi},
+editor = {Alexander Raschke and
+Dominique M{\'{e}}ry and
+Frank Houdek},
+title = {A Correct by Construction Approach for the Modeling and the Verification
+of Cyber-Physical Systems in Event-B},
+booktitle = {Rigorous State-Based Methods - 7th International Conference, {ABZ}
+2020, Ulm, Germany, May 27-29, 2020, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {12071},
+pages = {401--404},
+publisher = {Springer},
+year = {2020},
+url = {https://doi.org/10.1007/978-3-030-48077-6\_31},
+doi = {10.1007/978-3-030-48077-6\_31},
+timestamp = {Mon, 25 May 2020 12:33:39 +0200},
+biburl = {https://dblp.org/rec/conf/asm/Afendi20.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>A Formal Approach for the Modeling of High-Level Architectures Aligned with System Requirements</title><link>/publication/bougacha20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>/publication/bougacha20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>IRT Railenium (
+&lt;a href="http://railenium.eu/fr/" target="_blank" rel="noopener">http://railenium.eu/fr/&lt;/a>) is a test and applied research center for the rail industry in France. One of its three R&amp;amp;D and innovation programs aims in particular to provide the technological tools and bricks necessary for the development of the Autonomous Train.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-48077-6_33.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-48077-6_33.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{Bougacha20,
+author = {Racem Bougacha},
+editor = {Alexander Raschke and
+Dominique M{\'{e}}ry and
+Frank Houdek},
+title = {A Formal Approach for the Modeling of High-Level Architectures Aligned
+with System Requirements},
+booktitle = {Rigorous State-Based Methods - 7th International Conference, {ABZ}
+2020, Ulm, Germany, May 27-29, 2020, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {12071},
+pages = {409--413},
+publisher = {Springer},
+year = {2020},
+url = {https://doi.org/10.1007/978-3-030-48077-6\_33},
+doi = {10.1007/978-3-030-48077-6\_33},
+timestamp = {Mon, 25 May 2020 12:33:39 +0200},
+biburl = {https://dblp.org/rec/conf/asm/Bougacha20.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>A Framework for Critical Interactive System Formal Modelling and Analysis</title><link>/publication/mendil20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>/publication/mendil20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Interactive system development does not follow the same life cycle as other system developments. The essential differences lie in the iterative nature of such system development. Throughout iterations, the requirements undergo many changes due to the evolution of customer’s needs and user feedback after experiencing prototypes. The challenge is tougher in the case of critical HCI (aircraft cockpits, medical systems, nuclear power plant etc.). Indeed, critical HCI requires to be designed and built such that safety and security requirements are thoroughly fulfilled. This paper presents a novel development framework featuring formal verification and validation of critical interactive systems at modelling level. It identifies the several challenges of the interactive system development and settles down the main objectives. Furthermore, it sketches the most important traits of the proposed approach to circumvent the enumerated challenges. Hence, we discuss the importance of the pivot language Fluid, the domain theory specific to interactive systems and their modelling using Event-B.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-48077-6_36.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-48077-6_36.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{Mendil20,
+author = {Isma{\&amp;quot;{\i}}l Mendil},
+editor = {Alexander Raschke and
+Dominique M{\'{e}}ry and
+Frank Houdek},
+title = {A Framework for Critical Interactive System Formal Modelling and Analysis},
+booktitle = {Rigorous State-Based Methods - 7th International Conference, {ABZ}
+2020, Ulm, Germany, May 27-29, 2020, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {12071},
+pages = {423--426},
+publisher = {Springer},
+year = {2020},
+url = {https://doi.org/10.1007/978-3-030-48077-6\_36},
+doi = {10.1007/978-3-030-48077-6\_36},
+timestamp = {Mon, 25 May 2020 12:33:39 +0200},
+biburl = {https://dblp.org/rec/conf/asm/Mendil20.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>A Logic for Reflective ASMs</title><link>/publication/schewef20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>/publication/schewef20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Reflective algorithms are algorithms that can modify their own behaviour. Recently a behavioural theory of reflective algorithms has been developed, which shows that they are captured by reflective abstract state machines (rASMs). Reflective ASMs exploit extended states that include an updatable representation of the ASM signature and rules to be executed by the machine in that state. Updates to the representation of ASM signatures and rules are realised by means of a sophisticated tree algebra defined in the background of the rASM. In this paper the theory is taken further by an extension of the logic of ASMs to capture inferences on rASMs. The key is the introduction of terms that are interpreted by ASM rules stored in some location. We show that fragments of the logic with a fixed bound on the number of steps preserve completeness, whereas the full run-logic for rASMs becomes incomplete.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-48077-6_7.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-48077-6_7.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{ScheweF20,
+author = {Klaus{-}Dieter Schewe and
+Flavio Ferrarotti},
+editor = {Alexander Raschke and
+Dominique M{\'{e}}ry and
+Frank Houdek},
+title = {A Logic for Reflective ASMs},
+booktitle = {Rigorous State-Based Methods - 7th International Conference, {ABZ}
+2020, Ulm, Germany, May 27-29, 2020, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {12071},
+pages = {93--106},
+publisher = {Springer},
+year = {2020},
+url = {https://doi.org/10.1007/978-3-030-48077-6\_7},
+doi = {10.1007/978-3-030-48077-6\_7},
+timestamp = {Mon, 25 May 2020 12:33:39 +0200},
+biburl = {https://dblp.org/rec/conf/asm/ScheweF20.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Account and Transaction Protocol of the Open Banking Standard</title><link>/publication/almehrejfm20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>/publication/almehrejfm20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>To counteract the lack of competition and innovation in the financial services industry, the EU has issued the Second Payment Services Directive (PSD2) encouraging account servicing payment service providers to share data. The UK, similarly to other European countries, has promoted a standard API for data sharing: the Open Banking Standard. We present an overview of the results of a formal security analysis of the Account and Transaction API protocol.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-48077-6_16.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-48077-6_16.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{AlmehrejFM20,
+author = {Abdulaziz Almehrej and
+Leo Freitas and
+Paolo Modesti},
+editor = {Alexander Raschke and
+Dominique M{\'{e}}ry and
+Frank Houdek},
+title = {Account and Transaction Protocol of the Open Banking Standard},
+booktitle = {Rigorous State-Based Methods - 7th International Conference, {ABZ}
+2020, Ulm, Germany, May 27-29, 2020, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {12071},
+pages = {230--236},
+publisher = {Springer},
+year = {2020},
+url = {https://doi.org/10.1007/978-3-030-48077-6\_16},
+doi = {10.1007/978-3-030-48077-6\_16},
+timestamp = {Sat, 31 May 2025 23:08:41 +0200},
+biburl = {https://dblp.org/rec/conf/asm/AlmehrejFM20.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Adding Concurrency to a Sequential Refinement Tower</title><link>/publication/schellhornbpr20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>/publication/schellhornbpr20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>This paper defines a concept and a verification methodology for adding concurrency to a sequential refinement tower of abstract state machines, that is based on data refinement and a component structure. We have developed such a refinement tower for the Flashix file system earlier, from which we generate executable (C and Scala) Code. The question we answer in this paper, is how to add concurrency based on locks to such a refinement tower, without breaking the initial modular structure. We achieve this by just enhancing the relevant components, and adding intermediate atomicity refinements that complement the data refinements that are already there. We also give a verification methodology for such atomicity refinements.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-48077-6_2.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-48077-6_2.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{SchellhornBPR20,
+author = {Gerhard Schellhorn and
+Stefan Bodenm{\&amp;quot;{u}}ller and
+J{\&amp;quot;{o}}rg Pf{\&amp;quot;{a}}hler and
+Wolfgang Reif},
+editor = {Alexander Raschke and
+Dominique M{\'{e}}ry and
+Frank Houdek},
+title = {Adding Concurrency to a Sequential Refinement Tower},
+booktitle = {Rigorous State-Based Methods - 7th International Conference, {ABZ}
+2020, Ulm, Germany, May 27-29, 2020, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {12071},
+pages = {6--23},
+publisher = {Springer},
+year = {2020},
+url = {https://doi.org/10.1007/978-3-030-48077-6\_2},
+doi = {10.1007/978-3-030-48077-6\_2},
+timestamp = {Sun, 25 Oct 2020 23:07:20 +0100},
+biburl = {https://dblp.org/rec/conf/asm/SchellhornBPR20.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Analysing ProB&amp;apos;s Constraint Solving Backends - What Do They Know? Do They Know Things? Let&amp;apos;s Find Out</title><link>/publication/dunkelausl20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>/publication/dunkelausl20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>We evaluate the strengths and weaknesses of different backends of the ProB constraint solver. For this, we train a random forest over a database of constraints to classify whether a backend is able to find a solution within a given amount of time or answers unknown. The forest is then analysed in regards of feature importances to determine subsets of the B language in which the respective backends excel or lack for performance. The results are compared to our initial assumptions over each backend’s performance in these subsets based on personal experiences. While we do employ classifiers, we do not aim for a good predictor, but are rather interested in analysis of the classifier’s learned knowledge over the utilised B constraints. The aim is to strengthen our knowledge of the different tools at hand by finding subsets of the B language in which a backend performs better than others.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-48077-6_8.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-48077-6_8.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{DunkelauSL20,
+author = {Jannik Dunkelau and
+Joshua Schmidt and
+Michael Leuschel},
+editor = {Alexander Raschke and
+Dominique M{\'{e}}ry and
+Frank Houdek},
+title = {Analysing ProB's Constraint Solving Backends - What Do They Know?
+Do They Know Things? Let's Find Out!},
+booktitle = {Rigorous State-Based Methods - 7th International Conference, {ABZ}
+2020, Ulm, Germany, May 27-29, 2020, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {12071},
+pages = {107--123},
+publisher = {Springer},
+year = {2020},
+url = {https://doi.org/10.1007/978-3-030-48077-6\_8},
+doi = {10.1007/978-3-030-48077-6\_8},
+timestamp = {Wed, 16 Mar 2022 23:56:06 +0100},
+biburl = {https://dblp.org/rec/conf/asm/DunkelauSL20.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Automatic Generation of DistAlgo Programs from Event-B Models</title><link>/publication/grall20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>/publication/grall20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>The development of distributed algorithms offers challenges in verifying that they meet their specifications. The correct-by-construction approach consists in developing a model of the algorithm before transforming this model into a program.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-48077-6_34.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-48077-6_34.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{Grall20,
+author = {Alexis Grall},
+editor = {Alexander Raschke and
+Dominique M{\'{e}}ry and
+Frank Houdek},
+title = {Automatic Generation of DistAlgo Programs from Event-B Models},
+booktitle = {Rigorous State-Based Methods - 7th International Conference, {ABZ}
+2020, Ulm, Germany, May 27-29, 2020, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {12071},
+pages = {414--417},
+publisher = {Springer},
+year = {2020},
+url = {https://doi.org/10.1007/978-3-030-48077-6\_34},
+doi = {10.1007/978-3-030-48077-6\_34},
+timestamp = {Mon, 25 May 2020 12:33:39 +0200},
+biburl = {https://dblp.org/rec/conf/asm/Grall20.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Diverse Scenario Exploration in Model Finders Using Graph Kernels and Clustering</title><link>/publication/clarisoc20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>/publication/clarisoc20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Complex software systems can be described using modeling notations such as UML/OCL or Alloy. Then, some correctness properties of these systems can be checked using model finders, which compute sample scenarios either fulfilling the desired properties or illustrating potential faults. Such scenarios allow designers to validate, verify and test the system under development. Nevertheless, when asked to produce several scenarios, model finders tend to produce similar solutions. This lack of diversity impairs their effectiveness as testing or validation assets. To solve this problem, we propose the use of graph kernels, a family of methods for computing the (dis)similarity among pairs of graphs. With this metric, it is possible to cluster scenarios effectively, improving the usability of model finders and making testing and validation more efficient.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-48077-6_3.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-48077-6_3.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{ClarisoC20,
+author = {Robert Claris{\'{o}} and
+Jordi Cabot},
+editor = {Alexander Raschke and
+Dominique M{\'{e}}ry and
+Frank Houdek},
+title = {Diverse Scenario Exploration in Model Finders Using Graph Kernels
+and Clustering},
+booktitle = {Rigorous State-Based Methods - 7th International Conference, {ABZ}
+2020, Ulm, Germany, May 27-29, 2020, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {12071},
+pages = {27--43},
+publisher = {Springer},
+year = {2020},
+url = {https://doi.org/10.1007/978-3-030-48077-6\_3},
+doi = {10.1007/978-3-030-48077-6\_3},
+timestamp = {Mon, 15 Jun 2020 17:09:54 +0200},
+biburl = {https://dblp.org/rec/conf/asm/ClarisoC20.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Event-B-Supported Choreography-Defined Communicating Systems - Correctness and Completeness</title><link>/publication/benyagoubas20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>/publication/benyagoubas20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Choreographies prescribe the rendez-vous synchronisation of messages in a communicating system. Such a system is called realisable, if the traces of the prescribed communication coincide with those of the asynchronous system of peers, where the communication channels either use FIFO queues or multiset mailboxes. It has recently been shown that realisability can be characterised by two necessary conditions that together are also sufficient, whereas in general the synchronisability of communicating peers is undecidable. The sufficiency of the conditions permits the construction of correct communicating systems; their necessity shows that all choreography-defined communicating system can be obtained in this way. This article provides an integrated framework based on Event-B for such a construction with a major emphasis on Rodin-based proofs of correctness and completeness.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-48077-6_11.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-48077-6_11.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{BenyagoubAS20,
+author = {Sarah Benyagoub and
+Yamine A{\&amp;quot;{\i}}t Ameur and
+Klaus{-}Dieter Schewe},
+editor = {Alexander Raschke and
+Dominique M{\'{e}}ry and
+Frank Houdek},
+title = {Event-B-Supported Choreography-Defined Communicating Systems - Correctness
+and Completeness},
+booktitle = {Rigorous State-Based Methods - 7th International Conference, {ABZ}
+2020, Ulm, Germany, May 27-29, 2020, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {12071},
+pages = {155--168},
+publisher = {Springer},
+year = {2020},
+url = {https://doi.org/10.1007/978-3-030-48077-6\_11},
+doi = {10.1007/978-3-030-48077-6\_11},
+timestamp = {Mon, 25 May 2020 12:33:39 +0200},
+biburl = {https://dblp.org/rec/conf/asm/BenyagoubAS20.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Event-B: From Systems to Sub-systems Modeling</title><link>/publication/kraibi20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>/publication/kraibi20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Event-B [3] is a formal method that allows the verification of critical systems properties.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-48077-6_35.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-48077-6_35.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{Kraibi20,
+author = {Kenza Kraibi},
+editor = {Alexander Raschke and
+Dominique M{\'{e}}ry and
+Frank Houdek},
+title = {Event-B: From Systems to Sub-systems Modeling},
+booktitle = {Rigorous State-Based Methods - 7th International Conference, {ABZ}
+2020, Ulm, Germany, May 27-29, 2020, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {12071},
+pages = {418--422},
+publisher = {Springer},
+year = {2020},
+url = {https://doi.org/10.1007/978-3-030-48077-6\_35},
+doi = {10.1007/978-3-030-48077-6\_35},
+timestamp = {Sun, 02 Oct 2022 15:55:03 +0200},
+biburl = {https://dblp.org/rec/conf/asm/Kraibi20.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Existence Proof Obligations for Constraints, Properties and Invariants in Atelier B</title><link>/publication/barradasbd20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>/publication/barradasbd20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Proof obligations of the B method and of Event B use predicates in the Constraints, Sets, Properties and Invariant clauses as hypotheses in proof obligations. A contradiction in these predicates results in trivially valid proof obligations and essentially voids the development. A textbook on the B method [3] presents three “existence proof obligations” to show the satisfiability of the Constraints, Properties and Invariant clauses as soon as they are stated in a component. Together with new existence proof obligations for refinement, this prevents the introduction of such contradictions in the refinement chain. This paper presents a detailed formalization of these existence proof obligations, specifying their implementation in Atelier B.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-48077-6_20.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-48077-6_20.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{BarradasBD20,
+author = {H{\'{e}}ctor Ru{\'{\i}}z Barradas and
+Lilian Burdy and
+David D{\'{e}}harbe},
+editor = {Alexander Raschke and
+Dominique M{\'{e}}ry and
+Frank Houdek},
+title = {Existence Proof Obligations for Constraints, Properties and Invariants
+in Atelier {B}},
+booktitle = {Rigorous State-Based Methods - 7th International Conference, {ABZ}
+2020, Ulm, Germany, May 27-29, 2020, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {12071},
+pages = {255--259},
+publisher = {Springer},
+year = {2020},
+url = {https://doi.org/10.1007/978-3-030-48077-6\_20},
+doi = {10.1007/978-3-030-48077-6\_20},
+timestamp = {Mon, 25 May 2020 12:33:39 +0200},
+biburl = {https://dblp.org/rec/conf/asm/BarradasBD20.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Experiences on Teaching Alloy with an Automated Assessment Platform</title><link>/publication/macedocpcsprs20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>/publication/macedocpcsprs20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>This paper presents Alloy4Fun, a web application that enables online editing and sharing of Alloy models and instances (including dynamic ones developed with the Electrum extension), to be used mainly in an educational context. By introducing secret paragraphs and commands in the models, Alloy4Fun allows the distribution and automated assessment of simple specification challenges, a mechanism that enables students to learn the language at their own pace. Alloy4Fun stores all versions of shared and analyzed models, as well as derivation trees that depict how they evolved over time: this wealth of information can be mined by researchers or tutors to identify, for example, learning breakdowns in the class or typical mistakes made by Alloy users. Alloy4Fun has been used in formal methods graduate courses for two years and for the latest edition we present results regarding its adoption by the students, as well as preliminary insights regarding the most common bottlenecks when learning Alloy (and Electrum).&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-48077-6_5.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-48077-6_5.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{MacedoCPCSPRS20,
+author = {Nuno Macedo and
+Alcino Cunha and
+Jos{\'{e}} Pereira and
+Renato Carvalho and
+Ricardo Silva and
+Ana C. R. Paiva and
+Miguel Sozinho Ramalho and
+Daniel Castro Silva},
+editor = {Alexander Raschke and
+Dominique M{\'{e}}ry and
+Frank Houdek},
+title = {Experiences on Teaching Alloy with an Automated Assessment Platform},
+booktitle = {Rigorous State-Based Methods - 7th International Conference, {ABZ}
+2020, Ulm, Germany, May 27-29, 2020, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {12071},
+pages = {61--77},
+publisher = {Springer},
+year = {2020},
+url = {https://doi.org/10.1007/978-3-030-48077-6\_5},
+doi = {10.1007/978-3-030-48077-6\_5},
+timestamp = {Tue, 25 Jun 2024 21:03:18 +0200},
+biburl = {https://dblp.org/rec/conf/asm/MacedoCPCSPRS20.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Exploring the Concept of Abstract State Machines for System Runtime Enforcement</title><link>/publication/riccobenes20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>/publication/riccobenes20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Modern intelligent software systems are rapidly growing in complexity and scale, and many real usage scenarios might be impossible to reproduce and validate at design-time. As envisioned by the
+&lt;a href="mailto:Models@run.time">Models@run.time&lt;/a> research community, the use of formal models at runtime are fundamental to address this challenge. In this paper, we explore the concept of
+&lt;a href="mailto:ASM@run.time">ASM@run.time&lt;/a> and put this definition into the context of the runtime enforcement technique to address the runtime assurance of software systems. This is a work-in-progress research line.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-48077-6_18.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-48077-6_18.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{RiccobeneS20,
+author = {Elvinia Riccobene and
+Patrizia Scandurra},
+editor = {Alexander Raschke and
+Dominique M{\'{e}}ry and
+Frank Houdek},
+title = {Exploring the Concept of Abstract State Machines for System Runtime
+Enforcement},
+booktitle = {Rigorous State-Based Methods - 7th International Conference, {ABZ}
+2020, Ulm, Germany, May 27-29, 2020, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {12071},
+pages = {244--247},
+publisher = {Springer},
+year = {2020},
+url = {https://doi.org/10.1007/978-3-030-48077-6\_18},
+doi = {10.1007/978-3-030-48077-6\_18},
+timestamp = {Mon, 15 Jun 2020 17:09:54 +0200},
+biburl = {https://dblp.org/rec/conf/asm/RiccobeneS20.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Formal Distributed Protocol Development for Reservation of Railway Sections</title><link>/publication/stankaitisikair20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>/publication/stankaitisikair20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>The decentralisation of railway signalling systems has the potential to increase railway network capacity, availability and reduce maintenance costs. Given the safety-critical nature of railway signalling and the complexity of novel distributed signalling solutions, their safety should be guaranteed by using thorough system validation methods. In this paper, we present a rigorous formal development and verification of a distributed protocol for reservation of railway sections, which we believe could deliver benefits of a decentralised signalling while ensuring safety and liveness properties. For the formal distributed protocol development and verification, we devised a multifaceted framework, which aims to reduce modelling and verification effort, while still providing complementary techniques to study protocol from all relevant perspectives.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-48077-6_14.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-48077-6_14.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{StankaitisIKAIR20,
+author = {Paulius Stankaitis and
+Alexei Iliasov and
+Tsutomu Kobayashi and
+Yamine A{\&amp;quot;{\i}}t Ameur and
+Fuyuki Ishikawa and
+Alexander B. Romanovsky},
+editor = {Alexander Raschke and
+Dominique M{\'{e}}ry and
+Frank Houdek},
+title = {Formal Distributed Protocol Development for Reservation of Railway
+Sections},
+booktitle = {Rigorous State-Based Methods - 7th International Conference, {ABZ}
+2020, Ulm, Germany, May 27-29, 2020, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {12071},
+pages = {203--219},
+publisher = {Springer},
+year = {2020},
+url = {https://doi.org/10.1007/978-3-030-48077-6\_14},
+doi = {10.1007/978-3-030-48077-6\_14},
+timestamp = {Mon, 05 Feb 2024 20:35:41 +0100},
+biburl = {https://dblp.org/rec/conf/asm/StankaitisIKAIR20.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Formal Verification of Interoperability Between Future Network Architectures Using Alloy</title><link>/publication/jahaniancr20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>/publication/jahaniancr20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>The Internet is composed of many interconnected, interoperating networks. With the recent advances in Future Internet design, multiple new network architectures, especially Information-Centric Networks (ICN) have emerged. Given the ubiquity of networks based on the Internet Protocol (IP), it is likely that we will have a number of different interconnecting network domains with different architectures, including ICNs. Their interoperability is important, but at the same time difficult to prove. A formal tool can be helpful for such analysis. ICNs have a number of unique characteristics, warranting formal analysis, establishing properties that go beyond, and are different from, what have been used in the state-of-the-art because ICN operates at the level of content names rather than node addresses. We need to focus on node-to-content reachability, rather than node-to-node reachability. In this paper, we present a formal approach to model and analyze information-centric interoperability (ICI). We use Alloy Analyzer’s model finding approach to verify properties expressed as invariants for information-centric services (both pull and push-based models) including content reachability and returnability. We extend our use of Alloy to model counting, to quantitatively analyze failure and mobility properties. We present a formally-verified ICI framework that allows for seamless interoperation among a multitude of network architectures. We also report on the impact of domain types, routing policies, and binding techniques on the probability of content reachability and returnability, under failures and mobility.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-48077-6_4.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-48077-6_4.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{JahanianCR20,
+author = {Mohammad Jahanian and
+Jiachen Chen and
+K. K. Ramakrishnan},
+editor = {Alexander Raschke and
+Dominique M{\'{e}}ry and
+Frank Houdek},
+title = {Formal Verification of Interoperability Between Future Network Architectures
+Using Alloy},
+booktitle = {Rigorous State-Based Methods - 7th International Conference, {ABZ}
+2020, Ulm, Germany, May 27-29, 2020, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {12071},
+pages = {44--60},
+publisher = {Springer},
+year = {2020},
+url = {https://doi.org/10.1007/978-3-030-48077-6\_4},
+doi = {10.1007/978-3-030-48077-6\_4},
+timestamp = {Mon, 25 May 2020 12:33:39 +0200},
+biburl = {https://dblp.org/rec/conf/asm/JahanianCR20.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Formally Verified Architecture Patterns of Hybrid Systems Using Proof and Refinement with Event-B</title><link>/publication/dupontaps20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>/publication/dupontaps20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Cyber-Physical Systems (CPS) play a central role in modern days technology. From simple thermostat controllers to more advanced autonomous cars, their versatility makes them perfect candidates for many applications, in particular for safety critical ones. Thus, their certification is a key issue and formal methods are good candidates to assess safety and produce associated certificates. Hybrid systems show continuous-time dynamics depending on mode that is required in several stages of the architecture of Cyber-Physical Systems. Our work addresses the problem of formally verifying hybrid systems using refinement and proof with Event-B. Our previous work [14] presented formally verified generic architecture patterns for designing centralised hybrid systems, based on our generic approach [15]. We extend this work and give a formally verified architecture pattern aimed at modelling distributed hybrid systems, featuring multiple plants and multiple controllers. We validate the approach and illustrate the use of the defined pattern on an extension of a very common case study, borrowed from literature.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-48077-6_12.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-48077-6_12.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{DupontAPS20,
+author = {Guillaume Dupont and
+Yamine A{\&amp;quot;{\i}}t Ameur and
+Marc Pantel and
+Neeraj Kumar Singh},
+editor = {Alexander Raschke and
+Dominique M{\'{e}}ry and
+Frank Houdek},
+title = {Formally Verified Architecture Patterns of Hybrid Systems Using Proof
+and Refinement with Event-B},
+booktitle = {Rigorous State-Based Methods - 7th International Conference, {ABZ}
+2020, Ulm, Germany, May 27-29, 2020, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {12071},
+pages = {169--185},
+publisher = {Springer},
+year = {2020},
+url = {https://doi.org/10.1007/978-3-030-48077-6\_12},
+doi = {10.1007/978-3-030-48077-6\_12},
+timestamp = {Thu, 10 Nov 2022 08:55:26 +0100},
+biburl = {https://dblp.org/rec/conf/asm/DupontAPS20.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Improving Trustworthiness of Self-driving Systems</title><link>/publication/alotaibi20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>/publication/alotaibi20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Self-Driving Vehicles (SDVs) are considered to be safety-critical system. They may jeopardize the lives of passengers in the vehicle and people in the street, or damaging public property such as the transportation infrastructure. According to the National Transportation Safety Board report [1] of an Uber self-driving crash, the accident was caused by the internal components of SDVs when the AI module failed to detect a victim. The autonomous system was implemented to give a human driver control of a vehicle on the unmanaged areas; however, the driver was distracted and did not react within the appropriate time.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-48077-6_32.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-48077-6_32.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{Alotaibi20,
+author = {Fahad Alotaibi},
+editor = {Alexander Raschke and
+Dominique M{\'{e}}ry and
+Frank Houdek},
+title = {Improving Trustworthiness of Self-driving Systems},
+booktitle = {Rigorous State-Based Methods - 7th International Conference, {ABZ}
+2020, Ulm, Germany, May 27-29, 2020, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {12071},
+pages = {405--408},
+publisher = {Springer},
+year = {2020},
+url = {https://doi.org/10.1007/978-3-030-48077-6\_32},
+doi = {10.1007/978-3-030-48077-6\_32},
+timestamp = {Tue, 16 Jun 2020 17:18:07 +0200},
+biburl = {https://dblp.org/rec/conf/asm/Alotaibi20.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Integration of iUML-B and UPPAAL Timed Automata for Development of Real-Time Systems with Concurrent Processes</title><link>/publication/shokri-manninen20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>/publication/shokri-manninen20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Developing safety-critical systems requires to consider safety and real-time requirements in addition to functional requirements. Event-B is a formalism that is visualised by iUML-B and supports the development of functional aspects having rich verification and validation tools. However, it lacks well-established support for timing analysis. UPPAAL Timed Automata (UTA), on the other hand, address timing aspects of systems, and enable model checking reachability and timing properties. By integrating iUML-B and UTA, we combine the best verifying and validating practices from the two methods achieving a formal development of systems. We present the mapping for translating iUML-B constructs to UTA. The novel aspect is the use of a multi-process trigger-response pattern to address the modelling and verification of reachability properties of complex systems with concurrent processes. The approach is demonstrated on an airport control system, where timing, fairness, as well as liveness properties play a vital role in proving safety requirements.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-48077-6_13.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-48077-6_13.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{Shokri-Manninen20,
+author = {Fatima Shokri{-}Manninen and
+Leonidas Tsiopoulos and
+J{\&amp;quot;{u}}ri Vain and
+Marina Wald{\'{e}}n},
+editor = {Alexander Raschke and
+Dominique M{\'{e}}ry and
+Frank Houdek},
+title = {Integration of iUML-B and {UPPAAL} Timed Automata for Development
+of Real-Time Systems with Concurrent Processes},
+booktitle = {Rigorous State-Based Methods - 7th International Conference, {ABZ}
+2020, Ulm, Germany, May 27-29, 2020, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {12071},
+pages = {186--202},
+publisher = {Springer},
+year = {2020},
+url = {https://doi.org/10.1007/978-3-030-48077-6\_13},
+doi = {10.1007/978-3-030-48077-6\_13},
+timestamp = {Fri, 09 Apr 2021 18:50:59 +0200},
+biburl = {https://dblp.org/rec/conf/asm/Shokri-Manninen20.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Modelling and Verification of Robotic Platforms for Simulation Using RoboStar Technology</title><link>/publication/cavalcanti20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>/publication/cavalcanti20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>The RoboStar framework supports model-based engineering of robotic applications.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-48077-6_1.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-48077-6_1.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{Cavalcanti20,
+author = {Ana Cavalcanti},
+editor = {Alexander Raschke and
+Dominique M{\'{e}}ry and
+Frank Houdek},
+title = {Modelling and Verification of Robotic Platforms for Simulation Using
+RoboStar Technology},
+booktitle = {Rigorous State-Based Methods - 7th International Conference, {ABZ}
+2020, Ulm, Germany, May 27-29, 2020, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {12071},
+pages = {3--5},
+publisher = {Springer},
+year = {2020},
+url = {https://doi.org/10.1007/978-3-030-48077-6\_1},
+doi = {10.1007/978-3-030-48077-6\_1},
+timestamp = {Sat, 09 Apr 2022 12:45:50 +0200},
+biburl = {https://dblp.org/rec/conf/asm/Cavalcanti20.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Modelling Hybrid Programs with Event-B</title><link>/publication/afendilm20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>/publication/afendilm20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Hybrid systems are one of the most common mathematical models for Cyber-Physical Systems (CPSs). They combine discrete dynamics represented by state machines or finite automata with continuous behaviors represented by differential equations. The measurement of continuous behaviors is performed by sensors. When these sensors have a continuous access to these measurements, we call such model an Event-Triggered model. The properties of this model are easier to prove, while its implementation is difficult in practice. Therefore, it is preferable to introduce a more realistic model, called Time-Triggered model, where the sensors take periodic measurements. Contrary to Event-Triggered models, Time-Triggered models are much easier to implement, but much more difficult to verify. Based on the differential refinement logic (dR(\mathcal {L})), a dynamic logic for refinement relations on hybrid systems, it is possible to prove that a Time-Triggered model refines an Event-Triggered model. The major limitation of such logic is that it is not supported by any prover. In this paper, we propose a correct-by-construction approach that implements the reasoning on hybrid programs particularly the reasoning of dR(\mathcal {L}) in Event-B to take advantage of its associated tools.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-48077-6_10.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-48077-6_10.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{AfendiLM20,
+author = {Meryem Afendi and
+R{\'{e}}gine Laleau and
+Amel Mammar},
+editor = {Alexander Raschke and
+Dominique M{\'{e}}ry and
+Frank Houdek},
+title = {Modelling Hybrid Programs with Event-B},
+booktitle = {Rigorous State-Based Methods - 7th International Conference, {ABZ}
+2020, Ulm, Germany, May 27-29, 2020, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {12071},
+pages = {139--154},
+publisher = {Springer},
+year = {2020},
+url = {https://doi.org/10.1007/978-3-030-48077-6\_10},
+doi = {10.1007/978-3-030-48077-6\_10},
+timestamp = {Tue, 16 Jun 2020 17:18:07 +0200},
+biburl = {https://dblp.org/rec/conf/asm/AfendiLM20.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>ProB and Jupyter for Logic, Set Theory, Theoretical Computer Science and Formal Methods</title><link>/publication/gelessusl20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>/publication/gelessusl20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>We present a tool for using the B language in computational notebooks, based on the Jupyter Notebook interface and the ProB tool. Applications of B notebooks include executable documentation of formal models, interactive manuals, validation reports but also teaching of formal methods, logic, set theory and theoretical computer science. In addition to B and Event-B, the tool supports Z, (\textsc {TLA}^{+}) and Alloy.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-48077-6_19.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-48077-6_19.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{GelessusL20,
+author = {David Gele{\ss}us and
+Michael Leuschel},
+editor = {Alexander Raschke and
+Dominique M{\'{e}}ry and
+Frank Houdek},
+title = {ProB and Jupyter for Logic, Set Theory, Theoretical Computer Science
+and Formal Methods},
+booktitle = {Rigorous State-Based Methods - 7th International Conference, {ABZ}
+2020, Ulm, Germany, May 27-29, 2020, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {12071},
+pages = {248--254},
+publisher = {Springer},
+year = {2020},
+url = {https://doi.org/10.1007/978-3-030-48077-6\_19},
+doi = {10.1007/978-3-030-48077-6\_19},
+timestamp = {Tue, 16 Jun 2020 17:18:07 +0200},
+biburl = {https://dblp.org/rec/conf/asm/GelessusL20.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Programming the CLEARSY Safety Platform with B</title><link>/publication/lecomte20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>/publication/lecomte20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>The CLEARSY Safety Platform (CSSP) is aimed at easing the development and the deployment of safety critical applications, up to the safety integrity level 4 (SIL4). It relies on the smart integration of the B formal method, redundant code generation and compilation, and a hardware platform that ensures a safe execution of the software. This paper exposes the programming model of the CSSP used to develop control &amp;amp; command applications based on digital I/Os.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-48077-6_9.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-48077-6_9.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{Lecomte20,
+author = {Thierry Lecomte},
+editor = {Alexander Raschke and
+Dominique M{\'{e}}ry and
+Frank Houdek},
+title = {Programming the {CLEARSY} Safety Platform with {B}},
+booktitle = {Rigorous State-Based Methods - 7th International Conference, {ABZ}
+2020, Ulm, Germany, May 27-29, 2020, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {12071},
+pages = {124--138},
+publisher = {Springer},
+year = {2020},
+url = {https://doi.org/10.1007/978-3-030-48077-6\_9},
+doi = {10.1007/978-3-030-48077-6\_9},
+timestamp = {Mon, 25 May 2020 12:33:39 +0200},
+biburl = {https://dblp.org/rec/conf/asm/Lecomte20.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Refinement and Verification of Responsive Control Systems</title><link>/publication/morrisshhab20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>/publication/morrisshhab20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Statechart notations with ‘run to completion’ semantics, are popular with engineers for designing controllers that respond to events in the environment with a sequence of state transitions. However, they lack formal refinement and rigorous verification methods. , on the other hand, is based on refinement from an initial abstraction and is designed to make formal verification by automatic theorem provers feasible. We introduce a notion of refinement into a ‘run to completion’ statechart modelling notation, and leverage tool support for theorem proving. We describe the difficulties in translating ‘run to completion’ semantics into refinements and suggest a solution. We outline how safety and liveness properties could be verified.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-48077-6_23.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-48077-6_23.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{MorrisSHHAB20,
+author = {Karla Morris and
+Colin F. Snook and
+Thai Son Hoang and
+Geoffrey C. Hulette and
+Robert C. Armstrong and
+Michael J. Butler},
+editor = {Alexander Raschke and
+Dominique M{\'{e}}ry and
+Frank Houdek},
+title = {Refinement and Verification of Responsive Control Systems},
+booktitle = {Rigorous State-Based Methods - 7th International Conference, {ABZ}
+2020, Ulm, Germany, May 27-29, 2020, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {12071},
+pages = {272--277},
+publisher = {Springer},
+year = {2020},
+url = {https://doi.org/10.1007/978-3-030-48077-6\_23},
+doi = {10.1007/978-3-030-48077-6\_23},
+timestamp = {Mon, 03 Jan 2022 22:35:01 +0100},
+biburl = {https://dblp.org/rec/conf/asm/MorrisSHHAB20.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Structuring the State and Behavior of ASMs: Introducing a Trait-Based Construct for Abstract State Machine Languages</title><link>/publication/paulweberpz20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>/publication/paulweberpz20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Abstract State Machine (ASM) theory is a well-known state-based formal method to analyze, verify, and specify software and hardware systems. Nowadays, as in other state-based formal methods, the proposed specification languages for ASMs still lack easy-to-comprehend language constructs for type abstractions to describe reusable and maintainable specifications. Almost all built-in behaviors are implicitly defined inside a concrete ASM language implementation and thus, the behavior is hidden from the language user. In this paper, we present a new ASM syntax extension based on traits, which allows the specifier (language user) to define new type abstractions in the form of structure and behavior definitions to reuse, maintain, structure, and extend the functionality in ASM specifications. We describe the proposed language construct by defining its syntax and semantics. The decision to use a trait-based syntax extension over other object-oriented language constructs like interfaces or mixins was motivated and driven by the results of previously conducted empirical studies. Moreover, we outline details about the implementation of the trait-based syntax extension in our Corinthian Abstract State Machine (CASM) language implementation.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-48077-6_17.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-48077-6_17.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{PaulweberPZ20,
+author = {Philipp Paulweber and
+Emmanuel Pescosta and
+Uwe Zdun},
+editor = {Alexander Raschke and
+Dominique M{\'{e}}ry and
+Frank Houdek},
+title = {Structuring the State and Behavior of ASMs: Introducing a Trait-Based
+Construct for Abstract State Machine Languages},
+booktitle = {Rigorous State-Based Methods - 7th International Conference, {ABZ}
+2020, Ulm, Germany, May 27-29, 2020, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {12071},
+pages = {237--243},
+publisher = {Springer},
+year = {2020},
+url = {https://doi.org/10.1007/978-3-030-48077-6\_17},
+doi = {10.1007/978-3-030-48077-6\_17},
+timestamp = {Sun, 02 Oct 2022 15:55:03 +0200},
+biburl = {https://dblp.org/rec/conf/asm/PaulweberPZ20.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Towards a Shared Specification Repository</title><link>/publication/kornerld20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>/publication/kornerld20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Many formal methods research communities lack a shared set of benchmarks. As a result, many research articles in the past have evaluated new techniques on specifications that are specifically tailored to the problem or not publicly available. While this is great for proving the concept in question, it does not offer any insights on how it performs on real-world examples. Additionally, with machine learning techniques gaining more popularity, a larger set of public specifications is required. In this paper, we present our public set of B machines and urge contribution. As we think this to be an issue in other communities in scope of the ABZ as well, we are also interested in specifications expressed in other formalisms, for example Alloy, TLA(^{+}) or Z.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-48077-6_22.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-48077-6_22.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{KornerLD20,
+author = {Philipp K{\&amp;quot;{o}}rner and
+Michael Leuschel and
+Jannik Dunkelau},
+editor = {Alexander Raschke and
+Dominique M{\'{e}}ry and
+Frank Houdek},
+title = {Towards a Shared Specification Repository},
+booktitle = {Rigorous State-Based Methods - 7th International Conference, {ABZ}
+2020, Ulm, Germany, May 27-29, 2020, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {12071},
+pages = {266--271},
+publisher = {Springer},
+year = {2020},
+url = {https://doi.org/10.1007/978-3-030-48077-6\_22},
+doi = {10.1007/978-3-030-48077-6\_22},
+timestamp = {Tue, 16 Jun 2020 17:18:07 +0200},
+biburl = {https://dblp.org/rec/conf/asm/KornerLD20.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Verifying SGAC Access Control Policies: A Comparison of ProB, Alloy and Z3</title><link>/publication/oliveiraf20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>/publication/oliveiraf20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>This paper describes the formalisation of SGAC access control policies using Z3 and then we compare the performance with ProB and Alloy. SGAC is an attribute-based, fine-grain access control model that uses acyclic subject and resource graphs to provide rule inheritance and streamline policy specification. To ensure patient privacy and safety, four types of properties are checked: accessibility, availability, contextuality and rule effectiveness. Automatic translation of SGAC policies into each specification language has been defined. ProB offers the best verification performances, by two orders of magnitude. The performances of Alloy and Z3 are similar.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-48077-6_15.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-48077-6_15.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{OliveiraF20,
+author = {Diego de Azevedo Oliveira and
+Marc Frappier},
+editor = {Alexander Raschke and
+Dominique M{\'{e}}ry and
+Frank Houdek},
+title = {Verifying {SGAC} Access Control Policies: {A} Comparison of ProB,
+Alloy and {Z3}},
+booktitle = {Rigorous State-Based Methods - 7th International Conference, {ABZ}
+2020, Ulm, Germany, May 27-29, 2020, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {12071},
+pages = {223--229},
+publisher = {Springer},
+year = {2020},
+url = {https://doi.org/10.1007/978-3-030-48077-6\_15},
+doi = {10.1007/978-3-030-48077-6\_15},
+timestamp = {Mon, 25 May 2020 12:33:39 +0200},
+biburl = {https://dblp.org/rec/conf/asm/OliveiraF20.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>VisB: A Lightweight Tool to Visualize Formal Models with SVG Graphics</title><link>/publication/werthl20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>/publication/werthl20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Visualization is important to present formal models to domain experts and to spot issues which are hard to formalise or have not been formalised yet. VisB is a visualization plugin for the ProB animator and model checker. VisB enables the user to create simple visualizations for formal models. An important design criterion was to re-use scalable vector graphics (SVG) generated by off-the-shelf graphic editors using a lightweight and easy-to-use annotation mechanism. The visualizations can be used to formal models in B, Event-B, Z, TLA+ and Alloy.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-48077-6_21.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-48077-6_21.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{WerthL20,
+author = {Michelle Werth and
+Michael Leuschel},
+editor = {Alexander Raschke and
+Dominique M{\'{e}}ry and
+Frank Houdek},
+title = {VisB: {A} Lightweight Tool to Visualize Formal Models with {SVG} Graphics},
+booktitle = {Rigorous State-Based Methods - 7th International Conference, {ABZ}
+2020, Ulm, Germany, May 27-29, 2020, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {12071},
+pages = {260--265},
+publisher = {Springer},
+year = {2020},
+url = {https://doi.org/10.1007/978-3-030-48077-6\_21},
+doi = {10.1007/978-3-030-48077-6\_21},
+timestamp = {Mon, 25 May 2020 12:33:39 +0200},
+biburl = {https://dblp.org/rec/conf/asm/WerthL20.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Adaptive Exterior Light and Speed Control System (ABZ 2020)</title><link>/case-study/abz20/</link><pubDate>Thu, 01 Jan 1970 00:33:40 +0000</pubDate><guid>/case-study/abz20/</guid><description>&lt;p>This document describes two systems from the automotive domain: an adaptive exterior light system (ELS) and a speed control system (SCS). This specification is based on the SPES XT running example. Besides their general architectures, the requirements of the software based controllers are described. Both systems are only loosely coupled, which makes it possible to handle them independently&lt;/p></description></item></channel></rss>

@@ -1,4 +1,541 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Michael J. Butler | ABZ</title><link>/author/michael-j.-butler/</link><atom:link href="/author/michael-j.-butler/index.xml" rel="self" type="application/rss+xml"/><description>Michael J. Butler</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Sun, 01 May 2016 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Michael J. Butler</title><link>/author/michael-j.-butler/</link></image><item><title>Validating the Requirements and Design of a Hemodialysis Machine Using iUML-B, BMotion Studio, and Co-Simulation</title><link>/publication/hoang2016abz/</link><pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate><guid>/publication/hoang2016abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Michael J. Butler | ABZ</title><link>/author/michael-j.-butler/</link><atom:link href="/author/michael-j.-butler/index.xml" rel="self" type="application/rss+xml"/><description>Michael J. Butler</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Michael J. Butler</title><link>/author/michael-j.-butler/</link></image><item><title>An Event-B Formal Model for Access Control and Resource Management of Serverless Apps</title><link>/publication/yagmahanrb24/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>/publication/yagmahanrb24/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Cloud computing technologies help developers build scalable distributed apps. Serverless architecture, or Function as a Service (FaaS), which separates app businesses into multiple functions, is one of the cloud-native architectures that has gained popularity. Those functions can be developed and deployed independently without provisioning infrastructure. Despite the considerable advantages and increasing popularity of cloud-native apps, developers face many challenges when building their cloud-native applications. To ensure the robustness and security of cloud-native apps and protect crucial resources, the design and implementation of functions and associated access control systems play a pivotal role. In this paper, we have employed formal methods and tools to develop a set of patterns to help cloud-native application developers to design robust serverless apps. We have used Event-B and its associated toolset, Rodin, to construct these formal patterns and demonstrated how these patterns can be used in practical case studies.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-63790-2_11.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-63790-2_11.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{YagmahanRB24,
+author = {Mehmet Said Nur Yagmahan and
+Abdolbaghi Rezazadeh and
+Michael J. Butler},
+editor = {Silvia Bonfanti and
+Angelo Gargantini and
+Michael Leuschel and
+Elvinia Riccobene and
+Patrizia Scandurra},
+title = {An Event-B Formal Model for Access Control and Resource Management
+of Serverless Apps},
+booktitle = {Rigorous State-Based Methods - 10th International Conference, {ABZ}
+2024, Bergamo, Italy, June 25-28, 2024, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14759},
+pages = {181--190},
+publisher = {Springer},
+year = {2024},
+url = {https://doi.org/10.1007/978-3-031-63790-2\_11},
+doi = {10.1007/978-3-031-63790-2\_11},
+timestamp = {Thu, 04 Jul 2024 22:05:23 +0200},
+biburl = {https://dblp.org/rec/conf/zum/YagmahanRB24.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Designing Exception Handling Using Event-B</title><link>/publication/fathabadishtbas24/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>/publication/fathabadishtbas24/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>The design of exception handling is a complex task requiring insight and domain expertise to ensure that potential abnormal conditions are identified and a recovery process is designed to return the system to a safe state. Formal methods can address this complexity, by supporting the analysis of exception handling at the abstract design stages utilising mathematical modelling and proofs. Event-B is a state-based formal method for modelling and verifying the consistency of discrete systems. However it lacks explicit support for analysing the handling of exceptions. In this paper, we use UML-B state machines to support the modelling of normal behaviour assisting the identification and handling of exceptions. This is followed by verification of exception handler recovery mechanisms using the built-in model checker and provers of the Event-B tool-set.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-63790-2_22.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-63790-2_22.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{FathabadiSHTBAS24,
+author = {Asieh Salehi Fathabadi and
+Colin F. Snook and
+Thai Son Hoang and
+Robert Thorburn and
+Michael J. Butler and
+Leonardo Aniello and
+Vladimiro Sassone},
+editor = {Silvia Bonfanti and
+Angelo Gargantini and
+Michael Leuschel and
+Elvinia Riccobene and
+Patrizia Scandurra},
+title = {Designing Exception Handling Using Event-B},
+booktitle = {Rigorous State-Based Methods - 10th International Conference, {ABZ}
+2024, Bergamo, Italy, June 25-28, 2024, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14759},
+pages = {270--277},
+publisher = {Springer},
+year = {2024},
+url = {https://doi.org/10.1007/978-3-031-63790-2\_22},
+doi = {10.1007/978-3-031-63790-2\_22},
+timestamp = {Thu, 04 Jul 2024 22:05:23 +0200},
+biburl = {https://dblp.org/rec/conf/zum/FathabadiSHTBAS24.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Event-B Development of Modelling Human Intervention Request in Self-driving Vehicle Systems</title><link>/publication/alotaibihfb24/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>/publication/alotaibihfb24/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>In the design of autonomous systems, seamless integration with human operators is crucial, particularly when humans are considered as a fail-safe for intervening in hazardous situations. This study presents an Event-B intervention timing pattern designed to include human drivers’ responses when they act as fallback mechanisms in Self-Driving Vehicle (SDV) systems. The proposed pattern outlines specific timings for driver interventions following alerts from SDVs, offering a clear set of expectations and conditions for human drivers during these critical takeover instances. The usability of this pattern is demonstrated through a case study, highlighting its importance for situations that require interventions. Ultimately, it sheds light on the operational aspects of SDVs, ensuring a safe and orderly transition from automated to manual control.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-63790-2_3.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-63790-2_3.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{AlotaibiHFB24,
+author = {Fahad Alotaibi and
+Thai Son Hoang and
+Asieh Salehi Fathabadi and
+Michael J. Butler},
+editor = {Silvia Bonfanti and
+Angelo Gargantini and
+Michael Leuschel and
+Elvinia Riccobene and
+Patrizia Scandurra},
+title = {Event-B Development of Modelling Human Intervention Request in Self-driving
+Vehicle Systems},
+booktitle = {Rigorous State-Based Methods - 10th International Conference, {ABZ}
+2024, Bergamo, Italy, June 25-28, 2024, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14759},
+pages = {43--60},
+publisher = {Springer},
+year = {2024},
+url = {https://doi.org/10.1007/978-3-031-63790-2\_3},
+doi = {10.1007/978-3-031-63790-2\_3},
+timestamp = {Thu, 04 Jul 2024 22:05:23 +0200},
+biburl = {https://dblp.org/rec/conf/zum/AlotaibiHFB24.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Semantics Formalisation - From Event-B Contexts to Theories</title><link>/publication/hoangvwsb24/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>/publication/hoangvwsb24/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>The Event-B modelling language has been used to formalise the semantics of other modelling languages such as Time Mobility (TiMo) or State Chart XML (SCXML). Typically, the syntactical elements of the languages are captured as Event-B contexts while the semantical elements are formalised in Event-B machines. An alternative for capturing a modelling language’s semantics is to use the Theory plug-in to build datatypes capturing the syntactical elements of the language and operators to represent the various semantical aspects of the language. This paper draws on our experience on the statemanchines (part of SCXML) to compare the two approaches in terms of modelling efforts.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-63790-2_14.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-63790-2_14.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{HoangVWSB24,
+author = {Thai Son Hoang and
+Laurent Voisin and
+Karla Vanessa Morris Wright and
+Colin F. Snook and
+Michael J. Butler},
+editor = {Silvia Bonfanti and
+Angelo Gargantini and
+Michael Leuschel and
+Elvinia Riccobene and
+Patrizia Scandurra},
+title = {Semantics Formalisation - From Event-B Contexts to Theories},
+booktitle = {Rigorous State-Based Methods - 10th International Conference, {ABZ}
+2024, Bergamo, Italy, June 25-28, 2024, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14759},
+pages = {208--214},
+publisher = {Springer},
+year = {2024},
+url = {https://doi.org/10.1007/978-3-031-63790-2\_14},
+doi = {10.1007/978-3-031-63790-2\_14},
+timestamp = {Thu, 04 Jul 2024 22:05:23 +0200},
+biburl = {https://dblp.org/rec/conf/zum/HoangVWSB24.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Designing Critical Systems Using Hierarchical STPA and Event-B</title><link>/publication/fathabadisdhab23/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>/publication/fathabadisdhab23/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>In the design of critical systems, it is important to ensure a degree of formality so that we reason about safety and security at early stages of analysis and design, rather than detect problems later. Influenced by ideas from STPA we present a hierarchical analysis process that aims to justify the design and flow-down of derived critical requirements arising from safety hazards and security vulnerabilities identified at the system level. At each level, we verify that the design achieves the safety/security requirements by backing the analysis with formal modelling and proof using Event-B refinement. The formal model helps to identify hazards/vulnerabilities arising from the design and how they relate to the safety accidents/security losses being considered at this level. We then re-apply the same process to each component of the design in a hierarchical manner. Thus we use ideas from STPA, backed by Event-B models, to drive the design, replacing the system level requirements with component requirements. In doing so, we decompose critical requirements down to components, transforming them from abstract system level requirements, towards concrete solutions that we can implement correctly so that the hazards/vulnerabilities are eliminated.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-33163-3_17.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-33163-3_17.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{FathabadiSDHAB23,
+author = {Asieh Salehi Fathabadi and
+Colin F. Snook and
+Dana Dghaym and
+Thai Son Hoang and
+Fahad Alotaibi and
+Michael J. Butler},
+editor = {Uwe Gl{\&amp;quot;{a}}sser and
+Jos{\'{e}} Creissac Campos and
+Dominique M{\'{e}}ry and
+Philippe A. Palanque},
+title = {Designing Critical Systems Using Hierarchical {STPA} and Event-B},
+booktitle = {Rigorous State-Based Methods - 9th International Conference, {ABZ}
+2023, Nancy, France, May 30 - June 2, 2023, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14010},
+pages = {220--237},
+publisher = {Springer},
+year = {2023},
+url = {https://doi.org/10.1007/978-3-031-33163-3\_17},
+doi = {10.1007/978-3-031-33163-3\_17},
+timestamp = {Fri, 02 Jun 2023 21:23:52 +0200},
+biburl = {https://dblp.org/rec/conf/zum/FathabadiSDHAB23.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Extensible Record Structures in Event-B</title><link>/publication/fathabadishdb21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>/publication/fathabadishdb21/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Event-B is a state-based formal method for system development. The Event-B mathematical language does not support a syntax for the direct definition of structured types such as records. This paper proposes extending the Event-B language with direct record definitions. A key feature is the ability to extend records with new fields in refinement steps. The XEvent-B tool, which supports a textual representation of Event-B models, is extended to provide support for direct record definition and automatic transformation of record structures into standard Event-B elements. We demonstrate this work by modelling of the Tokeneer case study.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-77543-8_12.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-77543-8_12.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{FathabadiSHDB21,
+author = {Asieh Salehi Fathabadi and
+Colin F. Snook and
+Thai Son Hoang and
+Dana Dghaym and
+Michael J. Butler},
+editor = {Alexander Raschke and
+Dominique M{\'{e}}ry},
+title = {Extensible Record Structures in Event-B},
+booktitle = {Rigorous State-Based Methods - 8th International Conference, {ABZ}
+2021, Ulm, Germany, June 9-11, 2021, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {12709},
+pages = {130--136},
+publisher = {Springer},
+year = {2021},
+url = {https://doi.org/10.1007/978-3-030-77543-8\_12},
+doi = {10.1007/978-3-030-77543-8\_12},
+timestamp = {Tue, 15 Jun 2021 17:24:03 +0200},
+biburl = {https://dblp.org/rec/conf/asm/FathabadiSHDB21.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>The CamilleX Framework for the Rodin Platform</title><link>/publication/hoangsdfb21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>/publication/hoangsdfb21/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>We present the CamilleX framework for the Rodin platform in this paper. The framework provides a textual representation and persistence for the Event-B modelling constructs. It supports direct extensions to the Event-B syntax such as machine inclusion and record structures, as well as indirect extensions provided by other plugins such as UML-B diagrams. We discusses CamilleX’s design and in particular, its extension mechanisms and examples of their use.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-77543-8_11.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-77543-8_11.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{HoangSDFB21,
+author = {Thai Son Hoang and
+Colin F. Snook and
+Dana Dghaym and
+Asieh Salehi Fathabadi and
+Michael J. Butler},
+editor = {Alexander Raschke and
+Dominique M{\'{e}}ry},
+title = {The CamilleX Framework for the Rodin Platform},
+booktitle = {Rigorous State-Based Methods - 8th International Conference, {ABZ}
+2021, Ulm, Germany, June 9-11, 2021, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {12709},
+pages = {124--129},
+publisher = {Springer},
+year = {2021},
+url = {https://doi.org/10.1007/978-3-030-77543-8\_11},
+doi = {10.1007/978-3-030-77543-8\_11},
+timestamp = {Tue, 15 Jun 2021 17:24:03 +0200},
+biburl = {https://dblp.org/rec/conf/asm/HoangSDFB21.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Verifying System-Level Security of a Smart Ballot Box</title><link>/publication/dghaymhbhas21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>/publication/dghaymhbhas21/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Event-B, a refinement-based formal modelling language, has traditionally focused on safety, but now increasingly finds a new role in developing secure systems. In this paper we take a fresh look at security and focus on what security means for the system rather than looking at detailed protocols. We use Event-B for proving security from an abstract view and refining it towards design details, focusing on the refinement of the availability property of the system. We define a general approach to guarantee the availability of events by ensuring the non-strengthening of their guards, taking into consideration their parameter types. We illustrate our approach using a smart ballot system, an integral part of modern voting systems.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-77543-8_3.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-77543-8_3.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{DghaymHBHAS21,
+author = {Dana Dghaym and
+Thai Son Hoang and
+Michael J. Butler and
+Runshan Hu and
+Leonardo Aniello and
+Vladimiro Sassone},
+editor = {Alexander Raschke and
+Dominique M{\'{e}}ry},
+title = {Verifying System-Level Security of a Smart Ballot Box},
+booktitle = {Rigorous State-Based Methods - 8th International Conference, {ABZ}
+2021, Ulm, Germany, June 9-11, 2021, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {12709},
+pages = {34--49},
+publisher = {Springer},
+year = {2021},
+url = {https://doi.org/10.1007/978-3-030-77543-8\_3},
+doi = {10.1007/978-3-030-77543-8\_3},
+timestamp = {Wed, 09 Jun 2021 12:14:31 +0200},
+biburl = {https://dblp.org/rec/conf/asm/DghaymHBHAS21.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Refinement and Verification of Responsive Control Systems</title><link>/publication/morrisshhab20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>/publication/morrisshhab20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Statechart notations with ‘run to completion’ semantics, are popular with engineers for designing controllers that respond to events in the environment with a sequence of state transitions. However, they lack formal refinement and rigorous verification methods. , on the other hand, is based on refinement from an initial abstraction and is designed to make formal verification by automatic theorem provers feasible. We introduce a notion of refinement into a ‘run to completion’ statechart modelling notation, and leverage tool support for theorem proving. We describe the difficulties in translating ‘run to completion’ semantics into refinements and suggest a solution. We outline how safety and liveness properties could be verified.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-48077-6_23.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-48077-6_23.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{MorrisSHHAB20,
+author = {Karla Morris and
+Colin F. Snook and
+Thai Son Hoang and
+Geoffrey C. Hulette and
+Robert C. Armstrong and
+Michael J. Butler},
+editor = {Alexander Raschke and
+Dominique M{\'{e}}ry and
+Frank Houdek},
+title = {Refinement and Verification of Responsive Control Systems},
+booktitle = {Rigorous State-Based Methods - 7th International Conference, {ABZ}
+2020, Ulm, Germany, May 27-29, 2020, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {12071},
+pages = {272--277},
+publisher = {Springer},
+year = {2020},
+url = {https://doi.org/10.1007/978-3-030-48077-6\_23},
+doi = {10.1007/978-3-030-48077-6\_23},
+timestamp = {Mon, 03 Jan 2022 22:35:01 +0100},
+biburl = {https://dblp.org/rec/conf/asm/MorrisSHHAB20.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Refinement of Timing Constraints for Concurrent Tasks with Scheduling</title><link>/publication/zhubc18/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>/publication/zhubc18/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Event-B is a refinement-based formal method that is used for system-level modeling and analysis of concurrent and distributed systems. Work has been done to extend Event-B with discrete time constraints. However the previous work does not capture the communication and competition between concurrent processes. In this paper, we distinguish task-based timing properties with scheduler-based timing properties from the perspective of different system design phases. To refine task-based timing properties with scheduler-based timing properties based on existing trigger-response patterns, we introduce a nondeterministic queue based scheduling framework to schedule processes under concurrent circumstances, which addresses the problems of refining deadline constraint under concurrent situations. Additional gluing invariants are provided to this refinement. To demonstrate the usability of the framework, we provide approaches to refine this framework with FIFO scheduling policy as well as deferrable priority based scheduling policy with aging technique. We demonstrate our framework and refinement with a timed mutual exclusion case study. The model is proved using the Rodin tool.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-319-91271-4_15.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-319-91271-4_15.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{ZhuBC18,
+author = {Chenyang Zhu and
+Michael J. Butler and
+Corina C{\^{\i}}rstea},
+editor = {Michael J. Butler and
+Alexander Raschke and
+Thai Son Hoang and
+Klaus Reichl},
+title = {Refinement of Timing Constraints for Concurrent Tasks with Scheduling},
+booktitle = {Abstract State Machines, Alloy, B, TLA, VDM, and {Z} - 6th International
+Conference, {ABZ} 2018, Southampton, UK, June 5-8, 2018, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {10817},
+pages = {219--233},
+publisher = {Springer},
+year = {2018},
+url = {https://doi.org/10.1007/978-3-319-91271-4\_15},
+doi = {10.1007/978-3-319-91271-4\_15},
+timestamp = {Wed, 14 Aug 2019 12:01:55 +0200},
+biburl = {https://dblp.org/rec/conf/asm/ZhuBC18.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Verifiable Code Generation from Scheduled Event-B Models</title><link>/publication/dalvandibrf18/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>/publication/dalvandibrf18/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Scheduled Event-B (SEB) augments Event-B with a scheduling language to make the control flow in an Event-B model explicit and facilitate derivation of algorithmic structure in Event-B refinement. A concrete SEB model has a concrete algorithmic structure associated with it. Although this structure reduces the difficulty of code generation, there is still some gap between the model and executable code. This work formulates the translation of SEB models to a programming language called Dafny and proposes an approach in which a number of assertions are generated from the model that allows the verification of the generated code in a static program verifier.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-319-91271-4_16.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-319-91271-4_16.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{DalvandiBRF18,
+author = {Mohammadsadegh Dalvandi and
+Michael J. Butler and
+Abdolbaghi Rezazadeh and
+Asieh Salehi Fathabadi},
+editor = {Michael J. Butler and
+Alexander Raschke and
+Thai Son Hoang and
+Klaus Reichl},
+title = {Verifiable Code Generation from Scheduled Event-B Models},
+booktitle = {Abstract State Machines, Alloy, B, TLA, VDM, and {Z} - 6th International
+Conference, {ABZ} 2018, Southampton, UK, June 5-8, 2018, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {10817},
+pages = {234--248},
+publisher = {Springer},
+year = {2018},
+url = {https://doi.org/10.1007/978-3-319-91271-4\_16},
+doi = {10.1007/978-3-319-91271-4\_16},
+timestamp = {Thu, 23 Jun 2022 19:58:53 +0200},
+biburl = {https://dblp.org/rec/conf/asm/DalvandiBRF18.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Validating the Requirements and Design of a Hemodialysis Machine Using iUML-B, BMotion Studio, and Co-Simulation</title><link>/publication/hoangslb16/</link><pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate><guid>/publication/hoangslb16/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>We present a formal specification of a hemodialysis machine (HD machine) using Event-B. We model the HD machine using iUML-B state-machines and class diagrams and build a corresponding BMotion Studio visualisation. We focus on validation using (i) diagrams to aid the modelling of the sequential properties of the requirements, and (ii) ProB-based animation and visualisation tools to explore the system’s behaviour. Some of the safety properties involve dynamic behaviour which is difficult to verify in Event-B. For these properties we use co-simulation tools to validate against a continuous model of the physical behaviour.&lt;/p>
 &lt;h2 id="document">Document&lt;/h2>
 &lt;div id="pdfobject-viewer">&lt;/div>
@@ -44,4 +581,438 @@ isbn=&amp;quot;978-3-319-33600-8&amp;quot;
 ProB&lt;/p>
 &lt;p>For more information, please contact the &lt;a href ="mailto:t.s.hoang@ecs.soton.ac.uk;cfs@ecs.soton.ac.uk">authors&lt;/a>&lt;/p>
 &lt;/li>
-&lt;/ul></description></item></channel></rss>
+&lt;/ul></description></item><item><title>A Graphical Tool for Event Refinement Structures in Event-B</title><link>/publication/dghaymtbf16/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>/publication/dghaymtbf16/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>The Event Refinement Structures (ERS) approach provides a graphical extension of the Event-B formal method to represent event decomposition and control-flow explicitly. In this paper we present an improved version of the ERS plug-in, which provides a graphical environment for the ERS approach within the Event-B tool, Rodin. The improved ERS plug-in is based on the available frameworks that are developed to support Event-B with an EMF framework, language extensions and generic diagram extensions.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-319-33600-8_20.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-319-33600-8_20.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{DghaymTBF16,
+author = {Dana Dghaym and
+Matheus Garay Trindade and
+Michael J. Butler and
+Asieh Salehi Fathabadi},
+editor = {Michael J. Butler and
+Klaus{-}Dieter Schewe and
+Atif Mashkoor and
+Mikl{\'{o}}s Bir{\'{o}}},
+title = {A Graphical Tool for Event Refinement Structures in Event-B},
+booktitle = {Abstract State Machines, Alloy, B, TLA, VDM, and {Z} - 5th International
+Conference, {ABZ} 2016, Linz, Austria, May 23-27, 2016, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {9675},
+pages = {269--274},
+publisher = {Springer},
+year = {2016},
+url = {https://doi.org/10.1007/978-3-319-33600-8\_20},
+doi = {10.1007/978-3-319-33600-8\_20},
+timestamp = {Thu, 23 Jun 2022 19:58:53 +0200},
+biburl = {https://dblp.org/rec/conf/asm/DghaymTBF16.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Formal Derivation of Distributed MapReduce</title><link>/publication/pereverzevabflt14/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>/publication/pereverzevabflt14/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>MapReduce is a powerful distributed data processing model that is currently adopted in a wide range of domains to efficiently handle large volumes of data, i.e., cope with the big data surge. In this paper, we propose an approach to formal derivation of the MapReduce framework. Our approach relies on stepwise refinement in Event-B and, in particular, the event refinement structure approach – a diagrammatic notation facilitating formal development. Our approach allows us to derive the system architecture in a systematic and well-structured way. The main principle of MapReduce is to parallelise processing of data by first mapping them to multiple processing nodes and then merging the results. To facilitate this, we formally define interdependencies between the map and reduce stages of MapReduce. This formalisation allows us to propose an alternative architectural solution that weakens blocking between the stages and, as a result, achieves a higher degree of parallelisation of MapReduce computations.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-662-43652-3_21.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-662-43652-3_21.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{PereverzevaBFLT14,
+author = {Inna Pereverzeva and
+Michael J. Butler and
+Asieh Salehi Fathabadi and
+Linas Laibinis and
+Elena Troubitsyna},
+editor = {Yamine A{\&amp;quot;{\i}}t Ameur and
+Klaus{-}Dieter Schewe},
+title = {Formal Derivation of Distributed MapReduce},
+booktitle = {Abstract State Machines, Alloy, B, TLA, VDM, and {Z} - 4th International
+Conference, {ABZ} 2014, Toulouse, France, June 2-6, 2014. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {8477},
+pages = {238--254},
+publisher = {Springer},
+year = {2014},
+url = {https://doi.org/10.1007/978-3-662-43652-3\_21},
+doi = {10.1007/978-3-662-43652-3\_21},
+timestamp = {Tue, 14 May 2019 10:00:50 +0200},
+biburl = {https://dblp.org/rec/conf/asm/PereverzevaBFLT14.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Event-B Code Generation: Type Extension with Theories</title><link>/publication/edmundsbmsl12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/edmundsbmsl12/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>The Event-B method is a formal modelling approach; our interest is the final step, of generating code for concurrent programs, from Event-B. Our Tasking Event-B tool integrates Event-B to facilitate code generation. The theory plug-in allows mathematical extensions to be added to an Event-B development. When working at the implementation level we need to consider how to translate the newly added types and operators into code. In this paper, we augment the theory plug-in, by adding a Translation Rules section to the tool. This enables us to define translation rules that map Event-B formulas to code. We illustrate the approach using a small case study, where we add a theory of arrays, and specify translation rules for generating Ada code.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_33.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-30885-7_33.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{EdmundsBMSL12,
+author = {Andrew Edmunds and
+Michael J. Butler and
+Issam Maamria and
+Renato Silva and
+Chris Lovell},
+editor = {John Derrick and
+John S. Fitzgerald and
+Stefania Gnesi and
+Sarfraz Khurshid and
+Michael Leuschel and
+Steve Reeves and
+Elvinia Riccobene},
+title = {Event-B Code Generation: Type Extension with Theories},
+booktitle = {Abstract State Machines, Alloy, B, VDM, and {Z} - Third International
+Conference, {ABZ} 2012, Pisa, Italy, June 18-21, 2012. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {7316},
+pages = {365--368},
+publisher = {Springer},
+year = {2012},
+url = {https://doi.org/10.1007/978-3-642-30885-7\_33},
+doi = {10.1007/978-3-642-30885-7\_33},
+timestamp = {Sun, 02 Jun 2019 21:23:59 +0200},
+biburl = {https://dblp.org/rec/conf/asm/EdmundsBMSL12.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>A Basis for Feature-Oriented Modelling in Event-B</title><link>/publication/sorgepb10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>/publication/sorgepb10/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Feature-oriented modelling is a well-known approach for Software Product Line (SPL) development. It is a widely used method when developing groups of related software. With an SPL approach, the development of a software product is quicker, less expensive and of higher quality than a one-off development since much effort is re-used. However, this approach is not common in formal methods development, which is generally high cost and time consuming, yet crucial in the development of critical systems. With the increase of more complex critical systems, it becomes more important to apply formal methods to the development cycle, and we propose a method that allows the application of SPL development techniques to formal methods. This results in faster and cheaper development of formal systems.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-11811-1_42.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-11811-1_42.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{SorgePB10,
+author = {Jennifer Sorge and
+Michael Poppleton and
+Michael J. Butler},
+editor = {Marc Frappier and
+Uwe Gl{\&amp;quot;{a}}sser and
+Sarfraz Khurshid and
+R{\'{e}}gine Laleau and
+Steve Reeves},
+title = {A Basis for Feature-Oriented Modelling in Event-B},
+booktitle = {Abstract State Machines, Alloy, {B} and Z, Second International Conference,
+{ABZ} 2010, Orford, QC, Canada, February 22-25, 2010. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {5977},
+pages = {409},
+publisher = {Springer},
+year = {2010},
+url = {https://doi.org/10.1007/978-3-642-11811-1\_42},
+doi = {10.1007/978-3-642-11811-1\_42},
+timestamp = {Sun, 02 Jun 2019 21:23:59 +0200},
+biburl = {https://dblp.org/rec/conf/asm/SorgePB10.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>A Refinement-Based Correctness Proof of Symmetry Reduced Model Checking</title><link>/publication/turnerbl10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>/publication/turnerbl10/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Symmetry reduction is a model checking technique that can help alleviate the problem of state space explosion, by preventing redundant state space exploration. In previous work, we have developed three effective approaches to symmetry reduction for B that have been implemented into the ProB model checker, and we have proved the soundness of our state symmetries. However, it is also important to show our techniques are sound with respect to standard model checking, at the algorithmic level. In this paper, we present a retrospective B development that addresses this issue through a series of B refinements. This work also demonstrates the valuable insights into a system that can be gained through formal modelling.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-11811-1_18.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-11811-1_18.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{TurnerBL10,
+author = {Edd Turner and
+Michael J. Butler and
+Michael Leuschel},
+editor = {Marc Frappier and
+Uwe Gl{\&amp;quot;{a}}sser and
+Sarfraz Khurshid and
+R{\'{e}}gine Laleau and
+Steve Reeves},
+title = {A Refinement-Based Correctness Proof of Symmetry Reduced Model Checking},
+booktitle = {Abstract State Machines, Alloy, {B} and Z, Second International Conference,
+{ABZ} 2010, Orford, QC, Canada, February 22-25, 2010. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {5977},
+pages = {231--244},
+publisher = {Springer},
+year = {2010},
+url = {https://doi.org/10.1007/978-3-642-11811-1\_18},
+doi = {10.1007/978-3-642-11811-1\_18},
+timestamp = {Sun, 02 Jun 2019 21:23:59 +0200},
+biburl = {https://dblp.org/rec/conf/asm/TurnerBL10.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>On an Extensible Rule-Based Prover for Event-B</title><link>/publication/maamriaber10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>/publication/maamriaber10/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Event-B [1] is a formalism for discrete system modelling. The Rodin platform [2] provides a toolset to carry out specification, refinement and proof in Event-B. The importance of proofs as part of formal modelling cannot be emphasised enough, and as such, it is imperative to provide effective tool support for it. An important aspect of this support is the extensibility of the prover, and more pressingly, how its soundness is preserved while allowing extensibility. Rodin has a limited support for adding rules as this requires (a) a deep understanding of the internal architecture and (b) knowledge of the Java language. Our approach attempts to provide support for user-defined proof rules. We initially focus on supporting rewrite rules to enhance the rewriting capabilities of Rodin. To achieve this objective, we introduce a theory construct distinct from contexts and machines. The theory construct provides a platform for the users to define rewrite rules both conditional and unconditional. As part of rule definition, users decide whether the rule is to be applied automatically or interactively. Each defined rule gives rise to proof obligations that serve to verify its conservativity. In this respect, it is required that validity and well-definedness are preserved by rules. After the conservativity of all rules contained in a theory is established, the theory can then be deployed and available to the proving activity. In order to apply rewrite rules, it is necessary to single out applicable rules to any given sequent. This is achieved through a pattern matching mechanism which is implemented as an extension to Rodin. Our approach has two advantages. Firstly, it offers a uniform mechanism to add proof rule without the need to write Java code. Secondly, it provides a means to verify added rules using proof obligations. Our work is still in progress, and research has to be carried out to (a) cover a larger set of rewrite and inference rules, and (b) provide guidelines to help the theory developer with deciding whether a given rule should be applied automatically.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-11811-1_40.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-11811-1_40.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{MaamriaBER10,
+author = {Issam Maamria and
+Michael J. Butler and
+Andrew Edmunds and
+Abdolbaghi Rezazadeh},
+editor = {Marc Frappier and
+Uwe Gl{\&amp;quot;{a}}sser and
+Sarfraz Khurshid and
+R{\'{e}}gine Laleau and
+Steve Reeves},
+title = {On an Extensible Rule-Based Prover for Event-B},
+booktitle = {Abstract State Machines, Alloy, {B} and Z, Second International Conference,
+{ABZ} 2010, Orford, QC, Canada, February 22-25, 2010. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {5977},
+pages = {407},
+publisher = {Springer},
+year = {2010},
+url = {https://doi.org/10.1007/978-3-642-11811-1\_40},
+doi = {10.1007/978-3-642-11811-1\_40},
+timestamp = {Tue, 14 May 2019 10:00:50 +0200},
+biburl = {https://dblp.org/rec/conf/asm/MaamriaBER10.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Reasoned Modelling Critics: Turning Failed Proofs into Modelling Guidance</title><link>/publication/irelandgb10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>/publication/irelandgb10/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>The activities of formal modelling and reasoning are closely related. But while the rigour of building formal models brings significant benefits, formal reasoning remains a major barrier to the wider acceptance of formalism within design. Here we propose reasoned modelling critics – a technique which aims to abstract away from the complexities of low-level proof obligations, and provide high-level modelling guidance to designers when proofs fail. Inspired by proof planning critics, the technique combines proof-failure analysis with modelling heuristics. Here, we present the details of our proposal and outline future plans.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-11811-1_15.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-11811-1_15.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{IrelandGB10,
+author = {Andrew Ireland and
+Gudmund Grov and
+Michael J. Butler},
+editor = {Marc Frappier and
+Uwe Gl{\&amp;quot;{a}}sser and
+Sarfraz Khurshid and
+R{\'{e}}gine Laleau and
+Steve Reeves},
+title = {Reasoned Modelling Critics: Turning Failed Proofs into Modelling Guidance},
+booktitle = {Abstract State Machines, Alloy, {B} and Z, Second International Conference,
+{ABZ} 2010, Orford, QC, Canada, February 22-25, 2010. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {5977},
+pages = {189--202},
+publisher = {Springer},
+year = {2010},
+url = {https://doi.org/10.1007/978-3-642-11811-1\_15},
+doi = {10.1007/978-3-642-11811-1\_15},
+timestamp = {Sun, 02 Jun 2019 21:23:59 +0200},
+biburl = {https://dblp.org/rec/conf/asm/IrelandGB10.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>A Roadmap for the Rodin Toolset</title><link>/publication/abrialbhv08/</link><pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate><guid>/publication/abrialbhv08/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Event-B is a formal method for system-level modelling and analysis. Key features of Event-B are the use of set theory as a modelling notation, the use of refinement to represent systems at different abstraction levels and the use of mathematical proof to verify consistency between refinement levels.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-540-87603-8_35.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-540-87603-8_35.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{AbrialBHV08,
+author = {Jean{-}Raymond Abrial and
+Michael J. Butler and
+Stefan Hallerstede and
+Laurent Voisin},
+editor = {Egon B{\&amp;quot;{o}}rger and
+Michael J. Butler and
+Jonathan P. Bowen and
+Paul Boca},
+title = {A Roadmap for the Rodin Toolset},
+booktitle = {Abstract State Machines, {B} and Z, First International Conference,
+{ABZ} 2008, London, UK, September 16-18, 2008. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {5238},
+pages = {347},
+publisher = {Springer},
+year = {2008},
+url = {https://doi.org/10.1007/978-3-540-87603-8\_35},
+doi = {10.1007/978-3-540-87603-8\_35},
+timestamp = {Sun, 02 Jun 2019 21:24:00 +0200},
+biburl = {https://dblp.org/rec/conf/asm/AbrialBHV08.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>UML-B: A Plug-in for the Event-B Tool Set</title><link>/publication/snookb08/</link><pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate><guid>/publication/snookb08/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>UML-B is a graphical formal modelling notation that relies on Event-B for its underlying semantics and is closely integrated with the ‘Rodin’, Event-B verification tools. UML-B is similar to UML but has its own meta-model. UML-B provides tool support, including drawing tools and a translator to generate Event-B models. When a UML-B drawing is saved the translator automatically generates the corresponding Event-B model. The Event-B verification tools (syntax checker and prover) then run automatically providing an immediate display of problems which are indicated on the relevant UML-B diagram.The UML-B modelling environment consists of a UML-B project containing a UML-B model. Four interlinked diagram types (package, context, class and statemachine) are available. Package Diagrams are used to describe the ‘refines’ and ‘sees’ relationships between top level components (machines and contexts) of a UML-B project. UML-B mirrors the Event-B approach where static data (sets and constants) are modelled in a separate package called a ‘context’. The context diagram is similar to a class diagram but has only constant data represented by ClassTypes, Attributes and Associations. ClassTypes define ‘carrier’ sets or constant subsets of other ClassTypes.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-540-87603-8_32.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-540-87603-8_32.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{SnookB08,
+author = {Colin F. Snook and
+Michael J. Butler},
+editor = {Egon B{\&amp;quot;{o}}rger and
+Michael J. Butler and
+Jonathan P. Bowen and
+Paul Boca},
+title = {{UML-B:} {A} Plug-in for the Event-B Tool Set},
+booktitle = {Abstract State Machines, {B} and Z, First International Conference,
+{ABZ} 2008, London, UK, September 16-18, 2008. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {5238},
+pages = {344},
+publisher = {Springer},
+year = {2008},
+url = {https://doi.org/10.1007/978-3-540-87603-8\_32},
+doi = {10.1007/978-3-540-87603-8\_32},
+timestamp = {Mon, 03 Jan 2022 22:35:01 +0100},
+biburl = {https://dblp.org/rec/conf/asm/SnookB08.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item></channel></rss>

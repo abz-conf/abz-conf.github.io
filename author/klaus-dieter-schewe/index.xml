@@ -1,4 +1,569 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Klaus-Dieter Schewe | ABZ</title><link>/author/klaus-dieter-schewe/</link><atom:link href="/author/klaus-dieter-schewe/index.xml" rel="self" type="application/rss+xml"/><description>Klaus-Dieter Schewe</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Mon, 13 Jun 2016 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Klaus-Dieter Schewe</title><link>/author/klaus-dieter-schewe/</link></image><item><title>The landing gear case study: challenges and experiments</title><link>/publication/boniol2016sttt/</link><pubDate>Mon, 13 Jun 2016 00:00:00 +0000</pubDate><guid>/publication/boniol2016sttt/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Klaus-Dieter Schewe | ABZ</title><link>/author/klaus-dieter-schewe/</link><atom:link href="/author/klaus-dieter-schewe/index.xml" rel="self" type="application/rss+xml"/><description>Klaus-Dieter Schewe</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Klaus-Dieter Schewe</title><link>/author/klaus-dieter-schewe/</link></image><item><title>Modal Extensions of the Logic of Abstract State Machines</title><link>/publication/ferrarottis24/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>/publication/ferrarottis24/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Based on the logic of non-deterministic Abstract State Machines (ASMs) we define a modal extension (\mathcal{M}\mathcal{L}&lt;em>{\text {ASM}})  by first introducing multi-step predicates and then adding quantification over the number of steps. We show that liveness conditions such as invariance, conditional and unconditional progress, and persistence on all or some runs of an ASM can be expressed in this logic. We show the existence of a complete fragment of (\mathcal{M}\mathcal{L}&lt;/em>{\text {ASM}}), which still contains the interesting liveness conditions, and demonstrate the usefulness of this complete fragment by an example concerning mutual exclusion.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-63790-2_8.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-63790-2_8.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{FerrarottiS24,
+author = {Flavio Ferrarotti and
+Klaus{-}Dieter Schewe},
+editor = {Silvia Bonfanti and
+Angelo Gargantini and
+Michael Leuschel and
+Elvinia Riccobene and
+Patrizia Scandurra},
+title = {Modal Extensions of the Logic of Abstract State Machines},
+booktitle = {Rigorous State-Based Methods - 10th International Conference, {ABZ}
+2024, Bergamo, Italy, June 25-28, 2024, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14759},
+pages = {123--140},
+publisher = {Springer},
+year = {2024},
+url = {https://doi.org/10.1007/978-3-031-63790-2\_8},
+doi = {10.1007/978-3-031-63790-2\_8},
+timestamp = {Thu, 04 Jul 2024 22:05:23 +0200},
+biburl = {https://dblp.org/rec/conf/zum/FerrarottiS24.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Behavioural Theory of Reflective Algorithms</title><link>/publication/ferrarottis23/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>/publication/ferrarottis23/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>This “journal-first” paper presents a summary of the behavioural theory of reflective sequential algorithms (RSAs), i.e. sequential algorithms that can modify their own behaviour. The theory comprises a set of language-independent postulates defining the class of RSAs, an abstract machine model, and the proof that all RSAs are captured by this machine model. RSAs are sequential-time, bounded parallel algorithms, where the bound depends on the algorithm only and not on the input. Every state of an RSA includes a representation of the algorithm in that state, thus enabling linguistic reflection. Bounded exploration is preserved using terms as values. The model of reflective sequential abstract state machines (rsASMs) extends sequential ASMs using extended states that include an updatable representation of the main ASM rule to be executed by the machine in that state. Updates to the representation of ASM signatures and rules are realised by means of a tree algebra.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-33163-3_18.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-33163-3_18.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{FerrarottiS23,
+author = {Flavio Ferrarotti and
+Klaus{-}Dieter Schewe},
+editor = {Uwe Gl{\&amp;quot;{a}}sser and
+Jos{\'{e}} Creissac Campos and
+Dominique M{\'{e}}ry and
+Philippe A. Palanque},
+title = {Behavioural Theory of Reflective Algorithms},
+booktitle = {Rigorous State-Based Methods - 9th International Conference, {ABZ}
+2023, Nancy, France, May 30 - June 2, 2023, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14010},
+pages = {238--244},
+publisher = {Springer},
+year = {2023},
+url = {https://doi.org/10.1007/978-3-031-33163-3\_18},
+doi = {10.1007/978-3-031-33163-3\_18},
+timestamp = {Tue, 23 May 2023 09:57:42 +0200},
+biburl = {https://dblp.org/rec/conf/zum/FerrarottiS23.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Exploration of Reflective ASMs for Security</title><link>/publication/tongxhfs23/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>/publication/tongxhfs23/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>We show how reflective ASMs can support hardware-software binding, which can be used for copy protection, and we exploit the logic of rASMs to express desirable properties for this application.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-33163-3_14.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-33163-3_14.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{TongXHFS23,
+author = {Linjie Tong and
+Ke Xu and
+Jiarun Hu and
+Flavio Ferrarotti and
+Klaus{-}Dieter Schewe},
+editor = {Uwe Gl{\&amp;quot;{a}}sser and
+Jos{\'{e}} Creissac Campos and
+Dominique M{\'{e}}ry and
+Philippe A. Palanque},
+title = {Exploration of Reflective ASMs for Security},
+booktitle = {Rigorous State-Based Methods - 9th International Conference, {ABZ}
+2023, Nancy, France, May 30 - June 2, 2023, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14010},
+pages = {185--192},
+publisher = {Springer},
+year = {2023},
+url = {https://doi.org/10.1007/978-3-031-33163-3\_14},
+doi = {10.1007/978-3-031-33163-3\_14},
+timestamp = {Tue, 23 May 2023 09:57:42 +0200},
+biburl = {https://dblp.org/rec/conf/zum/TongXHFS23.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Towards Refinement of Unbounded Parallelism in ASMs Using Concurrency and Reflection</title><link>/publication/jiangxlgs21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>/publication/jiangxlgs21/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>The BSP bridging model can be exploited to support MapReduce processing. This article describes how this can be realised using a work-stealing approach, where an idle processor can autonomously grab a thread from a partially ordered pool of open threads and execute it. It is further outlined that this can be generalised for the refinement of an unboundedly parallel ASM by a concurrent, reflective BSP-ASM, i.e. the individual agents are associated with reflective ASMs, i.e. they can adapt their own program.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-77543-8_10.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-77543-8_10.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{JiangXLGS21,
+author = {Fengqing Jiang and
+Neng Xiong and
+Xinyu Lian and
+Sen{\'{e}}n Gonz{\'{a}}lez and
+Klaus{-}Dieter Schewe},
+editor = {Alexander Raschke and
+Dominique M{\'{e}}ry},
+title = {Towards Refinement of Unbounded Parallelism in ASMs Using Concurrency
+and Reflection},
+booktitle = {Rigorous State-Based Methods - 8th International Conference, {ABZ}
+2021, Ulm, Germany, June 9-11, 2021, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {12709},
+pages = {118--123},
+publisher = {Springer},
+year = {2021},
+url = {https://doi.org/10.1007/978-3-030-77543-8\_10},
+doi = {10.1007/978-3-030-77543-8\_10},
+timestamp = {Wed, 09 Jun 2021 12:14:31 +0200},
+biburl = {https://dblp.org/rec/conf/asm/JiangXLGS21.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Unbounded Barrier-Synchronized Concurrent ASMs for Effective MapReduce Processing on Streams</title><link>/publication/lihdgs21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>/publication/lihdgs21/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>MapReduce supports the processing of large data sets in parallel. It has been shown that MapReduce is an example for the use of the bulk synchronous parallel (BSP) bridging model, a model for parallel computation on a fixed set of processors comprising alternating computation and communication phases. In this article we extend the normal execution of MapReduce from processing large finite data sets to processing stream queries with input data stream assumed to continue indefinitely. We classify stream queries into three classes, memoryless, semi-memoryless and memorable, and provide the model for each class using MapReduce based on BSP. In addition, as some stream queries require large amounts of computing sources, the BSP computation model is extended to a model with unbounded many agents, but preserving the barrier synchronization. A behavioral theory is developed for this model extending the behavioral theory of the BSP model. This comprises an axiomatization, the definition of Infinite-Agent BSP abstract state machines (Inf-Ag-BSP-ASM) and the proof that such ASMs capture the unbounded synchronized computations. Finally, we show how MapReduce processing can be further improved on grounds of the unbounded extension.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-77543-8_1.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-77543-8_1.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{LiHDGS21,
+author = {Zilinghan Li and
+Shilan He and
+Yiqing Du and
+Sen{\'{e}}n Gonz{\'{a}}lez and
+Klaus{-}Dieter Schewe},
+editor = {Alexander Raschke and
+Dominique M{\'{e}}ry},
+title = {Unbounded Barrier-Synchronized Concurrent ASMs for Effective MapReduce
+Processing on Streams},
+booktitle = {Rigorous State-Based Methods - 8th International Conference, {ABZ}
+2021, Ulm, Germany, June 9-11, 2021, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {12709},
+pages = {3--16},
+publisher = {Springer},
+year = {2021},
+url = {https://doi.org/10.1007/978-3-030-77543-8\_1},
+doi = {10.1007/978-3-030-77543-8\_1},
+timestamp = {Wed, 09 Jun 2021 12:14:31 +0200},
+biburl = {https://dblp.org/rec/conf/asm/LiHDGS21.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>A Characterization of Distributed ASMs with Partial-Order Runs</title><link>/publication/borgers20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>/publication/borgers20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>To overcome the practical limitations of partial-order runs of ‘distributed ASMs’ (Abstract State Machines) proposed by Gurevich, we have defined a concept of concurrent runs of multi-agent ASMs and could show that concurrent ASMs capture a natural language-independent axiomatic definition of concurrent algorithms, thus generalising Gurevich’s seminal ‘Sequential ASM Thesis’ from sequential to concurrent algorithms. However, we remained intrigued by the fact that Blass and Gurevich used partial-order runs of distributed ASMs to explain runs of sequential recursive algorithms. We discovered that also the inverse simulation holds: for every distributed ASM with partial order runs, these runs can be described by runs of a sequential recursive algorithm. This surprising result clarifies the difference in expressivity between partial-order and concurrent runs.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-48077-6_6.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-48077-6_6.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{BorgerS20,
+author = {Egon B{\&amp;quot;{o}}rger and
+Klaus{-}Dieter Schewe},
+editor = {Alexander Raschke and
+Dominique M{\'{e}}ry and
+Frank Houdek},
+title = {A Characterization of Distributed ASMs with Partial-Order Runs},
+booktitle = {Rigorous State-Based Methods - 7th International Conference, {ABZ}
+2020, Ulm, Germany, May 27-29, 2020, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {12071},
+pages = {78--92},
+publisher = {Springer},
+year = {2020},
+url = {https://doi.org/10.1007/978-3-030-48077-6\_6},
+doi = {10.1007/978-3-030-48077-6\_6},
+timestamp = {Mon, 25 May 2020 12:33:39 +0200},
+biburl = {https://dblp.org/rec/conf/asm/BorgerS20.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>A Logic for Reflective ASMs</title><link>/publication/schewef20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>/publication/schewef20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Reflective algorithms are algorithms that can modify their own behaviour. Recently a behavioural theory of reflective algorithms has been developed, which shows that they are captured by reflective abstract state machines (rASMs). Reflective ASMs exploit extended states that include an updatable representation of the ASM signature and rules to be executed by the machine in that state. Updates to the representation of ASM signatures and rules are realised by means of a sophisticated tree algebra defined in the background of the rASM. In this paper the theory is taken further by an extension of the logic of ASMs to capture inferences on rASMs. The key is the introduction of terms that are interpreted by ASM rules stored in some location. We show that fragments of the logic with a fixed bound on the number of steps preserve completeness, whereas the full run-logic for rASMs becomes incomplete.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-48077-6_7.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-48077-6_7.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{ScheweF20,
+author = {Klaus{-}Dieter Schewe and
+Flavio Ferrarotti},
+editor = {Alexander Raschke and
+Dominique M{\'{e}}ry and
+Frank Houdek},
+title = {A Logic for Reflective ASMs},
+booktitle = {Rigorous State-Based Methods - 7th International Conference, {ABZ}
+2020, Ulm, Germany, May 27-29, 2020, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {12071},
+pages = {93--106},
+publisher = {Springer},
+year = {2020},
+url = {https://doi.org/10.1007/978-3-030-48077-6\_7},
+doi = {10.1007/978-3-030-48077-6\_7},
+timestamp = {Mon, 25 May 2020 12:33:39 +0200},
+biburl = {https://dblp.org/rec/conf/asm/ScheweF20.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Event-B-Supported Choreography-Defined Communicating Systems - Correctness and Completeness</title><link>/publication/benyagoubas20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>/publication/benyagoubas20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Choreographies prescribe the rendez-vous synchronisation of messages in a communicating system. Such a system is called realisable, if the traces of the prescribed communication coincide with those of the asynchronous system of peers, where the communication channels either use FIFO queues or multiset mailboxes. It has recently been shown that realisability can be characterised by two necessary conditions that together are also sufficient, whereas in general the synchronisability of communicating peers is undecidable. The sufficiency of the conditions permits the construction of correct communicating systems; their necessity shows that all choreography-defined communicating system can be obtained in this way. This article provides an integrated framework based on Event-B for such a construction with a major emphasis on Rodin-based proofs of correctness and completeness.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-48077-6_11.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-48077-6_11.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{BenyagoubAS20,
+author = {Sarah Benyagoub and
+Yamine A{\&amp;quot;{\i}}t Ameur and
+Klaus{-}Dieter Schewe},
+editor = {Alexander Raschke and
+Dominique M{\'{e}}ry and
+Frank Houdek},
+title = {Event-B-Supported Choreography-Defined Communicating Systems - Correctness
+and Completeness},
+booktitle = {Rigorous State-Based Methods - 7th International Conference, {ABZ}
+2020, Ulm, Germany, May 27-29, 2020, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {12071},
+pages = {155--168},
+publisher = {Springer},
+year = {2020},
+url = {https://doi.org/10.1007/978-3-030-48077-6\_11},
+doi = {10.1007/978-3-030-48077-6\_11},
+timestamp = {Mon, 25 May 2020 12:33:39 +0200},
+biburl = {https://dblp.org/rec/conf/asm/BenyagoubAS20.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Abstract State Machines with Exact Real Arithmetic</title><link>/publication/beierles18/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>/publication/beierles18/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Type-2 Theory of Effectivity is a well established theory of computability on infinite strings, which in this paper is exploited to define a data type ( Real ) as part of the background structure of Abstract State Machines. Real numbers are represented by rapidly converging Cauchy sequences, on top of which standard operations such as addition, multiplication, division, exponentials, trigonometric functions, etc. can be defined. In this way exact computation with real numbers is enabled. Output can be generated at any degree of precision by exploring only sufficiently long prefixes of the representing Cauchy sequences.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-319-91271-4_10.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-319-91271-4_10.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{BeierleS18,
+author = {Christoph Beierle and
+Klaus{-}Dieter Schewe},
+editor = {Michael J. Butler and
+Alexander Raschke and
+Thai Son Hoang and
+Klaus Reichl},
+title = {Abstract State Machines with Exact Real Arithmetic},
+booktitle = {Abstract State Machines, Alloy, B, TLA, VDM, and {Z} - 6th International
+Conference, {ABZ} 2018, Southampton, UK, June 5-8, 2018, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {10817},
+pages = {139--154},
+publisher = {Springer},
+year = {2018},
+url = {https://doi.org/10.1007/978-3-319-91271-4\_10},
+doi = {10.1007/978-3-319-91271-4\_10},
+timestamp = {Tue, 14 May 2019 10:00:50 +0200},
+biburl = {https://dblp.org/rec/conf/asm/BeierleS18.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Capturing Membrane Computing by ASMs</title><link>/publication/schewetw18/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>/publication/schewetw18/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Natural computing is a field of research that tries to imitate the ways of “computing” in nature. Membrane computing is a branch of natural computing that exploits hierarchically nested membrane structures that are associated with multisets of objects. The key notion is the P-system, which describes the transitions by rules for the creation, elimination and wandering of objects through membranes as well as manipulation of the membrane structure as such. In this short paper we sketch how P-systems can be captured by parallel ASMs. We further give a glimpse of further generalisations in several directions.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-319-91271-4_27.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-319-91271-4_27.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{ScheweTW18,
+author = {Klaus{-}Dieter Schewe and
+Loredana Tec and
+Qing Wang},
+editor = {Michael J. Butler and
+Alexander Raschke and
+Thai Son Hoang and
+Klaus Reichl},
+title = {Capturing Membrane Computing by ASMs},
+booktitle = {Abstract State Machines, Alloy, B, TLA, VDM, and {Z} - 6th International
+Conference, {ABZ} 2018, Southampton, UK, June 5-8, 2018, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {10817},
+pages = {380--385},
+publisher = {Springer},
+year = {2018},
+url = {https://doi.org/10.1007/978-3-319-91271-4\_27},
+doi = {10.1007/978-3-319-91271-4\_27},
+timestamp = {Sun, 02 Oct 2022 15:55:03 +0200},
+biburl = {https://dblp.org/rec/conf/asm/ScheweTW18.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Distributed Adaptive Systems - Theory, Specification, Reasoning</title><link>/publication/scheweftw18/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>/publication/scheweftw18/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>A distributed system can be characterised by autonomously acting agents, where each agent executes its own program, uses shared resources and communicates with the others, but otherwise is totally oblivious to the behaviour of the other agents. In a distributed adaptive system agents may change their programs, and enter or leave the collection at any time thereby changing the behaviour of the overall system. This article first develops a language-independent axiomatic definition of distributed adaptive systems and then presents concurrent reflective Abstract State Machines (crASMs), an abstract machine model for their specification. It can be proven that any distributed adaptive system as stipulated by the axiomatisation can be step-by-step simulated by a crASM. Proofs about crASMs can be grounded in a multiple-step logic, which extends known complete one-step logics for deterministic and non-deterministic ASMs.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-319-91271-4_2.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-319-91271-4_2.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{ScheweFTW18,
+author = {Klaus{-}Dieter Schewe and
+Flavio Ferrarotti and
+Loredana Tec and
+Qing Wang},
+editor = {Michael J. Butler and
+Alexander Raschke and
+Thai Son Hoang and
+Klaus Reichl},
+title = {Distributed Adaptive Systems - Theory, Specification, Reasoning},
+booktitle = {Abstract State Machines, Alloy, B, TLA, VDM, and {Z} - 6th International
+Conference, {ABZ} 2018, Southampton, UK, June 5-8, 2018, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {10817},
+pages = {16--30},
+publisher = {Springer},
+year = {2018},
+url = {https://doi.org/10.1007/978-3-319-91271-4\_2},
+doi = {10.1007/978-3-319-91271-4\_2},
+timestamp = {Sun, 02 Oct 2022 15:55:03 +0200},
+biburl = {https://dblp.org/rec/conf/asm/ScheweFTW18.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Systematic Refinement of Abstract State Machines with Higher-Order Logic</title><link>/publication/ferrarottigst18/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>/publication/ferrarottigst18/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Graph algorithms that involve complex conditions on subgraphs can be specified much easier, if the specification allows expressions in higher-order logic to be used. In this paper an extension of Abstract State Machines by such expressions is introduced and its usefulness is demonstrated by examples of computations on graphs, such as graph factoring and checking self-similarity. In a naïve way these high-level specifications can be refined using submachines for the evaluation of the higher-order expressions. We show that refinements can be obtained in an automatic way for well-defined fragments of higher-order logic that collapse to second-order, by means of which the naïve refinement is only necessary for second-order logic expressions.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-319-91271-4_14.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-319-91271-4_14.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{FerrarottiGST18,
+author = {Flavio Ferrarotti and
+Sen{\'{e}}n Gonz{\'{a}}lez and
+Klaus{-}Dieter Schewe and
+Jos{\'{e}} Maria Turull Torres},
+editor = {Michael J. Butler and
+Alexander Raschke and
+Thai Son Hoang and
+Klaus Reichl},
+title = {Systematic Refinement of Abstract State Machines with Higher-Order
+Logic},
+booktitle = {Abstract State Machines, Alloy, B, TLA, VDM, and {Z} - 6th International
+Conference, {ABZ} 2018, Southampton, UK, June 5-8, 2018, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {10817},
+pages = {204--218},
+publisher = {Springer},
+year = {2018},
+url = {https://doi.org/10.1007/978-3-319-91271-4\_14},
+doi = {10.1007/978-3-319-91271-4\_14},
+timestamp = {Tue, 14 May 2019 10:00:50 +0200},
+biburl = {https://dblp.org/rec/conf/asm/FerrarottiGST18.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>The landing gear case study: challenges and experiments</title><link>/publication/boniol2016sttt/</link><pubDate>Mon, 13 Jun 2016 00:00:00 +0000</pubDate><guid>/publication/boniol2016sttt/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>Embedded critical systems need to be validated very thoroughly; it usually results in very long and onerous test phases.
 Formal techniques, in particular formal specification languages and associated proof tools, could be an advantageous alternative, or at least a good complement and allow a significant reduction of test phases. However, for these techniques to be used in practice, one issue to consider is their efficiency and scalability on complex industrial systems.&lt;/p>
 &lt;h2 id="document">Document&lt;/h2>
@@ -40,4 +605,144 @@ Used formal method : Event-B
 Resources and tools : Rodin, ProB
 Required OS : Linux, Mac, Windows
 Website : Not available
-Remarks and recommendation : No&lt;/p></description></item></channel></rss>
+Remarks and recommendation : No&lt;/p></description></item><item><title>Specifying Transaction Control to Serialize Concurrent Program Executions</title><link>/publication/borgers14/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>/publication/borgers14/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>We define a programming language independent transaction controller and an operator which when applied to concurrent programs with shared locations turns their behavior with respect to some abstract termination criterion into a transactional behavior. We prove the correctness property that concurrent runs under the transaction controller are serialisable. We specify the transaction controller TaCtl and the operator TA in terms of Abstract State Machines. This makes TaCtl applicable to a wide range of programs and in particular provides the possibility to use it as a plug-in when specifying concurrent system components in terms of Abstract State Machines.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-662-43652-3_13.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-662-43652-3_13.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{BorgerS14,
+author = {Egon B{\&amp;quot;{o}}rger and
+Klaus{-}Dieter Schewe},
+editor = {Yamine A{\&amp;quot;{\i}}t Ameur and
+Klaus{-}Dieter Schewe},
+title = {Specifying Transaction Control to Serialize Concurrent Program Executions},
+booktitle = {Abstract State Machines, Alloy, B, TLA, VDM, and {Z} - 4th International
+Conference, {ABZ} 2014, Toulouse, France, June 2-6, 2014. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {8477},
+pages = {142--157},
+publisher = {Springer},
+year = {2014},
+url = {https://doi.org/10.1007/978-3-662-43652-3\_13},
+doi = {10.1007/978-3-662-43652-3\_13},
+timestamp = {Tue, 14 May 2019 10:00:50 +0200},
+biburl = {https://dblp.org/rec/conf/asm/BorgerS14.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>A Simplified Parallel ASM Thesis</title><link>/publication/schewew12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/schewew12/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>We present an idea how to simplify Gurevich’s parallel ASM thesis. The key idea is to modify only the bounded exploration postulate from the sequential ASM thesis by allowing also non-ground comprehension terms. The idea arises from comparison with work on ASM foundations of database transformations.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_27.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-30885-7_27.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{ScheweW12,
+author = {Klaus{-}Dieter Schewe and
+Qing Wang},
+editor = {John Derrick and
+John S. Fitzgerald and
+Stefania Gnesi and
+Sarfraz Khurshid and
+Michael Leuschel and
+Steve Reeves and
+Elvinia Riccobene},
+title = {A Simplified Parallel {ASM} Thesis},
+booktitle = {Abstract State Machines, Alloy, B, VDM, and {Z} - Third International
+Conference, {ABZ} 2012, Pisa, Italy, June 18-21, 2012. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {7316},
+pages = {341--344},
+publisher = {Springer},
+year = {2012},
+url = {https://doi.org/10.1007/978-3-642-30885-7\_27},
+doi = {10.1007/978-3-642-30885-7\_27},
+timestamp = {Sun, 02 Oct 2022 15:55:03 +0200},
+biburl = {https://dblp.org/rec/conf/asm/ScheweW12.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>XML Database Transformations with Tree Updates</title><link>/publication/wangst08/</link><pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate><guid>/publication/wangst08/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>For many years the eXtensible Markup Language (XML) has attracted much research attention from database communities, particularly in the area of query and transformation languages such as XQuery and XSLT. XML documents are usually represented as trees. In order to accommodate the diversity of user requirements, it is desirable to conduct transformations on XML trees at flexible abstraction levels. However, most of current approaches have a fixed abstraction level at which updates must be identified for individual nodes and edges. In this paper we study XML database transformations with structured updates, for example, manipulations on portions of a tree, including deleting, modifying or inserting subtrees, copying contexts, etc, by using Abstract State Machines (ASMs) as it has turned out in [3] to be a universal computation model capturing database transformations.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-540-87603-8_30.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-540-87603-8_30.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{WangST08,
+author = {Qing Wang and
+Klaus{-}Dieter Schewe and
+Bernhard Thalheim},
+editor = {Egon B{\&amp;quot;{o}}rger and
+Michael J. Butler and
+Jonathan P. Bowen and
+Paul Boca},
+title = {{XML} Database Transformations with Tree Updates},
+booktitle = {Abstract State Machines, {B} and Z, First International Conference,
+{ABZ} 2008, London, UK, September 16-18, 2008. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {5238},
+pages = {342},
+publisher = {Springer},
+year = {2008},
+url = {https://doi.org/10.1007/978-3-540-87603-8\_30},
+doi = {10.1007/978-3-540-87603-8\_30},
+timestamp = {Sun, 02 Oct 2022 15:55:03 +0200},
+biburl = {https://dblp.org/rec/conf/asm/WangST08.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item></channel></rss>

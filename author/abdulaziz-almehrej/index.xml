@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Abdulaziz Almehrej | ABZ</title><link>/author/abdulaziz-almehrej/</link><atom:link href="/author/abdulaziz-almehrej/index.xml" rel="self" type="application/rss+xml"/><description>Abdulaziz Almehrej</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Abdulaziz Almehrej</title><link>/author/abdulaziz-almehrej/</link></image><item><title>Account and Transaction Protocol of the Open Banking Standard</title><link>/publication/almehrejfm20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>/publication/almehrejfm20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>To counteract the lack of competition and innovation in the financial services industry, the EU has issued the Second Payment Services Directive (PSD2) encouraging account servicing payment service providers to share data. The UK, similarly to other European countries, has promoted a standard API for data sharing: the Open Banking Standard. We present an overview of the results of a formal security analysis of the Account and Transaction API protocol.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-48077-6_16.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-48077-6_16.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{AlmehrejFM20,
+author = {Abdulaziz Almehrej and
+Leo Freitas and
+Paolo Modesti},
+editor = {Alexander Raschke and
+Dominique M{\'{e}}ry and
+Frank Houdek},
+title = {Account and Transaction Protocol of the Open Banking Standard},
+booktitle = {Rigorous State-Based Methods - 7th International Conference, {ABZ}
+2020, Ulm, Germany, May 27-29, 2020, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {12071},
+pages = {230--236},
+publisher = {Springer},
+year = {2020},
+url = {https://doi.org/10.1007/978-3-030-48077-6\_16},
+doi = {10.1007/978-3-030-48077-6\_16},
+timestamp = {Sat, 31 May 2025 23:08:41 +0200},
+biburl = {https://dblp.org/rec/conf/asm/AlmehrejFM20.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item></channel></rss>

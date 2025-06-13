@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rosemary Monahan | ABZ</title><link>/author/rosemary-monahan/</link><atom:link href="/author/rosemary-monahan/index.xml" rel="self" type="application/rss+xml"/><description>Rosemary Monahan</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Wed, 03 Jul 2024 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Rosemary Monahan</title><link>/author/rosemary-monahan/</link></image><item><title>FRETting and Formal Modelling: A Mechanical Lung Ventilator</title><link>/publication/reynolds2024abz/</link><pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate><guid>/publication/reynolds2024abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rosemary Monahan | ABZ</title><link>/author/rosemary-monahan/</link><atom:link href="/author/rosemary-monahan/index.xml" rel="self" type="application/rss+xml"/><description>Rosemary Monahan</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Wed, 03 Jul 2024 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Rosemary Monahan</title><link>/author/rosemary-monahan/</link></image><item><title>FRETting and Formal Modelling: A Mechanical Lung Ventilator</title><link>/publication/farrelllmrs24/</link><pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate><guid>/publication/farrelllmrs24/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>In this paper, we use NASA&amp;rsquo;s Formal Requirements Elicitation Tool (FRET) and the Event-B formal method to model and verify the requirements for the ABZ 2024 case study which is a mechanical lung ventilator. We use the FRET requirements to guide the development of a formal design model in Event-B. We provide details about the artefacts produced and reflect on our experience of using these tools in this case study. We focus on the functional and controller requirements for this system, as given in the case study documentation. This paper provides a first step towards using Event-B as part of a FRET-guided verification workflow in a large case study.&lt;/p>
 &lt;h2 id="document">Document&lt;/h2>
 &lt;div id="pdfobject-viewer">&lt;/div>
@@ -55,4 +55,51 @@ isbn=&amp;quot;978-3-031-63790-2&amp;quot;
 FRET&lt;/p>
 &lt;p>For more information, please contact the &lt;a href ="mailto:marie.farrell@manchester.ac.uk">authors&lt;/a>&lt;/p>
 &lt;/li>
-&lt;/ul></description></item></channel></rss>
+&lt;/ul></description></item><item><title>Building Specifications in the Event-B Institution: A Summary</title><link>/publication/farrellmp23/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>/publication/farrellmp23/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>This “journal-first” paper summarises a publication by the same authors in the journal Logical Methods in Computer Science which describes a formal semantics for the Event-B specification language using the theory of institutions. It defines an institution for Event-B and shows how the constructs of the Event-B specification language can be mapped into our institution. This algebraic semantics distinguishes three constituent sub-languages of Event-B: the superstructure, infrastructure and mathematical languages. An important impact of this work is that our semantics provides access to the generic modularisation constructs available in institutions, including specification-building operators for parameterisation and refinement. We demonstrate how these features subsume and enhance the corresponding features already present in Event-B through a detailed study of their use in a worked example. Further benefits of the institutional approach are its provision for mathematically definable interoperability to facilitate heterogeneous specification.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-33163-3_19.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-33163-3_19.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{FarrellMP23,
+author = {Marie Farrell and
+Rosemary Monahan and
+James F. Power},
+editor = {Uwe Gl{\&amp;quot;{a}}sser and
+Jos{\'{e}} Creissac Campos and
+Dominique M{\'{e}}ry and
+Philippe A. Palanque},
+title = {Building Specifications in the Event-B Institution: {A} Summary},
+booktitle = {Rigorous State-Based Methods - 9th International Conference, {ABZ}
+2023, Nancy, France, May 30 - June 2, 2023, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14010},
+pages = {245--253},
+publisher = {Springer},
+year = {2023},
+url = {https://doi.org/10.1007/978-3-031-33163-3\_19},
+doi = {10.1007/978-3-031-33163-3\_19},
+timestamp = {Fri, 02 Jun 2023 21:23:53 +0200},
+biburl = {https://dblp.org/rec/conf/zum/FarrellMP23.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item></channel></rss>

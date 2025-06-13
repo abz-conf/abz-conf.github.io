@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Abdolbaghi Rezazadeh | ABZ</title><link>/author/abdolbaghi-rezazadeh/</link><atom:link href="/author/abdolbaghi-rezazadeh/index.xml" rel="self" type="application/rss+xml"/><description>Abdolbaghi Rezazadeh</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Abdolbaghi Rezazadeh</title><link>/author/abdolbaghi-rezazadeh/</link></image><item><title>An Event-B Formal Model for Access Control and Resource Management of Serverless Apps</title><link>/publication/yagmahanrb24/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>/publication/yagmahanrb24/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Cloud computing technologies help developers build scalable distributed apps. Serverless architecture, or Function as a Service (FaaS), which separates app businesses into multiple functions, is one of the cloud-native architectures that has gained popularity. Those functions can be developed and deployed independently without provisioning infrastructure. Despite the considerable advantages and increasing popularity of cloud-native apps, developers face many challenges when building their cloud-native applications. To ensure the robustness and security of cloud-native apps and protect crucial resources, the design and implementation of functions and associated access control systems play a pivotal role. In this paper, we have employed formal methods and tools to develop a set of patterns to help cloud-native application developers to design robust serverless apps. We have used Event-B and its associated toolset, Rodin, to construct these formal patterns and demonstrated how these patterns can be used in practical case studies.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-63790-2_11.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-63790-2_11.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{YagmahanRB24,
+author = {Mehmet Said Nur Yagmahan and
+Abdolbaghi Rezazadeh and
+Michael J. Butler},
+editor = {Silvia Bonfanti and
+Angelo Gargantini and
+Michael Leuschel and
+Elvinia Riccobene and
+Patrizia Scandurra},
+title = {An Event-B Formal Model for Access Control and Resource Management
+of Serverless Apps},
+booktitle = {Rigorous State-Based Methods - 10th International Conference, {ABZ}
+2024, Bergamo, Italy, June 25-28, 2024, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14759},
+pages = {181--190},
+publisher = {Springer},
+year = {2024},
+url = {https://doi.org/10.1007/978-3-031-63790-2\_11},
+doi = {10.1007/978-3-031-63790-2\_11},
+timestamp = {Thu, 04 Jul 2024 22:05:23 +0200},
+biburl = {https://dblp.org/rec/conf/zum/YagmahanRB24.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Verifiable Code Generation from Scheduled Event-B Models</title><link>/publication/dalvandibrf18/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>/publication/dalvandibrf18/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Scheduled Event-B (SEB) augments Event-B with a scheduling language to make the control flow in an Event-B model explicit and facilitate derivation of algorithmic structure in Event-B refinement. A concrete SEB model has a concrete algorithmic structure associated with it. Although this structure reduces the difficulty of code generation, there is still some gap between the model and executable code. This work formulates the translation of SEB models to a programming language called Dafny and proposes an approach in which a number of assertions are generated from the model that allows the verification of the generated code in a static program verifier.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-319-91271-4_16.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-319-91271-4_16.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{DalvandiBRF18,
+author = {Mohammadsadegh Dalvandi and
+Michael J. Butler and
+Abdolbaghi Rezazadeh and
+Asieh Salehi Fathabadi},
+editor = {Michael J. Butler and
+Alexander Raschke and
+Thai Son Hoang and
+Klaus Reichl},
+title = {Verifiable Code Generation from Scheduled Event-B Models},
+booktitle = {Abstract State Machines, Alloy, B, TLA, VDM, and {Z} - 6th International
+Conference, {ABZ} 2018, Southampton, UK, June 5-8, 2018, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {10817},
+pages = {234--248},
+publisher = {Springer},
+year = {2018},
+url = {https://doi.org/10.1007/978-3-319-91271-4\_16},
+doi = {10.1007/978-3-319-91271-4\_16},
+timestamp = {Thu, 23 Jun 2022 19:58:53 +0200},
+biburl = {https://dblp.org/rec/conf/asm/DalvandiBRF18.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>On an Extensible Rule-Based Prover for Event-B</title><link>/publication/maamriaber10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>/publication/maamriaber10/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Event-B [1] is a formalism for discrete system modelling. The Rodin platform [2] provides a toolset to carry out specification, refinement and proof in Event-B. The importance of proofs as part of formal modelling cannot be emphasised enough, and as such, it is imperative to provide effective tool support for it. An important aspect of this support is the extensibility of the prover, and more pressingly, how its soundness is preserved while allowing extensibility. Rodin has a limited support for adding rules as this requires (a) a deep understanding of the internal architecture and (b) knowledge of the Java language. Our approach attempts to provide support for user-defined proof rules. We initially focus on supporting rewrite rules to enhance the rewriting capabilities of Rodin. To achieve this objective, we introduce a theory construct distinct from contexts and machines. The theory construct provides a platform for the users to define rewrite rules both conditional and unconditional. As part of rule definition, users decide whether the rule is to be applied automatically or interactively. Each defined rule gives rise to proof obligations that serve to verify its conservativity. In this respect, it is required that validity and well-definedness are preserved by rules. After the conservativity of all rules contained in a theory is established, the theory can then be deployed and available to the proving activity. In order to apply rewrite rules, it is necessary to single out applicable rules to any given sequent. This is achieved through a pattern matching mechanism which is implemented as an extension to Rodin. Our approach has two advantages. Firstly, it offers a uniform mechanism to add proof rule without the need to write Java code. Secondly, it provides a means to verify added rules using proof obligations. Our work is still in progress, and research has to be carried out to (a) cover a larger set of rewrite and inference rules, and (b) provide guidelines to help the theory developer with deciding whether a given rule should be applied automatically.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-11811-1_40.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-11811-1_40.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{MaamriaBER10,
+author = {Issam Maamria and
+Michael J. Butler and
+Andrew Edmunds and
+Abdolbaghi Rezazadeh},
+editor = {Marc Frappier and
+Uwe Gl{\&amp;quot;{a}}sser and
+Sarfraz Khurshid and
+R{\'{e}}gine Laleau and
+Steve Reeves},
+title = {On an Extensible Rule-Based Prover for Event-B},
+booktitle = {Abstract State Machines, Alloy, {B} and Z, Second International Conference,
+{ABZ} 2010, Orford, QC, Canada, February 22-25, 2010. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {5977},
+pages = {407},
+publisher = {Springer},
+year = {2010},
+url = {https://doi.org/10.1007/978-3-642-11811-1\_40},
+doi = {10.1007/978-3-642-11811-1\_40},
+timestamp = {Tue, 14 May 2019 10:00:50 +0200},
+biburl = {https://dblp.org/rec/conf/asm/MaamriaBER10.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item></channel></rss>

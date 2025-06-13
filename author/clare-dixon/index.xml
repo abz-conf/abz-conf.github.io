@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Clare Dixon | ABZ</title><link>/author/clare-dixon/</link><atom:link href="/author/clare-dixon/index.xml" rel="self" type="application/rss+xml"/><description>Clare Dixon</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Clare Dixon</title><link>/author/clare-dixon/</link></image><item><title>Clarification of Ambiguity for the Simple Authentication and Security Layer</title><link>/publication/al-shareefild18/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>/publication/al-shareefild18/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>The Simple Authentication and Security Layer (SASL) is a framework for enabling application protocols to support authentication, integrity and confidentiality services. The SASL was originally specified in RFC 2222, and later updated in RFC 4422, using natural language. However, due to the richness of natural language this involves ambiguities and imprecision. Whilst there is an Oracle implementation of SASL, its documentation also contains informal descriptions and under-defined specifications of the RFCs. This paper provides clarification of ambiguity in SASL using Abstract State Machines (ASMs). This clarification is based on two ASM essential notions: a ground model to capture the intended SASL behavior in an understandable way, and a refinement notion to accurately explicate the ambiguous parts of the behavior. We also show some differences between RFCs and the description of the Oracle implementation. We believe our work can serve as a basis for further implementation and for formal analysis.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-319-91271-4_13.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-319-91271-4_13.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{Al-ShareefiLD18,
+author = {Farah Al{-}Shareefi and
+Alexei Lisitsa and
+Clare Dixon},
+editor = {Michael J. Butler and
+Alexander Raschke and
+Thai Son Hoang and
+Klaus Reichl},
+title = {Clarification of Ambiguity for the Simple Authentication and Security
+Layer},
+booktitle = {Abstract State Machines, Alloy, B, TLA, VDM, and {Z} - 6th International
+Conference, {ABZ} 2018, Southampton, UK, June 5-8, 2018, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {10817},
+pages = {189--203},
+publisher = {Springer},
+year = {2018},
+url = {https://doi.org/10.1007/978-3-319-91271-4\_13},
+doi = {10.1007/978-3-319-91271-4\_13},
+timestamp = {Sun, 02 Oct 2022 15:55:03 +0200},
+biburl = {https://dblp.org/rec/conf/asm/Al-ShareefiLD18.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item></channel></rss>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Manar Altamimi | ABZ</title><link>/author/manar-altamimi/</link><atom:link href="/author/manar-altamimi/index.xml" rel="self" type="application/rss+xml"/><description>Manar Altamimi</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Manar Altamimi</title><link>/author/manar-altamimi/</link></image><item><title>Property Ownership Formal Modelling Using Event-B and iUML-B</title><link>/publication/altamimihfw24/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>/publication/altamimihfw24/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>This paper introduces a novel approach to formal modelling and verification of ownership, addressing safety concerns in property transfer processes. The Event-B formal method, graphically represented using iUML-B notation, is used to establish a robust framework for modeling and verifying ownership systems. The verified Event-B model refines and enhances user requirements at the design stage before system implementation. The research focuses on property ownership within the legal framework of the Kingdom of Saudi Arabia, specifically property sales. The research uncovers that, despite conscientious efforts to scrutinise user requirements, the formal model development exposes limitations and inadequacies in the initial specifications. The verification process introduces essential requirements to mitigate potential fraudulent activities, enhancing the security and dependability of ownership claims.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-63790-2_12.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-63790-2_12.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{AltamimiHFW24,
+author = {Manar Altamimi and
+Nawfal Al Hashimy and
+Asieh Salehi Fathabadi and
+Gary B. Wills},
+editor = {Silvia Bonfanti and
+Angelo Gargantini and
+Michael Leuschel and
+Elvinia Riccobene and
+Patrizia Scandurra},
+title = {Property Ownership Formal Modelling Using Event-B and iUML-B},
+booktitle = {Rigorous State-Based Methods - 10th International Conference, {ABZ}
+2024, Bergamo, Italy, June 25-28, 2024, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14759},
+pages = {191--200},
+publisher = {Springer},
+year = {2024},
+url = {https://doi.org/10.1007/978-3-031-63790-2\_12},
+doi = {10.1007/978-3-031-63790-2\_12},
+timestamp = {Thu, 04 Jul 2024 22:05:23 +0200},
+biburl = {https://dblp.org/rec/conf/zum/AltamimiHFW24.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item></channel></rss>

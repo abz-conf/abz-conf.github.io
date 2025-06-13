@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Senén González | ABZ</title><link>/author/senen-gonzalez/</link><atom:link href="/author/senen-gonzalez/index.xml" rel="self" type="application/rss+xml"/><description>Senén González</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Senén González</title><link>/author/senen-gonzalez/</link></image><item><title>Towards Refinement of Unbounded Parallelism in ASMs Using Concurrency and Reflection</title><link>/publication/jiangxlgs21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>/publication/jiangxlgs21/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>The BSP bridging model can be exploited to support MapReduce processing. This article describes how this can be realised using a work-stealing approach, where an idle processor can autonomously grab a thread from a partially ordered pool of open threads and execute it. It is further outlined that this can be generalised for the refinement of an unboundedly parallel ASM by a concurrent, reflective BSP-ASM, i.e. the individual agents are associated with reflective ASMs, i.e. they can adapt their own program.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-77543-8_10.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-77543-8_10.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{JiangXLGS21,
+author = {Fengqing Jiang and
+Neng Xiong and
+Xinyu Lian and
+Sen{\'{e}}n Gonz{\'{a}}lez and
+Klaus{-}Dieter Schewe},
+editor = {Alexander Raschke and
+Dominique M{\'{e}}ry},
+title = {Towards Refinement of Unbounded Parallelism in ASMs Using Concurrency
+and Reflection},
+booktitle = {Rigorous State-Based Methods - 8th International Conference, {ABZ}
+2021, Ulm, Germany, June 9-11, 2021, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {12709},
+pages = {118--123},
+publisher = {Springer},
+year = {2021},
+url = {https://doi.org/10.1007/978-3-030-77543-8\_10},
+doi = {10.1007/978-3-030-77543-8\_10},
+timestamp = {Wed, 09 Jun 2021 12:14:31 +0200},
+biburl = {https://dblp.org/rec/conf/asm/JiangXLGS21.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Unbounded Barrier-Synchronized Concurrent ASMs for Effective MapReduce Processing on Streams</title><link>/publication/lihdgs21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>/publication/lihdgs21/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>MapReduce supports the processing of large data sets in parallel. It has been shown that MapReduce is an example for the use of the bulk synchronous parallel (BSP) bridging model, a model for parallel computation on a fixed set of processors comprising alternating computation and communication phases. In this article we extend the normal execution of MapReduce from processing large finite data sets to processing stream queries with input data stream assumed to continue indefinitely. We classify stream queries into three classes, memoryless, semi-memoryless and memorable, and provide the model for each class using MapReduce based on BSP. In addition, as some stream queries require large amounts of computing sources, the BSP computation model is extended to a model with unbounded many agents, but preserving the barrier synchronization. A behavioral theory is developed for this model extending the behavioral theory of the BSP model. This comprises an axiomatization, the definition of Infinite-Agent BSP abstract state machines (Inf-Ag-BSP-ASM) and the proof that such ASMs capture the unbounded synchronized computations. Finally, we show how MapReduce processing can be further improved on grounds of the unbounded extension.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-77543-8_1.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-77543-8_1.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{LiHDGS21,
+author = {Zilinghan Li and
+Shilan He and
+Yiqing Du and
+Sen{\'{e}}n Gonz{\'{a}}lez and
+Klaus{-}Dieter Schewe},
+editor = {Alexander Raschke and
+Dominique M{\'{e}}ry},
+title = {Unbounded Barrier-Synchronized Concurrent ASMs for Effective MapReduce
+Processing on Streams},
+booktitle = {Rigorous State-Based Methods - 8th International Conference, {ABZ}
+2021, Ulm, Germany, June 9-11, 2021, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {12709},
+pages = {3--16},
+publisher = {Springer},
+year = {2021},
+url = {https://doi.org/10.1007/978-3-030-77543-8\_1},
+doi = {10.1007/978-3-030-77543-8\_1},
+timestamp = {Wed, 09 Jun 2021 12:14:31 +0200},
+biburl = {https://dblp.org/rec/conf/asm/LiHDGS21.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Systematic Refinement of Abstract State Machines with Higher-Order Logic</title><link>/publication/ferrarottigst18/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>/publication/ferrarottigst18/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Graph algorithms that involve complex conditions on subgraphs can be specified much easier, if the specification allows expressions in higher-order logic to be used. In this paper an extension of Abstract State Machines by such expressions is introduced and its usefulness is demonstrated by examples of computations on graphs, such as graph factoring and checking self-similarity. In a naïve way these high-level specifications can be refined using submachines for the evaluation of the higher-order expressions. We show that refinements can be obtained in an automatic way for well-defined fragments of higher-order logic that collapse to second-order, by means of which the naïve refinement is only necessary for second-order logic expressions.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-319-91271-4_14.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-319-91271-4_14.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{FerrarottiGST18,
+author = {Flavio Ferrarotti and
+Sen{\'{e}}n Gonz{\'{a}}lez and
+Klaus{-}Dieter Schewe and
+Jos{\'{e}} Maria Turull Torres},
+editor = {Michael J. Butler and
+Alexander Raschke and
+Thai Son Hoang and
+Klaus Reichl},
+title = {Systematic Refinement of Abstract State Machines with Higher-Order
+Logic},
+booktitle = {Abstract State Machines, Alloy, B, TLA, VDM, and {Z} - 6th International
+Conference, {ABZ} 2018, Southampton, UK, June 5-8, 2018, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {10817},
+pages = {204--218},
+publisher = {Springer},
+year = {2018},
+url = {https://doi.org/10.1007/978-3-319-91271-4\_14},
+doi = {10.1007/978-3-319-91271-4\_14},
+timestamp = {Tue, 14 May 2019 10:00:50 +0200},
+biburl = {https://dblp.org/rec/conf/asm/FerrarottiGST18.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item></channel></rss>

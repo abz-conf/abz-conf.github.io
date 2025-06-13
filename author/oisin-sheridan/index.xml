@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Oisin Sheridan | ABZ</title><link>/author/oisin-sheridan/</link><atom:link href="/author/oisin-sheridan/index.xml" rel="self" type="application/rss+xml"/><description>Oisin Sheridan</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Wed, 03 Jul 2024 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Oisin Sheridan</title><link>/author/oisin-sheridan/</link></image><item><title>FRETting and Formal Modelling: A Mechanical Lung Ventilator</title><link>/publication/reynolds2024abz/</link><pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate><guid>/publication/reynolds2024abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Oisín Sheridan | ABZ</title><link>/author/oisin-sheridan/</link><atom:link href="/author/oisin-sheridan/index.xml" rel="self" type="application/rss+xml"/><description>Oisín Sheridan</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Wed, 03 Jul 2024 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Oisín Sheridan</title><link>/author/oisin-sheridan/</link></image><item><title>FRETting and Formal Modelling: A Mechanical Lung Ventilator</title><link>/publication/farrelllmrs24/</link><pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate><guid>/publication/farrelllmrs24/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>In this paper, we use NASA&amp;rsquo;s Formal Requirements Elicitation Tool (FRET) and the Event-B formal method to model and verify the requirements for the ABZ 2024 case study which is a mechanical lung ventilator. We use the FRET requirements to guide the development of a formal design model in Event-B. We provide details about the artefacts produced and reflect on our experience of using these tools in this case study. We focus on the functional and controller requirements for this system, as given in the case study documentation. This paper provides a first step towards using Event-B as part of a FRET-guided verification workflow in a large case study.&lt;/p>
 &lt;h2 id="document">Document&lt;/h2>
 &lt;div id="pdfobject-viewer">&lt;/div>
@@ -55,4 +55,50 @@ isbn=&amp;quot;978-3-031-63790-2&amp;quot;
 FRET&lt;/p>
 &lt;p>For more information, please contact the &lt;a href ="mailto:marie.farrell@manchester.ac.uk">authors&lt;/a>&lt;/p>
 &lt;/li>
-&lt;/ul></description></item></channel></rss>
+&lt;/ul></description></item><item><title>Exploring a Methodology for Formal Verification of Safety-Critical Systems</title><link>/publication/sheridan23/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>/publication/sheridan23/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>As the formal verification of safety-critical software systems often requires the integration of multiple tools and techniques, we propose a three-phase methodology incorporating two complementary workflows to ensure that the system in question fulfills its requirements. We use the Formal Requirements Elicitation Tool (FRET) to structure the requirements so that they can be translated to other formalisms. These translations are then either incorporated directly into an existing model in Simulink, or used to construct a new formal model of the system. Our current use case is a model of a controller for a civilian aircraft engine.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-33163-3_26.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-33163-3_26.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{Sheridan23,
+author = {Ois{\'{\i}}n Sheridan},
+editor = {Uwe Gl{\&amp;quot;{a}}sser and
+Jos{\'{e}} Creissac Campos and
+Dominique M{\'{e}}ry and
+Philippe A. Palanque},
+title = {Exploring a Methodology for Formal Verification of Safety-Critical
+Systems},
+booktitle = {Rigorous State-Based Methods - 9th International Conference, {ABZ}
+2023, Nancy, France, May 30 - June 2, 2023, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14010},
+pages = {361--365},
+publisher = {Springer},
+year = {2023},
+url = {https://doi.org/10.1007/978-3-031-33163-3\_26},
+doi = {10.1007/978-3-031-33163-3\_26},
+timestamp = {Fri, 02 Jun 2023 21:23:52 +0200},
+biburl = {https://dblp.org/rec/conf/zum/Sheridan23.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item></channel></rss>

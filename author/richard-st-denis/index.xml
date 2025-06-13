@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Richard St-Denis | ABZ</title><link>/author/richard-st-denis/</link><atom:link href="/author/richard-st-denis/index.xml" rel="self" type="application/rss+xml"/><description>Richard St-Denis</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Richard St-Denis</title><link>/author/richard-st-denis/</link></image><item><title>Modeling the Supervisory Control Theory with Alloy</title><link>/publication/fraikinfs12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/fraikinfs12/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Scientific literature reveals that symbolic representation techniques behind some formal methods are attractive to synthesize parts or verify properties of large discrete event systems. They involve, however, complex encoding schemata and fine tuning heuristic parameters in order to translate specific problems into efficient BDD or SAT-based representations. This approach may be too costly when the main goal is to explore a theory, understand by simulation its underlying concepts and computation procedures, and conduct experiments by applying them to small problems. Based on previous work with Alloy on the synthesis of observers and nonblocking supervisors of a system organized hierarchically with a flat state space estimated to 1031 states, this paper investigates more deeply issues raised with its use in the modeling and prototyping of the supervisory control theory, including the application of models to practical problems. This study was conducted in a broader context than just hierarchical control since it embraces various variants of this theory.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_7.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-30885-7_7.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{FraikinFS12,
+author = {Beno{\^{\i}}t Fraikin and
+Marc Frappier and
+Richard St{-}Denis},
+editor = {John Derrick and
+John S. Fitzgerald and
+Stefania Gnesi and
+Sarfraz Khurshid and
+Michael Leuschel and
+Steve Reeves and
+Elvinia Riccobene},
+title = {Modeling the Supervisory Control Theory with Alloy},
+booktitle = {Abstract State Machines, Alloy, B, VDM, and {Z} - Third International
+Conference, {ABZ} 2012, Pisa, Italy, June 18-21, 2012. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {7316},
+pages = {94--107},
+publisher = {Springer},
+year = {2012},
+url = {https://doi.org/10.1007/978-3-642-30885-7\_7},
+doi = {10.1007/978-3-642-30885-7\_7},
+timestamp = {Sun, 02 Oct 2022 15:55:03 +0200},
+biburl = {https://dblp.org/rec/conf/asm/FraikinFS12.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item></channel></rss>

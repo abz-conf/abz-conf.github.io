@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Marc Frappier | ABZ</title><link>/author/marc-frappier/</link><atom:link href="/author/marc-frappier/index.xml" rel="self" type="application/rss+xml"/><description>Marc Frappier</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Wed, 03 Jul 2024 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Marc Frappier</title><link>/author/marc-frappier/</link></image><item><title>Modelling the mechanical lung ventilation system using TASTD</title><link>/publication/frappier2024abz/</link><pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate><guid>/publication/frappier2024abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Marc Frappier | ABZ</title><link>/author/marc-frappier/</link><atom:link href="/author/marc-frappier/index.xml" rel="self" type="application/rss+xml"/><description>Marc Frappier</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Wed, 03 Jul 2024 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Marc Frappier</title><link>/author/marc-frappier/</link></image><item><title>Modelling the mechanical lung ventilation system using TASTD</title><link>/publication/ndounaf24/</link><pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate><guid>/publication/ndounaf24/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>For the ABZ2024 conference, the proposed case study consists of modelling the adaptive outdoor mechanical lung ventilation system. The mechanical lung ventilator is intended to provide ventilation support for patients that are in intensive therapy and that require mechanical ventilation. The system under study is made up of two main software components: the graphical user interface (GUI) and the controller, this paper introduces a model for the controller part of the software system using Timed Algebraic State-Transition Diagrams (TASTD). TASTD is an extension of Algebraic State-Transition Diagrams (ASTD) providing timing operators to express timing constraints. The specification makes extensive use of the TASTD modularity capabilities, thanks to its algebraic approach, to model the behaviour of different sensors and actuators separately. We validate our specification using the cASTD compiler, which translates the TASTD specification into a C++ program. This generated program can be executed in simulation mode to manually update the system clock to check timing constraints. The model is executed on the test sequences provided with the case study. The advantages of having modularisation, orthogonality, abstraction, hierarchy, real-time, and graphical representation in one notation are highlighted with the proposed model.&lt;/p>
 &lt;h2 id="document">Document&lt;/h2>
 &lt;div id="pdfobject-viewer">&lt;/div>
@@ -48,7 +48,99 @@ isbn=&amp;quot;978-3-031-63790-2&amp;quot;
 &lt;a href="/method/TASTD">TASTD&lt;/a>&lt;/p>
 &lt;p>For more information, please contact the &lt;a href ="mailto:Alex.Rodrigue.Ndouna@USherbrooke.ca;Marc.Frappier@USherbrooke.ca">authors&lt;/a>&lt;/p>
 &lt;/li>
-&lt;/ul></description></item><item><title>An Event-B Model of an Automotive Adaptive Exterior Light System</title><link>/publication/mammar2020abz/</link><pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate><guid>/publication/mammar2020abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;/ul></description></item><item><title>Modelling an Automotive Software System with TASTD</title><link>/publication/oliveiraf23/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>/publication/oliveiraf23/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>At the ABZ2020 Conference, the case study track proposed to model an Adaptive Exterior Light System and a Speed Control System: the former controls different exterior lights of a vehicle while the latter controls the speed of a vehicle. This paper introduces a model for these two case studies using Timed Algebraic State-Transition Diagrams (TASTD). TASTD is an extension of Algebraic State-Transition Diagrams (ASTD) providing timing operators to express timing constraints. The specification makes extensive use of the TASTD modularity capabilities, thanks to its algebraic approach, to model the behaviour of different sensors and actuators separately. We validate our specification using the cASTD compiler, which translates the TASTD specification into a C++ program. This generated program can be executed in simulation mode to manually update the system clock to check timing constraints. The model is executed on the test sequences provided with the case study. The paper provides a comparison between the TASTD model and other solutions presented at the ABZ2020 Conference. The advantages of having modularisation, orthogonality, abstraction, hierarchy, real-time, and graphical representation in one notation are highlighted with the proposed model.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-33163-3_10.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-33163-3_10.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{OliveiraF23,
+author = {Diego de Azevedo Oliveira and
+Marc Frappier},
+editor = {Uwe Gl{\&amp;quot;{a}}sser and
+Jos{\'{e}} Creissac Campos and
+Dominique M{\'{e}}ry and
+Philippe A. Palanque},
+title = {Modelling an Automotive Software System with {TASTD}},
+booktitle = {Rigorous State-Based Methods - 9th International Conference, {ABZ}
+2023, Nancy, France, May 30 - June 2, 2023, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14010},
+pages = {124--141},
+publisher = {Springer},
+year = {2023},
+url = {https://doi.org/10.1007/978-3-031-33163-3\_10},
+doi = {10.1007/978-3-031-33163-3\_10},
+timestamp = {Fri, 02 Jun 2023 21:23:53 +0200},
+biburl = {https://dblp.org/rec/conf/zum/OliveiraF23.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>TASTD: A Real-Time Extension for ASTD</title><link>/publication/oliveiraf23a/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>/publication/oliveiraf23a/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>In ASTD, real-time models are not natively supported. Real-time requirements are pervasive in many systems, like control systems and cybersecurity. Timed Algebraic State Transition Diagrams (TASTD) is an extension of ASTD capable of specifying real-time models. TASTD gives ASTD the capability to handle time with new algebraic operators. This paper describes the syntax and semantics of these new time operators: delay, persistent delay, timeout, persistent timeout, and timed interrupt. These new time operators are specified using two new operators, persistent guard and interrupt. To illustrate our extension, we present a small case study of a sensor where we want to detect potential anomalies.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-33163-3_11.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-33163-3_11.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{OliveiraF23a,
+author = {Diego de Azevedo Oliveira and
+Marc Frappier},
+editor = {Uwe Gl{\&amp;quot;{a}}sser and
+Jos{\'{e}} Creissac Campos and
+Dominique M{\'{e}}ry and
+Philippe A. Palanque},
+title = {{TASTD:} {A} Real-Time Extension for {ASTD}},
+booktitle = {Rigorous State-Based Methods - 9th International Conference, {ABZ}
+2023, Nancy, France, May 30 - June 2, 2023, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14010},
+pages = {142--159},
+publisher = {Springer},
+year = {2023},
+url = {https://doi.org/10.1007/978-3-031-33163-3\_11},
+doi = {10.1007/978-3-031-33163-3\_11},
+timestamp = {Fri, 02 Jun 2023 21:23:53 +0200},
+biburl = {https://dblp.org/rec/conf/zum/OliveiraF23a.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>An Event-B Model of an Automotive Adaptive Exterior Light System</title><link>/publication/mammarfl20/</link><pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate><guid>/publication/mammarfl20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>This paper introduces an Event-B formal model of the adaptive exterior light system for cars, a case study proposed in the context of the ABZ2020 conference. The system describes the different provided lights and the conditions under which they are switched on/off in order to improve the visibility of the driver without dazzling the oncoming ones. The system can be viewed as a lights controller that reads different information form the available sensors (key state, exterior luminosity, etc.) and takes the adequate actions by acting on the actuators of the lights in order to ensure a good visibility for the driver according to the information read. Our model is built using stepwise refinement with the Event-B method. We consider all the features of the case study, all proof obligations have been discharged using the rodin provers. Our model has been validated using ProB by applying the different provided scenarios. This validation has permitted us to point out and correct some mistakes, ambiguities and oversights in the first versions of the case study.&lt;/p>
 &lt;h2 id="document">Document&lt;/h2>
 &lt;div id="pdfobject-viewer">&lt;/div>
@@ -81,7 +173,7 @@ organization={Springer}
 &lt;a href="/method/event-b">Event-B&lt;/a>&lt;/p>
 &lt;p>For more information, please contact the &lt;a href ="mailto:amel.mammar@telecom-sudparis.eu;marc.frappier@usherbrooke.ca;laleau@u-pec.fr">authors&lt;/a>&lt;/p>
 &lt;/li>
-&lt;/ul></description></item><item><title>Modeling of a Speed Control System using Event-B</title><link>/publication/mammar2020abz_/</link><pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate><guid>/publication/mammar2020abz_/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;/ul></description></item><item><title>Modeling of a Speed Control System using Event-B</title><link>/publication/mammarf20/</link><pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate><guid>/publication/mammarf20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>The present paper presents our proposal of an Event-B model of a speed control system, a part of the case study provided in the ABZ2020 conference. The case study describes how the system regulates the current speed of a car according to a set criteria like the speed desired by the driver, the position of a possible preceding vehicle but also a given speed limit that the driver must not exceed. For that purpose, this controller reads different information form the available sensors (key state, desired speed, etc.) and takes the adequate actions by acting on the actuators of the car&amp;rsquo;s speed according to the read information. To formally model this system, we adopt a stepwise refinement approach with the Event-B method. We consider most features of the case study, all proof obligations have been discharged using the Rodin provers. Our model has been validated using ProB by applying the different provided scenarios. This validation has permitted us to point out and correct some mistakes, ambiguities and oversights contained in the first versions of the case study.&lt;/p>
 &lt;h2 id="document">Document&lt;/h2>
 &lt;div id="pdfobject-viewer">&lt;/div>
@@ -114,7 +206,53 @@ organization={Springer}
 &lt;a href="/method/event-b">Event-B&lt;/a>&lt;/p>
 &lt;p>For more information, please contact the &lt;a href ="mailto:amel.mammar@telecom-sudparis.eu;marc.frappier@usherbrooke.ca">authors&lt;/a>&lt;/p>
 &lt;/li>
-&lt;/ul></description></item><item><title>An Event-B Model of the Hybrid ERTMS/ETCS Level 3 Standard</title><link>/publication/mammar2018abz/</link><pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate><guid>/publication/mammar2018abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;/ul></description></item><item><title>Verifying SGAC Access Control Policies: A Comparison of ProB, Alloy and Z3</title><link>/publication/oliveiraf20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>/publication/oliveiraf20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>This paper describes the formalisation of SGAC access control policies using Z3 and then we compare the performance with ProB and Alloy. SGAC is an attribute-based, fine-grain access control model that uses acyclic subject and resource graphs to provide rule inheritance and streamline policy specification. To ensure patient privacy and safety, four types of properties are checked: accessibility, availability, contextuality and rule effectiveness. Automatic translation of SGAC policies into each specification language has been defined. ProB offers the best verification performances, by two orders of magnitude. The performances of Alloy and Z3 are similar.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-48077-6_15.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-48077-6_15.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{OliveiraF20,
+author = {Diego de Azevedo Oliveira and
+Marc Frappier},
+editor = {Alexander Raschke and
+Dominique M{\'{e}}ry and
+Frank Houdek},
+title = {Verifying {SGAC} Access Control Policies: {A} Comparison of ProB,
+Alloy and {Z3}},
+booktitle = {Rigorous State-Based Methods - 7th International Conference, {ABZ}
+2020, Ulm, Germany, May 27-29, 2020, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {12071},
+pages = {223--229},
+publisher = {Springer},
+year = {2020},
+url = {https://doi.org/10.1007/978-3-030-48077-6\_15},
+doi = {10.1007/978-3-030-48077-6\_15},
+timestamp = {Mon, 25 May 2020 12:33:39 +0200},
+biburl = {https://dblp.org/rec/conf/asm/OliveiraF20.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>An Event-B Model of the Hybrid ERTMS/ETCS Level 3 Standard</title><link>/publication/mammarffl18/</link><pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate><guid>/publication/mammarffl18/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>This paper presents an Event-B model of the ABZ2018 case study on the European Rail Traffic Management System (ERTMS) standard. The case study focusses on the management of fixed virtual sub-sections (VSS). We model the hybrid level 3 of the standard, which assumes that trains may be either equipped with an on-board train integrity monitoring system (TIMS) and that they report their position and integrity, ERTMS trains not fitted with TIMS that report only their front position or non-ERTMS trains that do not report any information about their position. We take into account most of the main features of the case study. Our model is decomposed into four refinements. All proof obligations have been discharged using the Rodin provers, except those related to the computation of the VSS state machine, which was found to be ambiguous (nondeterministic). Our model has been validated using ProB. The main safety property, which is that ERTMS trains do not collide, is proved.&lt;/p>
 &lt;h2 id="document">Document&lt;/h2>
 &lt;div id="pdfobject-viewer">&lt;/div>
@@ -155,7 +293,7 @@ Rodin, ProB&lt;/li>
 &lt;li>&lt;strong>Website:&lt;/strong>
 &lt;a href="http://info.usherbrooke.ca/mfrappier/abz2018-ERTMS-Case-Study" target="_blank" rel="noopener">http://info.usherbrooke.ca/mfrappier/abz2018-ERTMS-Case-Study&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;p>For more information, please contact the &lt;a href ="mailto:amel.mammar@telecom-sudparis.eu;laleau@u-pec.fr">authors&lt;/a>&lt;/p></description></item><item><title>Modeling the Hybrid ERTMS/ETCS Level 3 Standard Using a Formal Requirements Engineering Approach</title><link>/publication/fotso2018abz/</link><pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate><guid>/publication/fotso2018abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>For more information, please contact the &lt;a href ="mailto:amel.mammar@telecom-sudparis.eu;laleau@u-pec.fr">authors&lt;/a>&lt;/p></description></item><item><title>Modeling the Hybrid ERTMS/ETCS Level 3 Standard Using a Formal Requirements Engineering Approach</title><link>/publication/fotsoflm18/</link><pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate><guid>/publication/fotsoflm18/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>This paper presents a specification of the hybrid ERTMS/ETCS level 3 standard in the framework of the case study proposed for the 6th edition of the ABZ conference. The specification is based on the method and tools, developed in the ANR FORMOSE project, for the modeling and formal verification of critical and complex system requirements. The requirements are specified with SysML/KAOS goal diagrams and are automatically translated into B System specifications, in order to obtain the architecture of the formal specification. Domain properties are specified by ontologies with the SysML/KAOS domain modeling language, based on OWL and PLIB. Their automatic translation completes the structural part of the formal specification. The only part of the specification, which must be manually completed, is the body of events. The construction is incremental, based on the refinement mechanisms existing within the involved methods. The formal specification of the case study is composed of seven refinement levels and all the proofs have been discharged with the Rodin prover.&lt;/p>
 &lt;h2 id="document">Document&lt;/h2>
 &lt;div id="pdfobject-viewer">&lt;/div>
@@ -207,7 +345,105 @@ Linux, Mac, Windows&lt;/li>
 &lt;a href="https://github.com/stuenofotso/SysML_KAOS_Domain_Model_Parser/tree/master/ABZ18_ERTMS" target="_blank" rel="noopener">https://github.com/stuenofotso/SysML_KAOS_Domain_Model_Parser/tree/master/ABZ18_ERTMS&lt;/a>&lt;/li>
 &lt;li>&lt;strong>Remarks and recommendation:&lt;/strong>
 The developed model focuses on formal verification of the main requirements of the protocol. Its main objective is to assess the SysML/KAOS method and to compare it with direct specification approaches using only plain Event-B.&lt;/li>
-&lt;/ul></description></item><item><title>Modelling a Hemodialysis Machine Using Algebraic State-Transition Diagrams and B-like Methods</title><link>/publication/fayolle2016abz/</link><pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate><guid>/publication/fayolle2016abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;/ul></description></item><item><title>A Translation from Alloy to B</title><link>/publication/kringssbfl18/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>/publication/kringssbfl18/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>In this paper, we introduce a translation of the specification language Alloy to classical B. Our translation closely follows the Alloy grammar, each construct is translated into a semantically equivalent component of the B language. In addition to basic Alloy constructs, our approach supports integers and orderings. The translation is fully automated by the tool “Alloy2B”. We evaluate the usefulness by applying AtelierB and ProB to the translated models, and show benefits for proof and solving with integers and higher-order quantification.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-319-91271-4_6.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-319-91271-4_6.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{KringsSBFL18,
+author = {Sebastian Krings and
+Joshua Schmidt and
+Carola Brings and
+Marc Frappier and
+Michael Leuschel},
+editor = {Michael J. Butler and
+Alexander Raschke and
+Thai Son Hoang and
+Klaus Reichl},
+title = {A Translation from Alloy to {B}},
+booktitle = {Abstract State Machines, Alloy, B, TLA, VDM, and {Z} - 6th International
+Conference, {ABZ} 2018, Southampton, UK, June 5-8, 2018, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {10817},
+pages = {71--86},
+publisher = {Springer},
+year = {2018},
+url = {https://doi.org/10.1007/978-3-319-91271-4\_6},
+doi = {10.1007/978-3-319-91271-4\_6},
+timestamp = {Wed, 25 Sep 2019 18:19:23 +0200},
+biburl = {https://dblp.org/rec/conf/asm/KringsSBFL18.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Event-B Expression and Verification of Translation Rules Between SysML/KAOS Domain Models and B System Specifications</title><link>/publication/fotsomlf18/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>/publication/fotsomlf18/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>This paper is about the extension of the SysML/KAOS requirements engineering method with domain models expressed as ontologies. More precisely, it concerns the translation of these ontologies into B System for system construction. The contributions of this paper are twofold. The first one is a formal semantics for the ontology modeling language. The second one is the formal definition of translation rules between ontologies and B system specifications in order to provide the structural part of the formal specification. These translation rules are modeled in Event-B. Their consistency and completeness are proved using Rodin. We show that they are structure preserving (two related elements within the source model remain related within the target model), by proving various isomorphisms between the ontology and the B System specification.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-319-91271-4_5.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-319-91271-4_5.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{FotsoMLF18,
+author = {Steve Jeffrey Tueno Fotso and
+Amel Mammar and
+R{\'{e}}gine Laleau and
+Marc Frappier},
+editor = {Michael J. Butler and
+Alexander Raschke and
+Thai Son Hoang and
+Klaus Reichl},
+title = {Event-B Expression and Verification of Translation Rules Between SysML/KAOS
+Domain Models and {B} System Specifications},
+booktitle = {Abstract State Machines, Alloy, B, TLA, VDM, and {Z} - 6th International
+Conference, {ABZ} 2018, Southampton, UK, June 5-8, 2018, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {10817},
+pages = {55--70},
+publisher = {Springer},
+year = {2018},
+url = {https://doi.org/10.1007/978-3-319-91271-4\_5},
+doi = {10.1007/978-3-319-91271-4\_5},
+timestamp = {Tue, 14 May 2019 10:00:50 +0200},
+biburl = {https://dblp.org/rec/conf/asm/FotsoMLF18.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Modelling a Hemodialysis Machine Using Algebraic State-Transition Diagrams and B-like Methods</title><link>/publication/fayollefgl16/</link><pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate><guid>/publication/fayollefgl16/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>This paper presents the specification of the hemodialysis case study, proposed by ABZ'16 conference. The specification was carried out by a coupling of Algebraic State-Transition Diagrams (ASTD) and B-like methods. astd are a graphical notation, based on automata and process algebra operators. They provide an easy-to-read specification of the dynamic behaviour of the system. The data model is specified using the Event-B language. The system is incrementally designed using extended refinement of both methods.&lt;/p>
 &lt;!-- ## Document
 &lt;div id="pdfobject-viewer">&lt;/div>
@@ -250,4 +486,101 @@ isbn=&amp;quot;978-3-319-33600-8&amp;quot;
 Algebraic State-Transition Diagrams (ASTD)&lt;/p>
 &lt;p>For more information, please contact the &lt;a href ="mailto:marc.frappier@usherbrooke.ca">authors&lt;/a>&lt;/p>
 &lt;/li>
-&lt;/ul></description></item></channel></rss>
+&lt;/ul></description></item><item><title>Validating the RBAC ANSI 2012 Standard Using B</title><link>/publication/huynhfmld14/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>/publication/huynhfmld14/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>We validate the RBAC ANSI 2012 standard using the B method. Numerous problems are identified: logical errors, inconsistencies, ambiguities, typing errors, missing preconditions, invariant violation, inappropriate specification notation. A clean version of the standard written in the B notation is proposed. We argue that the ad hoc mathematical notation used in the standard is inappropriate and we propose that a more methodological and tool-supported approach must definitely be used for writing standards, in order to avoid the issues identified in the paper. Human reviewing is insufficient to produce error-free international standards.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-662-43652-3_22.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-662-43652-3_22.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{HuynhFMLD14,
+author = {Nghi Huynh and
+Marc Frappier and
+Amel Mammar and
+R{\'{e}}gine Laleau and
+Jules Desharnais},
+editor = {Yamine A{\&amp;quot;{\i}}t Ameur and
+Klaus{-}Dieter Schewe},
+title = {Validating the {RBAC} {ANSI} 2012 Standard Using {B}},
+booktitle = {Abstract State Machines, Alloy, B, TLA, VDM, and {Z} - 4th International
+Conference, {ABZ} 2014, Toulouse, France, June 2-6, 2014. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {8477},
+pages = {255--270},
+publisher = {Springer},
+year = {2014},
+url = {https://doi.org/10.1007/978-3-662-43652-3\_22},
+doi = {10.1007/978-3-662-43652-3\_22},
+timestamp = {Tue, 14 May 2019 10:00:50 +0200},
+biburl = {https://dblp.org/rec/conf/asm/HuynhFMLD14.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Modeling the Supervisory Control Theory with Alloy</title><link>/publication/fraikinfs12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/fraikinfs12/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Scientific literature reveals that symbolic representation techniques behind some formal methods are attractive to synthesize parts or verify properties of large discrete event systems. They involve, however, complex encoding schemata and fine tuning heuristic parameters in order to translate specific problems into efficient BDD or SAT-based representations. This approach may be too costly when the main goal is to explore a theory, understand by simulation its underlying concepts and computation procedures, and conduct experiments by applying them to small problems. Based on previous work with Alloy on the synthesis of observers and nonblocking supervisors of a system organized hierarchically with a flat state space estimated to 1031 states, this paper investigates more deeply issues raised with its use in the modeling and prototyping of the supervisory control theory, including the application of models to practical problems. This study was conducted in a broader context than just hierarchical control since it embraces various variants of this theory.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_7.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-30885-7_7.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{FraikinFS12,
+author = {Beno{\^{\i}}t Fraikin and
+Marc Frappier and
+Richard St{-}Denis},
+editor = {John Derrick and
+John S. Fitzgerald and
+Stefania Gnesi and
+Sarfraz Khurshid and
+Michael Leuschel and
+Steve Reeves and
+Elvinia Riccobene},
+title = {Modeling the Supervisory Control Theory with Alloy},
+booktitle = {Abstract State Machines, Alloy, B, VDM, and {Z} - Third International
+Conference, {ABZ} 2012, Pisa, Italy, June 18-21, 2012. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {7316},
+pages = {94--107},
+publisher = {Springer},
+year = {2012},
+url = {https://doi.org/10.1007/978-3-642-30885-7\_7},
+doi = {10.1007/978-3-642-30885-7\_7},
+timestamp = {Sun, 02 Oct 2022 15:55:03 +0200},
+biburl = {https://dblp.org/rec/conf/asm/FraikinFS12.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item></channel></rss>

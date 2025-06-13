@@ -1,4 +1,50 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frédéric Gervais | ABZ</title><link>/author/frederic-gervais/</link><atom:link href="/author/frederic-gervais/index.xml" rel="self" type="application/rss+xml"/><description>Frédéric Gervais</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Sun, 01 May 2016 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Frédéric Gervais</title><link>/author/frederic-gervais/</link></image><item><title>Modelling a Hemodialysis Machine Using Algebraic State-Transition Diagrams and B-like Methods</title><link>/publication/fayolle2016abz/</link><pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate><guid>/publication/fayolle2016abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frédéric Gervais | ABZ</title><link>/author/frederic-gervais/</link><atom:link href="/author/frederic-gervais/index.xml" rel="self" type="application/rss+xml"/><description>Frédéric Gervais</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Frédéric Gervais</title><link>/author/frederic-gervais/</link></image><item><title>Introducing Inductive Construction in B with the Theory Plugin</title><link>/publication/cervelleg23/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>/publication/cervelleg23/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Proving theorems and properties on B models, recursively-defined functions is a convenient tool which is missing in B proofs. The main contribution of this paper is the definition of a new theory without new concrete types and without axioms to enable the use of constructions by induction; This theory has been specified and proved within the Theory Plugin in Rodin. This induction theory clearly improves the existing B prover. This is illustrated in this paper by the implementation of ZFC in the Theory Plugin.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-33163-3_4.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-33163-3_4.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{CervelleG23,
+author = {Julien Cervelle and
+Fr{\'{e}}d{\'{e}}ric Gervais},
+editor = {Uwe Gl{\&amp;quot;{a}}sser and
+Jos{\'{e}} Creissac Campos and
+Dominique M{\'{e}}ry and
+Philippe A. Palanque},
+title = {Introducing Inductive Construction in {B} with the Theory Plugin},
+booktitle = {Rigorous State-Based Methods - 9th International Conference, {ABZ}
+2023, Nancy, France, May 30 - June 2, 2023, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14010},
+pages = {43--58},
+publisher = {Springer},
+year = {2023},
+url = {https://doi.org/10.1007/978-3-031-33163-3\_4},
+doi = {10.1007/978-3-031-33163-3\_4},
+timestamp = {Fri, 02 Jun 2023 21:23:53 +0200},
+biburl = {https://dblp.org/rec/conf/zum/CervelleG23.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Modelling a Hemodialysis Machine Using Algebraic State-Transition Diagrams and B-like Methods</title><link>/publication/fayollefgl16/</link><pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate><guid>/publication/fayollefgl16/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>This paper presents the specification of the hemodialysis case study, proposed by ABZ'16 conference. The specification was carried out by a coupling of Algebraic State-Transition Diagrams (ASTD) and B-like methods. astd are a graphical notation, based on automata and process algebra operators. They provide an easy-to-read specification of the dynamic behaviour of the system. The data model is specified using the Event-B language. The system is incrementally designed using extended refinement of both methods.&lt;/p>
 &lt;!-- ## Document
 &lt;div id="pdfobject-viewer">&lt;/div>
@@ -41,4 +87,99 @@ isbn=&amp;quot;978-3-319-33600-8&amp;quot;
 Algebraic State-Transition Diagrams (ASTD)&lt;/p>
 &lt;p>For more information, please contact the &lt;a href ="mailto:marc.frappier@usherbrooke.ca">authors&lt;/a>&lt;/p>
 &lt;/li>
-&lt;/ul></description></item></channel></rss>
+&lt;/ul></description></item><item><title>B-ASM: Specification of ASM à la B</title><link>/publication/michelgv10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>/publication/michelgv10/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>We aim at extending the B language in order to build ASM programs which are correct with respect to B-like logical specifications. On the one hand, the main strengths of the B formal method are: i) the ability to express logical statements, and ii) the construction of a correct implementation by refinement. On the other hand, from our viewpoint, the striking aspects of ASM are the non-bounded outer loop that can reach the fixed point of a program and the power to express naturally any kind of (sequential) algorithms.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-11811-1_29.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-11811-1_29.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{MichelGV10,
+author = {David Michel and
+Fr{\'{e}}d{\'{e}}ric Gervais and
+Pierre Valarcher},
+editor = {Marc Frappier and
+Uwe Gl{\&amp;quot;{a}}sser and
+Sarfraz Khurshid and
+R{\'{e}}gine Laleau and
+Steve Reeves},
+title = {{B-ASM:} Specification of {ASM} {\`{a}} la {B}},
+booktitle = {Abstract State Machines, Alloy, {B} and Z, Second International Conference,
+{ABZ} 2010, Orford, QC, Canada, February 22-25, 2010. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {5977},
+pages = {391},
+publisher = {Springer},
+year = {2010},
+url = {https://doi.org/10.1007/978-3-642-11811-1\_29},
+doi = {10.1007/978-3-642-11811-1\_29},
+timestamp = {Tue, 14 May 2019 10:00:50 +0200},
+biburl = {https://dblp.org/rec/conf/asm/MichelGV10.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>A First Attempt to Express KAOS Refinement Patterns with Event B</title><link>/publication/matoussigl08/</link><pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate><guid>/publication/matoussigl08/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>It is now recognised that goals play an important role in requirements engineering process, and consequently in systems development process.Whereas specifications allow us to answer the question”WHAT the system does”, goals allow us to address the ”WHY, WHO, WHEN” questions [1]. Up to now, the development process associated with formal methods, including Event B, begins at the specification level. Our objective is to include requirements analysis within this process, and more precisely KAOS[2] which is a methodology to implement goal-based reasoning. Existing work [3,4] that combine KAOS with formal methods generate a formal specification model from a KAOS requirements model.We aim at expressing KAOS goal models with a formal language (Event B), hence staying at the same abstraction level. Our work is based on a constructive approach in which Event B models are built incrementally from KAOS goal models, driven by goal refinement patterns [1]. Since a KAOS goal means that a property must be established, the main idea is to represent each goal as a B event and the property as the post-condition of this B event. Up to now, we consider refinement patterns defined with first-order logic. Patterns with LTL temporal logic will be studied in further work.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-540-87603-8_27.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-540-87603-8_27.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{MatoussiGL08,
+author = {Abderrahman Matoussi and
+Fr{\'{e}}d{\'{e}}ric Gervais and
+R{\'{e}}gine Laleau},
+editor = {Egon B{\&amp;quot;{o}}rger and
+Michael J. Butler and
+Jonathan P. Bowen and
+Paul Boca},
+title = {A First Attempt to Express {KAOS} Refinement Patterns with Event {B}},
+booktitle = {Abstract State Machines, {B} and Z, First International Conference,
+{ABZ} 2008, London, UK, September 16-18, 2008. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {5238},
+pages = {338},
+publisher = {Springer},
+year = {2008},
+url = {https://doi.org/10.1007/978-3-540-87603-8\_27},
+doi = {10.1007/978-3-540-87603-8\_27},
+timestamp = {Tue, 14 May 2019 10:00:50 +0200},
+biburl = {https://dblp.org/rec/conf/asm/MatoussiGL08.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item></channel></rss>

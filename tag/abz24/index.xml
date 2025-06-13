@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ABZ'24 | ABZ</title><link>/tag/abz24/</link><atom:link href="/tag/abz24/index.xml" rel="self" type="application/rss+xml"/><description>ABZ'24</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Wed, 03 Jul 2024 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>ABZ'24</title><link>/tag/abz24/</link></image><item><title>An Event-B Model of a Mechanical Lung Ventilator</title><link>/publication/mammar2024abz/</link><pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate><guid>/publication/mammar2024abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ABZ'24 | ABZ</title><link>/tag/abz24/</link><atom:link href="/tag/abz24/index.xml" rel="self" type="application/rss+xml"/><description>ABZ'24</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Wed, 03 Jul 2024 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>ABZ'24</title><link>/tag/abz24/</link></image><item><title>An Event-B Model of a Mechanical Lung Ventilator</title><link>/publication/mammar24/</link><pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate><guid>/publication/mammar24/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>In this paper, we present a formal Event-B model of the Mechanical Lung Ventilator (MLV), the case study provided by the ABZ’24 conference. This system aims at helping patients maintain good breathing by providing mechanical ventilation. For this purpose, two modes are possible: Pressure Controlled Ventilation (PCV) and Pressure Support Ventilation (PSV). In the former mode, respiratory cycles are completely defined by the patient that is able to start breathing on its own. In the latter mode, the respiratory cycle is constant and controlled by the ventilator. Let us note that it is possible to move from a given mode to the other depending on the breathing capabilities of the patient under ventilation. In this paper, we illustrate the use of a correct-by-construction approach, the Event-B formal method and its refinement process, for the formal modeling and the verification of such a complex and critical system. The development of the formal models has been achieved under the Rodin platform that provides us with automatic and interactive provers used to verify the correctness of the models. We have also validated the built Event-B models using the ProB animator/model checker.&lt;/p>
 &lt;h2 id="document">Document&lt;/h2>
 &lt;div id="pdfobject-viewer">&lt;/div>
@@ -47,7 +47,7 @@ isbn=&amp;quot;978-3-031-63790-2&amp;quot;
 &lt;a href="/method/event-b">Event-B&lt;/a>&lt;/p>
 &lt;p>For more information, please contact the &lt;a href ="mailto:amel.mammar@telecom-sudparis.eu">authors&lt;/a>&lt;/p>
 &lt;/li>
-&lt;/ul></description></item><item><title>FRETting and Formal Modelling: A Mechanical Lung Ventilator</title><link>/publication/reynolds2024abz/</link><pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate><guid>/publication/reynolds2024abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;/ul></description></item><item><title>FRETting and Formal Modelling: A Mechanical Lung Ventilator</title><link>/publication/farrelllmrs24/</link><pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate><guid>/publication/farrelllmrs24/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>In this paper, we use NASA&amp;rsquo;s Formal Requirements Elicitation Tool (FRET) and the Event-B formal method to model and verify the requirements for the ABZ 2024 case study which is a mechanical lung ventilator. We use the FRET requirements to guide the development of a formal design model in Event-B. We provide details about the artefacts produced and reflect on our experience of using these tools in this case study. We focus on the functional and controller requirements for this system, as given in the case study documentation. This paper provides a first step towards using Event-B as part of a FRET-guided verification workflow in a large case study.&lt;/p>
 &lt;h2 id="document">Document&lt;/h2>
 &lt;div id="pdfobject-viewer">&lt;/div>
@@ -104,7 +104,7 @@ isbn=&amp;quot;978-3-031-63790-2&amp;quot;
 FRET&lt;/p>
 &lt;p>For more information, please contact the &lt;a href ="mailto:marie.farrell@manchester.ac.uk">authors&lt;/a>&lt;/p>
 &lt;/li>
-&lt;/ul></description></item><item><title>Modelling and Analysing a Mechanical Lung Ventilator in mCRL2</title><link>/publication/keiren2024abz/</link><pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate><guid>/publication/keiren2024abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;/ul></description></item><item><title>Modelling and Analysing a Mechanical Lung Ventilator in mCRL2</title><link>/publication/dortmontkw24/</link><pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate><guid>/publication/dortmontkw24/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>We model the Mechanical Lung Ventilator (MLV) in the process algebra mCRL2. The functional requirements of the MLV are formalised in the modal mu-calculus, and we use model checking to analyse whether these requirements hold true of our model. Our formalisation of the MLV and its requirements reveal a few subtle imprecisions and unclarities in the informal document and we analyse their impact.&lt;/p>
 &lt;h2 id="document">Document&lt;/h2>
 &lt;div id="pdfobject-viewer">&lt;/div>
@@ -155,7 +155,7 @@ isbn=&amp;quot;978-3-031-63790-2&amp;quot;
 &lt;a href="/method/mCRL2">mCRL2&lt;/a>&lt;/p>
 &lt;p>For more information, please contact the &lt;a href ="mailto:d.f.m.v.dortmont@student.tue.nl;j.j.a.keiren@tue.nl;t.a.c.willemse@tue.nl">authors&lt;/a>&lt;/p>
 &lt;/li>
-&lt;/ul></description></item><item><title>Modelling the mechanical lung ventilation system using TASTD</title><link>/publication/frappier2024abz/</link><pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate><guid>/publication/frappier2024abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;/ul></description></item><item><title>Modelling the mechanical lung ventilation system using TASTD</title><link>/publication/ndounaf24/</link><pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate><guid>/publication/ndounaf24/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>For the ABZ2024 conference, the proposed case study consists of modelling the adaptive outdoor mechanical lung ventilation system. The mechanical lung ventilator is intended to provide ventilation support for patients that are in intensive therapy and that require mechanical ventilation. The system under study is made up of two main software components: the graphical user interface (GUI) and the controller, this paper introduces a model for the controller part of the software system using Timed Algebraic State-Transition Diagrams (TASTD). TASTD is an extension of Algebraic State-Transition Diagrams (ASTD) providing timing operators to express timing constraints. The specification makes extensive use of the TASTD modularity capabilities, thanks to its algebraic approach, to model the behaviour of different sensors and actuators separately. We validate our specification using the cASTD compiler, which translates the TASTD specification into a C++ program. This generated program can be executed in simulation mode to manually update the system clock to check timing constraints. The model is executed on the test sequences provided with the case study. The advantages of having modularisation, orthogonality, abstraction, hierarchy, real-time, and graphical representation in one notation are highlighted with the proposed model.&lt;/p>
 &lt;h2 id="document">Document&lt;/h2>
 &lt;div id="pdfobject-viewer">&lt;/div>
@@ -205,7 +205,7 @@ isbn=&amp;quot;978-3-031-63790-2&amp;quot;
 &lt;a href="/method/TASTD">TASTD&lt;/a>&lt;/p>
 &lt;p>For more information, please contact the &lt;a href ="mailto:Alex.Rodrigue.Ndouna@USherbrooke.ca;Marc.Frappier@USherbrooke.ca">authors&lt;/a>&lt;/p>
 &lt;/li>
-&lt;/ul></description></item><item><title>Real-Time CCSL: Application to the Mechanical Lung Ventilator</title><link>/publication/tokariev2024abz/</link><pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate><guid>/publication/tokariev2024abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;/ul></description></item><item><title>Real-Time CCSL: Application to the Mechanical Lung Ventilator</title><link>/publication/tokarievm24/</link><pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate><guid>/publication/tokarievm24/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>This case-study paper reports on our experience in modelling the mechanical lung ventilator using the Clock Constraint Specification Language (CCSL). CCSL captures the causal and temporal behaviour of a system by specifying constraints on logical clocks. Logical clocks are integer counters where the occurrence of an event, a tick, advances the counter and marks the advance in time. In this framework, chronometric clocks become logical clocks just with a special external meaning. Encoding chronometric clocks as counters may result in verification inefficiency and hard-to-read specifications. The paper introduces in the language some real-time constructs to directly encode phenomena like clock drift, skew and jitter. This makes patterns explicit in turn enabling optimizations. To realize these optimizations, we alter the internal symbolic representation of clock constraints. We also introduce an explicit notion of parameters and intervals. While for some constraints it mainly consists of adding syntactic sugar and pre-processing facilities, we believe it improves the readability. We illustrate the new constructs on the mechanical lung ventilator system. We start with a purely logical specification, we point at the sources of inefficiencies and then we discuss the benefits of the extensions on specific parts.&lt;/p>
 &lt;h2 id="document">Document&lt;/h2>
 &lt;div id="pdfobject-viewer">&lt;/div>
@@ -256,6 +256,1206 @@ isbn=&amp;quot;978-3-031-63790-2&amp;quot;
 &lt;p>For more information, please contact the &lt;a href ="mailto:Pavlo.Tokariev@inria.fr;Frederic.Mallet@univ-cotedazur.fr">authors&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul></description></item><item><title>ABZ 2024 (Bergamo, Italy)</title><link>/2024/</link><pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate><guid>/2024/</guid><description>&lt;!--&lt;meta http-equiv="refresh" content="0; URL='../site/2024'" />-->
-&lt;p>The ABZ conference is dedicated to the cross-fertilization of state-based and machine-based formal methods, like Abstract State Machines (ASM), Alloy, B, TLA, VDM and Z, that share a common conceptual foundation and are widely used in both academia and industry for the design and analysis of hardware and software systems. The conference aims for a vital exchange of knowledge and experience among the research communities around different formal methods.&lt;/p></description></item><item><title>Mechanical Lung Ventilator (ABZ 2024)</title><link>/case-study/abz24/</link><pubDate>Thu, 01 Jan 1970 00:33:44 +0000</pubDate><guid>/case-study/abz24/</guid><description>&lt;p>This document presents the case study for ABZ 2024 conference. The case study introduces Mechanical Lung Ventilator (MLV). The MLV is intended to provide ventilation support for patients that require mechanical ventilation in two operative modes: Pressure Controlled Ventilation (PCV) and Pressure Support Ventilation (PSV). The former is used when patients are not able to start breathing on their own, while the latter support patients by partially taking over the work of breathing.&lt;/p>
+&lt;p>The ABZ conference is dedicated to the cross-fertilization of state-based and machine-based formal methods, like Abstract State Machines (ASM), Alloy, B, TLA, VDM and Z, that share a common conceptual foundation and are widely used in both academia and industry for the design and analysis of hardware and software systems. The conference aims for a vital exchange of knowledge and experience among the research communities around different formal methods.&lt;/p></description></item><item><title>A Lean Reflective Abstract State Machine Definition</title><link>/publication/borgerg24/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>/publication/borgerg24/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>We propose a definition of a class of reflective Abstract State Machines (ASMs) that extends the class of Parallel Guarded Assignments (PGAs), a subclass of single-agent sequential ASMs, and can serve as ground model for refinements of reflectivity in concrete programming languages.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-63790-2_6.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-63790-2_6.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{BorgerG24,
+author = {Egon B{\&amp;quot;{o}}rger and
+Vincenzo Gervasi},
+editor = {Silvia Bonfanti and
+Angelo Gargantini and
+Michael Leuschel and
+Elvinia Riccobene and
+Patrizia Scandurra},
+title = {A Lean Reflective Abstract State Machine Definition},
+booktitle = {Rigorous State-Based Methods - 10th International Conference, {ABZ}
+2024, Bergamo, Italy, June 25-28, 2024, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14759},
+pages = {99--104},
+publisher = {Springer},
+year = {2024},
+url = {https://doi.org/10.1007/978-3-031-63790-2\_6},
+doi = {10.1007/978-3-031-63790-2\_6},
+timestamp = {Thu, 04 Jul 2024 22:05:23 +0200},
+biburl = {https://dblp.org/rec/conf/zum/BorgerG24.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>A Modeling and Verification Framework for Ethereum Smart Contracts</title><link>/publication/valentinibr24/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>/publication/valentinibr24/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Blockchain has shown to be a versatile technology with applications ranging from financial services and supply chain management to healthcare, identity verification, etc. Thanks to the usage of smart contracts, blockchain can streamline and automate complex processes, eliminating the need for intermediaries and reducing administrative overhead. Smart contracts often handle valuable assets and execute critical functions, making them attractive targets for attackers. Thus, secure and reliable smart contracts are necessary. The long-term research we present aims to face the problem of safety and security assurance of smart contracts at design time. We are investigating the usage of the Abstract State Machine (ASM) formal method for the specification, validation, and verification of Ethereum smart contracts. We provide (i) a set of ASM libraries that simplify smart contracts modeling, (ii) models of malicious contracts to be used to check the robustness of a contract against some given attacks, (iii) patterns of properties to be checked to guarantee the operational correctness of the contract and its adherence to certain predefined properties.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-63790-2_13.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-63790-2_13.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{ValentiniBR24,
+author = {Simone Valentini and
+Chiara Braghin and
+Elvinia Riccobene},
+editor = {Silvia Bonfanti and
+Angelo Gargantini and
+Michael Leuschel and
+Elvinia Riccobene and
+Patrizia Scandurra},
+title = {A Modeling and Verification Framework for Ethereum Smart Contracts},
+booktitle = {Rigorous State-Based Methods - 10th International Conference, {ABZ}
+2024, Bergamo, Italy, June 25-28, 2024, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14759},
+pages = {201--207},
+publisher = {Springer},
+year = {2024},
+url = {https://doi.org/10.1007/978-3-031-63790-2\_13},
+doi = {10.1007/978-3-031-63790-2\_13},
+timestamp = {Fri, 19 Jul 2024 23:15:46 +0200},
+biburl = {https://dblp.org/rec/conf/zum/ValentiniBR24.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Alloy Goes Fuzzy</title><link>/publication/silvacmo24/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>/publication/silvacmo24/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Humans are good at understanding subjective or vague statements which, however, are hard to express in classical logic. Fuzzy logic is an evolution of classical logic that can cope with vague terms by handling degrees of truth and not just the crisp values true and false. Logic is the formal basis of computing, enabling the formal design of systems supported by tools such as model checkers and theorem provers.This paper shows how a model checker such as Alloy can evolve to handle both classical and fuzzy logic, enabling the specification of high-level quantitative relational models in the fuzzy domain. In particular, the paper showcases how QAlloy-F (a conservative, general-purpose quantitative extension to standard Alloy) can be used to tackle fuzzy problems, namely in the context of validating the design of fuzzy controllers. The evaluation of QAlloy-F against examples taken from various classes of fuzzy case studies shows the approach to be feasible.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-63790-2_4.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-63790-2_4.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{SilvaCMO24,
+author = {Pedro Silva and
+Alcino Cunha and
+Nuno Macedo and
+Jos{\'{e}} N. Oliveira},
+editor = {Silvia Bonfanti and
+Angelo Gargantini and
+Michael Leuschel and
+Elvinia Riccobene and
+Patrizia Scandurra},
+title = {Alloy Goes Fuzzy},
+booktitle = {Rigorous State-Based Methods - 10th International Conference, {ABZ}
+2024, Bergamo, Italy, June 25-28, 2024, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14759},
+pages = {61--79},
+publisher = {Springer},
+year = {2024},
+url = {https://doi.org/10.1007/978-3-031-63790-2\_4},
+doi = {10.1007/978-3-031-63790-2\_4},
+timestamp = {Fri, 19 Jul 2024 23:15:46 +0200},
+biburl = {https://dblp.org/rec/conf/zum/SilvaCMO24.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>An Analysis of the Impact of Field-Value Instance Navigation in Alloy&amp;apos;s Model Finding</title><link>/publication/cornejonpafbr24/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>/publication/cornejonpafbr24/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>The use of SAT-based model finding for specification analysis is a crucial characteristic of Alloy, and a main reason of its success as a language for software specification. When a property of a specification is analyzed and deemed satisfiable, the user usually explores instances of the corresponding satisfiability, in order to understand the analysis outcome. The order in which instances are obtained during exploration can impact the efficiency and effectiveness with which specification analysis is carried out. This has been observed by various researchers, and different instance exploration strategies have been proposed, besides the standard SAT-solver driven strategy implemented with the Alloy Analyzer. In this paper, we concentrate on a strategy recently proposed in the literature, that we refer to as “field-value” driven, and has been implemented in the tool HawkEye. The tool allows the user to interactively guide instance exploration, by enforcing constraints requiring fields to contain (resp., do not contain) specific values. We design an experiment involving faulty Alloy specifications featuring combinations of over constraints and under constraints, and perform a user study to analyze the impact of this instance exploration strategy, in comparison with the standard SAT-solver driven exploration. The study focuses on HawkEye’s facility of interactive instance querying and how it may favor users, in its current realization, during Alloy model analysis and debugging. We perform an assessment of the evaluation, and summarize some of the reasons that may diminish the impact of field-value exploration in model finding.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-63790-2_9.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-63790-2_9.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{CornejoNPAFBR24,
+author = {C{\'{e}}sar Cornejo and
+Mar{\'{\i}}a Marta Novaira and
+Sonia Permigiani and
+Nazareno Aguirre and
+Marcelo F. Frias and
+Sim{\'{o}}n Guti{\'{e}}rrez Brida and
+Germ{\'{a}}n Regis},
+editor = {Silvia Bonfanti and
+Angelo Gargantini and
+Michael Leuschel and
+Elvinia Riccobene and
+Patrizia Scandurra},
+title = {An Analysis of the Impact of Field-Value Instance Navigation in Alloy's
+Model Finding},
+booktitle = {Rigorous State-Based Methods - 10th International Conference, {ABZ}
+2024, Bergamo, Italy, June 25-28, 2024, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14759},
+pages = {141--159},
+publisher = {Springer},
+year = {2024},
+url = {https://doi.org/10.1007/978-3-031-63790-2\_9},
+doi = {10.1007/978-3-031-63790-2\_9},
+timestamp = {Mon, 03 Mar 2025 21:25:08 +0100},
+biburl = {https://dblp.org/rec/conf/zum/CornejoNPAFBR24.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>An Event-B Formal Model for Access Control and Resource Management of Serverless Apps</title><link>/publication/yagmahanrb24/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>/publication/yagmahanrb24/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Cloud computing technologies help developers build scalable distributed apps. Serverless architecture, or Function as a Service (FaaS), which separates app businesses into multiple functions, is one of the cloud-native architectures that has gained popularity. Those functions can be developed and deployed independently without provisioning infrastructure. Despite the considerable advantages and increasing popularity of cloud-native apps, developers face many challenges when building their cloud-native applications. To ensure the robustness and security of cloud-native apps and protect crucial resources, the design and implementation of functions and associated access control systems play a pivotal role. In this paper, we have employed formal methods and tools to develop a set of patterns to help cloud-native application developers to design robust serverless apps. We have used Event-B and its associated toolset, Rodin, to construct these formal patterns and demonstrated how these patterns can be used in practical case studies.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-63790-2_11.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-63790-2_11.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{YagmahanRB24,
+author = {Mehmet Said Nur Yagmahan and
+Abdolbaghi Rezazadeh and
+Michael J. Butler},
+editor = {Silvia Bonfanti and
+Angelo Gargantini and
+Michael Leuschel and
+Elvinia Riccobene and
+Patrizia Scandurra},
+title = {An Event-B Formal Model for Access Control and Resource Management
+of Serverless Apps},
+booktitle = {Rigorous State-Based Methods - 10th International Conference, {ABZ}
+2024, Bergamo, Italy, June 25-28, 2024, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14759},
+pages = {181--190},
+publisher = {Springer},
+year = {2024},
+url = {https://doi.org/10.1007/978-3-031-63790-2\_11},
+doi = {10.1007/978-3-031-63790-2\_11},
+timestamp = {Thu, 04 Jul 2024 22:05:23 +0200},
+biburl = {https://dblp.org/rec/conf/zum/YagmahanRB24.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Designing Exception Handling Using Event-B</title><link>/publication/fathabadishtbas24/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>/publication/fathabadishtbas24/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>The design of exception handling is a complex task requiring insight and domain expertise to ensure that potential abnormal conditions are identified and a recovery process is designed to return the system to a safe state. Formal methods can address this complexity, by supporting the analysis of exception handling at the abstract design stages utilising mathematical modelling and proofs. Event-B is a state-based formal method for modelling and verifying the consistency of discrete systems. However it lacks explicit support for analysing the handling of exceptions. In this paper, we use UML-B state machines to support the modelling of normal behaviour assisting the identification and handling of exceptions. This is followed by verification of exception handler recovery mechanisms using the built-in model checker and provers of the Event-B tool-set.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-63790-2_22.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-63790-2_22.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{FathabadiSHTBAS24,
+author = {Asieh Salehi Fathabadi and
+Colin F. Snook and
+Thai Son Hoang and
+Robert Thorburn and
+Michael J. Butler and
+Leonardo Aniello and
+Vladimiro Sassone},
+editor = {Silvia Bonfanti and
+Angelo Gargantini and
+Michael Leuschel and
+Elvinia Riccobene and
+Patrizia Scandurra},
+title = {Designing Exception Handling Using Event-B},
+booktitle = {Rigorous State-Based Methods - 10th International Conference, {ABZ}
+2024, Bergamo, Italy, June 25-28, 2024, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14759},
+pages = {270--277},
+publisher = {Springer},
+year = {2024},
+url = {https://doi.org/10.1007/978-3-031-63790-2\_22},
+doi = {10.1007/978-3-031-63790-2\_22},
+timestamp = {Thu, 04 Jul 2024 22:05:23 +0200},
+biburl = {https://dblp.org/rec/conf/zum/FathabadiSHTBAS24.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Event-B as DSL in Isabelle and HOL Experiences from a Prototype</title><link>/publication/ballenghienw24/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>/publication/ballenghienw24/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>The proof assistant Isabelle/HOL is made available inside a flexible system framework allowing for logically safe extensions, which comprise both theories as well as implementations for code-generation, documentation, and specific support for a variety of formal methods. Following the techniques in [9] and the theoretical groundwork in [4], we show the major milestones for the implementation of a B-Tool and the resulting refinement method inside the Isabelle/HOL platform. The prototype HOL-B provides IDE support, documentation support, a theory for the Z-Mathematical Toolkit underlying the B-Method, and a generated denotational semantics for a B MACHINE specification implemented as a specification construct in Isabelle/HOL. Extended by more automated proof machinery geared to refinements, HOL-B can serve as a more portable, flexible and extensible tool for Event-B that may profit from the large Isabelle/HOL libraries providing Algebra and Analysis theories.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-63790-2_18.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-63790-2_18.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{BallenghienW24,
+author = {Beno{\^{\i}}t Ballenghien and
+Burkhart Wolff},
+editor = {Silvia Bonfanti and
+Angelo Gargantini and
+Michael Leuschel and
+Elvinia Riccobene and
+Patrizia Scandurra},
+title = {Event-B as {DSL} in Isabelle and {HOL} Experiences from a Prototype},
+booktitle = {Rigorous State-Based Methods - 10th International Conference, {ABZ}
+2024, Bergamo, Italy, June 25-28, 2024, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14759},
+pages = {241--247},
+publisher = {Springer},
+year = {2024},
+url = {https://doi.org/10.1007/978-3-031-63790-2\_18},
+doi = {10.1007/978-3-031-63790-2\_18},
+timestamp = {Fri, 19 Jul 2024 23:15:46 +0200},
+biburl = {https://dblp.org/rec/conf/zum/BallenghienW24.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Event-B Development of Modelling Human Intervention Request in Self-driving Vehicle Systems</title><link>/publication/alotaibihfb24/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>/publication/alotaibihfb24/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>In the design of autonomous systems, seamless integration with human operators is crucial, particularly when humans are considered as a fail-safe for intervening in hazardous situations. This study presents an Event-B intervention timing pattern designed to include human drivers’ responses when they act as fallback mechanisms in Self-Driving Vehicle (SDV) systems. The proposed pattern outlines specific timings for driver interventions following alerts from SDVs, offering a clear set of expectations and conditions for human drivers during these critical takeover instances. The usability of this pattern is demonstrated through a case study, highlighting its importance for situations that require interventions. Ultimately, it sheds light on the operational aspects of SDVs, ensuring a safe and orderly transition from automated to manual control.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-63790-2_3.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-63790-2_3.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{AlotaibiHFB24,
+author = {Fahad Alotaibi and
+Thai Son Hoang and
+Asieh Salehi Fathabadi and
+Michael J. Butler},
+editor = {Silvia Bonfanti and
+Angelo Gargantini and
+Michael Leuschel and
+Elvinia Riccobene and
+Patrizia Scandurra},
+title = {Event-B Development of Modelling Human Intervention Request in Self-driving
+Vehicle Systems},
+booktitle = {Rigorous State-Based Methods - 10th International Conference, {ABZ}
+2024, Bergamo, Italy, June 25-28, 2024, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14759},
+pages = {43--60},
+publisher = {Springer},
+year = {2024},
+url = {https://doi.org/10.1007/978-3-031-63790-2\_3},
+doi = {10.1007/978-3-031-63790-2\_3},
+timestamp = {Thu, 04 Jul 2024 22:05:23 +0200},
+biburl = {https://dblp.org/rec/conf/zum/AlotaibiHFB24.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Formal Methods and Tools Applied in the Railway Domain</title><link>/publication/beek24/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>/publication/beek24/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>ABZ and other state-based formal methods and tools are successfully applied to the development of safety-critical systems for decades now, in particular in the transport domain, without a single language or tool emerging as the dominant solution for system design. Formal methods are highly recommended by the current safety standards in the railway industry, but railway engineers often lack the knowledge to transform their semi-formal models into formal models, with a precise semantics, to serve as input to formal methods tools. We share the results of performing empirical studies in the railway domain, including usability analyses of formal methods tools involving railway practitioners. We discuss, in particular with respect to railway systems and their modelling, our experiences in applying rigorous state-based methods and tools to a variety of case studies, for which we interacted with a number of companies from the railway domain. We report on lessons learned from these experiences and provide pointers to drive future research towards facilitating further synergies between—on the one hand—researchers and developers of ABZ and other state-based formal methods and tools, and—on the other hand—practitioners from the railway industry.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-63790-2_1.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-63790-2_1.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{Beek24,
+author = {Maurice H. ter Beek},
+editor = {Silvia Bonfanti and
+Angelo Gargantini and
+Michael Leuschel and
+Elvinia Riccobene and
+Patrizia Scandurra},
+title = {Formal Methods and Tools Applied in the Railway Domain},
+booktitle = {Rigorous State-Based Methods - 10th International Conference, {ABZ}
+2024, Bergamo, Italy, June 25-28, 2024, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14759},
+pages = {3--21},
+publisher = {Springer},
+year = {2024},
+url = {https://doi.org/10.1007/978-3-031-63790-2\_1},
+doi = {10.1007/978-3-031-63790-2\_1},
+timestamp = {Thu, 04 Jul 2024 22:05:23 +0200},
+biburl = {https://dblp.org/rec/conf/zum/Beek24.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Formal Modeling and Analysis of Apache Kafka in Alloy 6</title><link>/publication/sinhak24/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>/publication/sinhak24/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Apache Kafka is a distributed, fault-tolerant and highly available open-source technology that utilizes a publish-subscribe communication model to stream large volumes of data. It is widely being used in various domains such as finance, entertainment, online education, and e-commerce for real-time data processing and analytics. This paper demonstrates an application of Alloy 6—the latest version of Alloy with built-in temporal logic operators—to formal modeling and analysis of a complex distributed system like Kafka. The architecture and key operations of Kakfa are modeled, and its various properties, including fault-tolerance, data availability, service availability, consistency, and recoverability, are analyzed using the Alloy Analyzer. The result of the analysis provides insights into how Kafka maintains the properties that it claims to have, and the circumstances under which these properties may be violated.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-63790-2_2.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-63790-2_2.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{SinhaK24,
+author = {Saloni Sinha and
+Eunsuk Kang},
+editor = {Silvia Bonfanti and
+Angelo Gargantini and
+Michael Leuschel and
+Elvinia Riccobene and
+Patrizia Scandurra},
+title = {Formal Modeling and Analysis of Apache Kafka in Alloy 6},
+booktitle = {Rigorous State-Based Methods - 10th International Conference, {ABZ}
+2024, Bergamo, Italy, June 25-28, 2024, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14759},
+pages = {25--42},
+publisher = {Springer},
+year = {2024},
+url = {https://doi.org/10.1007/978-3-031-63790-2\_2},
+doi = {10.1007/978-3-031-63790-2\_2},
+timestamp = {Thu, 27 Jun 2024 16:32:24 +0200},
+biburl = {https://dblp.org/rec/conf/zum/SinhaK24.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>From Concept to Code: Unveiling a Tool for Translating Abstract State Machines into Java Code</title><link>/publication/bombardabg24/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>/publication/bombardabg24/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Formal methods play a crucial role in modeling and quality assurance, but to be deployed on real systems, formal specifications need to be translated into implementation. Manually converting formal models into code poses challenges such as increased costs, limitations in specification reuse, and the potential for introducing errors. To overcome these limitations, Model-Driven Engineering (MDE) approaches enable developers to generate software code automatically. This paper proposes the Asmeta2Java tool for the automatic translation of formal Asmeta specifications into executable Java code. The designers start at an abstract level and perform refinement steps and verification activities. At the end, they automatically generates the code by applying the model-to-code transformation. Moreover, a process to validate and evaluate the transformation is presented.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-63790-2_10.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-63790-2_10.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{BombardaBG24,
+author = {Andrea Bombarda and
+Silvia Bonfanti and
+Angelo Gargantini},
+editor = {Silvia Bonfanti and
+Angelo Gargantini and
+Michael Leuschel and
+Elvinia Riccobene and
+Patrizia Scandurra},
+title = {From Concept to Code: Unveiling a Tool for Translating Abstract State
+Machines into Java Code},
+booktitle = {Rigorous State-Based Methods - 10th International Conference, {ABZ}
+2024, Bergamo, Italy, June 25-28, 2024, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14759},
+pages = {160--178},
+publisher = {Springer},
+year = {2024},
+url = {https://doi.org/10.1007/978-3-031-63790-2\_10},
+doi = {10.1007/978-3-031-63790-2\_10},
+timestamp = {Thu, 04 Jul 2024 22:05:23 +0200},
+biburl = {https://dblp.org/rec/conf/zum/BombardaBG24.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>From Event-B to Lambdapi</title><link>/publication/grieu24/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>/publication/grieu24/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>B, Event-B and TLA+ are modelling notations based on set theory. Dedukti/Lambdapi is a logical framework based on the (\lambda \Pi )-calculus modulo rewriting in which many theories and logics can be expressed. In the context of ICSPA (ANR project), Lambdapi will be used to exchange models and proofs between the set theory-based formal methods B, Event-B and TLA+. They will rely on the encoding of the respective set theories in Lambdapi. Our current work focuses on translating the mathematical language of Event-B and proof trees obtained with the Rodin platform for Event-B.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-63790-2_29.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-63790-2_29.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{Grieu24,
+author = {Anne Grieu},
+editor = {Silvia Bonfanti and
+Angelo Gargantini and
+Michael Leuschel and
+Elvinia Riccobene and
+Patrizia Scandurra},
+title = {From Event-B to Lambdapi},
+booktitle = {Rigorous State-Based Methods - 10th International Conference, {ABZ}
+2024, Bergamo, Italy, June 25-28, 2024, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14759},
+pages = {387--391},
+publisher = {Springer},
+year = {2024},
+url = {https://doi.org/10.1007/978-3-031-63790-2\_29},
+doi = {10.1007/978-3-031-63790-2\_29},
+timestamp = {Thu, 04 Jul 2024 22:05:23 +0200},
+biburl = {https://dblp.org/rec/conf/zum/Grieu24.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Loose Observation in Event-B</title><link>/publication/hallerstede24/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>/publication/hallerstede24/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Refinement of Event-B machines is based on changing internal variables to obtain different data representations. One approach is expressed only in terms of internal variables. In the extreme case it permits refining a machine by another by choosing the gluing invariant “true”. The other one is based on relating external variables that can be refined functionally, so that properties expressed in terms of external variables are preserved. In practice, the first approach is used and gluing invariants are suitably chosen to achieve a meaningful relationship between refined machines. The second approach is based on the idea of observing a machine in terms of its external variables. It is more complicated, restrictive and not commonly used. In this paper we propose a different approach to observing Event-B machines that is more constraining than the first approach but less complicated and restrictive than the second approach. We extend Event-B refinement by permitting introducing new events and eliminating old events. The concept of observation is made more flexible by permitting non-observation of certain states as well as observing sets of values related to a states. Although this complicates relating observed fixed points and traces of machines, the proof obligations remain uncomplicated.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-63790-2_7.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-63790-2_7.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{Hallerstede24,
+author = {Stefan Hallerstede},
+editor = {Silvia Bonfanti and
+Angelo Gargantini and
+Michael Leuschel and
+Elvinia Riccobene and
+Patrizia Scandurra},
+title = {Loose Observation in Event-B},
+booktitle = {Rigorous State-Based Methods - 10th International Conference, {ABZ}
+2024, Bergamo, Italy, June 25-28, 2024, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14759},
+pages = {105--122},
+publisher = {Springer},
+year = {2024},
+url = {https://doi.org/10.1007/978-3-031-63790-2\_7},
+doi = {10.1007/978-3-031-63790-2\_7},
+timestamp = {Thu, 04 Jul 2024 22:05:23 +0200},
+biburl = {https://dblp.org/rec/conf/zum/Hallerstede24.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Meta-programming Event-B - Advancing Tool Support and Language Extensions</title><link>/publication/armbrusterk24/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>/publication/armbrusterk24/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Transforming models based on their textual representation is a cumbersome task. This is particularly the case for Event-B, where the predominant representation is a set of XML files. As a consequence, tool support is lacking, even for minor refactoring operations. The contribution of this paper extends the lisb library with a front and backend based on Event-B. The aim is to bring benefits, that have been demonstrated for classical B, such as an easily transformable data representation of formal specifications as well as creation of custom DSLs and tooling, to Event-B. We see great benefits of such a meta-programming approach for formal specifications and advocate that similar mechanisms will be sensible extensions to the expressiveness of formal methods. Ultimately, our work facilitates language extensions (e.g., re-introducing if-then-else constructs to Event-B which generate multiple events or a proper macro system to avoid code duplication) and tool support (e.g., refactoring tools or automatic refinement).&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-63790-2_17.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-63790-2_17.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{ArmbrusterK24,
+author = {Julius Armbr{\&amp;quot;{u}}ster and
+Philipp K{\&amp;quot;{o}}rner},
+editor = {Silvia Bonfanti and
+Angelo Gargantini and
+Michael Leuschel and
+Elvinia Riccobene and
+Patrizia Scandurra},
+title = {Meta-programming Event-B - Advancing Tool Support and Language Extensions},
+booktitle = {Rigorous State-Based Methods - 10th International Conference, {ABZ}
+2024, Bergamo, Italy, June 25-28, 2024, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14759},
+pages = {233--240},
+publisher = {Springer},
+year = {2024},
+url = {https://doi.org/10.1007/978-3-031-63790-2\_17},
+doi = {10.1007/978-3-031-63790-2\_17},
+timestamp = {Thu, 04 Jul 2024 22:05:23 +0200},
+biburl = {https://dblp.org/rec/conf/zum/ArmbrusterK24.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Modal Extensions of the Logic of Abstract State Machines</title><link>/publication/ferrarottis24/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>/publication/ferrarottis24/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Based on the logic of non-deterministic Abstract State Machines (ASMs) we define a modal extension (\mathcal{M}\mathcal{L}&lt;em>{\text {ASM}})  by first introducing multi-step predicates and then adding quantification over the number of steps. We show that liveness conditions such as invariance, conditional and unconditional progress, and persistence on all or some runs of an ASM can be expressed in this logic. We show the existence of a complete fragment of (\mathcal{M}\mathcal{L}&lt;/em>{\text {ASM}}), which still contains the interesting liveness conditions, and demonstrate the usefulness of this complete fragment by an example concerning mutual exclusion.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-63790-2_8.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-63790-2_8.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{FerrarottiS24,
+author = {Flavio Ferrarotti and
+Klaus{-}Dieter Schewe},
+editor = {Silvia Bonfanti and
+Angelo Gargantini and
+Michael Leuschel and
+Elvinia Riccobene and
+Patrizia Scandurra},
+title = {Modal Extensions of the Logic of Abstract State Machines},
+booktitle = {Rigorous State-Based Methods - 10th International Conference, {ABZ}
+2024, Bergamo, Italy, June 25-28, 2024, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14759},
+pages = {123--140},
+publisher = {Springer},
+year = {2024},
+url = {https://doi.org/10.1007/978-3-031-63790-2\_8},
+doi = {10.1007/978-3-031-63790-2\_8},
+timestamp = {Thu, 04 Jul 2024 22:05:23 +0200},
+biburl = {https://dblp.org/rec/conf/zum/FerrarottiS24.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Multi-model Animation with JeB</title><link>/publication/jacquot24/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>/publication/jacquot24/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>A challenge posed by model-based formal methods such as Event-B is the validation of the models. This has been recognized and some tools have been created to provide modelers with means to animate models and to explore their behaviour through graphical display. These tools are quite effective on standalone models but lack the ability to connect the model to other external models. CPS systems fall under this category, as well as systems built of components interacting through a communication network. In the context of Jeb, an animation tool for Event-B models based on JavaScript, we explore the possibility of connecting models through Websockets. The paper presents a simple protocol to connect simulations. Using an example inspired by the Lung Ventilator case study, it shows how the implementation expands JeB functionality without modifying its core.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-63790-2_16.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-63790-2_16.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{Jacquot24,
+author = {Jean{-}Pierre Jacquot},
+editor = {Silvia Bonfanti and
+Angelo Gargantini and
+Michael Leuschel and
+Elvinia Riccobene and
+Patrizia Scandurra},
+title = {Multi-model Animation with JeB},
+booktitle = {Rigorous State-Based Methods - 10th International Conference, {ABZ}
+2024, Bergamo, Italy, June 25-28, 2024, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14759},
+pages = {223--232},
+publisher = {Springer},
+year = {2024},
+url = {https://doi.org/10.1007/978-3-031-63790-2\_16},
+doi = {10.1007/978-3-031-63790-2\_16},
+timestamp = {Thu, 04 Jul 2024 22:05:23 +0200},
+biburl = {https://dblp.org/rec/conf/zum/Jacquot24.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Proof Construction and Checking on Evolving Abstract State Machines</title><link>/publication/sabinus24/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>/publication/sabinus24/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Abstract State Machines (ASMs) are widely used in the formalization and verification of the semantics of software or hardware. However, tools for assisting this process for evolving specifications are still lacking. With evolving we denote adding extensions without refactoring. We want to create a tool assisting in the verification of evolving specifications. Our approach is to translate ASM specifications into the language of an existing proof checker, construct the proofs as far as possible automatically, and check the proofs with the proof checker. Further, we want proofs of evolvable specifications also to be evolvable. This paper gives a brief overview of the approach and discusses the first step of this work, namely the translation of ASM specifications into the language of an existing proof checker, with consideration of automation possibilities.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-63790-2_30.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-63790-2_30.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{Sabinus24,
+author = {Edward Sabinus},
+editor = {Silvia Bonfanti and
+Angelo Gargantini and
+Michael Leuschel and
+Elvinia Riccobene and
+Patrizia Scandurra},
+title = {Proof Construction and Checking on Evolving Abstract State Machines},
+booktitle = {Rigorous State-Based Methods - 10th International Conference, {ABZ}
+2024, Bergamo, Italy, June 25-28, 2024, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14759},
+pages = {392--396},
+publisher = {Springer},
+year = {2024},
+url = {https://doi.org/10.1007/978-3-031-63790-2\_30},
+doi = {10.1007/978-3-031-63790-2\_30},
+timestamp = {Thu, 04 Jul 2024 22:05:23 +0200},
+biburl = {https://dblp.org/rec/conf/zum/Sabinus24.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Property Ownership Formal Modelling Using Event-B and iUML-B</title><link>/publication/altamimihfw24/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>/publication/altamimihfw24/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>This paper introduces a novel approach to formal modelling and verification of ownership, addressing safety concerns in property transfer processes. The Event-B formal method, graphically represented using iUML-B notation, is used to establish a robust framework for modeling and verifying ownership systems. The verified Event-B model refines and enhances user requirements at the design stage before system implementation. The research focuses on property ownership within the legal framework of the Kingdom of Saudi Arabia, specifically property sales. The research uncovers that, despite conscientious efforts to scrutinise user requirements, the formal model development exposes limitations and inadequacies in the initial specifications. The verification process introduces essential requirements to mitigate potential fraudulent activities, enhancing the security and dependability of ownership claims.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-63790-2_12.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-63790-2_12.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{AltamimiHFW24,
+author = {Manar Altamimi and
+Nawfal Al Hashimy and
+Asieh Salehi Fathabadi and
+Gary B. Wills},
+editor = {Silvia Bonfanti and
+Angelo Gargantini and
+Michael Leuschel and
+Elvinia Riccobene and
+Patrizia Scandurra},
+title = {Property Ownership Formal Modelling Using Event-B and iUML-B},
+booktitle = {Rigorous State-Based Methods - 10th International Conference, {ABZ}
+2024, Bergamo, Italy, June 25-28, 2024, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14759},
+pages = {191--200},
+publisher = {Springer},
+year = {2024},
+url = {https://doi.org/10.1007/978-3-031-63790-2\_12},
+doi = {10.1007/978-3-031-63790-2\_12},
+timestamp = {Thu, 04 Jul 2024 22:05:23 +0200},
+biburl = {https://dblp.org/rec/conf/zum/AltamimiHFW24.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Semantics Formalisation - From Event-B Contexts to Theories</title><link>/publication/hoangvwsb24/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>/publication/hoangvwsb24/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>The Event-B modelling language has been used to formalise the semantics of other modelling languages such as Time Mobility (TiMo) or State Chart XML (SCXML). Typically, the syntactical elements of the languages are captured as Event-B contexts while the semantical elements are formalised in Event-B machines. An alternative for capturing a modelling language’s semantics is to use the Theory plug-in to build datatypes capturing the syntactical elements of the language and operators to represent the various semantical aspects of the language. This paper draws on our experience on the statemanchines (part of SCXML) to compare the two approaches in terms of modelling efforts.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-63790-2_14.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-63790-2_14.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{HoangVWSB24,
+author = {Thai Son Hoang and
+Laurent Voisin and
+Karla Vanessa Morris Wright and
+Colin F. Snook and
+Michael J. Butler},
+editor = {Silvia Bonfanti and
+Angelo Gargantini and
+Michael Leuschel and
+Elvinia Riccobene and
+Patrizia Scandurra},
+title = {Semantics Formalisation - From Event-B Contexts to Theories},
+booktitle = {Rigorous State-Based Methods - 10th International Conference, {ABZ}
+2024, Bergamo, Italy, June 25-28, 2024, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14759},
+pages = {208--214},
+publisher = {Springer},
+year = {2024},
+url = {https://doi.org/10.1007/978-3-031-63790-2\_14},
+doi = {10.1007/978-3-031-63790-2\_14},
+timestamp = {Thu, 04 Jul 2024 22:05:23 +0200},
+biburl = {https://dblp.org/rec/conf/zum/HoangVWSB24.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Small Step Incremental Verification of Compilers</title><link>/publication/zimmermannksw24/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>/publication/zimmermannksw24/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Previously, we introduced the idea of agile compiler development, i.e., starting from an initial compiler for the most simple program of a language and extending it in small versions, each introducing a new language concept. Following this idea, in this paper, we propose an approach for incrementally verifying the dynamic semantics specified with abstract state machines (ASMs), such that definitions of previous versions must not be altered in subsequent versions. As a result, the compiler can be verified incrementally without revising the proofs of previous versions. As our first step, in this paper, we formalize and verify the memory mapping of the initial versions with ASMs and discuss their extensibility for the next increments. We plan to demonstrate this approach through the agile implementation and verification of a Sather-K compiler generating MIPS assembly language.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-63790-2_21.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-63790-2_21.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{ZimmermannKSW24,
+author = {Wolf Zimmermann and
+Thomas K{\&amp;quot;{u}}hn and
+Edward Sabinus and
+Mandy Wei{\ss}bach},
+editor = {Silvia Bonfanti and
+Angelo Gargantini and
+Michael Leuschel and
+Elvinia Riccobene and
+Patrizia Scandurra},
+title = {Small Step Incremental Verification of Compilers},
+booktitle = {Rigorous State-Based Methods - 10th International Conference, {ABZ}
+2024, Bergamo, Italy, June 25-28, 2024, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14759},
+pages = {262--269},
+publisher = {Springer},
+year = {2024},
+url = {https://doi.org/10.1007/978-3-031-63790-2\_21},
+doi = {10.1007/978-3-031-63790-2\_21},
+timestamp = {Fri, 13 Sep 2024 16:19:49 +0200},
+biburl = {https://dblp.org/rec/conf/zum/ZimmermannKSW24.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>The Mechanical Lung Ventilator Case Study</title><link>/publication/bonfantig24/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>/publication/bonfantig24/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>This paper introduces the ABZ 2024 Case Study: Mechanical Lung Ventilator (MLV), inspired by the Mechanical Ventilator Milano developed during COVID-19. The case study reports the specification of the Mechanical Lung Ventilator used to ventilate patients who are not able to breathe on their own or need ventilation support. Expected contributions to the case study include, among others, modeling, validation and verification, management of temporal behavior, modeling of the graphical user interface or automatically generating executable source code.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-63790-2_23.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-63790-2_23.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{BonfantiG24,
+author = {Silvia Bonfanti and
+Angelo Gargantini},
+editor = {Silvia Bonfanti and
+Angelo Gargantini and
+Michael Leuschel and
+Elvinia Riccobene and
+Patrizia Scandurra},
+title = {The Mechanical Lung Ventilator Case Study},
+booktitle = {Rigorous State-Based Methods - 10th International Conference, {ABZ}
+2024, Bergamo, Italy, June 25-28, 2024, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14759},
+pages = {281--288},
+publisher = {Springer},
+year = {2024},
+url = {https://doi.org/10.1007/978-3-031-63790-2\_23},
+doi = {10.1007/978-3-031-63790-2\_23},
+timestamp = {Thu, 04 Jul 2024 22:05:23 +0200},
+biburl = {https://dblp.org/rec/conf/zum/BonfantiG24.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>ThoR: An Alloy5-Like DSL for Interactive Theorem Proving in Coq</title><link>/publication/iglerm24/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>/publication/iglerm24/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>The steep learning curve associated with interactive theorem proving poses a significant entry barrier for the learner. While the Alloy specification language [1] has simplified the introduction to and application of formal methods, transitioning to interactive theorem proving, such as with Coq [2], remains daunting due to the inherent complexity of formal reasoning and the sophisticated tooling required. We introduce ThoR, an extension for the Coq proof assistant that incorporates an Alloy5-like domain-specific language: Specifications, propositions and proofs are formulated in an Alloy5-like syntax. This reduces tool and language complexity, and makes interactive theorem proving more accessible. The implementation is based on Coq’s syntax extension capabilities and the mathematical components library (mathcomp) [4]. This paper reports on work in progress. It contributes an approach for the embedding of Alloy into Coq based on a set-theoretic interpretation, a proof calculus for Alloy with soundness by construction, a prototypical implementation and its validation via a simple token ring example.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-63790-2_19.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-63790-2_19.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{IglerM24,
+author = {Bodo Igler and
+Andreas Mayer},
+editor = {Silvia Bonfanti and
+Angelo Gargantini and
+Michael Leuschel and
+Elvinia Riccobene and
+Patrizia Scandurra},
+title = {ThoR: An Alloy5-Like {DSL} for Interactive Theorem Proving in Coq},
+booktitle = {Rigorous State-Based Methods - 10th International Conference, {ABZ}
+2024, Bergamo, Italy, June 25-28, 2024, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14759},
+pages = {248--254},
+publisher = {Springer},
+year = {2024},
+url = {https://doi.org/10.1007/978-3-031-63790-2\_19},
+doi = {10.1007/978-3-031-63790-2\_19},
+timestamp = {Thu, 04 Jul 2024 22:05:23 +0200},
+biburl = {https://dblp.org/rec/conf/zum/IglerM24.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Transpilation of Petri-nets into B - Shallow and Deep Embeddings</title><link>/publication/idani24/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>/publication/idani24/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Petri-nets and their variants (Place/Transition nets, High-Level Petri Nets, etc.) are widely used in the development of safety critical-systems. Their success is related to three major aspects: a formal semantics, a graphical syntax and the availability of verification tools. In our previous work we presented a new vision for the semantic definition of Petri-nets applying a Formal Model-Driven Engineering (FMDE) built on the B method. The approach is powered by Meeduse, a language workbench that we developed in order to formally instrument executable Domain-Specific Languages (xDSLs) by applying a deep embedding technique and the B method. However, because of the abstract nature of the underlying formal models, our deep embedding is suitable for the validation and verification activities at the design stage but not sufficient to generate code for target platforms. This paper advances our previous work with a shallow embedding technique taking benefit of the B method tools in order to safely synthesize executable Petri-net controllers that can be embedded in target platforms.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-63790-2_5.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-63790-2_5.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{Idani24,
+author = {Akram Idani},
+editor = {Silvia Bonfanti and
+Angelo Gargantini and
+Michael Leuschel and
+Elvinia Riccobene and
+Patrizia Scandurra},
+title = {Transpilation of Petri-nets into {B} - Shallow and Deep Embeddings},
+booktitle = {Rigorous State-Based Methods - 10th International Conference, {ABZ}
+2024, Bergamo, Italy, June 25-28, 2024, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14759},
+pages = {80--98},
+publisher = {Springer},
+year = {2024},
+url = {https://doi.org/10.1007/978-3-031-63790-2\_5},
+doi = {10.1007/978-3-031-63790-2\_5},
+timestamp = {Thu, 04 Jul 2024 22:05:23 +0200},
+biburl = {https://dblp.org/rec/conf/zum/Idani24.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Using Symbolic Execution to Transform Turbo Abstract State Machines into Basic Abstract State Machines</title><link>/publication/castillo24/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>/publication/castillo24/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>This paper introduces a transformation method that uses symbolic execution to eliminate sequential composition ((\texttt {seq})) rules from turbo ASM rules by translating them into equivalent rules without seq. Under some circumstances (\texttt {iterate}) rules can also be eliminated. The material presented here is work in progress. A prototype implementation of the transformation is publicly available.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-63790-2_15.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-63790-2_15.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{Castillo24,
+author = {Giuseppe Del Castillo},
+editor = {Silvia Bonfanti and
+Angelo Gargantini and
+Michael Leuschel and
+Elvinia Riccobene and
+Patrizia Scandurra},
+title = {Using Symbolic Execution to Transform Turbo Abstract State Machines
+into Basic Abstract State Machines},
+booktitle = {Rigorous State-Based Methods - 10th International Conference, {ABZ}
+2024, Bergamo, Italy, June 25-28, 2024, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14759},
+pages = {215--222},
+publisher = {Springer},
+year = {2024},
+url = {https://doi.org/10.1007/978-3-031-63790-2\_15},
+doi = {10.1007/978-3-031-63790-2\_15},
+timestamp = {Thu, 04 Jul 2024 22:05:23 +0200},
+biburl = {https://dblp.org/rec/conf/zum/Castillo24.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Verifying HyperLTL Properties in Event-B</title><link>/publication/bodeveixcffh24/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>/publication/bodeveixcffh24/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>The study presented in this paper is motivated by the verification of properties related to hardware architectures, namely timing anomalies that qualify a counter-intuitive timing behaviour. They are avoided by a monotonicity property which is an Hyper-LTL property. We present how to prove some classes of Hyper-LTL properties with Event-B.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-63790-2_20.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-63790-2_20.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{BodeveixCFFH24,
+author = {Jean{-}Paul Bodeveix and
+Thomas Carle and
+Elie Fares and
+Mamoun Filali and
+Thai Son Hoang},
+editor = {Silvia Bonfanti and
+Angelo Gargantini and
+Michael Leuschel and
+Elvinia Riccobene and
+Patrizia Scandurra},
+title = {Verifying HyperLTL Properties in Event-B},
+booktitle = {Rigorous State-Based Methods - 10th International Conference, {ABZ}
+2024, Bergamo, Italy, June 25-28, 2024, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14759},
+pages = {255--261},
+publisher = {Springer},
+year = {2024},
+url = {https://doi.org/10.1007/978-3-031-63790-2\_20},
+doi = {10.1007/978-3-031-63790-2\_20},
+timestamp = {Thu, 04 Jul 2024 22:05:23 +0200},
+biburl = {https://dblp.org/rec/conf/zum/BodeveixCFFH24.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Mechanical Lung Ventilator (ABZ 2024)</title><link>/case-study/abz24/</link><pubDate>Thu, 01 Jan 1970 00:33:44 +0000</pubDate><guid>/case-study/abz24/</guid><description>&lt;p>This document presents the case study for ABZ 2024 conference. The case study introduces Mechanical Lung Ventilator (MLV). The MLV is intended to provide ventilation support for patients that require mechanical ventilation in two operative modes: Pressure Controlled Ventilation (PCV) and Pressure Support Ventilation (PSV). The former is used when patients are not able to start breathing on their own, while the latter support patients by partially taking over the work of breathing.&lt;/p>
 &lt;p>For a more detailed description of the case study, and the document reporting the requirements see
 &lt;a href="../../site/2024/casestudy">here&lt;/a>.&lt;/p></description></item></channel></rss>

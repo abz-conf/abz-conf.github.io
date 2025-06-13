@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ismaïl Mendil | ABZ</title><link>/author/ismail-mendil/</link><atom:link href="/author/ismail-mendil/index.xml" rel="self" type="application/rss+xml"/><description>Ismaïl Mendil</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Ismaïl Mendil</title><link>/author/ismail-mendil/</link></image><item><title>A Framework for Critical Interactive System Formal Modelling and Analysis</title><link>/publication/mendil20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>/publication/mendil20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Interactive system development does not follow the same life cycle as other system developments. The essential differences lie in the iterative nature of such system development. Throughout iterations, the requirements undergo many changes due to the evolution of customer’s needs and user feedback after experiencing prototypes. The challenge is tougher in the case of critical HCI (aircraft cockpits, medical systems, nuclear power plant etc.). Indeed, critical HCI requires to be designed and built such that safety and security requirements are thoroughly fulfilled. This paper presents a novel development framework featuring formal verification and validation of critical interactive systems at modelling level. It identifies the several challenges of the interactive system development and settles down the main objectives. Furthermore, it sketches the most important traits of the proposed approach to circumvent the enumerated challenges. Hence, we discuss the importance of the pivot language Fluid, the domain theory specific to interactive systems and their modelling using Event-B.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-48077-6_36.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-48077-6_36.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{Mendil20,
+author = {Isma{\&amp;quot;{\i}}l Mendil},
+editor = {Alexander Raschke and
+Dominique M{\'{e}}ry and
+Frank Houdek},
+title = {A Framework for Critical Interactive System Formal Modelling and Analysis},
+booktitle = {Rigorous State-Based Methods - 7th International Conference, {ABZ}
+2020, Ulm, Germany, May 27-29, 2020, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {12071},
+pages = {423--426},
+publisher = {Springer},
+year = {2020},
+url = {https://doi.org/10.1007/978-3-030-48077-6\_36},
+doi = {10.1007/978-3-030-48077-6\_36},
+timestamp = {Mon, 25 May 2020 12:33:39 +0200},
+biburl = {https://dblp.org/rec/conf/asm/Mendil20.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item></channel></rss>

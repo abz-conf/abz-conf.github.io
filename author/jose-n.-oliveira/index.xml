@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>José N. Oliveira | ABZ</title><link>/author/jose-n.-oliveira/</link><atom:link href="/author/jose-n.-oliveira/index.xml" rel="self" type="application/rss+xml"/><description>José N. Oliveira</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>José N. Oliveira</title><link>/author/jose-n.-oliveira/</link></image><item><title>Alloy Goes Fuzzy</title><link>/publication/silvacmo24/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>/publication/silvacmo24/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Humans are good at understanding subjective or vague statements which, however, are hard to express in classical logic. Fuzzy logic is an evolution of classical logic that can cope with vague terms by handling degrees of truth and not just the crisp values true and false. Logic is the formal basis of computing, enabling the formal design of systems supported by tools such as model checkers and theorem provers.This paper shows how a model checker such as Alloy can evolve to handle both classical and fuzzy logic, enabling the specification of high-level quantitative relational models in the fuzzy domain. In particular, the paper showcases how QAlloy-F (a conservative, general-purpose quantitative extension to standard Alloy) can be used to tackle fuzzy problems, namely in the context of validating the design of fuzzy controllers. The evaluation of QAlloy-F against examples taken from various classes of fuzzy case studies shows the approach to be feasible.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-63790-2_4.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-63790-2_4.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{SilvaCMO24,
+author = {Pedro Silva and
+Alcino Cunha and
+Nuno Macedo and
+Jos{\'{e}} N. Oliveira},
+editor = {Silvia Bonfanti and
+Angelo Gargantini and
+Michael Leuschel and
+Elvinia Riccobene and
+Patrizia Scandurra},
+title = {Alloy Goes Fuzzy},
+booktitle = {Rigorous State-Based Methods - 10th International Conference, {ABZ}
+2024, Bergamo, Italy, June 25-28, 2024, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {14759},
+pages = {61--79},
+publisher = {Springer},
+year = {2024},
+url = {https://doi.org/10.1007/978-3-031-63790-2\_4},
+doi = {10.1007/978-3-031-63790-2\_4},
+timestamp = {Fri, 19 Jul 2024 23:15:46 +0200},
+biburl = {https://dblp.org/rec/conf/zum/SilvaCMO24.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item></channel></rss>

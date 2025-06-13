@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Paolo Arcaini | ABZ</title><link>/author/paolo-arcaini/</link><atom:link href="/author/paolo-arcaini/index.xml" rel="self" type="application/rss+xml"/><description>Paolo Arcaini</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Wed, 03 Jun 2020 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Paolo Arcaini</title><link>/author/paolo-arcaini/</link></image><item><title>Modelling an automotive software-intensive system with adaptive features using ASMETA</title><link>/publication/arcaini2020abz/</link><pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate><guid>/publication/arcaini2020abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Paolo Arcaini | ABZ</title><link>/author/paolo-arcaini/</link><atom:link href="/author/paolo-arcaini/index.xml" rel="self" type="application/rss+xml"/><description>Paolo Arcaini</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Wed, 03 Jun 2020 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Paolo Arcaini</title><link>/author/paolo-arcaini/</link></image><item><title>Modelling an automotive software-intensive system with adaptive features using ASMETA</title><link>/publication/arcainibgrs20/</link><pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate><guid>/publication/arcainibgrs20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>In the context of automotive domain, modern control systems are software-intensive and have adaptive features to provide safety and comfort. These software-based features demand software engineering approaches and formal methods that are able to guarantee correct operation, since malfunctions may cause harm/damage. Adaptive Exterior Light and the Speed Control Systems are examples of software-intensive systems that equip modern cars. We have used the Abstract State Machines to model the behaviour of both control systems. Each model has been developed through model refinement, following the incremental way in which functional requirements are given. We used the asmeta tool-set to support the simulation of the abstract models, their validation against the informal requirements, and the verification of behavioural properties. In this paper, we discuss our modelling, validation and verification strategies, and the results (in terms of features addressed and not) of our activities. In particular, we provide insights on how we addressed the adaptive features (the adaptive high beam headlights and the adaptive cruise control) by explicitly modelling their software control loops according to the MAPE-K (Monitor-Analyse-Plan-Execute over a shared Knowledge) reference control model for self-adaptive systems.&lt;/p>
 &lt;h2 id="document">Document&lt;/h2>
 &lt;div id="pdfobject-viewer">&lt;/div>
@@ -35,7 +35,7 @@ organization={Springer}
 Asmeta&lt;/p>
 &lt;p>For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>&lt;/p>
 &lt;/li>
-&lt;/ul></description></item><item><title>Modelling the Hybrid ERTMS/ETCS Level 3 Case Study in Spin</title><link>/publication/arcaini2018abz/</link><pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate><guid>/publication/arcaini2018abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;/ul></description></item><item><title>Modelling the Hybrid ERTMS/ETCS Level 3 Case Study in Spin</title><link>/publication/arcainijk18/</link><pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate><guid>/publication/arcainijk18/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>The Spin model checker has been successfully applied to the modelling, validation, and verification of different safety-critical systems. In this paper, we model and validate the Hybrid ERTMS/ETCS Level 3 Case Study using Spin; in particular, we show the assumptions we made to keep the state space limited, and present the problems and ambiguities that arose during the modelling. Although Spin offers several advantages in terms of validation and verification facilities, its modelling language Promela is limited if compared to higher level notations of other formal methods. Therefore, we discuss the advantages and disadvantages of using the tool, and how it could be improved in terms of modelling facilities.&lt;/p>
 &lt;h2 id="document">Document&lt;/h2>
 &lt;div id="pdfobject-viewer">&lt;/div>
@@ -76,7 +76,7 @@ Spin&lt;/li>
 &lt;li>&lt;strong>Model Archive:&lt;/strong>
 &lt;a href="/data/abz18/arcaini2018abz.zip">ZIP&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;p>For more information, please contact the &lt;a href ="mailto:arcaini@d3s.mff.cuni.cz">authors&lt;/a>&lt;/p></description></item><item><title>How to Assure Correctness and Safety of Medical Software: The Hemodialysis Machine Case Study</title><link>/publication/arcaini2016abz/</link><pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate><guid>/publication/arcaini2016abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>For more information, please contact the &lt;a href ="mailto:arcaini@d3s.mff.cuni.cz">authors&lt;/a>&lt;/p></description></item><item><title>How to Assure Correctness and Safety of Medical Software: The Hemodialysis Machine Case Study</title><link>/publication/arcainibgr16/</link><pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate><guid>/publication/arcainibgr16/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>Medical devices are nowadays more and more software dependent, and software malfunctioning can lead to injuries or death for patients. Several standards have been proposed for the development and the validation of medical devices, but they establish general guidelines on the use of common software engineering activities without any indication regarding methods and techniques to assure safety and reliability. This paper takes advantage of the Hemodialysis machine case study to present a formal development process supporting most of the engineering activities required by the standards, and provides rigorous approaches for system validation and verification. The process is based on the Abstract State Machine formal method and its model refinement principle.&lt;/p>
 &lt;h2 id="document">Document&lt;/h2>
 &lt;div id="pdfobject-viewer">&lt;/div>
@@ -119,7 +119,60 @@ isbn=&amp;quot;978-3-319-33600-8&amp;quot;
 &lt;a href="/method/asm">ASM&lt;/a>&lt;/p>
 &lt;p>For more information, please contact the &lt;a href ="mailto:arcaini@d3s.mff.cuni.cz;silvia.bonfanti@unibg.it;angelo.gargantini@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>&lt;/p>
 &lt;/li>
-&lt;/ul></description></item><item><title>Modeling and Analyzing Using ASMs: The Landing Gear System Case Study</title><link>/publication/arcaini2014abz/</link><pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate><guid>/publication/arcaini2014abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;/ul></description></item><item><title>Unified Syntax for Abstract State Machines</title><link>/publication/arcainibdgmrrss16/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>/publication/arcainibdgmrrss16/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>The paper presents our efforts in defining UASM, a unified syntax for Abstract State Machines (ASMs), based on the syntaxes of two of the main ASM frameworks, CoreASM and ASMETA, which have been adapted to accept UASM as input syntax of all their validation and verification tools.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-319-33600-8_14.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-319-33600-8_14.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{ArcainiBDGMRRSS16,
+author = {Paolo Arcaini and
+Silvia Bonfanti and
+Marcel Dausend and
+Angelo Gargantini and
+Atif Mashkoor and
+Alexander Raschke and
+Elvinia Riccobene and
+Patrizia Scandurra and
+Michael Stegmaier},
+editor = {Michael J. Butler and
+Klaus{-}Dieter Schewe and
+Atif Mashkoor and
+Mikl{\'{o}}s Bir{\'{o}}},
+title = {Unified Syntax for Abstract State Machines},
+booktitle = {Abstract State Machines, Alloy, B, TLA, VDM, and {Z} - 5th International
+Conference, {ABZ} 2016, Linz, Austria, May 23-27, 2016, Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {9675},
+pages = {231--236},
+publisher = {Springer},
+year = {2016},
+url = {https://doi.org/10.1007/978-3-319-33600-8\_14},
+doi = {10.1007/978-3-319-33600-8\_14},
+timestamp = {Thu, 14 Oct 2021 10:31:49 +0200},
+biburl = {https://dblp.org/rec/conf/asm/ArcainiBDGMRRSS16.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Modeling and Analyzing Using ASMs: The Landing Gear System Case Study</title><link>/publication/arcaini2014abz/</link><pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate><guid>/publication/arcaini2014abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>The paper presents an Abstract State Machine (ASM) specification of the Landing Gear System case study, and shows how the ASMETA framework can be used to support the modeling and analysis (validation and verification) activities for developing a rigorous and correct model in terms of ASMs. We exploit the two fundamental concepts of the ASM method, i.e., the notion of ground model and the refinement principle, and we achieve model development and model analysis by the combined use of formal methods for specification and for verification.&lt;/p>
 &lt;h2 id="document">Document&lt;/h2>
 &lt;div id="pdfobject-viewer">&lt;/div>
@@ -191,4 +244,103 @@ isbn=&amp;quot;978-3-319-07512-9&amp;quot;
 }
 &lt;/code>&lt;/pre>
 &lt;h2 id="sources">Sources&lt;/h2>
-&lt;p>For more information, please contact the &lt;a href ="mailto:paolo.arcaini@unibg.it;angelo.gargantini@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>&lt;/p></description></item></channel></rss>
+&lt;p>For more information, please contact the &lt;a href ="mailto:paolo.arcaini@unibg.it;angelo.gargantini@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>&lt;/p></description></item><item><title>Test Generation for Sequential Nets of Abstract State Machines</title><link>/publication/arcainibg12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/arcainibg12/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Test generation techniques based on model checking suffer from the state space explosion problem. However, for a family of systems that can be easily decomposed in sub-systems, we devise a technique to cope with this problem. To model such systems, we introduce the notion of sequential net of Abstract State Machines (ASMs), which represents a system constituted by a set of ASMs such that only one ASM is active at every time. Given a net of ASMs, we first generate a test suite for every ASM in the net, then we combine the tests in order to obtain a test suite for the entire system. We prove that, under some assumptions, the technique preserves coverage of the entire system. We test our approach on a benchmark and we report a web application example for which we are able to generate complete test suites.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_3.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-30885-7_3.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{ArcainiBG12,
+author = {Paolo Arcaini and
+Francesco Bolis and
+Angelo Gargantini},
+editor = {John Derrick and
+John S. Fitzgerald and
+Stefania Gnesi and
+Sarfraz Khurshid and
+Michael Leuschel and
+Steve Reeves and
+Elvinia Riccobene},
+title = {Test Generation for Sequential Nets of Abstract State Machines},
+booktitle = {Abstract State Machines, Alloy, B, VDM, and {Z} - Third International
+Conference, {ABZ} 2012, Pisa, Italy, June 18-21, 2012. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {7316},
+pages = {36--50},
+publisher = {Springer},
+year = {2012},
+url = {https://doi.org/10.1007/978-3-642-30885-7\_3},
+doi = {10.1007/978-3-642-30885-7\_3},
+timestamp = {Sun, 02 Jun 2019 21:23:59 +0200},
+biburl = {https://dblp.org/rec/conf/asm/ArcainiBG12.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>AsmetaSMV: A Way to Link High-Level ASM Models to Low-Level NuSMV Specifications</title><link>/publication/arcainigr10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>/publication/arcainigr10/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>This paper presents AsmetaSMV, a model checker for Abstract State Machines (ASMs). It has been developed with the aim of enriching the ASMETA (ASM mETAmodeling) toolset – a set of tools for ASMs – with the capabilities of the model checker NuSMV to verify properties of ASM models written in the AsmetaL language. We describe the general architecture of AsmetaSMV and the process of automatically mapping ASM models into NuSMV programs. As a proof of concepts, we report the results of using AsmetaSMV to verify temporal properties of various case studies of different characteristics and complexity.&lt;/p>
+&lt;h2 id="document">Document&lt;/h2>
+&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-11811-1_6.pdf">link&lt;/a>.&lt;/p>
+&lt;div id="pdfobject-viewer">&lt;/div>
+&lt;script src="/js/pdfobject.min.js">&lt;/script>
+&lt;script>
+var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-11811-1_6.pdf";
+PDFObject.embed( url, "#pdfobject-viewer" );
+&lt;/script>
+&lt;style>
+.pdfobject-container
+{
+height: 30rem;
+}
+&lt;/style>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;pre>&lt;code>% BibTex
+@inproceedings{ArcainiGR10,
+author = {Paolo Arcaini and
+Angelo Gargantini and
+Elvinia Riccobene},
+editor = {Marc Frappier and
+Uwe Gl{\&amp;quot;{a}}sser and
+Sarfraz Khurshid and
+R{\'{e}}gine Laleau and
+Steve Reeves},
+title = {AsmetaSMV: {A} Way to Link High-Level {ASM} Models to Low-Level NuSMV
+Specifications},
+booktitle = {Abstract State Machines, Alloy, {B} and Z, Second International Conference,
+{ABZ} 2010, Orford, QC, Canada, February 22-25, 2010. Proceedings},
+series = {Lecture Notes in Computer Science},
+volume = {5977},
+pages = {61--74},
+publisher = {Springer},
+year = {2010},
+url = {https://doi.org/10.1007/978-3-642-11811-1\_6},
+doi = {10.1007/978-3-642-11811-1\_6},
+timestamp = {Tue, 14 May 2019 10:00:50 +0200},
+biburl = {https://dblp.org/rec/conf/asm/ArcainiGR10.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code>&lt;/pre>
+&lt;!-- # add information for case study papers (if available)
+## Sources
+- **Used formal method:**
+[ASM](/method/asm)
+- **Resources and tools:**
+Asmeta
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item></channel></rss>
