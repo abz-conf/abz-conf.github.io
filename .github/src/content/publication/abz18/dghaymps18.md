@@ -11,8 +11,23 @@ date: 2018-05-01
 # Schedule page publish date (NOT publication's date).
 # publishDate: 2020-06-19T16:42:07+02:00
 
+# Legend (see /data/publication_types.yaml and e.g. i18n/en.yaml): 
+#   0 = "pub_uncat"
+#   1 = "pub_conf"
+#   2 = "pub_journal"
+#   3 = "pub_preprint"
+#   4 = "pub_report"
+#   5 = "pub_book"
+#   6 = "pub_book_section"
+#   7 = "pub_thesis"
+#   8 = "pub_patent"
+#   9 = "pub_case_study_descr"
+#  10 = "pub_case_study_contrib"
+#  11 = "pub_short_paper"
+#  12 = "pub_long_paper"
+#  13 = "pub_invited_talk"
 publication_types:
-  - 1 # conference paper
+  - 10  # default is 1 (conference), adjust as needed
 
 publication: "6th International Conference on ASM, Alloy, B, TLA, VDM, and Z (ABZ'18)"
 publication_short: "ABZ'18"
