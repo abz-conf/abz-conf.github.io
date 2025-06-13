@@ -202,10 +202,14 @@ days:
         author: Sebastian Betancourt and Valentina Castiglioni
         topic: Case Study
         abstract: "The Stark tool has been introduced for the the specification, analysis and verification of cyber-physical systems operating under uncertainty. In this paper, we apply it to the modelling and safety analysis of several instances of a highway environment with autonomous vehicles: one vehicle will be controlled by a Stark agent, while the others are modelled as part of a Stark environment. Given the unpredictable behaviour of the environment, we analyse some safety guarantees on the behaviour of the agent in terms of its robustness against perturbations. To this end, we make use of the temporal logic RobTL and statistical model checking. We then discuss the use of Stark for the validation of the behaviour of reinforcement learning agents in the highway environment with the temporal logic DisTL."
-      - paper: PhD Symposium Lighting Talk Session
+      - paper: PhD Symposium Lightning Talk Session
         start: "16:45"
         end: "17:00"
         background: Gainsboro
+      - paper: "City Walk to the Altstadt (starting at the Tribe hotel)"
+        start: "18:00"
+        end: "20:00"
+        background: "#e89b26"
   - day: June, 12th
     program:
       - paper: "Session Chair: <i>Michael Leuschel</i>"
