@@ -19,10 +19,11 @@ date: 2020-01-01
 #   8 = "pub_patent"
 #   9 = "pub_case_study_descr"
 #  10 = "pub_case_study_contrib"
-#  10 = "pub_short_paper"
-#  11 = "pub_long_paper"
+#  11 = "pub_short_paper"
+#  12 = "pub_long_paper"
+#  13 = "pub_invited_talk"
 publication_types:
-  - 1   # default is 1 (conference), adjust as needed
+  - 11   # default is 1 (conference), adjust as needed
 
 publication: "7th International Conference on Rigorous State Based Methods (ABZ'20)"
 publication_short: "ABZ'20"
