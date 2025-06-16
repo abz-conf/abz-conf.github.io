@@ -313,7 +313,7 @@ days:
         background: "#e89b26"
       - paper: "Session Chair: <i>Philipp K&ouml;rner</i>"
         background: "#83a9c6"
-      - paper: The Proved Construction of a Protocol with an Example
+      - paper: "<a href=\"https://stups.hhu-hosting.de/abz2025/Videos/AbrialCansell_video1176365908.mp4\">The Proved Construction of a Protocol with an Example</a>"
         start: "10:30"
         end: "11:00"
         author: Dominique Cansell and Jean-Raymond Abrial
