@@ -63,25 +63,25 @@ days:
         background: "#e89b26"
       - paper: "Tutorial and Workshop: Exploring Formal Methods for Unmanned Aerial Vehicles"
         background: Gainsboro
-      - paper: Introduction
+      - paper: "<a href=\"https://stups.hhu-hosting.de/abz2025/Slides/DroneWorkshop/WorkshopIntroduction.pdf\">Introduction</a>"
         start: "14:00"
         end: "14:10"
         author: Michael Leuschel
         topic: Drone Workshop
-      - paper: "Tutorial: Real World-Execution of Drones with ProB"
+      - paper: "<a href=\"https://stups.hhu-hosting.de/abz2025/Slides/DroneWorkshop/WorkshopTutorial.pdf\">Tutorial: Real World-Execution of Drones with ProB</a>"
         start: "14:10"
         end: "14:35"
         author: Fabian Vu
         topic: Drone Workshop
       - paper: "Session Chair: <i>Fabian Vu</i>"
         background: "#83a9c6"
-      - paper: Introducing Feasible Safety to Autonomous Firefighting Drone
+      - paper: "<a href=\"https://stups.hhu-hosting.de/abz2025/Slides/DroneWorkshop/2025.06.10%20-%20introducing%20safety%20to%20firefighter%20drone.pdf\">Introducing Feasible Safety to Autonomous Firefighting Drone</a>"
         start: "14:35"
         end: "15:00"
         author: "Thierry Lecomte"
         topic: Drone Workshop
         abstract: "We are presenting the formalization of the safety function of an autonomous aerial firefighting drone, from its system level RoboSim modelling to its implementation in B on a safety computer. The safety function implies a return to the base in case of power shortage or loss of communication with the base. The presentation provides a bird view on the overall experiment with a focus on the technical analyses and low-level formal modeling."
-      - paper: "Sharper Specs for Smarter Drones: Formalising Requirements with FRET"
+      - paper: "<a href=\"https://stups.hhu-hosting.de/abz2025/Slides/DroneWorkshop/FarrellDroneWorkshop.pdf\">Sharper Specs for Smarter Drones: Formalising Requirements with FRET</a>"
         start: "15:00"
         end: "15:25"
         author: Marie Farrell
@@ -93,13 +93,13 @@ days:
         background: "#e89b26"
       - paper: "Session Chair: <i>Michael Leuschel/Fabian Vu</i>"
         background: "#83a9c6"
-      - paper: "Designing safe Cyber-Physical System with a proof and refinement based approach"
+      - paper: "<a href=\"https://stups.hhu-hosting.de/abz2025/Slides/DroneWorkshop/abz_drone_workshop_presentation_dupont.pdf\">Designing safe Cyber-Physical System with a proof and refinement based approach</a>"
         start: "15:55"
         end: "16:20"
         author: Guillaume Dupont
         topic: Drone Workshop
         abstract: "This talk presents a comprehensive formal framework for the formal verification and validation of Cyber-Physical Systems (CPS) in Event-B. The idea is to propose a correct-by-construction way of modelling CPS by integrating continuous and communication aspects in Event-B models. Event-B's powerful refinement operation is extended to encompass continuous behaviours and leverage to propose a general methodology for CPS design."
-      - paper: Developing a Trustworthy Integrated Mission Management System for Autonomous Vehicles
+      - paper: "<a href=\"https://stups.hhu-hosting.de/abz2025/Slides/DroneWorkshop/IMMS-beamer.pdf\">Developing a Trustworthy Integrated Mission Management System for Autonomous Vehicles</a>"
         start: "16:20"
         end: "16:45"
         author: "Thai Son Hoang"
@@ -124,7 +124,7 @@ days:
         background: Gainsboro
         topic: "Tribute"
         abstract: "<a href=\"https://en.wikipedia.org/wiki/Jean-Raymond_Abrial\">Jean-Raymond Abrial</a> is the inventor of the B and Z formal methods. He sadly passed away on May 26th 2025. In this tribute we will honor him and his foundational work for computer science in general, and formal methods in particular."
-      - paper: "Mathematical Proofs and Moving Trains: The Double Life of Atelier B"
+      - paper: "<a href=\"https://stups.hhu-hosting.de/abz2025/Slides/Keynote1_2025.06.11%20-%20ABZ-%20mathematical%20proofs%20and%20moving%20trains%20-%20public.pdf\">Mathematical Proofs and Moving Trains: The Double Life of Atelier B</a>"
         author: Thierry Lecomte (Invited)
         start: "09:15"
         end: "10:15"
