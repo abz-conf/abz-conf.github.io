@@ -21,12 +21,12 @@ days:
         end: "10:15"
         author: "Anne Grieu and Jean-Paul Bodeveix"
         topic: Rodin Workshop
-      - paper: Interactive Trace Replay for Event-B Models
+      - paper: "<a href=\"https://stups.hhu-hosting.de/abz2025/Slides/RodinWorkshop/interactive_trace_replay_rodin_ws.pdf\">Interactive Trace Replay for Event-B Models</a>"
         start: "10:15"
         end: "10:40"
         author: "Jan Gruteser and Michael Leuschel"
         topic: Rodin Workshop
-      - paper: Interactive Proving with ProB
+      - paper: "<a href=\"https://stups.hhu-hosting.de/abz2025/Slides/RodinWorkshop/interactive_proving_rodin_ws.pdf\">Interactive Proving with ProB</a>"
         start: "10:40"
         end: "11:05"
         author: "Katharina Engels, Jan Gruteser and Michael Leuschel"
