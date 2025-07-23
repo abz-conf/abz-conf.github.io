@@ -2,7 +2,7 @@
 title: "Modeling a Discrete Wet-Dry Algorithm for Hurricane Storm Surge in Alloy"
 
 authors:
-  - John W. Baugh Jr
+  - John W Baugh Jr
   - Alper Altuntas
 
 
