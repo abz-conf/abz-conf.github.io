@@ -2,7 +2,7 @@
 title: "State-Based Formal Methods in Scientific Computation"
 
 authors:
-  - John W. Baugh Jr.
+  - John W. Baugh Jr
   - Tristan Dyer
 
 
