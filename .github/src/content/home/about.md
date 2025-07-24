@@ -9,7 +9,7 @@ banner: https://github.com/abz-conf/abz-conf.logo/raw/master/src/banner_rsbm.svg
 twitter:
   id: ABZ_Conference
 # width:  400
-  height: 500
+  height: 500 
 
 event:
   link: 2026
