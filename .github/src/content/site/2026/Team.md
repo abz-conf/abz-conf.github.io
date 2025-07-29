@@ -23,4 +23,4 @@ skyline:
 
 * [Fuyuki Ishikawa, National Institute of Informatics, Tokyo, Japan](https://research.nii.ac.jp/~f-ishikawa/en/)
 
-* [Manuel Alcino Pereira da Cunha, University of Minho, Braga, Portugal](https://alcinocunha.github.io/)
+* [Alcino Cunha, INESC TEC & University of Minho, Braga, Portugal](https://alcinocunha.github.io/)
