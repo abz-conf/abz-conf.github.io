@@ -19,4 +19,10 @@ skyline:
 
 ## Important Dates 
 
-Information on the information dates will appear soon.
+### Main Track
+|                                                                                |                       |
+|--------------------------------------------------------------------------------|-----------------------|
+| **Abstract submission:** | February 9, 2026 AOE |
+| **Paper submission:** | February 16, 2026 AOE |
+| **Notification:** | March 13, 2026        |
+| **Final version:** | March 23, 2026         |
