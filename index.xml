@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ABZ</title><link>/</link><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><description>ABZ</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>ABZ</title><link>/</link></image><item><title>ABZ 2026 (Tokyo, Japan)</title><link>/2026/</link><pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate><guid>/2026/</guid><description>&lt;!--&lt;meta http-equiv="refresh" content="0; URL='../site/2024'" />-->
 &lt;p>The ABZ conference is dedicated to the cross-fertilization of state-based and machine-based formal methods, like Abstract State Machines (ASM), Alloy, B, TLA, VDM and Z, that share a common conceptual foundation and are widely used in both academia and industry for the design and analysis of hardware and software systems. The conference aims for a vital exchange of knowledge and experience among the research communities around different formal methods.&lt;/p></description></item><item><title>ABZ 2026 – 12th International Conference on Rigorous State Based Methods</title><link>/site/2026/accommodation/</link><pubDate>Tue, 29 Jul 2025 19:00:00 +0900</pubDate><guid>/site/2026/accommodation/</guid><description>&lt;h2 id="accomodation">Accomodation&lt;/h2>
-&lt;p>The accomodation information will appear inside &lt;a href="https://conf.researchr.org/home/fm-2026">the FM 2026 website&lt;/a>.&lt;/p></description></item><item><title>ABZ 2026 – 12th International Conference on Rigorous State Based Methods</title><link>/site/2026/casestudy/</link><pubDate>Tue, 29 Jul 2025 19:00:00 +0900</pubDate><guid>/site/2026/casestudy/</guid><description>&lt;h2 id="case-study">Case Study&lt;/h2>
-&lt;h2 id="case-study-planetary-rover---call-for-papers">Case Study: Planetary Rover - Call for Papers&lt;/h2>
+&lt;p>The accomodation information will appear inside &lt;a href="https://conf.researchr.org/home/fm-2026">the FM 2026 website&lt;/a>.&lt;/p></description></item><item><title>ABZ 2026 – 12th International Conference on Rigorous State Based Methods</title><link>/site/2026/casestudy/</link><pubDate>Tue, 29 Jul 2025 19:00:00 +0900</pubDate><guid>/site/2026/casestudy/</guid><description>&lt;h2 id="case-study-planetary-rover---call-for-papers">Case Study: Planetary Rover - Call for Papers&lt;/h2>
 &lt;p>As successfully practiced in previous editions of ABZ, the 12th edition of ABZ will include again special sessions dedicated to a shared case study.&lt;/p>
 &lt;p>The objective of this session is to enrich the set of case studies (
 &lt;a href="https://abz-conf.org/case-studies/" target="_blank" rel="noopener">https://abz-conf.org/case-studies/&lt;/a>) developed with Rigorous State Based Methods with a practical and real-life case study.
@@ -99,6 +98,8 @@ The current version is
 &lt;li>&lt;strong>Journal-First papers&lt;/strong>: Journal-First papers summarize recently published papers in high-quality journals. The aim of journal-first papers is to further enrich the program of ABZ and to provide more visibility to an already published journal papers in the scope of the ABZ conference. An extended abstract of no more than &lt;em>6 pages (excluding references)&lt;/em> in
 &lt;a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" target="_blank" rel="noopener">LNCS format&lt;/a> is expected and will be reviewed.&lt;/li>
 &lt;/ul>
+&lt;p>Please refer to
+&lt;a href="https://abz-conf.org/site/2026/casestudy/" target="_blank" rel="noopener">this page&lt;/a> for the case study papers.&lt;/p>
 &lt;h3 id="important-dates">Important Dates&lt;/h3>
 &lt;table>
 &lt;thead>
@@ -129,7 +130,7 @@ The current version is
 &lt;h3 id="submission-process">Submission Process&lt;/h3>
 &lt;div>&lt;img src="/img/Springer_Logo.jpg">&lt;img src="/img/LNCS-Logo.jpg">&lt;/div>
 &lt;p>Accepted papers will appear in the Springer LNCS proceedings.&lt;/p>
-&lt;p>Page limits (including references and all appendices) for the final versions are 18 pages for full papers, 18 pages for case study papers, 8 pages for short papers.&lt;/p>
+&lt;p>Page limits (including references and all appendices) for the final versions are 18 pages for full papers and 8 pages for short papers.&lt;/p>
 &lt;p>Authors should consult
 &lt;a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" target="_blank" rel="noopener">Springer Authors Guidelines&lt;/a> and use their proceedings templates. Springer encourages authors to include their
 &lt;a href="https://www.springer.com/gp/authors-editors/orcid" target="_blank" rel="noopener">ORCIDs&lt;/a> in their papers. Authors should also check
