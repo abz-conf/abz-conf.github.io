@@ -1,7 +1,63 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ABZ</title><link>/</link><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><description>ABZ</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>ABZ</title><link>/</link></image><item><title>ABZ 2026 (Tokyo, Japan)</title><link>/2026/</link><pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate><guid>/2026/</guid><description>&lt;!--&lt;meta http-equiv="refresh" content="0; URL='../site/2024'" />-->
 &lt;p>The ABZ conference is dedicated to the cross-fertilization of state-based and machine-based formal methods, like Abstract State Machines (ASM), Alloy, B, TLA, VDM and Z, that share a common conceptual foundation and are widely used in both academia and industry for the design and analysis of hardware and software systems. The conference aims for a vital exchange of knowledge and experience among the research communities around different formal methods.&lt;/p></description></item><item><title>ABZ 2026 – 12th International Conference on Rigorous State Based Methods</title><link>/site/2026/accommodation/</link><pubDate>Tue, 29 Jul 2025 19:00:00 +0900</pubDate><guid>/site/2026/accommodation/</guid><description>&lt;h2 id="accomodation">Accomodation&lt;/h2>
 &lt;p>The accomodation information will appear inside &lt;a href="https://conf.researchr.org/home/fm-2026">the FM 2026 website&lt;/a>.&lt;/p></description></item><item><title>ABZ 2026 – 12th International Conference on Rigorous State Based Methods</title><link>/site/2026/casestudy/</link><pubDate>Tue, 29 Jul 2025 19:00:00 +0900</pubDate><guid>/site/2026/casestudy/</guid><description>&lt;h2 id="case-study">Case Study&lt;/h2>
-&lt;p>Information on the case study track will appear soon.&lt;/p></description></item><item><title>ABZ 2026 – 12th International Conference on Rigorous State Based Methods</title><link>/site/2026/doctoralsymposium/</link><pubDate>Tue, 29 Jul 2025 19:00:00 +0900</pubDate><guid>/site/2026/doctoralsymposium/</guid><description>&lt;h2 id="doctoral-symposium">Doctoral Symposium&lt;/h2>
+&lt;h2 id="case-study-planetary-rover---call-for-papers">Case Study: Planetary Rover - Call for Papers&lt;/h2>
+&lt;p>As successfully practiced in previous editions of ABZ, the 12th edition of ABZ will include again special sessions dedicated to a shared case study.&lt;/p>
+&lt;p>The objective of this session is to enrich the set of case studies (
+&lt;a href="https://abz-conf.org/case-studies/" target="_blank" rel="noopener">https://abz-conf.org/case-studies/&lt;/a>) developed with Rigorous State Based Methods with a practical and real-life case study.
+Its goal is also cross-fertilisation, enabling practitioners of the individual formal methods to
+better understand each other.&lt;/p>
+&lt;p>The case study is about an &lt;b>autonomous planetary rover&lt;/b>.&lt;/p>
+&lt;h3 id="repository-for-detailed-specification">Repository for Detailed Specification&lt;/h3>
+&lt;p>All the pdf versions of the specification document are available here (we keep track of all the changes in the documents):
+&lt;a href="https://github.com/trarse-nii/ABZ2026-case-study" target="_blank" rel="noopener">https://github.com/trarse-nii/ABZ2026-case-study&lt;/a>.
+The current version is
+&lt;a href="https://github.com/trarse-nii/ABZ2026-case-study/blob/main/doc/document_v1.pdf" target="_blank" rel="noopener">v1 of the specification document&lt;/a>.&lt;/p>
+&lt;p>All the questions and doubts can be discussed here:
+&lt;a href="https://github.com/trarse-nii/ABZ2026-case-study/issues" target="_blank" rel="noopener">https://github.com/trarse-nii/ABZ2026-case-study/issues&lt;/a>&lt;/p>
+&lt;p>If you have any question/comment on the case study, you can contact Marie Farrell1 and Tsutomu Kobayashi: marie.farrel (AT) manchester.ac.uk, kobayashi.tsutomu (AT) jaxa.jp&lt;/p>
+&lt;h3 id="call-for-case-study-papers">Call for Case Study Papers&lt;/h3>
+&lt;p>&lt;strong>Case study papers&lt;/strong> are full papers reporting on the experiments conducted with any of the state based techniques in the scope of ABZ 2026 case study. A paper of no more than &lt;em>16 pages (excluding references)&lt;/em> in
+&lt;a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" target="_blank" rel="noopener">LNCS format&lt;/a> is expected and will be reviewed.&lt;/p>
+&lt;h3 id="important-dates">Important Dates&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>Abstract submission:&lt;/strong>&lt;/td>
+&lt;td>February 9, 2026 AOE&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Paper submission:&lt;/strong>&lt;/td>
+&lt;td>February 16, 2026 AOE&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Notification:&lt;/strong>&lt;/td>
+&lt;td>March 13, 2026&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Final version:&lt;/strong>&lt;/td>
+&lt;td>March 23, 2026&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3 id="submission-process">Submission Process&lt;/h3>
+&lt;div>&lt;img src="/img/Springer_Logo.jpg">&lt;img src="/img/LNCS-Logo.jpg">&lt;/div>
+&lt;p>Accepted papers will appear in the Springer LNCS proceedings.&lt;/p>
+&lt;p>Page limits (including references and all appendices) for the final versions are 18 pages for case study papers.&lt;/p>
+&lt;p>Authors should consult
+&lt;a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" target="_blank" rel="noopener">Springer Authors Guidelines&lt;/a> and use their proceedings templates. Springer encourages authors to include their
+&lt;a href="https://www.springer.com/gp/authors-editors/orcid" target="_blank" rel="noopener">ORCIDs&lt;/a> in their papers. Authors should also check
+&lt;a href="https://www.springernature.com/gp/authors/book-authors-code-of-conduct" target="_blank" rel="noopener">Springer Authors Code of Conduct&lt;/a>&lt;/p>
+&lt;p>The corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign a Consent-to-Publish form. The corresponding author signing the copyright form should match the corresponding author marked on the paper. Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made.&lt;/p>
+&lt;p>Authors interested in contributing to ABZ 2026 in Open Access or Open Choice should refer to the corresponding
+&lt;a href="https://www.springer.com/gp/computer-science/lncs/open-access-publishing-in-computer-proceedings" target="_blank" rel="noopener">Springer webpage&lt;/a>.&lt;/p>
+&lt;p class="text-center">&lt;a href="https://easychair.org/conferences/?conf=abz2026" class="btn btn-primary btn-lg" role="button" target="_blank">Submit contribution&lt;br>&lt;br>&lt;br>&lt;small>via easychair&lt;/small>&lt;/a>&lt;/p></description></item><item><title>ABZ 2026 – 12th International Conference on Rigorous State Based Methods</title><link>/site/2026/doctoralsymposium/</link><pubDate>Tue, 29 Jul 2025 19:00:00 +0900</pubDate><guid>/site/2026/doctoralsymposium/</guid><description>&lt;h2 id="doctoral-symposium">Doctoral Symposium&lt;/h2>
 &lt;p>In the 2026 edition, information for the doctoral symposium will be found in &lt;a href="https://conf.researchr.org/home/fm-2026">the FM 2026 website&lt;/a> (we don&amp;rsquo;t have ABZ-specific doctoral symposium).&lt;/p></description></item><item><title>ABZ 2026 – 12th International Conference on Rigorous State Based Methods</title><link>/site/2026/importantdates/</link><pubDate>Tue, 29 Jul 2025 19:00:00 +0900</pubDate><guid>/site/2026/importantdates/</guid><description>&lt;h2 id="important-dates">Important Dates&lt;/h2>
 &lt;h3 id="main-track">Main Track&lt;/h3>
 &lt;table>
