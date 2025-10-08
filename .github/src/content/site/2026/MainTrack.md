@@ -28,6 +28,8 @@ Contributions are solicited on all aspects of the theory and applications of ASM
 - **Application in industry papers**: Reporting on work or experiences on the application of state based formal methods in industry. A paper of no more than *8 pages (excluding references)* in [LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) is expected and will be reviewed. It is also an interesting option for industrial practitioners who sometimes face too many constraints to prepare a full paper.
 - **Journal-First papers**: Journal-First papers summarize recently published papers in high-quality journals. The aim of journal-first papers is to further enrich the program of ABZ and to provide more visibility to an already published journal papers in the scope of the ABZ conference. An extended abstract of no more than *6 pages (excluding references)* in [LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) is expected and will be reviewed.
 
+Please refer to [this page](https://abz-conf.org/site/2026/casestudy/) for the case study papers.
+
 
 ### Important Dates
 
@@ -45,7 +47,7 @@ Contributions are solicited on all aspects of the theory and applications of ASM
 
 Accepted papers will appear in the Springer LNCS proceedings.
 
-Page limits (including references and all appendices) for the final versions are 18 pages for full papers, 18 pages for case study papers, 8 pages for short papers.
+Page limits (including references and all appendices) for the final versions are 18 pages for full papers and 8 pages for short papers.
 
 Authors should consult [Springer Authors Guidelines](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) and use their proceedings templates. Springer encourages authors to include their [ORCIDs](https://www.springer.com/gp/authors-editors/orcid) in their papers. Authors should also check [Springer Authors Code of Conduct](https://www.springernature.com/gp/authors/book-authors-code-of-conduct)
 

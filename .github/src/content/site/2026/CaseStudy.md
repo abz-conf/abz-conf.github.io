@@ -17,8 +17,6 @@ skyline:
   url: "https://en.wikipedia.org/wiki/Tokyo"
 ---
 
-## Case Study
-
 ## Case Study: Planetary Rover - Call for Papers
 
 As successfully practiced in previous editions of ABZ, the 12th edition of ABZ will include again special sessions dedicated to a shared case study.
