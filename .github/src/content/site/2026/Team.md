@@ -24,3 +24,9 @@ skyline:
 * [Fuyuki Ishikawa, National Institute of Informatics, Tokyo, Japan](https://research.nii.ac.jp/~f-ishikawa/en/)
 
 * [Alcino Cunha, INESC TEC & University of Minho, Braga, Portugal](https://alcinocunha.github.io/)
+
+### Case Study Track Chairs
+
+* [Marie Farrell, The University of Manchester, Manchester, UK](https://mariefarrell.github.io/)
+
+* [Tsutomu Kobayashi, Japan Space Exploration Agency, Tsukuba, Japan](https://researchmap.jp/tsutomu.kobayashi?lang=en)
