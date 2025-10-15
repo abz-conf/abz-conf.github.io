@@ -36,7 +36,7 @@ The current version is [v1 of the specification document](https://github.com/tra
 All the questions and doubts can be discussed here: 
 [https://github.com/trarse-nii/ABZ2026-case-study/issues](https://github.com/trarse-nii/ABZ2026-case-study/issues) 
 
-If you have any question/comment on the case study, you can contact Marie Farrell1 and Tsutomu Kobayashi:  marie.farrel (AT) manchester.ac.uk, kobayashi.tsutomu (AT) jaxa.jp
+If you have any question/comment on the case study, you can contact Marie Farrell and Tsutomu Kobayashi:  marie.farrell (AT) manchester.ac.uk, kobayashi.tsutomu (AT) jaxa.jp
 
 ### Call for Case Study Papers
 
