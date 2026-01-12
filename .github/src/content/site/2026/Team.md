@@ -30,3 +30,46 @@ skyline:
 * [Marie Farrell, The University of Manchester, Manchester, UK](https://mariefarrell.github.io/)
 
 * [Tsutomu Kobayashi, Japan Space Exploration Agency, Tsukuba, Japan](https://researchmap.jp/tsutomu.kobayashi?lang=en)
+
+### Program Committee
+
+* Yamine Ait Ameur, ENSEEIHT, France
+* Toshiaki Aoki, JAIST, Japan
+* Paolo Arcaini, National Institute of Informatics, Japan
+* Richard Banach, University of Manchester, UK
+* Silvia Bonfanti, University of Bergramo, Italy
+* Chiara Braghin, University of Milan, Italy
+* Maximiliano Cristiá, Universidad Nacional de Rosario, Argentina
+* Catherine Dubois, ENSIIE, France
+* Guillaume Dupont, ENSEEIHT, France
+* Marie Farell, University of Manchester, UK
+* Flavio Ferrarotti, Software Competence Centre Hagenberg, Austria
+* Marc Frappier, Université de Sherbrooke, Canada
+<!-- * Angelo Gargantini, University of Bergamo, Italy
+* Uwe Glässer, Simon Fraser University, Canada  -->
+* Stefan Hallerstede, Aarhus University, Denmark
+* Thai Son Hoang, University of Southampton, UK
+* Akram Idani, 	Univ. Grenoble Alpes, VERIMAG lab, France
+* Ensuk Kang, Carnegie Mellon University, USA
+<!-- * Tsutomu Kobayashi, Japan Aerospace Exploration Agency, Japan
+* Philipp Körner, University of Düsseldorf, Germany
+* Igor Konnov, Austria -->
+* Régine Laleau, Paris Est Creteil University, France
+* Thierry Lecomte, CLEARSY, France
+* Michael Leuschel, University of Düsseldorf, Germany
+* Frederic Mallet, Université Côte d'Azur, France
+* Atif Mashkoor, Johannes Kepler University, Austria
+<!-- * Dominique Mery, Université de Lorraine, LORIA, France -->
+* Stephan Merz, Inria, France
+* Alexander Raschke, Ulm University, Germany
+<!-- * Elvinia Riccobene, University of Milan, Italy -->
+* Asieh	Salehi Fathabadi, University of Southampton, UK
+* Patrizia Scandurra, University of Bergamo, Italy
+* Gerhard Schellhorn, Universitaet Augsburg, Germany
+<!-- * Klaus-Dieter Schewe, Zhejiang University, China -->
+* Emil Sekerinski, McMaster University, Canada
+* Neeraj Singh, ENSEEIHT, France
+* Maurice ter Beek, CNR, Italy
+* Laurent Voisin, Systerel, France
+* Fabian Vu, Heinrich Heine University, Germany
+<!-- * Hillel Wayne, USA -->
