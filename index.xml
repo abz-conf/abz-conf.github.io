@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ABZ</title><link>/</link><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><description>ABZ</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 ABZ Conference</copyright><lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>ABZ</title><link>/</link></image><item><title>ABZ 2026 (Tokyo, Japan)</title><link>/2026/</link><pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate><guid>/2026/</guid><description>&lt;!--&lt;meta http-equiv="refresh" content="0; URL='../site/2024'" />-->
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ABZ</title><link>/</link><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><description>ABZ</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2026 ABZ Conference</copyright><lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>ABZ</title><link>/</link></image><item><title>ABZ 2026 (Tokyo, Japan)</title><link>/2026/</link><pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate><guid>/2026/</guid><description>&lt;!--&lt;meta http-equiv="refresh" content="0; URL='../site/2024'" />-->
 &lt;p>The ABZ conference is dedicated to the cross-fertilization of state-based and machine-based formal methods, like Abstract State Machines (ASM), Alloy, B, TLA, VDM and Z, that share a common conceptual foundation and are widely used in both academia and industry for the design and analysis of hardware and software systems. The conference aims for a vital exchange of knowledge and experience among the research communities around different formal methods.&lt;/p></description></item><item><title>ABZ 2026 – 12th International Conference on Rigorous State Based Methods</title><link>/site/2026/accommodation/</link><pubDate>Tue, 29 Jul 2025 19:00:00 +0900</pubDate><guid>/site/2026/accommodation/</guid><description>&lt;h2 id="accomodation">Accomodation&lt;/h2>
 &lt;p>The accomodation information will appear inside &lt;a href="https://conf.researchr.org/home/fm-2026">the FM 2026 website&lt;/a>.&lt;/p></description></item><item><title>ABZ 2026 – 12th International Conference on Rigorous State Based Methods</title><link>/site/2026/casestudy/</link><pubDate>Tue, 29 Jul 2025 19:00:00 +0900</pubDate><guid>/site/2026/casestudy/</guid><description>&lt;h2 id="case-study-planetary-rover---call-for-papers">Case Study: Planetary Rover - Call for Papers&lt;/h2>
 &lt;p>As successfully practiced in previous editions of ABZ, the 12th edition of ABZ will include again special sessions dedicated to a shared case study.&lt;/p>
@@ -162,7 +162,60 @@ The current version is
 &lt;p>
 &lt;a href="https://researchmap.jp/tsutomu.kobayashi?lang=en" target="_blank" rel="noopener">Tsutomu Kobayashi, Japan Space Exploration Agency, Tsukuba, Japan&lt;/a>&lt;/p>
 &lt;/li>
-&lt;/ul></description></item><item><title>ABZ 2026 – 12th International Conference on Rigorous State Based Methods</title><link>/site/2026/tutorialworkshops/</link><pubDate>Tue, 29 Jul 2025 19:00:00 +0900</pubDate><guid>/site/2026/tutorialworkshops/</guid><description>&lt;h2 id="workshops-and-tutorials">Workshops and Tutorials&lt;/h2>
+&lt;/ul>
+&lt;h3 id="program-committee">Program Committee&lt;/h3>
+&lt;ul>
+&lt;li>Yamine Ait Ameur, ENSEEIHT, France&lt;/li>
+&lt;li>Toshiaki Aoki, JAIST, Japan&lt;/li>
+&lt;li>Paolo Arcaini, National Institute of Informatics, Japan&lt;/li>
+&lt;li>Richard Banach, University of Manchester, UK&lt;/li>
+&lt;li>Silvia Bonfanti, University of Bergramo, Italy&lt;/li>
+&lt;li>Chiara Braghin, University of Milan, Italy&lt;/li>
+&lt;li>Maximiliano Cristiá, Universidad Nacional de Rosario, Argentina&lt;/li>
+&lt;li>Catherine Dubois, ENSIIE, France&lt;/li>
+&lt;li>Guillaume Dupont, ENSEEIHT, France&lt;/li>
+&lt;li>Marie Farell, University of Manchester, UK&lt;/li>
+&lt;li>Flavio Ferrarotti, Software Competence Centre Hagenberg, Austria&lt;/li>
+&lt;li>Marc Frappier, Université de Sherbrooke, Canada&lt;/li>
+&lt;/ul>
+&lt;!-- * Angelo Gargantini, University of Bergamo, Italy
+* Uwe Glässer, Simon Fraser University, Canada -->
+&lt;ul>
+&lt;li>Stefan Hallerstede, Aarhus University, Denmark&lt;/li>
+&lt;li>Thai Son Hoang, University of Southampton, UK&lt;/li>
+&lt;li>Akram Idani, Univ. Grenoble Alpes, VERIMAG lab, France&lt;/li>
+&lt;li>Ensuk Kang, Carnegie Mellon University, USA&lt;/li>
+&lt;/ul>
+&lt;!-- * Tsutomu Kobayashi, Japan Aerospace Exploration Agency, Japan
+* Philipp Körner, University of Düsseldorf, Germany
+* Igor Konnov, Austria -->
+&lt;ul>
+&lt;li>Régine Laleau, Paris Est Creteil University, France&lt;/li>
+&lt;li>Thierry Lecomte, CLEARSY, France&lt;/li>
+&lt;li>Michael Leuschel, University of Düsseldorf, Germany&lt;/li>
+&lt;li>Frederic Mallet, Université Côte d&amp;rsquo;Azur, France&lt;/li>
+&lt;li>Atif Mashkoor, Johannes Kepler University, Austria&lt;/li>
+&lt;/ul>
+&lt;!-- * Dominique Mery, Université de Lorraine, LORIA, France -->
+&lt;ul>
+&lt;li>Stephan Merz, Inria, France&lt;/li>
+&lt;li>Alexander Raschke, Ulm University, Germany&lt;/li>
+&lt;/ul>
+&lt;!-- * Elvinia Riccobene, University of Milan, Italy -->
+&lt;ul>
+&lt;li>Asieh Salehi Fathabadi, University of Southampton, UK&lt;/li>
+&lt;li>Patrizia Scandurra, University of Bergamo, Italy&lt;/li>
+&lt;li>Gerhard Schellhorn, Universitaet Augsburg, Germany&lt;/li>
+&lt;/ul>
+&lt;!-- * Klaus-Dieter Schewe, Zhejiang University, China -->
+&lt;ul>
+&lt;li>Emil Sekerinski, McMaster University, Canada&lt;/li>
+&lt;li>Neeraj Singh, ENSEEIHT, France&lt;/li>
+&lt;li>Maurice ter Beek, CNR, Italy&lt;/li>
+&lt;li>Laurent Voisin, Systerel, France&lt;/li>
+&lt;li>Fabian Vu, Heinrich Heine University, Germany&lt;/li>
+&lt;/ul>
+&lt;!-- * Hillel Wayne, USA --></description></item><item><title>ABZ 2026 – 12th International Conference on Rigorous State Based Methods</title><link>/site/2026/tutorialworkshops/</link><pubDate>Tue, 29 Jul 2025 19:00:00 +0900</pubDate><guid>/site/2026/tutorialworkshops/</guid><description>&lt;h2 id="workshops-and-tutorials">Workshops and Tutorials&lt;/h2>
 &lt;p>In the 2026 edition, information for workshops and tutorials will be found in &lt;a href="https://conf.researchr.org/home/fm-2026">the FM 2026 website&lt;/a> (we don&amp;rsquo;t have ABZ-specific workshops or tutorials).&lt;/p></description></item><item><title>ABZ 2026 – 12th International Conference on Rigorous State Based Methods</title><link>/site/2026/venue/</link><pubDate>Tue, 29 Jul 2025 19:00:00 +0900</pubDate><guid>/site/2026/venue/</guid><description>&lt;h2 id="venue">Venue&lt;/h2>
 &lt;p>The venue information is found in &lt;a href="https://conf.researchr.org/venue/fm-2026/fm-2026-venue">the FM 2026 website&lt;/a>.&lt;/p></description></item><item><title>ABZ 2026 – 12th International Conference on Rigorous State Based Methods</title><link>/site/2026/workshop/</link><pubDate>Tue, 29 Jul 2025 19:00:00 +0900</pubDate><guid>/site/2026/workshop/</guid><description>&lt;h2 id="workshops-and-tutorials">Workshops and Tutorials&lt;/h2>
 &lt;p>In the 2026 edition, information for workshops and tutorials will be found in &lt;a href="https://conf.researchr.org/home/fm-2026">the FM 2026 website&lt;/a> (we don&amp;rsquo;t have ABZ-specific workshops or tutorials).&lt;/p></description></item><item><title>ABZ 2026 – 12th International Conference on Rigorous State Based Methods</title><link>/site/2026/</link><pubDate>Mon, 14 Jul 2025 00:00:00 +0100</pubDate><guid>/site/2026/</guid><description>&lt;h3 id="tokyo-japan---may-18--may-20-2026">Tokyo (Japan) - May 18 — May 20 2026&lt;/h3>
@@ -5432,7 +5485,7 @@ Mariahilfer Straße 36&lt;br>
 &lt;p>Despite careful examination, we assume no liability for external links.
 Responsibility for the content of external links lies with the owners and responsible operators.&lt;/p>
 &lt;h3 id="copyright">Copyright&lt;/h3>
-&lt;p>All contents, texts, graphics, layouts, code or software are Copyright © 2025
+&lt;p>All contents, texts, graphics, layouts, code or software are Copyright © 2026
 ABZ Conference and Community.
 All Rights reserved.
 Any usage of material or information available on this website, including the reproduction, sales, alteration and publication is prohibited unless specifically approved by the ABZ Conference and Community.&lt;/p>
