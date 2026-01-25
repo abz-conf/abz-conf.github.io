@@ -54,6 +54,7 @@ skyline:
 * Michael Leuschel, University of Düsseldorf, Germany
 * Frederic Mallet, Université Côte d'Azur, France
 * Atif Mashkoor, Johannes Kepler University, Austria 
+* Dominique Mery, Université de Lorraine, LORIA, France
 * Stephan Merz, Inria, France
 * Alexander Raschke, Ulm University, Germany
 * Asieh	Salehi Fathabadi, University of Southampton, UK
@@ -66,6 +67,5 @@ skyline:
 * Fabian Vu, Heinrich Heine University, Germany
 <!-- * Angelo Gargantini, University of Bergamo, Italy * Uwe Glässer, Simon Fraser University, Canada  -->
 <!-- * Tsutomu Kobayashi, Japan Aerospace Exploration Agency, Japan * Philipp Körner, University of Düsseldorf, Germany -->
-<!-- * Dominique Mery, Université de Lorraine, LORIA, France -->
 <!-- * Elvinia Riccobene, University of Milan, Italy -->
 <!-- * Hillel Wayne, USA -->
