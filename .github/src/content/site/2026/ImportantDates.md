@@ -22,7 +22,7 @@ skyline:
 ### Main Track
 |                                                                                |                       |
 |--------------------------------------------------------------------------------|-----------------------|
-| **Abstract submission:** | February 9, 2026 AOE |
+| **Abstract submission (OPTIONAL):** | February 9, 2026 AOE |
 | **Paper submission:** | February 16, 2026 AOE |
 | **Notification:** | March 13, 2026        |
 | **Final version:** | March 23, 2026         |
