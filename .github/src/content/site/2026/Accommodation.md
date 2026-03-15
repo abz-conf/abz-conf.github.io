@@ -19,4 +19,4 @@ skyline:
 
 ## Accomodation
 
-The accomodation information will appear inside <a href="https://conf.researchr.org/home/fm-2026">the FM 2026 website</a>.
+The accomodation information is on <a href="https://conf.researchr.org/attending/fm-2026/accommodations">the FM 2026 website</a>.

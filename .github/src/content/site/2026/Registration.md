@@ -19,4 +19,4 @@ skyline:
 
 ## Registration
 
-The registration information will appear inside <a href="https://conf.researchr.org/home/fm-2026">the FM 2026 website</a>.
+The registration information is on <a href="https://conf.researchr.org/attending/fm-2026/registration">the FM 2026 website</a>.

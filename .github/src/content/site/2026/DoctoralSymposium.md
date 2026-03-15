@@ -19,4 +19,4 @@ skyline:
 
 ## Doctoral Symposium
 
-In the 2026 edition, information for the doctoral symposium will be found in <a href="https://conf.researchr.org/home/fm-2026">the FM 2026 website</a> (we don't have ABZ-specific doctoral symposium).
+In the 2026 edition, information for the doctoral symposium will be found on <a href="https://conf.researchr.org/track/fm-2026/fm-2026-doctoral-symposium">the FM 2026 website</a> (we don't have ABZ-specific doctoral symposium this year).

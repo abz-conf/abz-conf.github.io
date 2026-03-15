@@ -19,4 +19,4 @@ skyline:
 
 ## Workshops and Tutorials
 
-In the 2026 edition, information for workshops and tutorials will be found in <a href="https://conf.researchr.org/home/fm-2026">the FM 2026 website</a> (we don't have ABZ-specific workshops or tutorials).
+In the 2026 edition, information for workshops and tutorials will be found in <a href="https://conf.researchr.org/home/fm-2026">the FM 2026 website</a>.

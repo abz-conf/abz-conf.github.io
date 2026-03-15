@@ -48,7 +48,8 @@ skyline:
 * Stefan Hallerstede, Aarhus University, Denmark
 * Thai Son Hoang, University of Southampton, UK
 * Akram Idani, 	Univ. Grenoble Alpes, VERIMAG lab, France
-* Ensuk Kang, Carnegie Mellon University, USA 
+* Eunsuk Kang, Carnegie Mellon University, USA 
+* Tsutomu Kobayashi, Japan Aerospace Exploration Agency, Japan
 * Régine Laleau, Paris Est Creteil University, France
 * Thierry Lecomte, CLEARSY, France
 * Michael Leuschel, University of Düsseldorf, Germany
@@ -57,6 +58,7 @@ skyline:
 * Dominique Mery, Université de Lorraine, LORIA, France
 * Stephan Merz, Inria, France
 * Alexander Raschke, Ulm University, Germany
+* Elvinia Riccobene, University of Milan, Italy
 * Asieh	Salehi Fathabadi, University of Southampton, UK
 * Patrizia Scandurra, University of Bergamo, Italy
 * Gerhard Schellhorn, Universitaet Augsburg, Germany 
@@ -65,7 +67,3 @@ skyline:
 * Maurice ter Beek, CNR, Italy
 * Laurent Voisin, Systerel, France
 * Fabian Vu, Heinrich Heine University, Germany
-<!-- * Angelo Gargantini, University of Bergamo, Italy * Uwe Glässer, Simon Fraser University, Canada  -->
-<!-- * Tsutomu Kobayashi, Japan Aerospace Exploration Agency, Japan * Philipp Körner, University of Düsseldorf, Germany -->
-<!-- * Elvinia Riccobene, University of Milan, Italy -->
-<!-- * Hillel Wayne, USA -->
