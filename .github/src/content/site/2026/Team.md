@@ -64,6 +64,6 @@ skyline:
 * Gerhard Schellhorn, Universitaet Augsburg, Germany 
 * Emil Sekerinski, McMaster University, Canada
 * Neeraj Singh, ENSEEIHT, France
-* Maurice ter Beek, CNR, Italy
+* Maurice ter Beek, CNR-ISTI, Italy
 * Laurent Voisin, Systerel, France
 * Fabian Vu, Heinrich Heine University, Germany
