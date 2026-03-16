@@ -52,7 +52,7 @@ skyline:
 * Tsutomu Kobayashi, Japan Aerospace Exploration Agency, Japan
 * Régine Laleau, Paris Est Creteil University, France
 * Thierry Lecomte, CLEARSY, France
-* Michael Leuschel, University of Düsseldorf, Germany
+* Michael Leuschel, Heinrich Heine University Düsseldorf, Germany
 * Frederic Mallet, Université Côte d'Azur, France
 * Atif Mashkoor, Johannes Kepler University, Austria 
 * Dominique Mery, Université de Lorraine, LORIA, France
@@ -66,4 +66,4 @@ skyline:
 * Neeraj Singh, ENSEEIHT, France
 * Maurice ter Beek, CNR-ISTI, Italy
 * Laurent Voisin, Systerel, France
-* Fabian Vu, Heinrich Heine University, Germany
+* Fabian Vu, Heinrich Heine University Düsseldorf, Germany
