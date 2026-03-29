@@ -155,3 +155,36 @@
 
   </div><!-- /.container -->
 </nav>
+
+{{- if .Site.Menus.context }}
+{{ $page := trim $.Page.RelPermalink "/"}}
+<style>
+div.nav1 ul li
+{
+    text-align: center;
+    display:inline;
+    padding: 10px;
+    margin: 10px;
+    list-style-type: none;
+    line-height: 2em;
+    background-color: #F0F0F0;
+}
+</style>
+<div class="universal-wrapper nav1">
+  <div style="text-align: left;">
+  <ul class="">
+    {{- range .Site.Menus.context }}
+    {{- if .Name }}
+    {{ if eq .URL $page }}
+    <a style="" href="{{ .Identifier }}">
+      <li class="">
+        <span class="">{{ .Name }}</span>
+      </li>
+    </a>
+    {{- end }}
+    {{- end }}
+    {{- end }}
+  </ul>
+  </div>
+</div>
+{{- end }}
