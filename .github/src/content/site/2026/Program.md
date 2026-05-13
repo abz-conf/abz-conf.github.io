@@ -19,4 +19,4 @@ skyline:
 
 ## Program
 
-The program information will appear inside <a href="https://conf.researchr.org/home/fm-2026">the FM 2026 website</a>.
+The program information is available on <a href="https://conf.researchr.org/track/fm-2026/fm-2026-abz-2026#program">the FM 2026 website</a>.

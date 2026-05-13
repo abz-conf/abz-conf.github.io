@@ -19,4 +19,8 @@ skyline:
 
 ## Keynote Speakers
 
-Will be announced.
+We are very pleased to welcome three keynote speakers to ABZ 2026.
+
+* Toshiaki Aoki, JAIST: Practical Applications of Formal Methods to Automotive Systems: From In-Vehicle Systems to Autonomous Driving
+* Jin Song Dong, National University of Singapore: Reasoning Beyond LLM: Formal Methods Agents
+* Dominique Mery Université de Lorraine, CNRS, INRIA / LORIA & Telecom Nancy: Systematic Development of Distributed Algorithms using Event-B - Experiences, reviews and prospects -
