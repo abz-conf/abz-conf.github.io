@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ciprian Teodorov | ABZ</title><link>/author/ciprian-teodorov/</link><atom:link href="/author/ciprian-teodorov/index.xml" rel="self" type="application/rss+xml"/><description>Ciprian Teodorov</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2026 ABZ Conference</copyright><lastBuildDate>Thu, 01 May 2014 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Ciprian Teodorov</title><link>/author/ciprian-teodorov/</link></image><item><title>Context-Aware Verification of a Landing Gear System</title><link>/publication/dhaussy2014abz/</link><pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate><guid>/publication/dhaussy2014abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
-&lt;p>Despite the high level of automation, the practicability of formal verification through model-checking of large models is hindered by the combinatorial explosion problem. In this paper we apply a novel context-aware verification technique to the Landing Gear System Case Study (LGS). The idea is to express and verify requirements relative to certain environmental situations. The system environment is decomposed into several independent scenarios (contexts), which are successively composed with the system during reachability analysis. These contexts are specified using a language called CDL (Context Description Language), based on activity and message sequence diagrams. The properties to be verified are specified with observer automata and attached to specific regions in the context. This approach enables an automated context-guided decomposition of the verification into smaller problems, hence effectively reducing the state-space explosion problem. In the case of the LGS this technique enabled the fully-automated decomposition of the verification into 885 smaller model-checking problems.&lt;/p>
-&lt;h2 id="document">Document&lt;/h2>
-&lt;div id="pdfobject-viewer">&lt;/div>
-&lt;script src="/js/pdfobject.min.js">&lt;/script>
-&lt;script>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ciprian Teodorov | ABZ</title><link>/author/ciprian-teodorov/</link><atom:link href="/author/ciprian-teodorov/index.xml" rel="self" type="application/rss+xml"/><description>Ciprian Teodorov</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2026 ABZ Conference</copyright><lastBuildDate>Thu, 01 May 2014 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Ciprian Teodorov</title><link>/author/ciprian-teodorov/</link></image><item><title>Context-Aware Verification of a Landing Gear System</title><link>/publication/dhaussy2014abz/</link><pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate><guid>/publication/dhaussy2014abz/</guid><description>&lt;h2 id="abstract"&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Despite the high level of automation, the practicability of formal verification through model-checking of large models is hindered by the combinatorial explosion problem. In this paper we apply a novel context-aware verification technique to the Landing Gear System Case Study (LGS). The idea is to express and verify requirements relative to certain environmental situations. The system environment is decomposed into several independent scenarios (contexts), which are successively composed with the system during reachability analysis. These contexts are specified using a language called CDL (Context Description Language), based on activity and message sequence diagrams. The properties to be verified are specified with observer automata and attached to specific regions in the context. This approach enables an automated context-guided decomposition of the verification into smaller problems, hence effectively reducing the state-space explosion problem. In the case of the LGS this technique enabled the fully-automated decomposition of the verification into 885 smaller model-checking problems.&lt;/p&gt;
+&lt;h2 id="document"&gt;Document&lt;/h2&gt;
+&lt;div id="pdfobject-viewer"&gt;&lt;/div&gt;
+&lt;script src="/js/pdfobject.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
 var url = "https:\/\/www.ensta-bretagne.fr\/dhaussy\/Philippe_Dhaussy_fichiers\/Dhaussy_Papers\/abz_3avril14.pdf";
 PDFObject.embed( url, "#pdfobject-viewer" );
-&lt;/script>
-&lt;style>
+&lt;/script&gt;
+&lt;style&gt;
 .pdfobject-container
 {
 height: 30rem;
 }
-&lt;/style>
-&lt;h2 id="reference">Reference&lt;/h2>
-&lt;pre>&lt;code>% BibTex
+&lt;/style&gt;
+&lt;h2 id="reference"&gt;Reference&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;% BibTex
 @InProceedings{10.1007/978-3-319-07512-9_4,
 author=&amp;quot;Dhaussy, Philippe
 and Teodorov, Ciprian&amp;quot;,
@@ -31,12 +31,12 @@ pages=&amp;quot;52--65&amp;quot;,
 abstract=&amp;quot;Despite the high level of automation, the practicability of formal verification through model-checking of large models is hindered by the combinatorial explosion problem. In this paper we apply a novel context-aware verification technique to the Landing Gear System Case Study (LGS) [2]. The idea is to express and verify requirements relative to certain environmental situations. The system environment is decomposed into several independent scenarios (contexts), which are successively composed with the system during reachability analysis. These contexts are specified using a language called CDL (Context Description Language), based on activity and message sequence diagrams. The properties to be verified are specified with observer automata and attached to specific regions in the context. This approach enables an automated context-guided decomposition of the verification into smaller problems, hence effectively reducing the state-space explosion problem. In the case of the LGS this technique enabled the fully-automated decomposition of the verification into 885 smaller model-checking problems.&amp;quot;,
 isbn=&amp;quot;978-3-319-07512-9&amp;quot;
 }
-&lt;/code>&lt;/pre>
-&lt;h2 id="sources">Sources&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;p>&lt;strong>Used formal method:&lt;/strong>
-Context Description Language (CDL)&lt;/p>
-&lt;p>For more information, please contact the &lt;a href ="mailto:philippe.dhaussy@ensta-bretagne.fr;ciprian.teodorov@ensta-bretagne.fr">authors&lt;/a>&lt;/p>
-&lt;/li>
-&lt;/ul></description></item></channel></rss>
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id="sources"&gt;Sources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Used formal method:&lt;/strong&gt;
+Context Description Language (CDL)&lt;/p&gt;
+&lt;p&gt;For more information, please contact the &lt;a href ="mailto:philippe.dhaussy@ensta-bretagne.fr;ciprian.teodorov@ensta-bretagne.fr"&gt;authors&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

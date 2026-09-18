@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lukas Ladenberger | ABZ</title><link>/author/lukas-ladenberger/</link><atom:link href="/author/lukas-ladenberger/index.xml" rel="self" type="application/rss+xml"/><description>Lukas Ladenberger</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2026 ABZ Conference</copyright><lastBuildDate>Sun, 01 May 2016 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Lukas Ladenberger</title><link>/author/lukas-ladenberger/</link></image><item><title>Validating the Requirements and Design of a Hemodialysis Machine Using iUML-B, BMotion Studio, and Co-Simulation</title><link>/publication/hoangslb16/</link><pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate><guid>/publication/hoangslb16/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
-&lt;p>We present a formal specification of a hemodialysis machine (HD machine) using Event-B. We model the HD machine using iUML-B state-machines and class diagrams and build a corresponding BMotion Studio visualisation. We focus on validation using (i) diagrams to aid the modelling of the sequential properties of the requirements, and (ii) ProB-based animation and visualisation tools to explore the system’s behaviour. Some of the safety properties involve dynamic behaviour which is difficult to verify in Event-B. For these properties we use co-simulation tools to validate against a continuous model of the physical behaviour.&lt;/p>
-&lt;h2 id="document">Document&lt;/h2>
-&lt;div id="pdfobject-viewer">&lt;/div>
-&lt;script src="/js/pdfobject.min.js">&lt;/script>
-&lt;script>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lukas Ladenberger | ABZ</title><link>/author/lukas-ladenberger/</link><atom:link href="/author/lukas-ladenberger/index.xml" rel="self" type="application/rss+xml"/><description>Lukas Ladenberger</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2026 ABZ Conference</copyright><lastBuildDate>Sun, 01 May 2016 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Lukas Ladenberger</title><link>/author/lukas-ladenberger/</link></image><item><title>Validating the Requirements and Design of a Hemodialysis Machine Using iUML-B, BMotion Studio, and Co-Simulation</title><link>/publication/hoangslb16/</link><pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate><guid>/publication/hoangslb16/</guid><description>&lt;h2 id="abstract"&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;We present a formal specification of a hemodialysis machine (HD machine) using Event-B. We model the HD machine using iUML-B state-machines and class diagrams and build a corresponding BMotion Studio visualisation. We focus on validation using (i) diagrams to aid the modelling of the sequential properties of the requirements, and (ii) ProB-based animation and visualisation tools to explore the system’s behaviour. Some of the safety properties involve dynamic behaviour which is difficult to verify in Event-B. For these properties we use co-simulation tools to validate against a continuous model of the physical behaviour.&lt;/p&gt;
+&lt;h2 id="document"&gt;Document&lt;/h2&gt;
+&lt;div id="pdfobject-viewer"&gt;&lt;/div&gt;
+&lt;script src="/js/pdfobject.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
 var url = "https:\/\/eprints.soton.ac.uk\/394742\/1\/HDMachine-final.pdf";
 PDFObject.embed( url, "#pdfobject-viewer" );
-&lt;/script>
-&lt;style>
+&lt;/script&gt;
+&lt;style&gt;
 .pdfobject-container
 {
 height: 30rem;
 }
-&lt;/style>
-&lt;h2 id="reference">Reference&lt;/h2>
-&lt;pre>&lt;code>% BibTex
+&lt;/style&gt;
+&lt;h2 id="reference"&gt;Reference&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;% BibTex
 @InProceedings{10.1007/978-3-319-33600-8_31,
 author=&amp;quot;Hoang, Thai Son
 and Snook, Colin
@@ -32,36 +32,36 @@ address=&amp;quot;Cham&amp;quot;,
 pages=&amp;quot;360--375&amp;quot;,
 isbn=&amp;quot;978-3-319-33600-8&amp;quot;
 }
-&lt;/code>&lt;/pre>
-&lt;h2 id="sources">Sources&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;p>&lt;strong>Used formal method:&lt;/strong>
-&lt;a href="/method/event-b">Event-B&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>Resources and tools:&lt;/strong>
-ProB&lt;/p>
-&lt;p>For more information, please contact the &lt;a href ="mailto:t.s.hoang@ecs.soton.ac.uk;cfs@ecs.soton.ac.uk">authors&lt;/a>&lt;/p>
-&lt;/li>
-&lt;/ul></description></item><item><title>Validation of the ABZ landing gear system using ProB</title><link>/publication/ladenberger2015sttt/</link><pubDate>Sat, 15 Aug 2015 00:00:00 +0000</pubDate><guid>/publication/ladenberger2015sttt/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
-&lt;p>In this article, we present our formalization of the ABZ landing gear case study in Event-B. The development was carried out using the Rodin platform and mainly used superposition refinement to structure the specification. To validate the model, we complemented proof with animation and model checking. For the latter, we used the ProB animator and model checker. Graphical representation of the model turned out to be crucial in the development and validation of the model; this was achieved using the visualization features provided by ProB and BMotion Studio. In addition, we discuss the positive and negative aspects of the Event-B language and tools which we encountered while working on the ABZ case study.&lt;/p>
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id="sources"&gt;Sources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Used formal method:&lt;/strong&gt;
+&lt;a href="/method/event-b"&gt;Event-B&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Resources and tools:&lt;/strong&gt;
+ProB&lt;/p&gt;
+&lt;p&gt;For more information, please contact the &lt;a href ="mailto:t.s.hoang@ecs.soton.ac.uk;cfs@ecs.soton.ac.uk"&gt;authors&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Validation of the ABZ landing gear system using ProB</title><link>/publication/ladenberger2015sttt/</link><pubDate>Sat, 15 Aug 2015 00:00:00 +0000</pubDate><guid>/publication/ladenberger2015sttt/</guid><description>&lt;h2 id="abstract"&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;In this article, we present our formalization of the ABZ landing gear case study in Event-B. The development was carried out using the Rodin platform and mainly used superposition refinement to structure the specification. To validate the model, we complemented proof with animation and model checking. For the latter, we used the ProB animator and model checker. Graphical representation of the model turned out to be crucial in the development and validation of the model; this was achieved using the visualization features provided by ProB and BMotion Studio. In addition, we discuss the positive and negative aspects of the Event-B language and tools which we encountered while working on the ABZ case study.&lt;/p&gt;
 &lt;!-- ## Document
-&lt;div id="pdfobject-viewer">&lt;/div>
-&lt;script src="/js/pdfobject.min.js">&lt;/script>
-&lt;script>
+&lt;div id="pdfobject-viewer"&gt;&lt;/div&gt;
+&lt;script src="/js/pdfobject.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
 var url = "\/ladenberger2015sttt.pdf";
 PDFObject.embed( url, "#pdfobject-viewer" );
-&lt;/script>
-&lt;style>
+&lt;/script&gt;
+&lt;style&gt;
 .pdfobject-container
 {
 height: 30rem;
 }
-&lt;/style>
--->
-&lt;h2 id="reference">Reference&lt;/h2>
-&lt;pre>&lt;code>% BibTex
+&lt;/style&gt;
+--&gt;
+&lt;h2 id="reference"&gt;Reference&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;% BibTex
 @Article{Ladenberger2017,
 author=&amp;quot;Ladenberger, Lukas
 and Hansen, Dominik
@@ -81,30 +81,30 @@ issn=&amp;quot;1433-2787&amp;quot;,
 doi=&amp;quot;10.1007/s10009-015-0395-9&amp;quot;,
 url=&amp;quot;https://doi.org/10.1007/s10009-015-0395-9&amp;quot;
 }
-&lt;/code>&lt;/pre>
-&lt;p>Model Archive : Not available
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Model Archive : Not available
 Presentation : Not available
 Used formal method : ProB
 Resources and tools : ProB
 Required OS : Linux
 Website : Not available
-Remarks and recommendation : No&lt;/p></description></item><item><title>Validation of the ABZ Landing Gear System Using ProB</title><link>/publication/hansen2014abz/</link><pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate><guid>/publication/hansen2014abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
-&lt;p>In this paper we present our formalisation of the ABZ landing gear case study in Event-B. The development was carried out using the Rodin platform and mainly used superposition refinement to structure the specification. To validate the model we complemented proof with animation and model checking. For the latter, we used the ProB animator and model checker. Graphical representation of the model turned out to be crucial in the development and validation of the model; this was achieved using a new version of BMotion Studio integrated into ProB 2.0.&lt;/p>
-&lt;h2 id="document">Document&lt;/h2>
-&lt;div id="pdfobject-viewer">&lt;/div>
-&lt;script src="/js/pdfobject.min.js">&lt;/script>
-&lt;script>
+Remarks and recommendation : No&lt;/p&gt;</description></item><item><title>Validation of the ABZ Landing Gear System Using ProB</title><link>/publication/hansen2014abz/</link><pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate><guid>/publication/hansen2014abz/</guid><description>&lt;h2 id="abstract"&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;In this paper we present our formalisation of the ABZ landing gear case study in Event-B. The development was carried out using the Rodin platform and mainly used superposition refinement to structure the specification. To validate the model we complemented proof with animation and model checking. For the latter, we used the ProB animator and model checker. Graphical representation of the model turned out to be crucial in the development and validation of the model; this was achieved using a new version of BMotion Studio integrated into ProB 2.0.&lt;/p&gt;
+&lt;h2 id="document"&gt;Document&lt;/h2&gt;
+&lt;div id="pdfobject-viewer"&gt;&lt;/div&gt;
+&lt;script src="/js/pdfobject.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
 var url = "https:\/\/www3.hhu.de\/stups\/downloads\/pdf\/abz14casestudy.pdf";
 PDFObject.embed( url, "#pdfobject-viewer" );
-&lt;/script>
-&lt;style>
+&lt;/script&gt;
+&lt;style&gt;
 .pdfobject-container
 {
 height: 30rem;
 }
-&lt;/style>
-&lt;h2 id="reference">Reference&lt;/h2>
-&lt;pre>&lt;code>% BibTex
+&lt;/style&gt;
+&lt;h2 id="reference"&gt;Reference&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;% BibTex
 @InProceedings{10.1007/978-3-319-07512-9_5,
 author=&amp;quot;Hansen, Dominik
 and Ladenberger, Lukas
@@ -124,16 +124,16 @@ pages=&amp;quot;66--79&amp;quot;,
 abstract=&amp;quot;In this paper we present our formalisation of the ABZ landing gear case study in Event-B. The development was carried out using the Rodin platform and mainly used superposition refinement to structure the specification. To validate the model we complemented proof with animation and model checking. For the latter, we used the ProB animator and model checker. Graphical representation of the model turned out to be crucial in the development and validation of the model; this was achieved using a new version of BMotion Studio integrated into ProB 2.0.&amp;quot;,
 isbn=&amp;quot;978-3-319-07512-9&amp;quot;
 }
-&lt;/code>&lt;/pre>
-&lt;h2 id="sources">Sources&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;p>&lt;strong>Used formal method:&lt;/strong>
-&lt;a href="/method/event-b">Event-B&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>Resources and tools:&lt;/strong>
-ProB&lt;/p>
-&lt;p>For more information, please contact the &lt;a href ="mailto:leuschel@cs.uni-duesseldorf.de">authors&lt;/a>&lt;/p>
-&lt;/li>
-&lt;/ul></description></item></channel></rss>
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id="sources"&gt;Sources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Used formal method:&lt;/strong&gt;
+&lt;a href="/method/event-b"&gt;Event-B&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Resources and tools:&lt;/strong&gt;
+ProB&lt;/p&gt;
+&lt;p&gt;For more information, please contact the &lt;a href ="mailto:leuschel@cs.uni-duesseldorf.de"&gt;authors&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

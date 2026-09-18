@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wen Su | ABZ</title><link>/author/wen-su/</link><atom:link href="/author/wen-su/index.xml" rel="self" type="application/rss+xml"/><description>Wen Su</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2026 ABZ Conference</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Wen Su</title><link>/author/wen-su/</link></image><item><title>Insulin Pump: Modular Modeling of Hybrid Systems Using Event-B</title><link>/publication/suck18/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>/publication/suck18/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
-&lt;p>This case study of an insulin pump is to describe our solution of the following difficulties. Firstly, how to model features to obtain a family of products. Secondly, how to handle complex constraints and synchronization of components when composing features. Thirdly, how to construct the continuous environment for the individual features as well as for the composed system.&lt;/p>
-&lt;h2 id="document">Document&lt;/h2>
-&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-319-91271-4_31.pdf">link&lt;/a>.&lt;/p>
-&lt;div id="pdfobject-viewer">&lt;/div>
-&lt;script src="/js/pdfobject.min.js">&lt;/script>
-&lt;script>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wen Su | ABZ</title><link>/author/wen-su/</link><atom:link href="/author/wen-su/index.xml" rel="self" type="application/rss+xml"/><description>Wen Su</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2026 ABZ Conference</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Wen Su</title><link>/author/wen-su/</link></image><item><title>Insulin Pump: Modular Modeling of Hybrid Systems Using Event-B</title><link>/publication/suck18/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>/publication/suck18/</guid><description>&lt;h2 id="abstract"&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This case study of an insulin pump is to describe our solution of the following difficulties. Firstly, how to model features to obtain a family of products. Secondly, how to handle complex constraints and synchronization of components when composing features. Thirdly, how to construct the continuous environment for the individual features as well as for the composed system.&lt;/p&gt;
+&lt;h2 id="document"&gt;Document&lt;/h2&gt;
+&lt;p&gt;If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-319-91271-4_31.pdf"&gt;link&lt;/a&gt;.&lt;/p&gt;
+&lt;div id="pdfobject-viewer"&gt;&lt;/div&gt;
+&lt;script src="/js/pdfobject.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
 var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-319-91271-4_31.pdf";
 PDFObject.embed( url, "#pdfobject-viewer" );
-&lt;/script>
-&lt;style>
+&lt;/script&gt;
+&lt;style&gt;
 .pdfobject-container
 {
 height: 30rem;
 }
-&lt;/style>
-&lt;h2 id="reference">Reference&lt;/h2>
-&lt;pre>&lt;code>% BibTex
+&lt;/style&gt;
+&lt;h2 id="reference"&gt;Reference&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;% BibTex
 @inproceedings{SuCK18,
 author = {Wen Su and
 Jinxin Chen and
@@ -38,31 +38,31 @@ timestamp = {Thu, 18 Apr 2024 10:08:30 +0200},
 biburl = {https://dblp.org/rec/conf/asm/SuCK18.bib},
 bibsource = {dblp computer science bibliography, https://dblp.org}
 }
-&lt;/code>&lt;/pre>
+&lt;/code&gt;&lt;/pre&gt;
 &lt;!-- # add information for case study papers (if available)
 ## Sources
 - **Used formal method:**
 [ASM](/method/asm)
 - **Resources and tools:**
 Asmeta
-For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Aircraft Landing Gear System: Approaches with Event-B to the Modeling of an Industrial System</title><link>/publication/su2014abz/</link><pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate><guid>/publication/su2014abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
-&lt;p>This paper describes the modeling, done using the Event-B notation, of the aircraft landing gear case study that is proposed in a special track of the ABZ’2014 Conference. In the course of our development, we discovered some problems in our initial modeling approach. This has led us to propose a second approach and then a third one. Each approach is more efficient than the previous one in terms of proof obligations (roughly speaking: 2000, 1000, 500). All this will be described in this paper. We also try to go beyond this specific case study and give some thoughts about large industrial modeling.&lt;/p>
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it"&gt;authors&lt;/a&gt;--&gt;</description></item><item><title>Aircraft Landing Gear System: Approaches with Event-B to the Modeling of an Industrial System</title><link>/publication/su2014abz/</link><pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate><guid>/publication/su2014abz/</guid><description>&lt;h2 id="abstract"&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This paper describes the modeling, done using the Event-B notation, of the aircraft landing gear case study that is proposed in a special track of the ABZ’2014 Conference. In the course of our development, we discovered some problems in our initial modeling approach. This has led us to propose a second approach and then a third one. Each approach is more efficient than the previous one in terms of proof obligations (roughly speaking: 2000, 1000, 500). All this will be described in this paper. We also try to go beyond this specific case study and give some thoughts about large industrial modeling.&lt;/p&gt;
 &lt;!-- ## Document
-&lt;div id="pdfobject-viewer">&lt;/div>
-&lt;script src="/js/pdfobject.min.js">&lt;/script>
-&lt;script>
+&lt;div id="pdfobject-viewer"&gt;&lt;/div&gt;
+&lt;script src="/js/pdfobject.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
 var url = "\/su2014abz.pdf";
 PDFObject.embed( url, "#pdfobject-viewer" );
-&lt;/script>
-&lt;style>
+&lt;/script&gt;
+&lt;style&gt;
 .pdfobject-container
 {
 height: 30rem;
 }
-&lt;/style>
--->
-&lt;h2 id="reference">Reference&lt;/h2>
-&lt;pre>&lt;code>% BibTex
+&lt;/style&gt;
+--&gt;
+&lt;h2 id="reference"&gt;Reference&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;% BibTex
 @InProceedings{10.1007/978-3-319-07512-9_2,
 author=&amp;quot;Su, Wen
 and Abrial, Jean-Raymond&amp;quot;,
@@ -79,36 +79,36 @@ pages=&amp;quot;19--35&amp;quot;,
 abstract=&amp;quot;This paper describes the modeling, done using the Event-B notation, of the aircraft landing gear case study that is proposed in a special track of the ABZ'2014 Conference. In the course of our development, we discovered some problems in our initial modeling approach. This has led us to propose a second approach and then a third one. Each approach is more efficient than the previous one in terms of proof obligations (roughly speaking: 2000, 1000, 500). All this will be described in this paper. We also try to go beyond this specific case study and give some thoughts about large industrial modeling.&amp;quot;,
 isbn=&amp;quot;978-3-319-07512-9&amp;quot;
 }
-&lt;/code>&lt;/pre>
-&lt;h2 id="sources">Sources&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;p>&lt;strong>Used formal method:&lt;/strong>
-&lt;a href="/method/event-b">Event-B&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>Resources and tools:&lt;/strong>
-Rodin, ProB&lt;/p>
-&lt;p>For more information, please contact the &lt;a href ="mailto:wsu@shu.edu.cn;jrabrial@neuf.fr">authors&lt;/a>&lt;/p>
-&lt;/li>
-&lt;/ul></description></item><item><title>ASM and Controller Synthesis</title><link>/publication/banachzsw12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/banachzsw12/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
-&lt;p>While many systems are naturally viewed as the interaction between a controller subsystem and a controlled, or plant subsystem, they are often most easily understood and designed monolithically. A practical implementation needs to separate controller from plant. We study the problem of when a monolithic ASM system can be split into controller and plant subsystems along syntactic lines derived from variables’ natural affiliations. We give restrictions that enable the split to be carried out cleanly, and we give conditions that ensure that the resulting pair of controller and plant subsystems have the same behaviours as the original design. We illustrate the theory with a case study concerning eating with chopsticks. This leads to an extension of controller synthesis for continuous ASM systems, which are briefly covered. The case study is then extended into the continuous sphere.&lt;/p>
-&lt;h2 id="document">Document&lt;/h2>
-&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_4.pdf">link&lt;/a>.&lt;/p>
-&lt;div id="pdfobject-viewer">&lt;/div>
-&lt;script src="/js/pdfobject.min.js">&lt;/script>
-&lt;script>
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id="sources"&gt;Sources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Used formal method:&lt;/strong&gt;
+&lt;a href="/method/event-b"&gt;Event-B&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Resources and tools:&lt;/strong&gt;
+Rodin, ProB&lt;/p&gt;
+&lt;p&gt;For more information, please contact the &lt;a href ="mailto:wsu@shu.edu.cn;jrabrial@neuf.fr"&gt;authors&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>ASM and Controller Synthesis</title><link>/publication/banachzsw12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/banachzsw12/</guid><description>&lt;h2 id="abstract"&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;While many systems are naturally viewed as the interaction between a controller subsystem and a controlled, or plant subsystem, they are often most easily understood and designed monolithically. A practical implementation needs to separate controller from plant. We study the problem of when a monolithic ASM system can be split into controller and plant subsystems along syntactic lines derived from variables’ natural affiliations. We give restrictions that enable the split to be carried out cleanly, and we give conditions that ensure that the resulting pair of controller and plant subsystems have the same behaviours as the original design. We illustrate the theory with a case study concerning eating with chopsticks. This leads to an extension of controller synthesis for continuous ASM systems, which are briefly covered. The case study is then extended into the continuous sphere.&lt;/p&gt;
+&lt;h2 id="document"&gt;Document&lt;/h2&gt;
+&lt;p&gt;If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_4.pdf"&gt;link&lt;/a&gt;.&lt;/p&gt;
+&lt;div id="pdfobject-viewer"&gt;&lt;/div&gt;
+&lt;script src="/js/pdfobject.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
 var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-30885-7_4.pdf";
 PDFObject.embed( url, "#pdfobject-viewer" );
-&lt;/script>
-&lt;style>
+&lt;/script&gt;
+&lt;style&gt;
 .pdfobject-container
 {
 height: 30rem;
 }
-&lt;/style>
-&lt;h2 id="reference">Reference&lt;/h2>
-&lt;pre>&lt;code>% BibTex
+&lt;/style&gt;
+&lt;h2 id="reference"&gt;Reference&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;% BibTex
 @inproceedings{BanachZSW12,
 author = {Richard Banach and
 Huibiao Zhu and
@@ -135,31 +135,31 @@ timestamp = {Mon, 03 Mar 2025 20:58:01 +0100},
 biburl = {https://dblp.org/rec/conf/asm/BanachZSW12.bib},
 bibsource = {dblp computer science bibliography, https://dblp.org}
 }
-&lt;/code>&lt;/pre>
+&lt;/code&gt;&lt;/pre&gt;
 &lt;!-- # add information for case study papers (if available)
 ## Sources
 - **Used formal method:**
 [ASM](/method/asm)
 - **Resources and tools:**
 Asmeta
-For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Continuous ASM, and a Pacemaker Sensing Fragment</title><link>/publication/banachzsw12a/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/banachzsw12a/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
-&lt;p>The ASM framework is extended to include continuously varying quantities as well as conventional discretely changing ones. This opens the door to the more faithful modeling of many scenarios where digital systems have to interact with the continuously varying physical world. Transitions in the extended framework are thus either moded (for discontinuous changing quantities), or pliant (for smoothly changing quantities). Refinement and retrenchment are defined in the extended context. The framework is used to develop a fragment of a simple system for the sensing problem for cardiac pacemakers, in the context of the pacemaker verification challenge.&lt;/p>
-&lt;h2 id="document">Document&lt;/h2>
-&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_5.pdf">link&lt;/a>.&lt;/p>
-&lt;div id="pdfobject-viewer">&lt;/div>
-&lt;script src="/js/pdfobject.min.js">&lt;/script>
-&lt;script>
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it"&gt;authors&lt;/a&gt;--&gt;</description></item><item><title>Continuous ASM, and a Pacemaker Sensing Fragment</title><link>/publication/banachzsw12a/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/banachzsw12a/</guid><description>&lt;h2 id="abstract"&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The ASM framework is extended to include continuously varying quantities as well as conventional discretely changing ones. This opens the door to the more faithful modeling of many scenarios where digital systems have to interact with the continuously varying physical world. Transitions in the extended framework are thus either moded (for discontinuous changing quantities), or pliant (for smoothly changing quantities). Refinement and retrenchment are defined in the extended context. The framework is used to develop a fragment of a simple system for the sensing problem for cardiac pacemakers, in the context of the pacemaker verification challenge.&lt;/p&gt;
+&lt;h2 id="document"&gt;Document&lt;/h2&gt;
+&lt;p&gt;If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_5.pdf"&gt;link&lt;/a&gt;.&lt;/p&gt;
+&lt;div id="pdfobject-viewer"&gt;&lt;/div&gt;
+&lt;script src="/js/pdfobject.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
 var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-30885-7_5.pdf";
 PDFObject.embed( url, "#pdfobject-viewer" );
-&lt;/script>
-&lt;style>
+&lt;/script&gt;
+&lt;style&gt;
 .pdfobject-container
 {
 height: 30rem;
 }
-&lt;/style>
-&lt;h2 id="reference">Reference&lt;/h2>
-&lt;pre>&lt;code>% BibTex
+&lt;/style&gt;
+&lt;h2 id="reference"&gt;Reference&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;% BibTex
 @inproceedings{BanachZSW12a,
 author = {Richard Banach and
 Huibiao Zhu and
@@ -186,31 +186,31 @@ timestamp = {Mon, 03 Mar 2025 20:58:01 +0100},
 biburl = {https://dblp.org/rec/conf/asm/BanachZSW12a.bib},
 bibsource = {dblp computer science bibliography, https://dblp.org}
 }
-&lt;/code>&lt;/pre>
+&lt;/code&gt;&lt;/pre&gt;
 &lt;!-- # add information for case study papers (if available)
 ## Sources
 - **Used formal method:**
 [ASM](/method/asm)
 - **Resources and tools:**
 Asmeta
-For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Continuous Behaviour in Event-B: A Sketch</title><link>/publication/banachzsw12b/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/banachzsw12b/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
-&lt;p>Including provision for continuously varying behaviour as well as discrete state change is considered for Event-B. An extension of Event-B is sketched that accommodates continuous events (called pliant events) in between familiar discrete events (called mode events).&lt;/p>
-&lt;h2 id="document">Document&lt;/h2>
-&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_29.pdf">link&lt;/a>.&lt;/p>
-&lt;div id="pdfobject-viewer">&lt;/div>
-&lt;script src="/js/pdfobject.min.js">&lt;/script>
-&lt;script>
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it"&gt;authors&lt;/a&gt;--&gt;</description></item><item><title>Continuous Behaviour in Event-B: A Sketch</title><link>/publication/banachzsw12b/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/banachzsw12b/</guid><description>&lt;h2 id="abstract"&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Including provision for continuously varying behaviour as well as discrete state change is considered for Event-B. An extension of Event-B is sketched that accommodates continuous events (called pliant events) in between familiar discrete events (called mode events).&lt;/p&gt;
+&lt;h2 id="document"&gt;Document&lt;/h2&gt;
+&lt;p&gt;If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_29.pdf"&gt;link&lt;/a&gt;.&lt;/p&gt;
+&lt;div id="pdfobject-viewer"&gt;&lt;/div&gt;
+&lt;script src="/js/pdfobject.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
 var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-30885-7_29.pdf";
 PDFObject.embed( url, "#pdfobject-viewer" );
-&lt;/script>
-&lt;style>
+&lt;/script&gt;
+&lt;style&gt;
 .pdfobject-container
 {
 height: 30rem;
 }
-&lt;/style>
-&lt;h2 id="reference">Reference&lt;/h2>
-&lt;pre>&lt;code>% BibTex
+&lt;/style&gt;
+&lt;h2 id="reference"&gt;Reference&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;% BibTex
 @inproceedings{BanachZSW12b,
 author = {Richard Banach and
 Huibiao Zhu and
@@ -237,31 +237,31 @@ timestamp = {Mon, 03 Mar 2025 20:58:01 +0100},
 biburl = {https://dblp.org/rec/conf/asm/BanachZSW12b.bib},
 bibsource = {dblp computer science bibliography, https://dblp.org}
 }
-&lt;/code>&lt;/pre>
+&lt;/code&gt;&lt;/pre&gt;
 &lt;!-- # add information for case study papers (if available)
 ## Sources
 - **Used formal method:**
 [ASM](/method/asm)
 - **Resources and tools:**
 Asmeta
-For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Formalizing Hybrid Systems with Event-B</title><link>/publication/abrialsz12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/abrialsz12/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
-&lt;p>This paper contains the development of hybrid systems in Event-B and the Rodin Platform. It follows the seminal approach introduced at the turn of the century in Action Systems. Many examples illustrate our approach.&lt;/p>
-&lt;h2 id="document">Document&lt;/h2>
-&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_13.pdf">link&lt;/a>.&lt;/p>
-&lt;div id="pdfobject-viewer">&lt;/div>
-&lt;script src="/js/pdfobject.min.js">&lt;/script>
-&lt;script>
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it"&gt;authors&lt;/a&gt;--&gt;</description></item><item><title>Formalizing Hybrid Systems with Event-B</title><link>/publication/abrialsz12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>/publication/abrialsz12/</guid><description>&lt;h2 id="abstract"&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This paper contains the development of hybrid systems in Event-B and the Rodin Platform. It follows the seminal approach introduced at the turn of the century in Action Systems. Many examples illustrate our approach.&lt;/p&gt;
+&lt;h2 id="document"&gt;Document&lt;/h2&gt;
+&lt;p&gt;If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-30885-7_13.pdf"&gt;link&lt;/a&gt;.&lt;/p&gt;
+&lt;div id="pdfobject-viewer"&gt;&lt;/div&gt;
+&lt;script src="/js/pdfobject.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
 var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-642-30885-7_13.pdf";
 PDFObject.embed( url, "#pdfobject-viewer" );
-&lt;/script>
-&lt;style>
+&lt;/script&gt;
+&lt;style&gt;
 .pdfobject-container
 {
 height: 30rem;
 }
-&lt;/style>
-&lt;h2 id="reference">Reference&lt;/h2>
-&lt;pre>&lt;code>% BibTex
+&lt;/style&gt;
+&lt;h2 id="reference"&gt;Reference&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;% BibTex
 @inproceedings{AbrialSZ12,
 author = {Jean{-}Raymond Abrial and
 Wen Su and
@@ -287,11 +287,11 @@ timestamp = {Sun, 02 Jun 2019 21:23:59 +0200},
 biburl = {https://dblp.org/rec/conf/asm/AbrialSZ12.bib},
 bibsource = {dblp computer science bibliography, https://dblp.org}
 }
-&lt;/code>&lt;/pre>
+&lt;/code&gt;&lt;/pre&gt;
 &lt;!-- # add information for case study papers (if available)
 ## Sources
 - **Used formal method:**
 [ASM](/method/asm)
 - **Resources and tools:**
 Asmeta
-For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item></channel></rss>
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it"&gt;authors&lt;/a&gt;--&gt;</description></item></channel></rss>

@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jean-Paul Bodeveix | ABZ</title><link>/author/jean-paul-bodeveix/</link><atom:link href="/author/jean-paul-bodeveix/index.xml" rel="self" type="application/rss+xml"/><description>Jean-Paul Bodeveix</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2026 ABZ Conference</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Jean-Paul Bodeveix</title><link>/author/jean-paul-bodeveix/</link></image><item><title>Verifying HyperLTL Properties in Event-B</title><link>/publication/bodeveixcffh24/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>/publication/bodeveixcffh24/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
-&lt;p>The study presented in this paper is motivated by the verification of properties related to hardware architectures, namely timing anomalies that qualify a counter-intuitive timing behaviour. They are avoided by a monotonicity property which is an Hyper-LTL property. We present how to prove some classes of Hyper-LTL properties with Event-B.&lt;/p>
-&lt;h2 id="document">Document&lt;/h2>
-&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-63790-2_20.pdf">link&lt;/a>.&lt;/p>
-&lt;div id="pdfobject-viewer">&lt;/div>
-&lt;script src="/js/pdfobject.min.js">&lt;/script>
-&lt;script>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jean-Paul Bodeveix | ABZ</title><link>/author/jean-paul-bodeveix/</link><atom:link href="/author/jean-paul-bodeveix/index.xml" rel="self" type="application/rss+xml"/><description>Jean-Paul Bodeveix</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2026 ABZ Conference</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Jean-Paul Bodeveix</title><link>/author/jean-paul-bodeveix/</link></image><item><title>Verifying HyperLTL Properties in Event-B</title><link>/publication/bodeveixcffh24/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>/publication/bodeveixcffh24/</guid><description>&lt;h2 id="abstract"&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The study presented in this paper is motivated by the verification of properties related to hardware architectures, namely timing anomalies that qualify a counter-intuitive timing behaviour. They are avoided by a monotonicity property which is an Hyper-LTL property. We present how to prove some classes of Hyper-LTL properties with Event-B.&lt;/p&gt;
+&lt;h2 id="document"&gt;Document&lt;/h2&gt;
+&lt;p&gt;If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-63790-2_20.pdf"&gt;link&lt;/a&gt;.&lt;/p&gt;
+&lt;div id="pdfobject-viewer"&gt;&lt;/div&gt;
+&lt;script src="/js/pdfobject.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
 var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-63790-2_20.pdf";
 PDFObject.embed( url, "#pdfobject-viewer" );
-&lt;/script>
-&lt;style>
+&lt;/script&gt;
+&lt;style&gt;
 .pdfobject-container
 {
 height: 30rem;
 }
-&lt;/style>
-&lt;h2 id="reference">Reference&lt;/h2>
-&lt;pre>&lt;code>% BibTex
+&lt;/style&gt;
+&lt;h2 id="reference"&gt;Reference&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;% BibTex
 @inproceedings{BodeveixCFFH24,
 author = {Jean{-}Paul Bodeveix and
 Thomas Carle and
@@ -41,31 +41,31 @@ timestamp = {Thu, 04 Jul 2024 22:05:23 +0200},
 biburl = {https://dblp.org/rec/conf/zum/BodeveixCFFH24.bib},
 bibsource = {dblp computer science bibliography, https://dblp.org}
 }
-&lt;/code>&lt;/pre>
+&lt;/code&gt;&lt;/pre&gt;
 &lt;!-- # add information for case study papers (if available)
 ## Sources
 - **Used formal method:**
 [ASM](/method/asm)
 - **Resources and tools:**
 Asmeta
-For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Pattern-Based Refinement Generation Through Domain Specific Languages</title><link>/publication/faresbf23/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>/publication/faresbf23/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
-&lt;p>The Event-B method is generally used to build models incrementally by integrating high level requirements. However, developing correct systems is not a cakewalk and remains a challenging task. In this paper, we focus on the preliminary steps of the development of safety-critical systems. We investigate how patterns could be used to generate refinements automatically in the context of an Event-B development. Our main concerns are first to simplify the development of such systems by the use of patterns, and second to produce Event-B machines such that the user can choose to refine them additionally.&lt;/p>
-&lt;h2 id="document">Document&lt;/h2>
-&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-33163-3_3.pdf">link&lt;/a>.&lt;/p>
-&lt;div id="pdfobject-viewer">&lt;/div>
-&lt;script src="/js/pdfobject.min.js">&lt;/script>
-&lt;script>
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it"&gt;authors&lt;/a&gt;--&gt;</description></item><item><title>Pattern-Based Refinement Generation Through Domain Specific Languages</title><link>/publication/faresbf23/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>/publication/faresbf23/</guid><description>&lt;h2 id="abstract"&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The Event-B method is generally used to build models incrementally by integrating high level requirements. However, developing correct systems is not a cakewalk and remains a challenging task. In this paper, we focus on the preliminary steps of the development of safety-critical systems. We investigate how patterns could be used to generate refinements automatically in the context of an Event-B development. Our main concerns are first to simplify the development of such systems by the use of patterns, and second to produce Event-B machines such that the user can choose to refine them additionally.&lt;/p&gt;
+&lt;h2 id="document"&gt;Document&lt;/h2&gt;
+&lt;p&gt;If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-33163-3_3.pdf"&gt;link&lt;/a&gt;.&lt;/p&gt;
+&lt;div id="pdfobject-viewer"&gt;&lt;/div&gt;
+&lt;script src="/js/pdfobject.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
 var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-33163-3_3.pdf";
 PDFObject.embed( url, "#pdfobject-viewer" );
-&lt;/script>
-&lt;style>
+&lt;/script&gt;
+&lt;style&gt;
 .pdfobject-container
 {
 height: 30rem;
 }
-&lt;/style>
-&lt;h2 id="reference">Reference&lt;/h2>
-&lt;pre>&lt;code>% BibTex
+&lt;/style&gt;
+&lt;h2 id="reference"&gt;Reference&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;% BibTex
 @inproceedings{FaresBF23,
 author = {Elie Fares and
 Jean{-}Paul Bodeveix and
@@ -88,31 +88,31 @@ timestamp = {Fri, 02 Jun 2023 21:23:53 +0200},
 biburl = {https://dblp.org/rec/conf/zum/FaresBF23.bib},
 bibsource = {dblp computer science bibliography, https://dblp.org}
 }
-&lt;/code>&lt;/pre>
+&lt;/code&gt;&lt;/pre&gt;
 &lt;!-- # add information for case study papers (if available)
 ## Sources
 - **Used formal method:**
 [ASM](/method/asm)
 - **Resources and tools:**
 Asmeta
-For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Event-B Formalization of Event-B Contexts</title><link>/publication/bodeveixf21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>/publication/bodeveixf21/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
-&lt;p>This paper presents an Event-B meta-modelisation of an Event-B project restricted to its context hierarchy which introduces the functional part of a development through sets, constants, axioms and theorems. We study the proposal of a new mechanism for Event-B. It consists in allowing to instantiate in a new context an already proved theorem in a given context. We investigate the validation of the instantiation mechanism in order to prove the validity of imported theorems. We also compare the proposal with similar mechanisms available within some existing theorem provers.&lt;/p>
-&lt;h2 id="document">Document&lt;/h2>
-&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-77543-8_5.pdf">link&lt;/a>.&lt;/p>
-&lt;div id="pdfobject-viewer">&lt;/div>
-&lt;script src="/js/pdfobject.min.js">&lt;/script>
-&lt;script>
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it"&gt;authors&lt;/a&gt;--&gt;</description></item><item><title>Event-B Formalization of Event-B Contexts</title><link>/publication/bodeveixf21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>/publication/bodeveixf21/</guid><description>&lt;h2 id="abstract"&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This paper presents an Event-B meta-modelisation of an Event-B project restricted to its context hierarchy which introduces the functional part of a development through sets, constants, axioms and theorems. We study the proposal of a new mechanism for Event-B. It consists in allowing to instantiate in a new context an already proved theorem in a given context. We investigate the validation of the instantiation mechanism in order to prove the validity of imported theorems. We also compare the proposal with similar mechanisms available within some existing theorem provers.&lt;/p&gt;
+&lt;h2 id="document"&gt;Document&lt;/h2&gt;
+&lt;p&gt;If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-77543-8_5.pdf"&gt;link&lt;/a&gt;.&lt;/p&gt;
+&lt;div id="pdfobject-viewer"&gt;&lt;/div&gt;
+&lt;script src="/js/pdfobject.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
 var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-77543-8_5.pdf";
 PDFObject.embed( url, "#pdfobject-viewer" );
-&lt;/script>
-&lt;style>
+&lt;/script&gt;
+&lt;style&gt;
 .pdfobject-container
 {
 height: 30rem;
 }
-&lt;/style>
-&lt;h2 id="reference">Reference&lt;/h2>
-&lt;pre>&lt;code>% BibTex
+&lt;/style&gt;
+&lt;h2 id="reference"&gt;Reference&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;% BibTex
 @inproceedings{BodeveixF21,
 author = {Jean{-}Paul Bodeveix and
 Mamoun Filali},
@@ -132,11 +132,11 @@ timestamp = {Tue, 15 Jun 2021 17:24:03 +0200},
 biburl = {https://dblp.org/rec/conf/asm/BodeveixF21.bib},
 bibsource = {dblp computer science bibliography, https://dblp.org}
 }
-&lt;/code>&lt;/pre>
+&lt;/code&gt;&lt;/pre&gt;
 &lt;!-- # add information for case study papers (if available)
 ## Sources
 - **Used formal method:**
 [ASM](/method/asm)
 - **Resources and tools:**
 Asmeta
-For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item></channel></rss>
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it"&gt;authors&lt;/a&gt;--&gt;</description></item></channel></rss>

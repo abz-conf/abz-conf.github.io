@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jure Kukovec | ABZ</title><link>/author/jure-kukovec/</link><atom:link href="/author/jure-kukovec/index.xml" rel="self" type="application/rss+xml"/><description>Jure Kukovec</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2026 ABZ Conference</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Jure Kukovec</title><link>/author/jure-kukovec/</link></image><item><title>Extracting Symbolic Transitions from TLA+ Specifications</title><link>/publication/kukovectk18/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>/publication/kukovectk18/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
-&lt;p>In (\textsc {TLA}^{+}), a system specification is written as a logical formula that restricts the system behavior. As a logic, (\textsc {TLA}^{+}) does not have assignments and other imperative statements that are used by model checkers to compute the successor states of a system state. Model checkers compute successors either explicitly — by evaluating program statements — or symbolically — by translating program statements to an SMT formula and checking its satisfiability. To efficiently enumerate the successors, TLA’s model checker TLC introduces side effects. For instance, an equality (x' = e) is interpreted as an assignment of e to the yet unbound variable x. Inspired by TLC, we introduce an automatic technique for discovering expressions in (\textsc {TLA}^{+}) formulas such as (x' = e) and (x' \in {e_1, \dots , e_k}) that can be provably used as assignments. In contrast to TLC, our technique does not explicitly evaluate expressions, but it reduces the problem of finding assignments to the satisfiability of an SMT formula. Hence, we give a way to slice a (\textsc {TLA}^{+}) formula in symbolic transitions, which can be used as an input to a symbolic model checker. Our prototype implementation successfully extracts symbolic transitions from a few (\textsc {TLA}^{+}) benchmarks.&lt;/p>
-&lt;h2 id="document">Document&lt;/h2>
-&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-319-91271-4_7.pdf">link&lt;/a>.&lt;/p>
-&lt;div id="pdfobject-viewer">&lt;/div>
-&lt;script src="/js/pdfobject.min.js">&lt;/script>
-&lt;script>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jure Kukovec | ABZ</title><link>/author/jure-kukovec/</link><atom:link href="/author/jure-kukovec/index.xml" rel="self" type="application/rss+xml"/><description>Jure Kukovec</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2026 ABZ Conference</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Jure Kukovec</title><link>/author/jure-kukovec/</link></image><item><title>Extracting Symbolic Transitions from TLA+ Specifications</title><link>/publication/kukovectk18/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>/publication/kukovectk18/</guid><description>&lt;h2 id="abstract"&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;In (\textsc {TLA}^{+}), a system specification is written as a logical formula that restricts the system behavior. As a logic, (\textsc {TLA}^{+}) does not have assignments and other imperative statements that are used by model checkers to compute the successor states of a system state. Model checkers compute successors either explicitly — by evaluating program statements — or symbolically — by translating program statements to an SMT formula and checking its satisfiability. To efficiently enumerate the successors, TLA’s model checker TLC introduces side effects. For instance, an equality (x&amp;rsquo; = e) is interpreted as an assignment of e to the yet unbound variable x. Inspired by TLC, we introduce an automatic technique for discovering expressions in (\textsc {TLA}^{+}) formulas such as (x&amp;rsquo; = e) and (x&amp;rsquo; \in {e_1, \dots , e_k}) that can be provably used as assignments. In contrast to TLC, our technique does not explicitly evaluate expressions, but it reduces the problem of finding assignments to the satisfiability of an SMT formula. Hence, we give a way to slice a (\textsc {TLA}^{+}) formula in symbolic transitions, which can be used as an input to a symbolic model checker. Our prototype implementation successfully extracts symbolic transitions from a few (\textsc {TLA}^{+}) benchmarks.&lt;/p&gt;
+&lt;h2 id="document"&gt;Document&lt;/h2&gt;
+&lt;p&gt;If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-319-91271-4_7.pdf"&gt;link&lt;/a&gt;.&lt;/p&gt;
+&lt;div id="pdfobject-viewer"&gt;&lt;/div&gt;
+&lt;script src="/js/pdfobject.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
 var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-319-91271-4_7.pdf";
 PDFObject.embed( url, "#pdfobject-viewer" );
-&lt;/script>
-&lt;style>
+&lt;/script&gt;
+&lt;style&gt;
 .pdfobject-container
 {
 height: 30rem;
 }
-&lt;/style>
-&lt;h2 id="reference">Reference&lt;/h2>
-&lt;pre>&lt;code>% BibTex
+&lt;/style&gt;
+&lt;h2 id="reference"&gt;Reference&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;% BibTex
 @inproceedings{KukovecTK18,
 author = {Jure Kukovec and
 Thanh{-}Hai Tran and
@@ -38,11 +38,11 @@ timestamp = {Thu, 18 Nov 2021 13:33:08 +0100},
 biburl = {https://dblp.org/rec/conf/asm/KukovecTK18.bib},
 bibsource = {dblp computer science bibliography, https://dblp.org}
 }
-&lt;/code>&lt;/pre>
+&lt;/code&gt;&lt;/pre&gt;
 &lt;!-- # add information for case study papers (if available)
 ## Sources
 - **Used formal method:**
 [ASM](/method/asm)
 - **Resources and tools:**
 Asmeta
-For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item></channel></rss>
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it"&gt;authors&lt;/a&gt;--&gt;</description></item></channel></rss>

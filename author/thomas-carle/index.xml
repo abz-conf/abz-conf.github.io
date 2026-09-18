@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Thomas Carle | ABZ</title><link>/author/thomas-carle/</link><atom:link href="/author/thomas-carle/index.xml" rel="self" type="application/rss+xml"/><description>Thomas Carle</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2026 ABZ Conference</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Thomas Carle</title><link>/author/thomas-carle/</link></image><item><title>Verifying HyperLTL Properties in Event-B</title><link>/publication/bodeveixcffh24/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>/publication/bodeveixcffh24/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
-&lt;p>The study presented in this paper is motivated by the verification of properties related to hardware architectures, namely timing anomalies that qualify a counter-intuitive timing behaviour. They are avoided by a monotonicity property which is an Hyper-LTL property. We present how to prove some classes of Hyper-LTL properties with Event-B.&lt;/p>
-&lt;h2 id="document">Document&lt;/h2>
-&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-63790-2_20.pdf">link&lt;/a>.&lt;/p>
-&lt;div id="pdfobject-viewer">&lt;/div>
-&lt;script src="/js/pdfobject.min.js">&lt;/script>
-&lt;script>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Thomas Carle | ABZ</title><link>/author/thomas-carle/</link><atom:link href="/author/thomas-carle/index.xml" rel="self" type="application/rss+xml"/><description>Thomas Carle</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2026 ABZ Conference</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Thomas Carle</title><link>/author/thomas-carle/</link></image><item><title>Verifying HyperLTL Properties in Event-B</title><link>/publication/bodeveixcffh24/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>/publication/bodeveixcffh24/</guid><description>&lt;h2 id="abstract"&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The study presented in this paper is motivated by the verification of properties related to hardware architectures, namely timing anomalies that qualify a counter-intuitive timing behaviour. They are avoided by a monotonicity property which is an Hyper-LTL property. We present how to prove some classes of Hyper-LTL properties with Event-B.&lt;/p&gt;
+&lt;h2 id="document"&gt;Document&lt;/h2&gt;
+&lt;p&gt;If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-031-63790-2_20.pdf"&gt;link&lt;/a&gt;.&lt;/p&gt;
+&lt;div id="pdfobject-viewer"&gt;&lt;/div&gt;
+&lt;script src="/js/pdfobject.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
 var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-031-63790-2_20.pdf";
 PDFObject.embed( url, "#pdfobject-viewer" );
-&lt;/script>
-&lt;style>
+&lt;/script&gt;
+&lt;style&gt;
 .pdfobject-container
 {
 height: 30rem;
 }
-&lt;/style>
-&lt;h2 id="reference">Reference&lt;/h2>
-&lt;pre>&lt;code>% BibTex
+&lt;/style&gt;
+&lt;h2 id="reference"&gt;Reference&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;% BibTex
 @inproceedings{BodeveixCFFH24,
 author = {Jean{-}Paul Bodeveix and
 Thomas Carle and
@@ -41,11 +41,11 @@ timestamp = {Thu, 04 Jul 2024 22:05:23 +0200},
 biburl = {https://dblp.org/rec/conf/zum/BodeveixCFFH24.bib},
 bibsource = {dblp computer science bibliography, https://dblp.org}
 }
-&lt;/code>&lt;/pre>
+&lt;/code&gt;&lt;/pre&gt;
 &lt;!-- # add information for case study papers (if available)
 ## Sources
 - **Used formal method:**
 [ASM](/method/asm)
 - **Resources and tools:**
 Asmeta
-For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item></channel></rss>
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it"&gt;authors&lt;/a&gt;--&gt;</description></item></channel></rss>

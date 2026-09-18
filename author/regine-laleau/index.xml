@@ -1,54 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Régine Laleau | ABZ</title><link>/author/regine-laleau/</link><atom:link href="/author/regine-laleau/index.xml" rel="self" type="application/rss+xml"/><description>Régine Laleau</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2026 ABZ Conference</copyright><lastBuildDate>Wed, 03 Jun 2020 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Régine Laleau</title><link>/author/regine-laleau/</link></image><item><title>An Event-B Model of an Automotive Adaptive Exterior Light System</title><link>/publication/mammarfl20/</link><pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate><guid>/publication/mammarfl20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
-&lt;p>This paper introduces an Event-B formal model of the adaptive exterior light system for cars, a case study proposed in the context of the ABZ2020 conference. The system describes the different provided lights and the conditions under which they are switched on/off in order to improve the visibility of the driver without dazzling the oncoming ones. The system can be viewed as a lights controller that reads different information form the available sensors (key state, exterior luminosity, etc.) and takes the adequate actions by acting on the actuators of the lights in order to ensure a good visibility for the driver according to the information read. Our model is built using stepwise refinement with the Event-B method. We consider all the features of the case study, all proof obligations have been discharged using the rodin provers. Our model has been validated using ProB by applying the different provided scenarios. This validation has permitted us to point out and correct some mistakes, ambiguities and oversights in the first versions of the case study.&lt;/p>
-&lt;h2 id="document">Document&lt;/h2>
-&lt;div id="pdfobject-viewer">&lt;/div>
-&lt;script src="/js/pdfobject.min.js">&lt;/script>
-&lt;script>
-var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-48077-6_28.pdf";
-PDFObject.embed( url, "#pdfobject-viewer" );
-&lt;/script>
-&lt;style>
-.pdfobject-container
-{
-height: 30rem;
-}
-&lt;/style>
-&lt;h2 id="reference">Reference&lt;/h2>
-&lt;pre>&lt;code>% BibTex
-@inproceedings{mammar2020abz,
-title={{An Event-B Model of an Automotive Adaptive Exterior Light System}},
-author={Mammar, Amel and Frappier, Marc and Laleau, Regine},
-booktitle={7th International Conference on Rigorous State Based Methods (ABZ'20)},
-pages={351--366},
-year={2020},
-organization={Springer}
-}
-&lt;/code>&lt;/pre>
-&lt;h2 id="sources">Sources&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;p>&lt;strong>Used formal method:&lt;/strong>
-&lt;a href="/method/event-b">Event-B&lt;/a>&lt;/p>
-&lt;p>For more information, please contact the &lt;a href ="mailto:amel.mammar@telecom-sudparis.eu;marc.frappier@usherbrooke.ca;laleau@u-pec.fr">authors&lt;/a>&lt;/p>
-&lt;/li>
-&lt;/ul></description></item><item><title>Modelling Hybrid Programs with Event-B</title><link>/publication/afendilm20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>/publication/afendilm20/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
-&lt;p>Hybrid systems are one of the most common mathematical models for Cyber-Physical Systems (CPSs). They combine discrete dynamics represented by state machines or finite automata with continuous behaviors represented by differential equations. The measurement of continuous behaviors is performed by sensors. When these sensors have a continuous access to these measurements, we call such model an Event-Triggered model. The properties of this model are easier to prove, while its implementation is difficult in practice. Therefore, it is preferable to introduce a more realistic model, called Time-Triggered model, where the sensors take periodic measurements. Contrary to Event-Triggered models, Time-Triggered models are much easier to implement, but much more difficult to verify. Based on the differential refinement logic (dR(\mathcal {L})), a dynamic logic for refinement relations on hybrid systems, it is possible to prove that a Time-Triggered model refines an Event-Triggered model. The major limitation of such logic is that it is not supported by any prover. In this paper, we propose a correct-by-construction approach that implements the reasoning on hybrid programs particularly the reasoning of dR(\mathcal {L}) in Event-B to take advantage of its associated tools.&lt;/p>
-&lt;h2 id="document">Document&lt;/h2>
-&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-48077-6_10.pdf">link&lt;/a>.&lt;/p>
-&lt;div id="pdfobject-viewer">&lt;/div>
-&lt;script src="/js/pdfobject.min.js">&lt;/script>
-&lt;script>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Régine Laleau | ABZ</title><link>/author/regine-laleau/</link><atom:link href="/author/regine-laleau/index.xml" rel="self" type="application/rss+xml"/><description>Régine Laleau</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2026 ABZ Conference</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>Régine Laleau</title><link>/author/regine-laleau/</link></image><item><title>Modelling Hybrid Programs with Event-B</title><link>/publication/afendilm20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>/publication/afendilm20/</guid><description>&lt;h2 id="abstract"&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Hybrid systems are one of the most common mathematical models for Cyber-Physical Systems (CPSs). They combine discrete dynamics represented by state machines or finite automata with continuous behaviors represented by differential equations. The measurement of continuous behaviors is performed by sensors. When these sensors have a continuous access to these measurements, we call such model an Event-Triggered model. The properties of this model are easier to prove, while its implementation is difficult in practice. Therefore, it is preferable to introduce a more realistic model, called Time-Triggered model, where the sensors take periodic measurements. Contrary to Event-Triggered models, Time-Triggered models are much easier to implement, but much more difficult to verify. Based on the differential refinement logic (dR(\mathcal {L})), a dynamic logic for refinement relations on hybrid systems, it is possible to prove that a Time-Triggered model refines an Event-Triggered model. The major limitation of such logic is that it is not supported by any prover. In this paper, we propose a correct-by-construction approach that implements the reasoning on hybrid programs particularly the reasoning of dR(\mathcal {L}) in Event-B to take advantage of its associated tools.&lt;/p&gt;
+&lt;h2 id="document"&gt;Document&lt;/h2&gt;
+&lt;p&gt;If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-48077-6_10.pdf"&gt;link&lt;/a&gt;.&lt;/p&gt;
+&lt;div id="pdfobject-viewer"&gt;&lt;/div&gt;
+&lt;script src="/js/pdfobject.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
 var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-030-48077-6_10.pdf";
 PDFObject.embed( url, "#pdfobject-viewer" );
-&lt;/script>
-&lt;style>
+&lt;/script&gt;
+&lt;style&gt;
 .pdfobject-container
 {
 height: 30rem;
 }
-&lt;/style>
-&lt;h2 id="reference">Reference&lt;/h2>
-&lt;pre>&lt;code>% BibTex
+&lt;/style&gt;
+&lt;h2 id="reference"&gt;Reference&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;% BibTex
 @inproceedings{AfendiLM20,
 author = {Meryem Afendi and
 R{\'{e}}gine Laleau and
@@ -70,30 +37,30 @@ timestamp = {Tue, 16 Jun 2020 17:18:07 +0200},
 biburl = {https://dblp.org/rec/conf/asm/AfendiLM20.bib},
 bibsource = {dblp computer science bibliography, https://dblp.org}
 }
-&lt;/code>&lt;/pre>
+&lt;/code&gt;&lt;/pre&gt;
 &lt;!-- # add information for case study papers (if available)
 ## Sources
 - **Used formal method:**
 [ASM](/method/asm)
 - **Resources and tools:**
 Asmeta
-For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>An Event-B Model of the Hybrid ERTMS/ETCS Level 3 Standard</title><link>/publication/mammarffl18/</link><pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate><guid>/publication/mammarffl18/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
-&lt;p>This paper presents an Event-B model of the ABZ2018 case study on the European Rail Traffic Management System (ERTMS) standard. The case study focusses on the management of fixed virtual sub-sections (VSS). We model the hybrid level 3 of the standard, which assumes that trains may be either equipped with an on-board train integrity monitoring system (TIMS) and that they report their position and integrity, ERTMS trains not fitted with TIMS that report only their front position or non-ERTMS trains that do not report any information about their position. We take into account most of the main features of the case study. Our model is decomposed into four refinements. All proof obligations have been discharged using the Rodin provers, except those related to the computation of the VSS state machine, which was found to be ambiguous (nondeterministic). Our model has been validated using ProB. The main safety property, which is that ERTMS trains do not collide, is proved.&lt;/p>
-&lt;h2 id="document">Document&lt;/h2>
-&lt;div id="pdfobject-viewer">&lt;/div>
-&lt;script src="/js/pdfobject.min.js">&lt;/script>
-&lt;script>
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it"&gt;authors&lt;/a&gt;--&gt;</description></item><item><title>An Event-B Model of the Hybrid ERTMS/ETCS Level 3 Standard</title><link>/publication/mammarffl18/</link><pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate><guid>/publication/mammarffl18/</guid><description>&lt;h2 id="abstract"&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This paper presents an Event-B model of the ABZ2018 case study on the European Rail Traffic Management System (ERTMS) standard. The case study focusses on the management of fixed virtual sub-sections (VSS). We model the hybrid level 3 of the standard, which assumes that trains may be either equipped with an on-board train integrity monitoring system (TIMS) and that they report their position and integrity, ERTMS trains not fitted with TIMS that report only their front position or non-ERTMS trains that do not report any information about their position. We take into account most of the main features of the case study. Our model is decomposed into four refinements. All proof obligations have been discharged using the Rodin provers, except those related to the computation of the VSS state machine, which was found to be ambiguous (nondeterministic). Our model has been validated using ProB. The main safety property, which is that ERTMS trains do not collide, is proved.&lt;/p&gt;
+&lt;h2 id="document"&gt;Document&lt;/h2&gt;
+&lt;div id="pdfobject-viewer"&gt;&lt;/div&gt;
+&lt;script src="/js/pdfobject.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
 var url = "https:\/\/www.irit.fr\/ABZ-CS\/html_files\/files\/2018\/PDF\/MFJFL_ABZ2018.pdf";
 PDFObject.embed( url, "#pdfobject-viewer" );
-&lt;/script>
-&lt;style>
+&lt;/script&gt;
+&lt;style&gt;
 .pdfobject-container
 {
 height: 30rem;
 }
-&lt;/style>
-&lt;h2 id="reference">Reference&lt;/h2>
-&lt;pre>&lt;code>% BibTex
+&lt;/style&gt;
+&lt;h2 id="reference"&gt;Reference&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;% BibTex
 @inproceedings{DBLP:conf/asm/MammarFFL18,
 author = {Amel Mammar and
 Marc Frappier and
@@ -106,35 +73,35 @@ pages = {353--366},
 year = {2018},
 crossref = {DBLP:conf/asm/2018}
 }
-&lt;/code>&lt;/pre>
-&lt;h2 id="sources">Sources&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Model Archive:&lt;/strong>
-&lt;a href="/data/abz18/mammar2018abz.zip">ZIP&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Used formal method:&lt;/strong>
-&lt;a href="/method/event-b">Event-B&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Resources and tools:&lt;/strong>
-Rodin, ProB&lt;/li>
-&lt;li>&lt;strong>Website:&lt;/strong>
-&lt;a href="http://info.usherbrooke.ca/mfrappier/abz2018-ERTMS-Case-Study" target="_blank" rel="noopener">http://info.usherbrooke.ca/mfrappier/abz2018-ERTMS-Case-Study&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>For more information, please contact the &lt;a href ="mailto:amel.mammar@telecom-sudparis.eu;laleau@u-pec.fr">authors&lt;/a>&lt;/p></description></item><item><title>Modeling the Hybrid ERTMS/ETCS Level 3 Standard Using a Formal Requirements Engineering Approach</title><link>/publication/fotsoflm18/</link><pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate><guid>/publication/fotsoflm18/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
-&lt;p>This paper presents a specification of the hybrid ERTMS/ETCS level 3 standard in the framework of the case study proposed for the 6th edition of the ABZ conference. The specification is based on the method and tools, developed in the ANR FORMOSE project, for the modeling and formal verification of critical and complex system requirements. The requirements are specified with SysML/KAOS goal diagrams and are automatically translated into B System specifications, in order to obtain the architecture of the formal specification. Domain properties are specified by ontologies with the SysML/KAOS domain modeling language, based on OWL and PLIB. Their automatic translation completes the structural part of the formal specification. The only part of the specification, which must be manually completed, is the body of events. The construction is incremental, based on the refinement mechanisms existing within the involved methods. The formal specification of the case study is composed of seven refinement levels and all the proofs have been discharged with the Rodin prover.&lt;/p>
-&lt;h2 id="document">Document&lt;/h2>
-&lt;div id="pdfobject-viewer">&lt;/div>
-&lt;script src="/js/pdfobject.min.js">&lt;/script>
-&lt;script>
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id="sources"&gt;Sources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Model Archive:&lt;/strong&gt;
+&lt;a href="/data/abz18/mammar2018abz.zip"&gt;ZIP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Used formal method:&lt;/strong&gt;
+&lt;a href="/method/event-b"&gt;Event-B&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Resources and tools:&lt;/strong&gt;
+Rodin, ProB&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Website:&lt;/strong&gt;
+&lt;a href="http://info.usherbrooke.ca/mfrappier/abz2018-ERTMS-Case-Study" target="_blank" rel="noopener"&gt;http://info.usherbrooke.ca/mfrappier/abz2018-ERTMS-Case-Study&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For more information, please contact the &lt;a href ="mailto:amel.mammar@telecom-sudparis.eu;laleau@u-pec.fr"&gt;authors&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Modeling the Hybrid ERTMS/ETCS Level 3 Standard Using a Formal Requirements Engineering Approach</title><link>/publication/fotsoflm18/</link><pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate><guid>/publication/fotsoflm18/</guid><description>&lt;h2 id="abstract"&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This paper presents a specification of the hybrid ERTMS/ETCS level 3 standard in the framework of the case study proposed for the 6th edition of the ABZ conference. The specification is based on the method and tools, developed in the ANR FORMOSE project, for the modeling and formal verification of critical and complex system requirements. The requirements are specified with SysML/KAOS goal diagrams and are automatically translated into B System specifications, in order to obtain the architecture of the formal specification. Domain properties are specified by ontologies with the SysML/KAOS domain modeling language, based on OWL and PLIB. Their automatic translation completes the structural part of the formal specification. The only part of the specification, which must be manually completed, is the body of events. The construction is incremental, based on the refinement mechanisms existing within the involved methods. The formal specification of the case study is composed of seven refinement levels and all the proofs have been discharged with the Rodin prover.&lt;/p&gt;
+&lt;h2 id="document"&gt;Document&lt;/h2&gt;
+&lt;div id="pdfobject-viewer"&gt;&lt;/div&gt;
+&lt;script src="/js/pdfobject.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
 var url = "http:\/\/info.usherbrooke.ca\/mfrappier\/abz2018-ERTMS-Case-Study-Formose\/ABZ2018-_ERTMS_Case_Study.pdf";
 PDFObject.embed( url, "#pdfobject-viewer" );
-&lt;/script>
-&lt;style>
+&lt;/script&gt;
+&lt;style&gt;
 .pdfobject-container
 {
 height: 30rem;
 }
-&lt;/style>
-&lt;h2 id="reference">Reference&lt;/h2>
-&lt;pre>&lt;code>% BibTex
+&lt;/style&gt;
+&lt;h2 id="reference"&gt;Reference&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;% BibTex
 @InProceedings{10.1007/978-3-319-91271-4_18,
 author=&amp;quot;Tueno Fotso, Steve Jeffrey
 and Frappier, Marc
@@ -152,42 +119,42 @@ address=&amp;quot;Cham&amp;quot;,
 pages=&amp;quot;262--276&amp;quot;,
 isbn=&amp;quot;978-3-319-91271-4&amp;quot;
 }
-&lt;/code>&lt;/pre>
-&lt;h2 id="sources">Sources&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Model Archive:&lt;/strong>
-&lt;a href="/data/abz18/fotso2018abz.zip">ZIP&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Presentation:&lt;/strong>
-&lt;a href="/data/abz18/fotso2018abz.pdf">PDF&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Used formal method:&lt;/strong>
-&lt;a href="/method/event-b">Event-B&lt;/a>,
-&lt;a href="/method/b">B Method&lt;/a>, and SysML/KAOS Requirements Engineering Method&lt;/li>
-&lt;li>&lt;strong>Resources and tools:&lt;/strong>
-Openflexo, Rodin, The SysMLKaos Domain Modeling Tool&lt;/li>
-&lt;li>&lt;strong>Required OS:&lt;/strong>
-Linux, Mac, Windows&lt;/li>
-&lt;li>&lt;strong>Website:&lt;/strong>
-&lt;a href="https://github.com/stuenofotso/SysML_KAOS_Domain_Model_Parser/tree/master/ABZ18_ERTMS" target="_blank" rel="noopener">https://github.com/stuenofotso/SysML_KAOS_Domain_Model_Parser/tree/master/ABZ18_ERTMS&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Remarks and recommendation:&lt;/strong>
-The developed model focuses on formal verification of the main requirements of the protocol. Its main objective is to assess the SysML/KAOS method and to compare it with direct specification approaches using only plain Event-B.&lt;/li>
-&lt;/ul></description></item><item><title>Event-B Expression and Verification of Translation Rules Between SysML/KAOS Domain Models and B System Specifications</title><link>/publication/fotsomlf18/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>/publication/fotsomlf18/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
-&lt;p>This paper is about the extension of the SysML/KAOS requirements engineering method with domain models expressed as ontologies. More precisely, it concerns the translation of these ontologies into B System for system construction. The contributions of this paper are twofold. The first one is a formal semantics for the ontology modeling language. The second one is the formal definition of translation rules between ontologies and B system specifications in order to provide the structural part of the formal specification. These translation rules are modeled in Event-B. Their consistency and completeness are proved using Rodin. We show that they are structure preserving (two related elements within the source model remain related within the target model), by proving various isomorphisms between the ontology and the B System specification.&lt;/p>
-&lt;h2 id="document">Document&lt;/h2>
-&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-319-91271-4_5.pdf">link&lt;/a>.&lt;/p>
-&lt;div id="pdfobject-viewer">&lt;/div>
-&lt;script src="/js/pdfobject.min.js">&lt;/script>
-&lt;script>
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id="sources"&gt;Sources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Model Archive:&lt;/strong&gt;
+&lt;a href="/data/abz18/fotso2018abz.zip"&gt;ZIP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Presentation:&lt;/strong&gt;
+&lt;a href="/data/abz18/fotso2018abz.pdf"&gt;PDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Used formal method:&lt;/strong&gt;
+&lt;a href="/method/event-b"&gt;Event-B&lt;/a&gt;,
+&lt;a href="/method/b"&gt;B Method&lt;/a&gt;, and SysML/KAOS Requirements Engineering Method&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Resources and tools:&lt;/strong&gt;
+Openflexo, Rodin, The SysMLKaos Domain Modeling Tool&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Required OS:&lt;/strong&gt;
+Linux, Mac, Windows&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Website:&lt;/strong&gt;
+&lt;a href="https://github.com/stuenofotso/SysML_KAOS_Domain_Model_Parser/tree/master/ABZ18_ERTMS" target="_blank" rel="noopener"&gt;https://github.com/stuenofotso/SysML_KAOS_Domain_Model_Parser/tree/master/ABZ18_ERTMS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Remarks and recommendation:&lt;/strong&gt;
+The developed model focuses on formal verification of the main requirements of the protocol. Its main objective is to assess the SysML/KAOS method and to compare it with direct specification approaches using only plain Event-B.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Event-B Expression and Verification of Translation Rules Between SysML/KAOS Domain Models and B System Specifications</title><link>/publication/fotsomlf18/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>/publication/fotsomlf18/</guid><description>&lt;h2 id="abstract"&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This paper is about the extension of the SysML/KAOS requirements engineering method with domain models expressed as ontologies. More precisely, it concerns the translation of these ontologies into B System for system construction. The contributions of this paper are twofold. The first one is a formal semantics for the ontology modeling language. The second one is the formal definition of translation rules between ontologies and B system specifications in order to provide the structural part of the formal specification. These translation rules are modeled in Event-B. Their consistency and completeness are proved using Rodin. We show that they are structure preserving (two related elements within the source model remain related within the target model), by proving various isomorphisms between the ontology and the B System specification.&lt;/p&gt;
+&lt;h2 id="document"&gt;Document&lt;/h2&gt;
+&lt;p&gt;If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-319-91271-4_5.pdf"&gt;link&lt;/a&gt;.&lt;/p&gt;
+&lt;div id="pdfobject-viewer"&gt;&lt;/div&gt;
+&lt;script src="/js/pdfobject.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
 var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-319-91271-4_5.pdf";
 PDFObject.embed( url, "#pdfobject-viewer" );
-&lt;/script>
-&lt;style>
+&lt;/script&gt;
+&lt;style&gt;
 .pdfobject-container
 {
 height: 30rem;
 }
-&lt;/style>
-&lt;h2 id="reference">Reference&lt;/h2>
-&lt;pre>&lt;code>% BibTex
+&lt;/style&gt;
+&lt;h2 id="reference"&gt;Reference&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;% BibTex
 @inproceedings{FotsoMLF18,
 author = {Steve Jeffrey Tueno Fotso and
 Amel Mammar and
@@ -212,31 +179,31 @@ timestamp = {Tue, 14 May 2019 10:00:50 +0200},
 biburl = {https://dblp.org/rec/conf/asm/FotsoMLF18.bib},
 bibsource = {dblp computer science bibliography, https://dblp.org}
 }
-&lt;/code>&lt;/pre>
+&lt;/code&gt;&lt;/pre&gt;
 &lt;!-- # add information for case study papers (if available)
 ## Sources
 - **Used formal method:**
 [ASM](/method/asm)
 - **Resources and tools:**
 Asmeta
-For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>Modelling a Hemodialysis Machine Using Algebraic State-Transition Diagrams and B-like Methods</title><link>/publication/fayollefgl16/</link><pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate><guid>/publication/fayollefgl16/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
-&lt;p>This paper presents the specification of the hemodialysis case study, proposed by ABZ'16 conference. The specification was carried out by a coupling of Algebraic State-Transition Diagrams (ASTD) and B-like methods. astd are a graphical notation, based on automata and process algebra operators. They provide an easy-to-read specification of the dynamic behaviour of the system. The data model is specified using the Event-B language. The system is incrementally designed using extended refinement of both methods.&lt;/p>
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it"&gt;authors&lt;/a&gt;--&gt;</description></item><item><title>Modelling a Hemodialysis Machine Using Algebraic State-Transition Diagrams and B-like Methods</title><link>/publication/fayollefgl16/</link><pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate><guid>/publication/fayollefgl16/</guid><description>&lt;h2 id="abstract"&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This paper presents the specification of the hemodialysis case study, proposed by ABZ'16 conference. The specification was carried out by a coupling of Algebraic State-Transition Diagrams (ASTD) and B-like methods. astd are a graphical notation, based on automata and process algebra operators. They provide an easy-to-read specification of the dynamic behaviour of the system. The data model is specified using the Event-B language. The system is incrementally designed using extended refinement of both methods.&lt;/p&gt;
 &lt;!-- ## Document
-&lt;div id="pdfobject-viewer">&lt;/div>
-&lt;script src="/js/pdfobject.min.js">&lt;/script>
-&lt;script>
+&lt;div id="pdfobject-viewer"&gt;&lt;/div&gt;
+&lt;script src="/js/pdfobject.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
 var url = "\/fayolle2016abz.pdf";
 PDFObject.embed( url, "#pdfobject-viewer" );
-&lt;/script>
-&lt;style>
+&lt;/script&gt;
+&lt;style&gt;
 .pdfobject-container
 {
 height: 30rem;
 }
-&lt;/style>
--->
-&lt;h2 id="reference">Reference&lt;/h2>
-&lt;pre>&lt;code>% BibTex
+&lt;/style&gt;
+--&gt;
+&lt;h2 id="reference"&gt;Reference&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;% BibTex
 @InProceedings{10.1007/978-3-319-33600-8_33,
 author=&amp;quot;Fayolle, Thomas
 and Frappier, Marc
@@ -254,32 +221,32 @@ address=&amp;quot;Cham&amp;quot;,
 pages=&amp;quot;394--408&amp;quot;,
 isbn=&amp;quot;978-3-319-33600-8&amp;quot;
 }
-&lt;/code>&lt;/pre>
-&lt;h2 id="sources">Sources&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;p>&lt;strong>Used formal method:&lt;/strong>
-Algebraic State-Transition Diagrams (ASTD)&lt;/p>
-&lt;p>For more information, please contact the &lt;a href ="mailto:marc.frappier@usherbrooke.ca">authors&lt;/a>&lt;/p>
-&lt;/li>
-&lt;/ul></description></item><item><title>Modeling a landing gear system in Event-B</title><link>/publication/mammar2015sttt/</link><pubDate>Sat, 22 Aug 2015 00:00:00 +0000</pubDate><guid>/publication/mammar2015sttt/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
-&lt;p>This article describes the Event-B modeling of a landing gear system of an aircraft whose complete description can be found in Boniol and Wiels (The Landing Gear System Case Study, ABZ Case Study, Communications in Computer Information Science, vol 433, Springer, Berlin, 2014). This real-life case study has been proposed by the ABZ’2014 track that took place in Toulouse, the European capital of the aeronautic industry. Our modeling is based on the Parnas and Madey’s 4-Variable Model that permits to consider the different parts of a system. These parts are incrementally introduced using the Event-B refinement technique. The entire development has been carried out with the Rodin toolset. To ensure the correctness of the different components, we use several verification techniques (animation, model checking and proof) depending on the complexity and the kind of the properties to verify. Basically, prior to the proof phase that can be tedious and complex, we use the animator ANIMB and the model checker PROB that permit to discover some trivial inconsistencies. Once no error is reported, we start the proof phase by using the Atelier B and SMT provers which we installed on Rodin. We conclude the article by drawing up some key findings of and lessons learned from this experience.&lt;/p>
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id="sources"&gt;Sources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Used formal method:&lt;/strong&gt;
+Algebraic State-Transition Diagrams (ASTD)&lt;/p&gt;
+&lt;p&gt;For more information, please contact the &lt;a href ="mailto:marc.frappier@usherbrooke.ca"&gt;authors&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Modeling a landing gear system in Event-B</title><link>/publication/mammar2015sttt/</link><pubDate>Sat, 22 Aug 2015 00:00:00 +0000</pubDate><guid>/publication/mammar2015sttt/</guid><description>&lt;h2 id="abstract"&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This article describes the Event-B modeling of a landing gear system of an aircraft whose complete description can be found in Boniol and Wiels (The Landing Gear System Case Study, ABZ Case Study, Communications in Computer Information Science, vol 433, Springer, Berlin, 2014). This real-life case study has been proposed by the ABZ’2014 track that took place in Toulouse, the European capital of the aeronautic industry. Our modeling is based on the Parnas and Madey’s 4-Variable Model that permits to consider the different parts of a system. These parts are incrementally introduced using the Event-B refinement technique. The entire development has been carried out with the Rodin toolset. To ensure the correctness of the different components, we use several verification techniques (animation, model checking and proof) depending on the complexity and the kind of the properties to verify. Basically, prior to the proof phase that can be tedious and complex, we use the animator ANIMB and the model checker PROB that permit to discover some trivial inconsistencies. Once no error is reported, we start the proof phase by using the Atelier B and SMT provers which we installed on Rodin. We conclude the article by drawing up some key findings of and lessons learned from this experience.&lt;/p&gt;
 &lt;!-- ## Document
-&lt;div id="pdfobject-viewer">&lt;/div>
-&lt;script src="/js/pdfobject.min.js">&lt;/script>
-&lt;script>
+&lt;div id="pdfobject-viewer"&gt;&lt;/div&gt;
+&lt;script src="/js/pdfobject.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
 var url = "\/mammar2015sttt.pdf";
 PDFObject.embed( url, "#pdfobject-viewer" );
-&lt;/script>
-&lt;style>
+&lt;/script&gt;
+&lt;style&gt;
 .pdfobject-container
 {
 height: 30rem;
 }
-&lt;/style>
--->
-&lt;h2 id="reference">Reference&lt;/h2>
-&lt;pre>&lt;code>% BibTex
+&lt;/style&gt;
+--&gt;
+&lt;h2 id="reference"&gt;Reference&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;% BibTex
 @Article{Mammar2017,
 author=&amp;quot;Mammar, Amel
 and Laleau, R{\'e}gine&amp;quot;,
@@ -296,30 +263,30 @@ issn=&amp;quot;1433-2787&amp;quot;,
 doi=&amp;quot;10.1007/s10009-015-0391-0&amp;quot;,
 url=&amp;quot;https://doi.org/10.1007/s10009-015-0391-0&amp;quot;
 }
-&lt;/code>&lt;/pre>
-&lt;p>Model Archive : Not available
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Model Archive : Not available
 Presentation : Not available
 Used formal method : Event-B
 Resources and tools : Rodin, ProB
 Required OS : Linux, Mac, Windows
 Website : Not available
-Remarks and recommendation : No&lt;/p></description></item><item><title>Modeling a Landing Gear System in Event-B</title><link>/publication/mammar2014abz/</link><pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate><guid>/publication/mammar2014abz/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
-&lt;p>This paper describes the Event-B modeling of the landing gear system of an aircraft whose the complete description can be found in [3]. This real-life case study has been proposed by the ABZ’2014 track that takes place in Toulouse, the European capital of the aeronautic industry. Our modeling is based on the Parnas and Madey’s 4-Variable Model that permits to consider the different parts of a system. These parts are incremently introduced using the Event-B refinement technique. The entire development has been carried out under the Rodin toolset. To validate and prove the different components, we use the Atelier B, SMT and ML provers which are plugged to Rodin.&lt;/p>
-&lt;h2 id="document">Document&lt;/h2>
-&lt;div id="pdfobject-viewer">&lt;/div>
-&lt;script src="/js/pdfobject.min.js">&lt;/script>
-&lt;script>
+Remarks and recommendation : No&lt;/p&gt;</description></item><item><title>Modeling a Landing Gear System in Event-B</title><link>/publication/mammar2014abz/</link><pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate><guid>/publication/mammar2014abz/</guid><description>&lt;h2 id="abstract"&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This paper describes the Event-B modeling of the landing gear system of an aircraft whose the complete description can be found in [3]. This real-life case study has been proposed by the ABZ’2014 track that takes place in Toulouse, the European capital of the aeronautic industry. Our modeling is based on the Parnas and Madey’s 4-Variable Model that permits to consider the different parts of a system. These parts are incremently introduced using the Event-B refinement technique. The entire development has been carried out under the Rodin toolset. To validate and prove the different components, we use the Atelier B, SMT and ML provers which are plugged to Rodin.&lt;/p&gt;
+&lt;h2 id="document"&gt;Document&lt;/h2&gt;
+&lt;div id="pdfobject-viewer"&gt;&lt;/div&gt;
+&lt;script src="/js/pdfobject.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
 var url = "http:\/\/www-public.imtbs-tsp.eu\/~mammar_a\/LandGearsModeling.pdf";
 PDFObject.embed( url, "#pdfobject-viewer" );
-&lt;/script>
-&lt;style>
+&lt;/script&gt;
+&lt;style&gt;
 .pdfobject-container
 {
 height: 30rem;
 }
-&lt;/style>
-&lt;h2 id="reference">Reference&lt;/h2>
-&lt;pre>&lt;code>% BibTex
+&lt;/style&gt;
+&lt;h2 id="reference"&gt;Reference&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;% BibTex
 @InProceedings{10.1007/978-3-319-07512-9_6,
 author=&amp;quot;Mammar, Amel
 and Laleau, R{\'e}gine&amp;quot;,
@@ -336,36 +303,36 @@ pages=&amp;quot;80--94&amp;quot;,
 abstract=&amp;quot;This paper describes the Event-B modeling of the landing gear system of an aircraft whose the complete description can be found in [3]. This real-life case study has been proposed by the ABZ'2014 track that takes place in Toulouse, the European capital of the aeronautic industry. Our modeling is based on the Parnas and Madey's 4-Variable Model that permits to consider the different parts of a system. These parts are incremently introduced using the Event-B refinement technique. The entire development has been carried out under the Rodin toolset. To validate and prove the different components, we use the Atelier B, SMT and ML provers which are plugged to Rodin.&amp;quot;,
 isbn=&amp;quot;978-3-319-07512-9&amp;quot;
 }
-&lt;/code>&lt;/pre>
-&lt;h2 id="sources">Sources&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;p>&lt;strong>Used formal method:&lt;/strong>
-&lt;a href="/method/event-b">Event-B&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>Resources and tools:&lt;/strong>
-Rodin, ProB&lt;/p>
-&lt;p>For more information, please contact the &lt;a href ="mailto:amel.mammar@telecom-sudparis.eu;laleau@u-pec.fr">authors&lt;/a>&lt;/p>
-&lt;/li>
-&lt;/ul></description></item><item><title>Validating the RBAC ANSI 2012 Standard Using B</title><link>/publication/huynhfmld14/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>/publication/huynhfmld14/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
-&lt;p>We validate the RBAC ANSI 2012 standard using the B method. Numerous problems are identified: logical errors, inconsistencies, ambiguities, typing errors, missing preconditions, invariant violation, inappropriate specification notation. A clean version of the standard written in the B notation is proposed. We argue that the ad hoc mathematical notation used in the standard is inappropriate and we propose that a more methodological and tool-supported approach must definitely be used for writing standards, in order to avoid the issues identified in the paper. Human reviewing is insufficient to produce error-free international standards.&lt;/p>
-&lt;h2 id="document">Document&lt;/h2>
-&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-662-43652-3_22.pdf">link&lt;/a>.&lt;/p>
-&lt;div id="pdfobject-viewer">&lt;/div>
-&lt;script src="/js/pdfobject.min.js">&lt;/script>
-&lt;script>
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id="sources"&gt;Sources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Used formal method:&lt;/strong&gt;
+&lt;a href="/method/event-b"&gt;Event-B&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Resources and tools:&lt;/strong&gt;
+Rodin, ProB&lt;/p&gt;
+&lt;p&gt;For more information, please contact the &lt;a href ="mailto:amel.mammar@telecom-sudparis.eu;laleau@u-pec.fr"&gt;authors&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Validating the RBAC ANSI 2012 Standard Using B</title><link>/publication/huynhfmld14/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>/publication/huynhfmld14/</guid><description>&lt;h2 id="abstract"&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;We validate the RBAC ANSI 2012 standard using the B method. Numerous problems are identified: logical errors, inconsistencies, ambiguities, typing errors, missing preconditions, invariant violation, inappropriate specification notation. A clean version of the standard written in the B notation is proposed. We argue that the ad hoc mathematical notation used in the standard is inappropriate and we propose that a more methodological and tool-supported approach must definitely be used for writing standards, in order to avoid the issues identified in the paper. Human reviewing is insufficient to produce error-free international standards.&lt;/p&gt;
+&lt;h2 id="document"&gt;Document&lt;/h2&gt;
+&lt;p&gt;If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-662-43652-3_22.pdf"&gt;link&lt;/a&gt;.&lt;/p&gt;
+&lt;div id="pdfobject-viewer"&gt;&lt;/div&gt;
+&lt;script src="/js/pdfobject.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
 var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-662-43652-3_22.pdf";
 PDFObject.embed( url, "#pdfobject-viewer" );
-&lt;/script>
-&lt;style>
+&lt;/script&gt;
+&lt;style&gt;
 .pdfobject-container
 {
 height: 30rem;
 }
-&lt;/style>
-&lt;h2 id="reference">Reference&lt;/h2>
-&lt;pre>&lt;code>% BibTex
+&lt;/style&gt;
+&lt;h2 id="reference"&gt;Reference&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;% BibTex
 @inproceedings{HuynhFMLD14,
 author = {Nghi Huynh and
 Marc Frappier and
@@ -388,31 +355,31 @@ timestamp = {Tue, 14 May 2019 10:00:50 +0200},
 biburl = {https://dblp.org/rec/conf/asm/HuynhFMLD14.bib},
 bibsource = {dblp computer science bibliography, https://dblp.org}
 }
-&lt;/code>&lt;/pre>
+&lt;/code&gt;&lt;/pre&gt;
 &lt;!-- # add information for case study papers (if available)
 ## Sources
 - **Used formal method:**
 [ASM](/method/asm)
 - **Resources and tools:**
 Asmeta
-For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item><item><title>A First Attempt to Express KAOS Refinement Patterns with Event B</title><link>/publication/matoussigl08/</link><pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate><guid>/publication/matoussigl08/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
-&lt;p>It is now recognised that goals play an important role in requirements engineering process, and consequently in systems development process.Whereas specifications allow us to answer the question”WHAT the system does”, goals allow us to address the ”WHY, WHO, WHEN” questions [1]. Up to now, the development process associated with formal methods, including Event B, begins at the specification level. Our objective is to include requirements analysis within this process, and more precisely KAOS[2] which is a methodology to implement goal-based reasoning. Existing work [3,4] that combine KAOS with formal methods generate a formal specification model from a KAOS requirements model.We aim at expressing KAOS goal models with a formal language (Event B), hence staying at the same abstraction level. Our work is based on a constructive approach in which Event B models are built incrementally from KAOS goal models, driven by goal refinement patterns [1]. Since a KAOS goal means that a property must be established, the main idea is to represent each goal as a B event and the property as the post-condition of this B event. Up to now, we consider refinement patterns defined with first-order logic. Patterns with LTL temporal logic will be studied in further work.&lt;/p>
-&lt;h2 id="document">Document&lt;/h2>
-&lt;p>If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-540-87603-8_27.pdf">link&lt;/a>.&lt;/p>
-&lt;div id="pdfobject-viewer">&lt;/div>
-&lt;script src="/js/pdfobject.min.js">&lt;/script>
-&lt;script>
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it"&gt;authors&lt;/a&gt;--&gt;</description></item><item><title>A First Attempt to Express KAOS Refinement Patterns with Event B</title><link>/publication/matoussigl08/</link><pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate><guid>/publication/matoussigl08/</guid><description>&lt;h2 id="abstract"&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;It is now recognised that goals play an important role in requirements engineering process, and consequently in systems development process.Whereas specifications allow us to answer the question”WHAT the system does”, goals allow us to address the ”WHY, WHO, WHEN” questions [1]. Up to now, the development process associated with formal methods, including Event B, begins at the specification level. Our objective is to include requirements analysis within this process, and more precisely KAOS[2] which is a methodology to implement goal-based reasoning. Existing work [3,4] that combine KAOS with formal methods generate a formal specification model from a KAOS requirements model.We aim at expressing KAOS goal models with a formal language (Event B), hence staying at the same abstraction level. Our work is based on a constructive approach in which Event B models are built incrementally from KAOS goal models, driven by goal refinement patterns [1]. Since a KAOS goal means that a property must be established, the main idea is to represent each goal as a B event and the property as the post-condition of this B event. Up to now, we consider refinement patterns defined with first-order logic. Patterns with LTL temporal logic will be studied in further work.&lt;/p&gt;
+&lt;h2 id="document"&gt;Document&lt;/h2&gt;
+&lt;p&gt;If you cannot see the document below, the PDF document is most likely not freely accessible. In this case, please try to access the document via this &lt;a href="https://link.springer.com/content/pdf/10.1007%2F978-3-540-87603-8_27.pdf"&gt;link&lt;/a&gt;.&lt;/p&gt;
+&lt;div id="pdfobject-viewer"&gt;&lt;/div&gt;
+&lt;script src="/js/pdfobject.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
 var url = "https:\/\/link.springer.com\/content\/pdf\/10.1007%2F978-3-540-87603-8_27.pdf";
 PDFObject.embed( url, "#pdfobject-viewer" );
-&lt;/script>
-&lt;style>
+&lt;/script&gt;
+&lt;style&gt;
 .pdfobject-container
 {
 height: 30rem;
 }
-&lt;/style>
-&lt;h2 id="reference">Reference&lt;/h2>
-&lt;pre>&lt;code>% BibTex
+&lt;/style&gt;
+&lt;h2 id="reference"&gt;Reference&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;% BibTex
 @inproceedings{MatoussiGL08,
 author = {Abderrahman Matoussi and
 Fr{\'{e}}d{\'{e}}ric Gervais and
@@ -435,11 +402,11 @@ timestamp = {Tue, 14 May 2019 10:00:50 +0200},
 biburl = {https://dblp.org/rec/conf/asm/MatoussiGL08.bib},
 bibsource = {dblp computer science bibliography, https://dblp.org}
 }
-&lt;/code>&lt;/pre>
+&lt;/code&gt;&lt;/pre&gt;
 &lt;!-- # add information for case study papers (if available)
 ## Sources
 - **Used formal method:**
 [ASM](/method/asm)
 - **Resources and tools:**
 Asmeta
-For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it">authors&lt;/a>--></description></item></channel></rss>
+For more information, please contact the &lt;a href ="mailto:silvia.bonfanti@unibg.it;arcaini@nii.ac.jp;angelo.gargantini@unibg.it;scandurra@unibg.it;elvinia.riccobene@unimi.it"&gt;authors&lt;/a&gt;--&gt;</description></item></channel></rss>
