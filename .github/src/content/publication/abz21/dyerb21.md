@@ -3,7 +3,7 @@ title: "Sterling: A Web-Based Visualizer for Relational Modeling Languages"
 
 authors:
   - Tristan Dyer
-  - John W. Baugh Jr
+  - John W Baugh Jr
 
 
 date: 2021-01-01
