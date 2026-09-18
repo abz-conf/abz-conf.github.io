@@ -50,10 +50,10 @@ resourceDir = "../obj"
 
 # Workaround Hugo publishing taxonomy URLs as plurals - consistently use singular
 [permalinks]
-  event = "/:filename/" # events have no /event/ prefix
-  publication = "/publication/:filename/"
+  event = "/:contentbasename/" # events have no /event/ prefix
+  publication = "/publication/:contentbasename/"
   authors = "/author/:slug/"
-  project = "/case-study/:filename/"
+  project = "/case-study/:contentbasename/"
   tags = "/tag/:slug/"
   categories = "/category/:slug/"
 #  publication_types = "/publication-type/:slug/"
@@ -92,12 +92,9 @@ resourceDir = "../obj"
   author = "authors"
 
 [caches]
-[caches.getjson]
+[caches.getresource]
 dir = ":cacheDir/:project"
-maxAge = -1
-[caches.getcsv]
-dir = ":cacheDir/:project"
-maxAge = -1
+maxAge = '24h'
 [caches.images]
 dir = ":resourceDir/images"
 maxAge = -1

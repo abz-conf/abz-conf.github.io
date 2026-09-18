@@ -7,7 +7,7 @@
 
   {{ partial "search" . }}
 
-  {{ if (findRE "site/.{4}/" .URL) }}
+  {{ if (findRE "site/.{4}/" .RelPermalink) }}
   {{ partial "navbar_conference" . }}
   {{ else }}
   {{ partial "navbar" . }}

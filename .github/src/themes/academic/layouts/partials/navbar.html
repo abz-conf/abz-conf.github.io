@@ -58,7 +58,7 @@
           </a>
           <div class="dropdown-menu">
             {{ range .Children }}
-              <a class="dropdown-item" href="{{ .URL | relLangURL }}"{{ if $.IsHome }} data-target="{{ .URL }}"{{ end }}>
+              <a class="dropdown-item" href="{{ .RelPermalink | relLangURL }}"{{ if $.IsHome }} data-target="{{ .RelPermalink }}"{{ end }}>
                 {{- .Pre -}}<span>{{ .Name | safeHTML }}</span>{{- .Post -}}
               </a>
             {{ end }}
@@ -69,20 +69,20 @@
 
         {{/* Set target for link. */}}
         {{ $.Scratch.Set "target" "" }}
-        {{ if gt (len .URL) 4 }}
-          {{ if eq "http" (slicestr .URL 0 4) }}
+        {{ if gt (len .RelPermalink) 4 }}
+          {{ if eq "http" (slicestr .RelPermalink 0 4) }}
             {{ $.Scratch.Set "target" " target=\"_blank\" rel=\"noopener\"" }}
           {{ end }}
         {{ end }}
 
         {{/* Get active page. */}}
-        {{ $is_link_in_current_path := in $current_page.RelPermalink .URL }}
+        {{ $is_link_in_current_path := in $current_page.RelPermalink .RelPermalink }}
         {{ $is_widget_page := or $current_page.IsHome (eq $current_page.Type "widget_page") }}
-        {{ $hash := findRE "#(.+)" .URL }}
+        {{ $hash := findRE "#(.+)" .RelPermalink }}
         {{ $is_same_page := $is_link_in_current_path }}
         {{ if gt (len $hash) 0 }}
           {{ $hash = index $hash 0 }}
-          {{ $hash_removed := replace .URL $hash "" }}
+          {{ $hash_removed := replace .RelPermalink $hash "" }}
           {{ if eq (len $hash_removed) 0 }}
             {{ $hash_removed = "/" }}{{/* Add robustness for `/#SECTION` or `#SECTION` in `menus.toml`. */}}
           {{ end }}
@@ -90,7 +90,7 @@
         {{ end }}
 
         <li class="nav-item">
-          <a class="nav-link {{if $is_link_in_current_path }} active{{end}}" href="{{.URL | relLangURL}}"{{ if and $is_widget_page $is_same_page }} data-target="{{$hash}}"{{ end }}{{ ($.Scratch.Get "target") | safeHTMLAttr }}>
+          <a class="nav-link {{if $is_link_in_current_path }} active{{end}}" href="{{.RelPermalink | relLangURL}}"{{ if and $is_widget_page $is_same_page }} data-target="{{$hash}}"{{ end }}{{ ($.Scratch.Get "target") | safeHTMLAttr }}>
             {{- .Pre -}}<span>{{ .Name | safeHTML }}</span>{{- .Post -}}
           </a>
         </li>
@@ -107,14 +107,14 @@
 
         {{/* Set target for link. */}}
         {{ $.Scratch.Set "target" "" }}
-        {{ if gt (len .URL) 4 }}
-        {{ if eq "http" (slicestr .URL 0 4) }}
+        {{ if gt (len .RelPermalink) 4 }}
+        {{ if eq "http" (slicestr .RelPermalink 0 4) }}
         {{ $.Scratch.Set "target" " target=\"_blank\" rel=\"noopener\"" }}
         {{ end }}
         {{ end }}
 
         <li class="nav-item">
-          <a class="nav-link" href="{{ .URL | relLangURL }}"{{ if $.IsHome }} data-target="{{ .URL }}"{{ end }}{{ ($.Scratch.Get "target") | safeHTMLAttr }}>
+          <a class="nav-link" href="{{ .RelPermalink | relLangURL }}"{{ if $.IsHome }} data-target="{{ .RelPermalink }}"{{ end }}{{ ($.Scratch.Get "target") | safeHTMLAttr }}>
             {{- .Pre -}}<span>{{ .Name | safeHTML }}</span>{{- .Post -}}
           </a>
         </li>
