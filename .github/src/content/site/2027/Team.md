@@ -22,12 +22,11 @@ skyline:
 ### Program Chairs
 
 * [Alcino Cunha, INESC TEC & University of Minho, Braga, Portugal](https://alcinocunha.github.io/)
-* TBA <!-- [Marie Farrell, The University of Manchester, Manchester, UK](https://mariefarrell.github.io/) -->
+* [Marie Farrell, The University of Manchester, Manchester, UK](https://mariefarrell.github.io/)
 
 ### Case Study Track Chairs
 
 * [Nuno Macedo, INESC TEC & University of Minho, Braga, Portugal](https://nmacedo.github.io)
-* [Alcino Cunha, INESC TEC & University of Minho, Braga, Portugal](https://alcinocunha.github.io/)
 * TBA
 
 ### Local Chair
