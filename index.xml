@@ -1,163 +1,358 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ABZ</title><link>/</link><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><description>ABZ</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2026 ABZ Conference</copyright><lastBuildDate>Tue, 18 May 2027 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>ABZ</title><link>/</link></image><item><title>ABZ 2027 (Braga, Portugal)</title><link>/2027/</link><pubDate>Tue, 18 May 2027 00:00:00 +0000</pubDate><guid>/2027/</guid><description>&lt;!--&lt;meta http-equiv="refresh" content="0; URL='../site/2027'" /&gt;--&gt;
-&lt;p&gt;The ABZ conference is dedicated to the cross-fertilization of state-based and machine-based formal methods, like Abstract State Machines (ASM), Alloy, B, TLA, VDM and Z, that share a common conceptual foundation and are widely used in both academia and industry for the design and analysis of hardware and software systems. The conference aims for a vital exchange of knowledge and experience among the research communities around different formal methods.&lt;/p&gt;</description></item><item><title>ABZ 2027 – 13th International Conference on Rigorous State Based Methods</title><link>/site/2027/accommodation/</link><pubDate>Fri, 18 Sep 2026 19:00:00 +0900</pubDate><guid>/site/2027/accommodation/</guid><description>&lt;h2 id="accomodation"&gt;Accomodation&lt;/h2&gt;
-&lt;p&gt;More information coming soon&amp;hellip;&lt;/p&gt;</description></item><item><title>ABZ 2027 – 13th International Conference on Rigorous State Based Methods</title><link>/site/2027/calls/</link><pubDate>Fri, 18 Sep 2026 19:00:00 +0900</pubDate><guid>/site/2027/calls/</guid><description>&lt;h2 id="call-for-papers"&gt;Call for papers&lt;/h2&gt;
-&lt;p&gt;More information coming soon&amp;hellip;&lt;/p&gt;
-&lt;!--
-The ABZ conference is dedicated to the cross-fertilization of state-based and machine-based formal methods, like Abstract State Machines (ASM), Alloy, B, TLA, VDM and Z, that share a common conceptual foundation and are widely used in both academia and industry for the design and analysis of hardware and software systems. The conference aims for a vital exchange of knowledge and experience among the research communities around different formal methods.
-The name ABZ goes back to the first conference in London in 2008, where the ASM, B and Z conference series were merged into a joint event. In the following years other formal methods were added, e.g. Alloy in 2010 (Orford, Canada), VDM in 2012 (Pisa, Italy), and TLA+ in 2014 (Toulouse, France). After the also successful 2016 conferences in Linz, Austria, and 2018 in Southampton, UK, it was decided to name the conference "ABZ: International Conference on Rigorous State Based Methods", to stress the openness for further state-based formal methods. We hope to continue many fruitful discussions between representatives of the individual methods in the past, which will bring us closer to the common goal of this research community: the creation of reliable and safe software and systems.
-ABZ 2025 will have a main conference track, a case study track, a doctoral symposium, tutorials, and workshops.
-* [Main Conference](../maintrack)
-* [Case Study](../casestudy)
-* [Doctoral Symposium](../doctoralsymposium)
-* [Tutorials and Workshops](../tutorialworkshops)
-Submissions deadlines have been extended (abstract: March 1st, full submission: March 2nd).
-Accepted papers will appear in the Springer LNCS proceedings.
-&lt;div&gt;&lt;img src="/img/Springer_Logo.jpg"&gt;&lt;img src="/img/LNCS-Logo.jpg"&gt;&lt;/div&gt;
-### Submission Process
-Authors should consult [Springer's authors' guidelines](https://resource-cms.springernature.com/springer-cms/rest/v1/content/19242230/data/v11) and use their proceedings templates, either for [LaTeX](https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238648/data/v6) or for [Word](https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238706/data/v2), for the preparation of their papers. Springer encourages authors to include their [ORCIDs](https://www.springer.com/gp/authors-editors/orcid) in their papers. In addition, the corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign a Consent-to-Publish form. The corresponding author signing the copyright form should match the corresponding author marked on the paper. Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made.
-Authors interested in contributing to ABZ 2025 in Open Access or Open Choice should refer to the corresponding
-&lt;p class="text-center"&gt;&lt;a href="https://easychair.org/conferences/?conf=abz2025" class="btn btn-primary btn-lg" role="button" target="_blank"&gt;Submit contribution&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;small&gt;via easychair&lt;/small&gt;&lt;/a&gt;&lt;/p&gt;
-[Springer webpage](https://www.springer.com/gp/computer-science/lncs/open-access-publishing-in-computer-proceedings).</description></item><item><title>ABZ 2027 – 13th International Conference on Rigorous State Based Methods</title><link>/site/2027/casestudy/</link><pubDate>Fri, 18 Sep 2026 19:00:00 +0900</pubDate><guid>/site/2027/casestudy/</guid><description>&lt;h2 id="case-study-planetary-rover---call-for-papers"&gt;Case Study: Planetary Rover - Call for Papers&lt;/h2&gt;
-&lt;p&gt;More information coming soon&amp;hellip;&lt;/p&gt;
-&lt;!--
-As successfully practiced in previous editions of ABZ, the 12th edition of ABZ will include again special sessions dedicated to a shared case study.
-The objective of this session is to enrich the set of case studies ([https://abz-conf.org/case-studies/](https://abz-conf.org/case-studies/)) developed with Rigorous State Based Methods with a practical and real-life case study.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ABZ</title><link>/</link><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><description>ABZ</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2026 ABZ Conference</copyright><lastBuildDate>Mon, 14 Jun 2027 00:00:00 +0000</lastBuildDate><image><url>/img/https:/github.com/abz-conf/abz-conf.logo/raw/master/obj/rect/256.png</url><title>ABZ</title><link>/</link></image><item><title>ABZ 2027 (Braga, Portugal)</title><link>/2027/</link><pubDate>Mon, 14 Jun 2027 00:00:00 +0000</pubDate><guid>/2027/</guid><description>&lt;!--&lt;meta http-equiv="refresh" content="0; URL='../site/2027'" /&gt;--&gt;
+&lt;p&gt;The ABZ conference is dedicated to the cross-fertilization of state-based and machine-based formal methods, like Abstract State Machines (ASM), Alloy, B, TLA, VDM and Z, that share a common conceptual foundation and are widely used in both academia and industry for the design and analysis of hardware and software systems. The conference aims for a vital exchange of knowledge and experience among the research communities around different formal methods.&lt;/p&gt;</description></item><item><title>ABZ 2027 – 13th International Conference on Rigorous State Based Methods</title><link>/site/2027/accommodation/</link><pubDate>Fri, 18 Sep 2026 19:00:00 +0900</pubDate><guid>/site/2027/accommodation/</guid><description>&lt;h2 id="accommodation"&gt;Accommodation&lt;/h2&gt;
+&lt;p&gt;The following list of hotels is just a suggestion of hotels within a short walking distance to the venue:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://www.meliabraga.com/" target="_blank" rel="noopener"&gt;Meliã Braga&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://www.hotel-bb.com/pt/hotel/braga-lamacaes" target="_blank" rel="noopener"&gt;B&amp;amp;B Hotel Braga Lamaçães&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://www.ihg.com/holidayinn/hotels/gb/en/braga-portugal/bgzga/hoteldetail?cm_mmc=GoogleMaps-_-HI-_-PT-_-BGZGA" target="_blank" rel="noopener"&gt;Holiday Inn Braga&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Many more options can be found in the city center which is also a short taxi or bus ride from the venue (or a nice 30-40m walk for those who enjoy walking). In the city center you will also find a wider variety of restaurants, cafes, and shops. Check out Booking, AirBnb, or Google Maps for options.&lt;/p&gt;</description></item><item><title>ABZ 2027 – 13th International Conference on Rigorous State Based Methods</title><link>/site/2027/calls/</link><pubDate>Fri, 18 Sep 2026 19:00:00 +0900</pubDate><guid>/site/2027/calls/</guid><description>&lt;h2 id="call-for-papers"&gt;Call for papers&lt;/h2&gt;
+&lt;p&gt;The ABZ conference is dedicated to the cross-fertilization of state-based and machine-based formal methods, like Abstract State Machines (ASM), Alloy, B, TLA, VDM and Z, that share a common conceptual foundation and are widely used in both academia and industry for the design and analysis of hardware and software systems. The conference aims for a vital exchange of knowledge and experience among the research communities around different formal methods.&lt;/p&gt;
+&lt;p&gt;ABZ 2027 will have a main conference track, a case study track, a doctoral symposium, tutorials and workshops.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="../maintrack"&gt;Main Conference&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="../casestudy"&gt;Case Study&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="../doctoralsymposium"&gt;Doctoral Symposium&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="../tutorialworkshops"&gt;Tutorials and Workshops&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Accepted papers will appear in the Springer LNCS proceedings.&lt;/p&gt;
+&lt;div style="display: flex; align-items: center; gap: 40px; flex-wrap: wrap;"&gt;
+&lt;img src="/img/Springer_Logo.jpg"&gt;&lt;img src="/img/LNCS-Logo.jpg"&gt;
+&lt;/div&gt;
+&lt;h3 id="submission-process"&gt;Submission Process&lt;/h3&gt;
+&lt;p&gt;Papers will be submitted via EasyChair. Workshops and tutorial proposals should be submitted directly to
+&lt;a href="mailto:alcino@di.uminho.pt"&gt;alcino@di.uminho.pt&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Authors should consult
+&lt;a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" target="_blank" rel="noopener"&gt;Springer Authors Guidelines&lt;/a&gt; and use their proceedings templates. Springer encourages authors to include their
+&lt;a href="https://www.springer.com/gp/authors-editors/orcid" target="_blank" rel="noopener"&gt;ORCIDs&lt;/a&gt; in their papers. Authors should also check
+&lt;a href="https://www.springernature.com/gp/authors/book-authors-code-of-conduct" target="_blank" rel="noopener"&gt;Springer Authors Code of Conduct&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign a Consent-to-Publish form. The corresponding author signing the copyright form should match the corresponding author marked on the paper. Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made.&lt;/p&gt;
+&lt;p&gt;Authors interested in contributing in Open Access or Open Choice should refer to the corresponding
+&lt;a href="https://www.springer.com/gp/computer-science/lncs/open-access-publishing-in-computer-proceedings" target="_blank" rel="noopener"&gt;Springer webpage&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>ABZ 2027 – 13th International Conference on Rigorous State Based Methods</title><link>/site/2027/casestudy/</link><pubDate>Fri, 18 Sep 2026 19:00:00 +0900</pubDate><guid>/site/2027/casestudy/</guid><description>&lt;h2 id="case-study"&gt;Case Study&lt;/h2&gt;
+&lt;p&gt;As successfully practiced in previous editions of ABZ, the 11th edition of ABZ will include again special sessions dedicated to a shared real-life case study.&lt;/p&gt;
+&lt;p&gt;The objective of this session is to enrich the set of case studies (
+&lt;a href="https://abz-conf.org/case-studies/" target="_blank" rel="noopener"&gt;https://abz-conf.org/case-studies/&lt;/a&gt;) developed with Rigorous State Based Methods with a practical and real-life case study.
 Its goal is also cross-fertilisation, enabling practitioners of the individual formal methods to
-better understand each other.
-The case study is about an &lt;b&gt;autonomous planetary rover&lt;/b&gt;.
-### Repository for Detailed Specification
-All the pdf versions of the specification document are available here (we keep track of all the changes in the documents):
-[https://github.com/trarse-nii/ABZ2026-case-study](https://github.com/trarse-nii/ABZ2026-case-study).
-The current version is [v1 of the specification document](https://github.com/trarse-nii/ABZ2026-case-study/blob/main/doc/document_v1.pdf).
-All the questions and doubts can be discussed here:
-[https://github.com/trarse-nii/ABZ2026-case-study/issues](https://github.com/trarse-nii/ABZ2026-case-study/issues)
-If you have any question/comment on the case study, you can contact Marie Farrell and Tsutomu Kobayashi: marie.farrell (AT) manchester.ac.uk, kobayashi.tsutomu (AT) jaxa.jp
-### Call for Case Study Papers
-**Case study papers** are full papers reporting on the experiments conducted with any of the state based techniques in the scope of ABZ 2026 case study. A paper of no more than *16 pages (excluding references)* in [LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) is expected and will be reviewed.
-### Important Dates
-| | |
-|--------------------------------------------------------------------------------|-----------------------|
-| **Abstract submission (OPTIONAL):** | February 9, 2026 AOE |
-| **Paper submission:** | February 16, 2026 AOE |
-| **Notification:** | March 13, 2026 |
-| **Final version:** | March 23, 2026 |
-### Submission Process
-&lt;div&gt;&lt;img src="/img/Springer_Logo.jpg"&gt;&lt;img src="/img/LNCS-Logo.jpg"&gt;&lt;/div&gt;
-Accepted papers will appear in the Springer LNCS proceedings.
-Page limits (including references and all appendices) for the final versions are 18 pages for case study papers.
-Authors should consult [Springer Authors Guidelines](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) and use their proceedings templates. Springer encourages authors to include their [ORCIDs](https://www.springer.com/gp/authors-editors/orcid) in their papers. Authors should also check [Springer Authors Code of Conduct](https://www.springernature.com/gp/authors/book-authors-code-of-conduct)
-The corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign a Consent-to-Publish form. The corresponding author signing the copyright form should match the corresponding author marked on the paper. Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made.
-Authors interested in contributing to ABZ 2026 in Open Access or Open Choice should refer to the corresponding [Springer webpage](https://www.springer.com/gp/computer-science/lncs/open-access-publishing-in-computer-proceedings).
-&lt;p class="text-center"&gt;&lt;a href="https://easychair.org/conferences/?conf=abz2026" class="btn btn-primary btn-lg" role="button" target="_blank"&gt;Submit contribution&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;small&gt;via easychair&lt;/small&gt;&lt;/a&gt;&lt;/p&gt;</description></item><item><title>ABZ 2027 – 13th International Conference on Rigorous State Based Methods</title><link>/site/2027/doctoralsymposium/</link><pubDate>Fri, 18 Sep 2026 19:00:00 +0900</pubDate><guid>/site/2027/doctoralsymposium/</guid><description>&lt;h2 id="doctoral-symposium"&gt;Doctoral Symposium&lt;/h2&gt;
-&lt;p&gt;More information coming soon&amp;hellip;&lt;/p&gt;
-&lt;!--
-In the 2026 edition, information for the doctoral symposium will be found on &lt;a href="https://conf.researchr.org/track/fm-2026/fm-2026-doctoral-symposium"&gt;the FM 2026 website&lt;/a&gt; (we don't have ABZ-specific doctoral symposium this year).</description></item><item><title>ABZ 2027 – 13th International Conference on Rigorous State Based Methods</title><link>/site/2027/importantdates/</link><pubDate>Fri, 18 Sep 2026 19:00:00 +0900</pubDate><guid>/site/2027/importantdates/</guid><description>&lt;h2 id="important-dates"&gt;Important Dates&lt;/h2&gt;
-&lt;p&gt;More information coming soon&amp;hellip;&lt;/p&gt;
-&lt;!--
-### Main Track
-| | |
-|--------------------------------------------------------------------------------|-----------------------|
-| **Abstract submission (OPTIONAL):** | February 9, 2026 AOE |
-| **Paper submission:** | February 16, 2026 AOE |
-| **Notification:** | March 13, 2026 |
-| **Final version:** | March 23, 2026 |</description></item><item><title>ABZ 2027 – 13th International Conference on Rigorous State Based Methods</title><link>/site/2027/keynotes/</link><pubDate>Fri, 18 Sep 2026 19:00:00 +0900</pubDate><guid>/site/2027/keynotes/</guid><description>&lt;h2 id="keynote-speakers"&gt;Keynote Speakers&lt;/h2&gt;
-&lt;p&gt;More information coming soon&amp;hellip;&lt;/p&gt;
-&lt;!--
-We are very pleased to welcome three keynote speakers to ABZ 2026.
-* Toshiaki Aoki, JAIST: Practical Applications of Formal Methods to Automotive Systems: From In-Vehicle Systems to Autonomous Driving
-* Jin Song Dong, National University of Singapore: Reasoning Beyond LLM: Formal Methods Agents
-* Dominique Mery Université de Lorraine, CNRS, INRIA / LORIA &amp; Telecom Nancy: Systematic Development of Distributed Algorithms using Event-B - Experiences, reviews and prospects -</description></item><item><title>ABZ 2027 – 13th International Conference on Rigorous State Based Methods</title><link>/site/2027/maintrack/</link><pubDate>Fri, 18 Sep 2026 19:00:00 +0900</pubDate><guid>/site/2027/maintrack/</guid><description>&lt;h2 id="call-for-papers"&gt;Call for Papers&lt;/h2&gt;
-&lt;p&gt;More information coming soon&amp;hellip;&lt;/p&gt;
-&lt;!--
-Contributions are solicited on all aspects of the theory and applications of ASMs, Alloy, B, TLA, VDM, Z and other state-based rigour approaches in software/hardware engineering, including the development of tools and industrial applications. The program spans from theoretical and methodological foundations to practical applications, emphasizing system engineering methods and tools that are distinguished by mathematical rigor and have proved to be industrially viable. The main goal of the conference is to contribute to the integration of accurate state- and machine-based system development methods, clarifying their commonalities and differences to better understand how to combine different approaches for accomplishing the various tasks in modeling, experimental validation, mathematical verification of reliable high-quality hardware/software systems. Although organized to host several formal methods in a single event, editorial control of the joint conference is vested in one integrated program committee.
-### Paper Category
-- **Full research papers**: Full research papers which have to be original, unpublished and not submitted elsewhere. A paper of no more than *16 pages (excluding references)* in [LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) is expected and will be reviewed.
-- **Short papers**: Short papers to present and validate a work in progress or tool demonstrations. A paper of no more than *6 pages (excluding references)* in [LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) is expected and will be reviewed.
-- **Application in industry papers**: Reporting on work or experiences on the application of state based formal methods in industry. A paper of no more than *8 pages (excluding references)* in [LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) is expected and will be reviewed. It is also an interesting option for industrial practitioners who sometimes face too many constraints to prepare a full paper.
-- **Journal-First papers**: Journal-First papers summarize recently published papers in high-quality journals. The aim of journal-first papers is to further enrich the program of ABZ and to provide more visibility to an already published journal papers in the scope of the ABZ conference. An extended abstract of no more than *6 pages (excluding references)* in [LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) is expected and will be reviewed.
-Please refer to [this page](https://abz-conf.org/site/2026/casestudy/) for the case study papers.
-### Important Dates
-| | |
-|--------------------------------------------------------------------------------|-----------------------|
-| **Abstract submission (OPTIONAL):** | February 9, 2026 AOE |
-| **Paper submission:** | February 16, 2026 AOE |
-| **Notification:** | March 13, 2026 |
-| **Final version:** | March 23, 2026 |
-### Submission Process
-&lt;div&gt;&lt;img src="/img/Springer_Logo.jpg"&gt;&lt;img src="/img/LNCS-Logo.jpg"&gt;&lt;/div&gt;
-Accepted papers will appear in the Springer LNCS proceedings.
-Page limits (including references and all appendices) for the final versions are 18 pages for full papers and 8 pages for short papers.
-Authors should consult [Springer Authors Guidelines](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) and use their proceedings templates. Springer encourages authors to include their [ORCIDs](https://www.springer.com/gp/authors-editors/orcid) in their papers. Authors should also check [Springer Authors Code of Conduct](https://www.springernature.com/gp/authors/book-authors-code-of-conduct)
-The corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign a Consent-to-Publish form. The corresponding author signing the copyright form should match the corresponding author marked on the paper. Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made.
-Authors interested in contributing to ABZ 2026 in Open Access or Open Choice should refer to the corresponding [Springer webpage](https://www.springer.com/gp/computer-science/lncs/open-access-publishing-in-computer-proceedings).
-&lt;p class="text-center"&gt;&lt;a href="https://easychair.org/conferences/?conf=abz2026" class="btn btn-primary btn-lg" role="button" target="_blank"&gt;Submit contribution&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;small&gt;via easychair&lt;/small&gt;&lt;/a&gt;&lt;/p&gt;</description></item><item><title>ABZ 2027 – 13th International Conference on Rigorous State Based Methods</title><link>/site/2027/program/</link><pubDate>Fri, 18 Sep 2026 19:00:00 +0900</pubDate><guid>/site/2027/program/</guid><description>&lt;h2 id="program"&gt;Program&lt;/h2&gt;
-&lt;p&gt;More information coming soon&amp;hellip;&lt;/p&gt;
-&lt;!--
-The program information is available on &lt;a href="https://conf.researchr.org/track/fm-2026/fm-2026-abz-2026#program"&gt;the FM 2026 website&lt;/a&gt;.</description></item><item><title>ABZ 2027 – 13th International Conference on Rigorous State Based Methods</title><link>/site/2027/registration/</link><pubDate>Fri, 18 Sep 2026 19:00:00 +0900</pubDate><guid>/site/2027/registration/</guid><description>&lt;h2 id="registration"&gt;Registration&lt;/h2&gt;
-&lt;p&gt;More information coming soon&amp;hellip;&lt;/p&gt;
-&lt;!--
-The registration information is on &lt;a href="https://conf.researchr.org/attending/fm-2026/registration"&gt;the FM 2026 website&lt;/a&gt;.</description></item><item><title>ABZ 2027 – 13th International Conference on Rigorous State Based Methods</title><link>/site/2027/team/</link><pubDate>Fri, 18 Sep 2026 19:00:00 +0900</pubDate><guid>/site/2027/team/</guid><description>&lt;h2 id="organization"&gt;Organization&lt;/h2&gt;
+better understand each other.&lt;/p&gt;
+&lt;p&gt;The ABZ 2027 case study will be announced soon.&lt;/p&gt;
+&lt;h3 id="abz-2027-invites"&gt;ABZ 2027 invites:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Case study papers&lt;/strong&gt;: Full papers reporting on the experiments conducted with any of the state based techniques in the scope of ABZ 2027 case study. A paper of no more than &lt;em&gt;16 pages (excluding references)&lt;/em&gt; in
+&lt;a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" target="_blank" rel="noopener"&gt;LNCS format&lt;/a&gt; is expected and will be reviewed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Accepted papers will appear in the Springer LNCS proceedings. Page limits (including references and all appendices) for the final versions are 18 for case study papers.&lt;/p&gt;
+&lt;div style="display: flex; align-items: center; gap: 40px; flex-wrap: wrap;"&gt;
+&lt;img src="/img/Springer_Logo.jpg"&gt;&lt;img src="/img/LNCS-Logo.jpg"&gt;
+&lt;/div&gt;
+&lt;h3 id="important-dates"&gt;Important Dates&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Abstract submission (optional):&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;February 8, 2027&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Paper submission:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;February 15, 2027&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Notification:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;March 22, 2027&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Final version:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;April 5, 2027&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id="submission-process"&gt;Submission Process&lt;/h3&gt;
+&lt;p&gt;Papers will be submitted via EasyChair.&lt;/p&gt;
+&lt;p&gt;Authors should consult
+&lt;a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" target="_blank" rel="noopener"&gt;Springer Authors Guidelines&lt;/a&gt; and use their proceedings templates. Springer encourages authors to include their
+&lt;a href="https://www.springer.com/gp/authors-editors/orcid" target="_blank" rel="noopener"&gt;ORCIDs&lt;/a&gt; in their papers. Authors should also check
+&lt;a href="https://www.springernature.com/gp/authors/book-authors-code-of-conduct" target="_blank" rel="noopener"&gt;Springer Authors Code of Conduct&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign a Consent-to-Publish form. The corresponding author signing the copyright form should match the corresponding author marked on the paper. Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made.&lt;/p&gt;
+&lt;p&gt;Authors interested in contributing in Open Access or Open Choice should refer to the corresponding
+&lt;a href="https://www.springer.com/gp/computer-science/lncs/open-access-publishing-in-computer-proceedings" target="_blank" rel="noopener"&gt;Springer webpage&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>ABZ 2027 – 13th International Conference on Rigorous State Based Methods</title><link>/site/2027/doctoralsymposium/</link><pubDate>Fri, 18 Sep 2026 19:00:00 +0900</pubDate><guid>/site/2027/doctoralsymposium/</guid><description>&lt;h2 id="doctoral-symposium"&gt;Doctoral Symposium&lt;/h2&gt;
+&lt;p&gt;The ABZ PhD Symposium is an international forum for PhD students studying all areas related to state based formal methods for software and system development.&lt;/p&gt;
+&lt;p&gt;This forum is a good opportunity to&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;bring together PhD students and established and known researchers of the state based formal methods community,&lt;/li&gt;
+&lt;li&gt;provide PhD students with fruitful feedback and advice on their research approach,&lt;/li&gt;
+&lt;li&gt;enable PhD students to interact with other PhD students and to stimulate exchange of ideas suggestions and experiences among participants,&lt;/li&gt;
+&lt;li&gt;provide PhD students an opportunity to present, share and discuss their research in a constructive and critical atmosphere.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We seek PhD students who have either determined the direction of their thesis research (probably with some preliminary results already published), but who still have substantial work to complete, or PhD student participants who are in the early stages of their dissertations. It is not required to have a paper accepted for the main conference in order to participate in the Doctoral Symposium.&lt;/p&gt;
+&lt;h3 id="abz-2027-invites"&gt;ABZ 2027 invites:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Contribution to doctoral symposium&lt;/strong&gt;: This is an excellent opportunity for PhD students to present their ongoing work and receive valuable feedback from the ABZ community. A paper of no more than &lt;em&gt;4 pages (excluding references)&lt;/em&gt; in
+&lt;a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" target="_blank" rel="noopener"&gt;LNCS format&lt;/a&gt; is expected and will be reviewed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Preferably, submissions should include&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Title of the paper and the author name&lt;/li&gt;
+&lt;li&gt;Problem statement, motivations, and progress&lt;/li&gt;
+&lt;li&gt;Current development and related work&lt;/li&gt;
+&lt;li&gt;Proposed solutions, approach and methodology, and their significance&lt;/li&gt;
+&lt;li&gt;Current results and assessement&lt;/li&gt;
+&lt;li&gt;Future work&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Accepted papers will be published in the Springer LNCS proceedings. Page limits (including references and all appendices) for the final versions are 5 pages for doctoral symposium contributions.&lt;/p&gt;
+&lt;div style="display: flex; align-items: center; gap: 40px; flex-wrap: wrap;"&gt;
+&lt;img src="/img/Springer_Logo.jpg"&gt;&lt;img src="/img/LNCS-Logo.jpg"&gt;
+&lt;/div&gt;
+&lt;h3 id="importante-dates"&gt;Importante Dates&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Abstract submission (optional):&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;February 8, 2027&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Paper submission:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;February 15, 2027&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Notification:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;March 22, 2027&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Final version:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;April 5, 2027&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id="submission-process"&gt;Submission Process&lt;/h3&gt;
+&lt;p&gt;Papers will be submitted via EasyChair.&lt;/p&gt;
+&lt;p&gt;Authors should consult
+&lt;a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" target="_blank" rel="noopener"&gt;Springer Authors Guidelines&lt;/a&gt; and use their proceedings templates. Springer encourages authors to include their
+&lt;a href="https://www.springer.com/gp/authors-editors/orcid" target="_blank" rel="noopener"&gt;ORCIDs&lt;/a&gt; in their papers. Authors should also check
+&lt;a href="https://www.springernature.com/gp/authors/book-authors-code-of-conduct" target="_blank" rel="noopener"&gt;Springer Authors Code of Conduct&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign a Consent-to-Publish form. The corresponding author signing the copyright form should match the corresponding author marked on the paper. Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made.&lt;/p&gt;
+&lt;p&gt;Authors interested in contributing in Open Access or Open Choice should refer to the corresponding
+&lt;a href="https://www.springer.com/gp/computer-science/lncs/open-access-publishing-in-computer-proceedings" target="_blank" rel="noopener"&gt;Springer webpage&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>ABZ 2027 – 13th International Conference on Rigorous State Based Methods</title><link>/site/2027/importantdates/</link><pubDate>Fri, 18 Sep 2026 19:00:00 +0900</pubDate><guid>/site/2027/importantdates/</guid><description>&lt;h2 id="important-dates"&gt;Important Dates&lt;/h2&gt;
+&lt;p&gt;All submission dates are anywhere on earth.&lt;/p&gt;
+&lt;h3 id="papers-all-tracks"&gt;Papers (all tracks)&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Abstract submission (optional):&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;February 8, 2027&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Paper submission:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;February 15, 2027&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Notification:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;March 22, 2027&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Final version:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;April 5, 2027&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id="workshops-and-tutorials"&gt;Workshops and Tutorials&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Workshop and tutorial proposals:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;December 7, 2026&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Notification:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;January 11, 2027&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id="conference"&gt;Conference&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Workshops and Tutorials&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;June 14-15, 2027&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Main Conference&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;June 16-18, 2027&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</description></item><item><title>ABZ 2027 – 13th International Conference on Rigorous State Based Methods</title><link>/site/2027/keynotes/</link><pubDate>Fri, 18 Sep 2026 19:00:00 +0900</pubDate><guid>/site/2027/keynotes/</guid><description>&lt;h2 id="keynote-speakers"&gt;Keynote Speakers&lt;/h2&gt;
+&lt;p&gt;More information coming soon&amp;hellip;&lt;/p&gt;</description></item><item><title>ABZ 2027 – 13th International Conference on Rigorous State Based Methods</title><link>/site/2027/maintrack/</link><pubDate>Fri, 18 Sep 2026 19:00:00 +0900</pubDate><guid>/site/2027/maintrack/</guid><description>&lt;h2 id="call-for-papers"&gt;Call for Papers&lt;/h2&gt;
+&lt;p&gt;Contributions are solicited on all aspects of the theory and applications of ASMs, Alloy, B, TLA, VDM, Z and other state-based rigour approaches in software/hardware engineering, including the development of tools and industrial applications. The program spans from theoretical and methodological foundations to practical applications, emphasizing system engineering methods and tools that are distinguished by mathematical rigor and have proved to be industrially viable. The main goal of the conference is to contribute to the integration of accurate state- and machine-based system development methods, clarifying their commonalities and differences to better understand how to combine different approaches for accomplishing the various tasks in modeling, experimental validation, mathematical verification of reliable high-quality hardware/software systems. Although organized to host several formal methods in a single event, editorial control of the joint conference is vested in one integrated program committee.&lt;/p&gt;
+&lt;h3 id="abz-2027-invites"&gt;ABZ 2027 invites:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Full research papers&lt;/strong&gt;: Full research papers which have to be original, unpublished and not submitted elsewhere. A paper of no more than 16 pages (excluding references) in
+&lt;a href="https://link.springer.com/series/558/information-for-authors-and-editors" target="_blank" rel="noopener"&gt;LNCS&lt;/a&gt; format is expected and will be reviewed.
+&amp;ndash; &lt;strong&gt;Short papers&lt;/strong&gt;: Short papers to present and validate a work in progress or tool demonstrations. A paper of no more than 6 pages (excluding references) in
+&lt;a href="https://link.springer.com/series/558/information-for-authors-and-editors" target="_blank" rel="noopener"&gt;LNCS&lt;/a&gt; format is expected and will be reviewed.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Application in industry papers&lt;/strong&gt;: Reporting on work or experiences on the application of state based formal methods in industry. A paper of no more than 8 pages (excluding references) in
+&lt;a href="https://link.springer.com/series/558/information-for-authors-and-editors" target="_blank" rel="noopener"&gt;LNCS&lt;/a&gt; format is expected and will be reviewed. It is also an interesting option for industrial practitioners who sometimes face too many constraints to prepare a full paper.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Journal-first papers&lt;/strong&gt;: Journal-First papers summarize recently published papers in high-quality journals. The aim of journal-first papers is to further enrich the program of ABZ and to provide more visibility to already published journal papers in the scope of the ABZ conference. An extended abstract of no more than 6 pages (excluding references) in
+&lt;a href="https://link.springer.com/series/558/information-for-authors-and-editors" target="_blank" rel="noopener"&gt;LNCS&lt;/a&gt; format is expected and will be reviewed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Accepted papers will appear in the Springer LNCS proceedings. Page limits (including references and all appendices) for the final versions are 18 pages for full papers and 8 pages for the other paper categories.&lt;/p&gt;
+&lt;div style="display: flex; align-items: center; gap: 40px; flex-wrap: wrap;"&gt;
+&lt;img src="/img/Springer_Logo.jpg"&gt;&lt;img src="/img/LNCS-Logo.jpg"&gt;
+&lt;/div&gt;
+&lt;h3 id="importante-dates"&gt;Importante Dates&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Abstract submission (optional):&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;February 8, 2027&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Paper submission:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;February 15, 2027&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Notification:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;March 22, 2027&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Final version:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;April 5, 2027&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id="submission-process"&gt;Submission Process&lt;/h3&gt;
+&lt;p&gt;Papers will be submitted via EasyChair.&lt;/p&gt;
+&lt;p&gt;Authors should consult
+&lt;a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" target="_blank" rel="noopener"&gt;Springer Authors Guidelines&lt;/a&gt; and use their proceedings templates. Springer encourages authors to include their
+&lt;a href="https://www.springer.com/gp/authors-editors/orcid" target="_blank" rel="noopener"&gt;ORCIDs&lt;/a&gt; in their papers. Authors should also check
+&lt;a href="https://www.springernature.com/gp/authors/book-authors-code-of-conduct" target="_blank" rel="noopener"&gt;Springer Authors Code of Conduct&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign a Consent-to-Publish form. The corresponding author signing the copyright form should match the corresponding author marked on the paper. Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made.&lt;/p&gt;
+&lt;p&gt;Authors interested in contributing in Open Access or Open Choice should refer to the corresponding
+&lt;a href="https://www.springer.com/gp/computer-science/lncs/open-access-publishing-in-computer-proceedings" target="_blank" rel="noopener"&gt;Springer webpage&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>ABZ 2027 – 13th International Conference on Rigorous State Based Methods</title><link>/site/2027/program/</link><pubDate>Fri, 18 Sep 2026 19:00:00 +0900</pubDate><guid>/site/2027/program/</guid><description>&lt;h2 id="program"&gt;Program&lt;/h2&gt;
+&lt;p&gt;More information coming soon&amp;hellip;&lt;/p&gt;</description></item><item><title>ABZ 2027 – 13th International Conference on Rigorous State Based Methods</title><link>/site/2027/registration/</link><pubDate>Fri, 18 Sep 2026 19:00:00 +0900</pubDate><guid>/site/2027/registration/</guid><description>&lt;h2 id="registration"&gt;Registration&lt;/h2&gt;
+&lt;p&gt;More information coming soon&amp;hellip;&lt;/p&gt;</description></item><item><title>ABZ 2027 – 13th International Conference on Rigorous State Based Methods</title><link>/site/2027/team/</link><pubDate>Fri, 18 Sep 2026 19:00:00 +0900</pubDate><guid>/site/2027/team/</guid><description>&lt;h2 id="team"&gt;Team&lt;/h2&gt;
 &lt;h3 id="program-chairs"&gt;Program Chairs&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;a href="https://alcinocunha.github.io/" target="_blank" rel="noopener"&gt;Alcino Cunha, INESC TEC &amp;amp; University of Minho, Braga, Portugal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;TBA &lt;!-- [Marie Farrell, The University of Manchester, Manchester, UK](https://mariefarrell.github.io/) --&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;!--* [Fuyuki Ishikawa, National Institute of Informatics, Tokyo, Japan](https://research.nii.ac.jp/~f-ishikawa/en/)
-### Case Study Track Chairs
-* [Marie Farrell, The University of Manchester, Manchester, UK](https://mariefarrell.github.io/)
-* [Tsutomu Kobayashi, Japan Space Exploration Agency, Tsukuba, Japan](https://researchmap.jp/tsutomu.kobayashi?lang=en)
-### Program Committee
-* Yamine Ait Ameur, ENSEEIHT, France
-* Toshiaki Aoki, JAIST, Japan
-* Paolo Arcaini, National Institute of Informatics, Japan
-* Richard Banach, University of Manchester, UK
-* Silvia Bonfanti, University of Bergramo, Italy
-* Chiara Braghin, University of Milan, Italy
-* Maximiliano Cristiá, Universidad Nacional de Rosario, Argentina
-* Catherine Dubois, ENSIIE, France
-* Guillaume Dupont, ENSEEIHT, France
-* Marie Farell, University of Manchester, UK
-* Flavio Ferrarotti, Software Competence Centre Hagenberg, Austria
-* Marc Frappier, Université de Sherbrooke, Canada
-* Stefan Hallerstede, Aarhus University, Denmark
-* Thai Son Hoang, University of Southampton, UK
-* Akram Idani, Univ. Grenoble Alpes, VERIMAG lab, France
-* Eunsuk Kang, Carnegie Mellon University, USA
-* Tsutomu Kobayashi, Japan Aerospace Exploration Agency, Japan
-* Régine Laleau, Paris Est Creteil University, France
-* Thierry Lecomte, CLEARSY, France
-* Michael Leuschel, Heinrich Heine University Düsseldorf, Germany
-* Frederic Mallet, Université Côte d'Azur, France
-* Atif Mashkoor, Johannes Kepler University, Austria
-* Dominique Mery, Université de Lorraine, LORIA, France
-* Stephan Merz, Inria, France
-* Alexander Raschke, Ulm University, Germany
-* Elvinia Riccobene, University of Milan, Italy
-* Asieh Salehi Fathabadi, University of Southampton, UK
-* Patrizia Scandurra, University of Bergamo, Italy
-* Gerhard Schellhorn, Universitaet Augsburg, Germany
-* Emil Sekerinski, McMaster University, Canada
-* Neeraj Singh, ENSEEIHT, France
-* Maurice ter Beek, CNR-ISTI, Italy
-* Laurent Voisin, Systerel, France
-* Fabian Vu, Heinrich Heine University Düsseldorf, Germany</description></item><item><title>ABZ 2027 – 13th International Conference on Rigorous State Based Methods</title><link>/site/2027/tutorialworkshops/</link><pubDate>Fri, 18 Sep 2026 19:00:00 +0900</pubDate><guid>/site/2027/tutorialworkshops/</guid><description>&lt;h2 id="workshops-and-tutorials"&gt;Workshops and Tutorials&lt;/h2&gt;
-&lt;p&gt;More information coming soon&amp;hellip;&lt;/p&gt;
-&lt;!--
-In the 2026 edition, information for workshops and tutorials will be found in &lt;a href="https://conf.researchr.org/home/fm-2026"&gt;the FM 2026 website&lt;/a&gt;.</description></item><item><title>ABZ 2027 – 13th International Conference on Rigorous State Based Methods</title><link>/site/2027/venue/</link><pubDate>Fri, 18 Sep 2026 19:00:00 +0900</pubDate><guid>/site/2027/venue/</guid><description>&lt;h2 id="venue"&gt;Venue&lt;/h2&gt;
-&lt;p&gt;More information coming soon&amp;hellip;&lt;/p&gt;
-&lt;!--
-The venue information is found in &lt;a href="https://conf.researchr.org/venue/fm-2026/fm-2026-venue"&gt;the FM 2026 website&lt;/a&gt;.</description></item><item><title>ABZ 2027 – 13th International Conference on Rigorous State Based Methods</title><link>/site/2027/workshop/</link><pubDate>Fri, 18 Sep 2026 19:00:00 +0900</pubDate><guid>/site/2027/workshop/</guid><description>&lt;h2 id="workshops-and-tutorials"&gt;Workshops and Tutorials&lt;/h2&gt;
-&lt;p&gt;More information coming soon&amp;hellip;&lt;/p&gt;
-&lt;!--
-In the 2026 edition, information for workshops and tutorials will be found in &lt;a href="https://conf.researchr.org/home/fm-2026"&gt;the FM 2026 website&lt;/a&gt;.</description></item><item><title>ABZ 2027 – 13th International Conference on Rigorous State Based Methods</title><link>/site/2027/</link><pubDate>Fri, 18 Sep 2026 00:00:00 +0100</pubDate><guid>/site/2027/</guid><description>&lt;p&gt;More information coming soon&amp;hellip;&lt;/p&gt;
-&lt;!-- ### Tokyo (Japan) - May 18 — May 20 2026
+&lt;h3 id="case-study-track-chairs"&gt;Case Study Track Chairs&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://nmacedo.github.io" target="_blank" rel="noopener"&gt;Nuno Macedo, INESC TEC &amp;amp; University of Minho, Braga, Portugal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://alcinocunha.github.io/" target="_blank" rel="noopener"&gt;Alcino Cunha, INESC TEC &amp;amp; University of Minho, Braga, Portugal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;TBA&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="local-chair"&gt;Local Chair&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://alcinocunha.github.io/" target="_blank" rel="noopener"&gt;Alcino Cunha, INESC TEC &amp;amp; University of Minho, Braga, Portugal&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="registration-chair"&gt;Registration Chair&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Catarina Fernandes, INESC TEC, Braga, Portugal&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="program-committee"&gt;Program Committee&lt;/h3&gt;
+&lt;p&gt;More information coming soon&amp;hellip;&lt;/p&gt;</description></item><item><title>ABZ 2027 – 13th International Conference on Rigorous State Based Methods</title><link>/site/2027/tutorialworkshops/</link><pubDate>Fri, 18 Sep 2026 19:00:00 +0900</pubDate><guid>/site/2027/tutorialworkshops/</guid><description>&lt;h2 id="workshops-and-tutorials"&gt;Workshops and Tutorials&lt;/h2&gt;
+&lt;p&gt;Researchers and practitioners are invited to submit proposals for workshops and tutorials held in conjunction with ABZ 2027. Workshops and tutorials will be held on June 14-15, 2027 (right before the main conference). Proposals are solicited in areas related to the conference topics.&lt;/p&gt;
+&lt;p&gt;A workshop proposal should contain the title and acronym of the workshop, the contact information of the workshop organizers, a short abstract for ABZ 2027 website (if accepted), a description of the workshop, the intended format (regular paper presentations, invited talks, panel discussions, breakout sessions, etc.), the expected number of participants, and the duration (half-day or full-day).&lt;/p&gt;
+&lt;p&gt;A tutorial proposal should contain the title of the tutorial, the contact information of the tutorial presenters, a short abstract for ABZ 2027 website (if accepted), a description of the tutorial, the intended format (lectures, hands-on sessions, group activities, etc.), and the duration (half-day or full-day).&lt;/p&gt;
+&lt;h3 id="important-dates"&gt;Important Dates&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Workshop and tutorial proposals:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;December 7, 2026&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Notification:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;January 11, 2027&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id="submission-process"&gt;Submission Process&lt;/h3&gt;
+&lt;p&gt;Workshops and tutorial proposals should be submitted directly to
+&lt;a href="mailto:alcino@di.uminho.pt"&gt;alcino@di.uminho.pt&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>ABZ 2027 – 13th International Conference on Rigorous State Based Methods</title><link>/site/2027/venue/</link><pubDate>Fri, 18 Sep 2026 19:00:00 +0900</pubDate><guid>/site/2027/venue/</guid><description>&lt;h2 id="venue-university-of-minho"&gt;Venue: University of Minho&lt;/h2&gt;
+&lt;h3 id="location"&gt;Location&lt;/h3&gt;
+&lt;p&gt;Auditorium B1, Building 2&lt;/br&gt;
+Gualtar Campus&lt;/br&gt;
+4710-057 Braga, Portugal&lt;/p&gt;
+&lt;iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1040.981551951136!2d-8.397273019979096!3d41.55970691375007!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd24fe9d967b3e7b%3A0x8e7b5fcf6deed3b!2sComplexo%20Pedagogico%20II-Uminho!5e0!3m2!1sen!2spt!4v1789980466653!5m2!1sen!2spt" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"&gt;&lt;/iframe&gt;
+&lt;h3 id="how-to-reach-the-venue"&gt;How to reach the venue&lt;/h3&gt;
+&lt;p&gt;The nearest international airport is 50 km away in
+&lt;a href="https://www.portoairport.pt/en/opo/home" target="_blank" rel="noopener"&gt;Porto&lt;/a&gt;. To reach Braga, we recommend taking one the many direct buses from Porto airport to the Braga central bus station (for example,
+&lt;a href="https://www.getbus.eu/en/" target="_blank" rel="noopener"&gt;GetBus&lt;/a&gt;, but check Google Maps for more options).&lt;/p&gt;
+&lt;p&gt;To reach the Gualtar Campus from the Braga central bus station, you can take a taxi or use public transportation. The university is well-connected by local buses, and you can check Google Maps for the most convenient route and schedule.&lt;/p&gt;
+&lt;h3 id="about-braga"&gt;About Braga&lt;/h3&gt;
+&lt;p&gt;Braga is one of the oldest Portuguese cities, as well as one of the oldest Christian cities in the world. It was founded in Roman times, under the name of Bracara Augusta and, today, it boasts 2000 years of history as a city. Located in the north of Portugal, in the Cávado Valley, Braga has roughly 174 thousand inhabitants.&lt;/p&gt;
+&lt;p&gt;Braga also offers unique cultural and leisure opportunities in the country, with its nightlife, cinemas, theatres, exhibitions, museums and art galleries. It is a city full of culture and traditions, where history and religion coexist side by side with the technology industry and academic life.&lt;/p&gt;
+&lt;p&gt;For touristic information about Braga, please visit the
+&lt;a href="https://www.visitbraga.travel/en/" target="_blank" rel="noopener"&gt;official website&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>ABZ 2027 – 13th International Conference on Rigorous State Based Methods</title><link>/site/2027/workshop/</link><pubDate>Fri, 18 Sep 2026 19:00:00 +0900</pubDate><guid>/site/2027/workshop/</guid><description>&lt;h2 id="workshops-and-tutorials"&gt;Workshops and Tutorials&lt;/h2&gt;
+&lt;p&gt;More information coming soon&amp;hellip;&lt;/p&gt;</description></item><item><title>ABZ 2027 – 13th International Conference on Rigorous State Based Methods</title><link>/site/2027/</link><pubDate>Fri, 18 Sep 2026 00:00:00 +0100</pubDate><guid>/site/2027/</guid><description>&lt;h3 id="braga-portugal---june-14--june-18-2027"&gt;Braga (Portugal) - June 14 — June 18 2027&lt;/h3&gt;
 &lt;br&gt;
-&lt;span style="color:maroon"&gt;&lt;a href="https://conf.researchr.org/track/fm-2026/fm-2026-abz-2026#program"&gt;The program is now available on the FM 2026 website&lt;/a&gt;, including &lt;a href="https://abz-conf.org/site/2026/keynotes/"&gt;three keynote talks&lt;/a&gt; and a special session of Gedenkschrift for Jean-Raymond Abrial.&lt;/span&gt;
-&lt;br&gt;
-The ABZ conference is dedicated to the cross-fertilization of state-based and machine-based formal methods, like Abstract State Machines (ASM), Alloy, B, TLA, VDM and Z, that share a common conceptual foundation and are widely used in both academia and industry for the design and analysis of hardware and software systems. The conference aims for a vital exchange of knowledge and experience among the research communities around different formal methods.
-The 12th instalment of the ABZ conference will be held in Tokyo, Japan, co-located with &lt;a href="https://conf.researchr.org/home/fm-2026"&gt;FM 2026 (The 27th International Symposium on Formal Methods)&lt;/a&gt;.
-&lt;div style="float: right; width: 504px;"&gt;&lt;iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7269728868175904768" height="441" width="504" frameborder="0" allowfullscreen="" title="ABZ Conference at LinkedIn"&gt;&lt;/iframe&gt;&lt;/div&gt;
---&gt;</description></item><item><title>ABZ 2026 (Tokyo, Japan)</title><link>/2026/</link><pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate><guid>/2026/</guid><description>&lt;!--&lt;meta http-equiv="refresh" content="0; URL='../site/2024'" /&gt;--&gt;
+&lt;p&gt;The ABZ conference is dedicated to the cross-fertilization of state-based and machine-based formal methods, like Abstract State Machines (ASM), Alloy, B, TLA, VDM and Z, that share a common conceptual foundation and are widely used in both academia and industry for the design and analysis of hardware and software systems. The conference aims for a vital exchange of knowledge and experience among the research communities around different formal methods.&lt;/p&gt;
+&lt;p&gt;The 13th instalment of the ABZ conference will be held in the
+&lt;a href="https://www.uminho.pt" target="_blank" rel="noopener"&gt;University of Minho&lt;/a&gt;, Braga, Portugal.&lt;/p&gt;
+&lt;h3 id="supporters"&gt;Supporters&lt;/h3&gt;
+&lt;div style="display: flex; align-items: center; gap: 40px; flex-wrap: wrap;"&gt;
+&lt;a href="https://www.uminho.pt"&gt;
+&lt;img src="/img/uminho.png" width="170" alt="University of Minho"&gt;
+&lt;/a&gt;
+&lt;a href="https://www.inesctec.pt"&gt;
+&lt;img src="/img/inesctec.png" width="350" alt="INESC TEC"&gt;
+&lt;/a&gt;
+&lt;a href="https://www.fmeurope.org"&gt;
+&lt;img src="/img/FME.png" width="170" alt="Formal Methods Europe"&gt;
+&lt;/a&gt;
+&lt;/div&gt;</description></item><item><title>ABZ 2026 (Tokyo, Japan)</title><link>/2026/</link><pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate><guid>/2026/</guid><description>&lt;!--&lt;meta http-equiv="refresh" content="0; URL='../site/2024'" /&gt;--&gt;
 &lt;p&gt;The ABZ conference is dedicated to the cross-fertilization of state-based and machine-based formal methods, like Abstract State Machines (ASM), Alloy, B, TLA, VDM and Z, that share a common conceptual foundation and are widely used in both academia and industry for the design and analysis of hardware and software systems. The conference aims for a vital exchange of knowledge and experience among the research communities around different formal methods.&lt;/p&gt;</description></item><item><title>ABZ 2026 – 12th International Conference on Rigorous State Based Methods</title><link>/site/2026/accommodation/</link><pubDate>Tue, 29 Jul 2025 19:00:00 +0900</pubDate><guid>/site/2026/accommodation/</guid><description>&lt;h2 id="accomodation"&gt;Accomodation&lt;/h2&gt;
 &lt;p&gt;The accomodation information is on &lt;a href="https://conf.researchr.org/attending/fm-2026/accommodations"&gt;the FM 2026 website&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>ABZ 2026 – 12th International Conference on Rigorous State Based Methods</title><link>/site/2026/casestudy/</link><pubDate>Tue, 29 Jul 2025 19:00:00 +0900</pubDate><guid>/site/2026/casestudy/</guid><description>&lt;h2 id="case-study-planetary-rover---call-for-papers"&gt;Case Study: Planetary Rover - Call for Papers&lt;/h2&gt;
 &lt;p&gt;As successfully practiced in previous editions of ABZ, the 12th edition of ABZ will include again special sessions dedicated to a shared case study.&lt;/p&gt;
