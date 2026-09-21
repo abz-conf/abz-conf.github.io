@@ -38,7 +38,10 @@ skyline:
 
 * Catarina Fernandes, INESC TEC, Braga, Portugal
 
+### Social and Publicity Chair
 
-### Program Committee
+* Paula Rodrigues, INESC TEC, Braga, Portugal
+
+## Program Committee
 
 More information coming soon...
