@@ -13,13 +13,57 @@ header:
   image: ""
 
 skyline: 
-  image: "tokyo-skyline.svg"
-  url: "https://en.wikipedia.org/wiki/Tokyo"
+  image: "braga-skyline.svg"
+  url: "https://en.wikipedia.org/wiki/Braga"
 ---
 
 ## Doctoral Symposium
 
-More information coming soon...
-<!--
+The ABZ PhD Symposium is an international forum for PhD students studying all areas related to state based formal methods for software and system development.
 
-In the 2026 edition, information for the doctoral symposium will be found on <a href="https://conf.researchr.org/track/fm-2026/fm-2026-doctoral-symposium">the FM 2026 website</a> (we don't have ABZ-specific doctoral symposium this year).
+This forum is a good opportunity to
+
+- bring together PhD students and established and known researchers of the state based formal methods community,
+- provide PhD students with fruitful feedback and advice on their research approach,
+- enable PhD students to interact with other PhD students and to stimulate exchange of ideas suggestions and experiences among participants,
+- provide PhD students an opportunity to present, share and discuss their research in a constructive and critical atmosphere.
+
+We seek PhD students who have either determined the direction of their thesis research (probably with some preliminary results already published), but who still have substantial work to complete, or PhD student participants who are in the early stages of their dissertations. It is not required to have a paper accepted for the main conference in order to participate in the Doctoral Symposium.
+
+### ABZ 2027 invites:
+
+* **Contribution to doctoral symposium**: This is an excellent opportunity for PhD students to present their ongoing work and receive valuable feedback from the ABZ community. A paper of no more than *4 pages (excluding references)* in [LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) is expected and will be reviewed.
+
+Preferably, submissions should include
+
+- Title of the paper and the author name
+- Problem statement, motivations, and progress
+- Current development and related work
+- Proposed solutions, approach and methodology, and their significance
+- Current results and assessement
+- Future work
+
+Accepted papers will be published in the Springer LNCS proceedings. Page limits (including references and all appendices) for the final versions are 5 pages for doctoral symposium contributions.
+
+<div style="display: flex; align-items: center; gap: 40px; flex-wrap: wrap;">
+<img src="/img/Springer_Logo.jpg"><img src="/img/LNCS-Logo.jpg">
+</div>
+
+### Importante Dates
+
+|                          |                       |
+|--------------------------|-----------------------|
+| **Abstract submission (optional):** | February 8, 2027     |
+| **Paper submission:**    | February 15, 2027      |
+| **Notification:**        | March 22, 2027        |
+| **Final version:**       | April 5, 2027         |
+
+### Submission Process
+
+Papers will be submitted via EasyChair. 
+
+Authors should consult [Springer Authors Guidelines](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) and use their proceedings templates. Springer encourages authors to include their [ORCIDs](https://www.springer.com/gp/authors-editors/orcid) in their papers. Authors should also check [Springer Authors Code of Conduct](https://www.springernature.com/gp/authors/book-authors-code-of-conduct)
+
+The corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign a Consent-to-Publish form. The corresponding author signing the copyright form should match the corresponding author marked on the paper. Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made.
+
+Authors interested in contributing in Open Access or Open Choice should refer to the corresponding [Springer webpage](https://www.springer.com/gp/computer-science/lncs/open-access-publishing-in-computer-proceedings).

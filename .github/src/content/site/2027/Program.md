@@ -13,14 +13,10 @@ header:
   image: ""
 
 skyline: 
-  image: "tokyo-skyline.svg"
-  url: "https://en.wikipedia.org/wiki/Tokyo"
+  image: "braga-skyline.svg"
+  url: "https://en.wikipedia.org/wiki/Braga"
 ---
 
 ## Program
 
 More information coming soon...
-
-<!-- 
-
-The program information is available on <a href="https://conf.researchr.org/track/fm-2026/fm-2026-abz-2026#program">the FM 2026 website</a>.

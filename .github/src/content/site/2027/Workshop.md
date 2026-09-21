@@ -13,14 +13,10 @@ header:
   image: ""
 
 skyline: 
-  image: "tokyo-skyline.svg"
-  url: "https://en.wikipedia.org/wiki/Tokyo"
+  image: "braga-skyline.svg"
+  url: "https://en.wikipedia.org/wiki/Braga"
 ---
 
 ## Workshops and Tutorials
 
 More information coming soon...
-
-<!-- 
-
-In the 2026 edition, information for workshops and tutorials will be found in <a href="https://conf.researchr.org/home/fm-2026">the FM 2026 website</a>.

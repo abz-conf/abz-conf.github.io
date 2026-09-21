@@ -13,14 +13,10 @@ header:
   image: ""
 
 skyline: 
-  image: "tokyo-skyline.svg"
-  url: "https://en.wikipedia.org/wiki/Tokyo"
+  image: "braga-skyline.svg"
+  url: "https://en.wikipedia.org/wiki/Braga"
 ---
 
 ## Registration
 
 More information coming soon...
-
-<!-- 
-
-The registration information is on <a href="https://conf.researchr.org/attending/fm-2026/registration">the FM 2026 website</a>.

@@ -13,19 +13,34 @@ header:
   image: ""
 
 skyline: 
-  image: "tokyo-skyline.svg"
-  url: "https://en.wikipedia.org/wiki/Tokyo"
+  image: "braga-skyline.svg"
+  url: "https://en.wikipedia.org/wiki/Braga"
 ---
 
 ## Important Dates 
-More information coming soon...
 
-<!-- 
+All submission dates are anywhere on earth.
 
-### Main Track
-|                                                                                |                       |
-|--------------------------------------------------------------------------------|-----------------------|
-| **Abstract submission (OPTIONAL):** | February 9, 2026 AOE |
-| **Paper submission:** | February 16, 2026 AOE |
-| **Notification:** | March 13, 2026        |
-| **Final version:** | March 23, 2026         |
+### Papers (all tracks)
+
+|                          |                       |
+|--------------------------|-----------------------|
+| **Abstract submission (optional):** | February 8, 2027     |
+| **Paper submission:**    | February 15, 2027      |
+| **Notification:**        | March 22, 2027        |
+| **Final version:**       | April 5, 2027         |
+
+### Workshops and Tutorials
+
+|                          |                       |
+|--------------------------|-----------------------|
+| **Workshop and tutorial proposals:** | December 7, 2026      |
+| **Notification:**        | January 11, 2027        |
+
+
+### Conference
+
+|                                                   |                  |
+|---------------------------------------------------|------------------|
+| **Workshops and Tutorials** | June 14-15, 2027    |
+| **Main Conference**     | June 16-18, 2027    |
