@@ -40,7 +40,7 @@ Preferably, submissions should include
 - Problem statement, motivations, and progress
 - Current development and related work
 - Proposed solutions, approach and methodology, and their significance
-- Current results and assessement
+- Current results and assessment
 - Future work
 
 Accepted papers will be published in the Springer LNCS proceedings. Page limits (including references and all appendices) for the final versions are 5 pages for doctoral symposium contributions.
@@ -49,7 +49,7 @@ Accepted papers will be published in the Springer LNCS proceedings. Page limits 
 <img src="/img/Springer_Logo.jpg"><img src="/img/LNCS-Logo.jpg">
 </div>
 
-### Importante Dates
+### Important Dates
 
 |                          |                       |
 |--------------------------|-----------------------|

@@ -25,4 +25,4 @@ The following list of hotels is just a suggestion of hotels within a short walki
 - [B&B Hotel Braga Lamaçães](https://www.hotel-bb.com/pt/hotel/braga-lamacaes)
 - [Holiday Inn Braga](https://www.ihg.com/holidayinn/hotels/gb/en/braga-portugal/bgzga/hoteldetail?cm_mmc=GoogleMaps-_-HI-_-PT-_-BGZGA)
 
-Many more options can be found in the city center which is also a short taxi or bus ride from the venue (or a nice 30-40m walk for those who enjoy walking). In the city center you will also find a wider variety of restaurants, cafes, and shops. Check out Booking, AirBnb, or Google Maps for options.
+Many more options can be found in the city center which is also a short taxi or bus ride from the venue (or a nice 30-40 minute walk for those who enjoy walking). In the city center you will also find a wider variety of restaurants, cafes, and shops. Check out Booking, Airbnb, or Google Maps for options.
