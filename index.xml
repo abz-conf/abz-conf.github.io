@@ -27,8 +27,7 @@
 &lt;img src="/img/Springer_Logo.jpg"&gt;&lt;img src="/img/LNCS-Logo.jpg"&gt;
 &lt;/div&gt;
 &lt;h3 id="submission-process"&gt;Submission Process&lt;/h3&gt;
-&lt;p&gt;Papers will be submitted via EasyChair. Workshops and tutorial proposals should be submitted directly to
-&lt;a href="mailto:alcino@di.uminho.pt"&gt;alcino@di.uminho.pt&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Papers, along with workshop and tutorial proposals, will be submitted via EasyChair.&lt;/p&gt;
 &lt;p&gt;Authors should consult
 &lt;a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" target="_blank" rel="noopener"&gt;Springer Authors Guidelines&lt;/a&gt; and use their proceedings templates. Springer encourages authors to include their
 &lt;a href="https://www.springer.com/gp/authors-editors/orcid" target="_blank" rel="noopener"&gt;ORCIDs&lt;/a&gt; in their papers. Authors should also check
@@ -41,13 +40,13 @@
 &lt;a href="https://abz-conf.org/case-studies/" target="_blank" rel="noopener"&gt;https://abz-conf.org/case-studies/&lt;/a&gt;) developed with Rigorous State Based Methods with a practical and real-life case study.
 Its goal is also cross-fertilisation, enabling practitioners of the individual formal methods to better understand each other.&lt;/p&gt;
 &lt;p&gt;We explicitly invite you to also submit contributions to case studies from previous conferences, which substantially extend the solutions presented there in one aspect or another. Possible enhancements could be new proof techniques, more elegant modeling, generation, verification, or validation of executable code, etc.&lt;/p&gt;
-&lt;p&gt;The ABZ 2027 case study will be announced soon.&lt;/p&gt;
+&lt;p&gt;The ABZ 2027 case study will be about the 1961 UN Convention on the Reduction of Statelessness. More details will be announced soon.&lt;/p&gt;
 &lt;h3 id="abz-2027-invites"&gt;ABZ 2027 invites:&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Case study papers&lt;/strong&gt;: Full papers reporting on the experiments conducted with any of the state based techniques in the scope of ABZ 2027 case study or previous case studies. A paper of no more than &lt;em&gt;16 pages (excluding references)&lt;/em&gt; in
 &lt;a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" target="_blank" rel="noopener"&gt;LNCS format&lt;/a&gt; is expected and will be reviewed.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Accepted papers will appear in the Springer LNCS proceedings. Page limits (including references and all appendices) for the final versions are 18 for case study papers.&lt;/p&gt;
+&lt;p&gt;Accepted papers will appear in the Springer LNCS proceedings. The page limits (including references and all appendices) for the final version of case study papers is 18 pages.&lt;/p&gt;
 &lt;div style="display: flex; align-items: center; gap: 40px; flex-wrap: wrap;"&gt;
 &lt;img src="/img/Springer_Logo.jpg"&gt;&lt;img src="/img/LNCS-Logo.jpg"&gt;
 &lt;/div&gt;
@@ -110,7 +109,7 @@ Its goal is also cross-fertilisation, enabling practitioners of the individual f
 &lt;li&gt;Current results and assessment&lt;/li&gt;
 &lt;li&gt;Future work&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Accepted papers will be published in the Springer LNCS proceedings. Page limits (including references and all appendices) for the final versions are 5 pages for doctoral symposium contributions.&lt;/p&gt;
+&lt;p&gt;Accepted papers will be published in the Springer LNCS proceedings. The page limits (including references and all appendices) for the final version of the doctoral symposium papers is 5 pages.&lt;/p&gt;
 &lt;div style="display: flex; align-items: center; gap: 40px; flex-wrap: wrap;"&gt;
 &lt;img src="/img/Springer_Logo.jpg"&gt;&lt;img src="/img/LNCS-Logo.jpg"&gt;
 &lt;/div&gt;
@@ -188,12 +187,20 @@ Its goal is also cross-fertilisation, enabling practitioners of the individual f
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Workshop and tutorial proposals:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Workshop proposals:&lt;/strong&gt;&lt;/td&gt;
 &lt;td&gt;December 7, 2026&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Notification:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Workshop notification:&lt;/strong&gt;&lt;/td&gt;
 &lt;td&gt;January 11, 2027&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Tutorial proposals:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;February 8, 2027&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Tutorial notification:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;March 22, 2027&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -222,14 +229,14 @@ Its goal is also cross-fertilisation, enabling practitioners of the individual f
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Full research papers&lt;/strong&gt;: Full research papers which have to be original, unpublished and not submitted elsewhere. A paper of no more than 16 pages (excluding references) in
 &lt;a href="https://link.springer.com/series/558/information-for-authors-and-editors" target="_blank" rel="noopener"&gt;LNCS&lt;/a&gt; format is expected and will be reviewed.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Short papers&lt;/strong&gt;: Short papers to present and validate a work in progress or tool demonstrations. A paper of no more than 6 pages (excluding references) in
+&lt;li&gt;&lt;strong&gt;Short papers&lt;/strong&gt;: Short papers to present and validate a work in progress or tool demonstrations. A paper of no more than 8 pages (excluding references) in
 &lt;a href="https://link.springer.com/series/558/information-for-authors-and-editors" target="_blank" rel="noopener"&gt;LNCS&lt;/a&gt; format is expected and will be reviewed.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Application in industry papers&lt;/strong&gt;: Reporting on work or experiences on the application of state based formal methods in industry. A paper of no more than 8 pages (excluding references) in
 &lt;a href="https://link.springer.com/series/558/information-for-authors-and-editors" target="_blank" rel="noopener"&gt;LNCS&lt;/a&gt; format is expected and will be reviewed. It is also an interesting option for industrial practitioners who sometimes face too many constraints to prepare a full paper.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Journal-first papers&lt;/strong&gt;: Journal-First papers summarize recently published papers in high-quality journals. The aim of journal-first papers is to further enrich the program of ABZ and to provide more visibility to already published journal papers in the scope of the ABZ conference. An extended abstract of no more than 6 pages (excluding references) in
+&lt;li&gt;&lt;strong&gt;Journal-first papers&lt;/strong&gt;: Journal-First papers summarize recently published papers in high-quality journals. The aim of journal-first papers is to further enrich the program of ABZ and to provide more visibility to already published journal papers in the scope of the ABZ conference. An extended abstract of no more than 4 pages (excluding references) in
 &lt;a href="https://link.springer.com/series/558/information-for-authors-and-editors" target="_blank" rel="noopener"&gt;LNCS&lt;/a&gt; format is expected and will be reviewed.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Accepted papers will appear in the Springer LNCS proceedings. Page limits (including references and all appendices) for the final versions are 18 pages for full papers and 8 pages for the other paper categories.&lt;/p&gt;
+&lt;p&gt;Accepted papers will appear in the Springer LNCS proceedings. Page limits (including references and all appendices) for the final versions are 18 pages for full papers, 10 pages for short and industry papers, and 5 pages for journal-first papers.&lt;/p&gt;
 &lt;div style="display: flex; align-items: center; gap: 40px; flex-wrap: wrap;"&gt;
 &lt;img src="/img/Springer_Logo.jpg"&gt;&lt;img src="/img/LNCS-Logo.jpg"&gt;
 &lt;/div&gt;
@@ -301,8 +308,8 @@ Its goal is also cross-fertilisation, enabling practitioners of the individual f
 &lt;h2 id="program-committee"&gt;Program Committee&lt;/h2&gt;
 &lt;p&gt;More information coming soon&amp;hellip;&lt;/p&gt;</description></item><item><title>ABZ 2027 – 13th International Conference on Rigorous State Based Methods</title><link>/site/2027/tutorialworkshops/</link><pubDate>Fri, 18 Sep 2026 19:00:00 +0900</pubDate><guid>/site/2027/tutorialworkshops/</guid><description>&lt;h2 id="workshops-and-tutorials"&gt;Workshops and Tutorials&lt;/h2&gt;
 &lt;p&gt;Researchers and practitioners are invited to submit proposals for workshops and tutorials held in conjunction with ABZ 2027. Workshops and tutorials will be held on June 14-15, 2027 (right before the main conference). Proposals are solicited in areas related to the conference topics.&lt;/p&gt;
-&lt;p&gt;A workshop proposal should contain the title and acronym of the workshop, the contact information of the workshop organizers, a short abstract for ABZ 2027 website (if accepted), a description of the workshop, the intended format (regular paper presentations, invited talks, panel discussions, breakout sessions, etc.), the expected number of participants, and the duration (half-day or full-day).&lt;/p&gt;
-&lt;p&gt;A tutorial proposal should contain the title of the tutorial, the contact information of the tutorial presenters, a short abstract for ABZ 2027 website (if accepted), a description of the tutorial, the intended format (lectures, hands-on sessions, group activities, etc.), and the duration (half-day or full-day).&lt;/p&gt;
+&lt;p&gt;A workshop proposal (of no more than 4 pages) should contain the title and acronym of the workshop, the contact information of the workshop organizers, a short abstract for ABZ 2027 website (if accepted), a description of the workshop, the intended format (regular paper presentations, invited talks, panel discussions, breakout sessions, etc.), the expected number of participants, and the duration (half-day or full-day).&lt;/p&gt;
+&lt;p&gt;A tutorial proposal (of no more than 4 pages) should contain the title of the tutorial, the contact information of the tutorial presenters, a short abstract for ABZ 2027 website (if accepted), a description of the tutorial, the intended format (lectures, hands-on sessions, group activities, etc.), and the duration (half-day or full-day).&lt;/p&gt;
 &lt;h3 id="important-dates"&gt;Important Dates&lt;/h3&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -313,18 +320,25 @@ Its goal is also cross-fertilisation, enabling practitioners of the individual f
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Workshop and tutorial proposals:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Workshop proposals:&lt;/strong&gt;&lt;/td&gt;
 &lt;td&gt;December 7, 2026&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Notification:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Workshop notification:&lt;/strong&gt;&lt;/td&gt;
 &lt;td&gt;January 11, 2027&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Tutorial proposals:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;February 8, 2027&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Tutorial notification:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;March 22, 2027&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h3 id="submission-process"&gt;Submission Process&lt;/h3&gt;
-&lt;p&gt;Workshops and tutorial proposals should be submitted directly to
-&lt;a href="mailto:alcino@di.uminho.pt"&gt;alcino@di.uminho.pt&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>ABZ 2027 – 13th International Conference on Rigorous State Based Methods</title><link>/site/2027/venue/</link><pubDate>Fri, 18 Sep 2026 19:00:00 +0900</pubDate><guid>/site/2027/venue/</guid><description>&lt;h2 id="venue-university-of-minho"&gt;Venue: University of Minho&lt;/h2&gt;
+&lt;p&gt;Workshop and tutorial proposals will be submitted via EasyChair.&lt;/p&gt;</description></item><item><title>ABZ 2027 – 13th International Conference on Rigorous State Based Methods</title><link>/site/2027/venue/</link><pubDate>Fri, 18 Sep 2026 19:00:00 +0900</pubDate><guid>/site/2027/venue/</guid><description>&lt;h2 id="venue-university-of-minho"&gt;Venue: University of Minho&lt;/h2&gt;
 &lt;h3 id="location"&gt;Location&lt;/h3&gt;
 &lt;p&gt;Auditorium B1, Building 2&lt;/br&gt;
 Gualtar Campus&lt;/br&gt;
