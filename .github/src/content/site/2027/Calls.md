@@ -22,7 +22,7 @@ The ABZ conference is dedicated to the cross-fertilization of state-based and ma
 
 ABZ 2027 will have a main conference track, a case study track, a doctoral symposium, tutorials and workshops.
 
-* [Main Conference](../maintrack)
+* [Main Track](../maintrack)
 * [Case Study](../casestudy)
 * [Doctoral Symposium](../doctoralsymposium)
 * [Tutorials and Workshops](../tutorialworkshops)

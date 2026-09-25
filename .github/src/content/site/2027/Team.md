@@ -27,7 +27,7 @@ skyline:
 ### Case Study Track Chairs
 
 * [Nuno Macedo, INESC TEC & University of Minho, Braga, Portugal](https://nmacedo.github.io)
-* TBA
+* [Patrícia Jerónimo, Law School, University of Minho, Braga, Portugal](https://www.cienciavitae.pt/pt/FA1F-D3C1-5CE2)
 
 ### Local Chair
 
