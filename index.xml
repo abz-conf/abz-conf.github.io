@@ -14,7 +14,7 @@
 &lt;p&gt;ABZ 2027 will have a main conference track, a case study track, a doctoral symposium, tutorials and workshops.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href="../maintrack"&gt;Main Conference&lt;/a&gt;&lt;/li&gt;
+&lt;a href="../maintrack"&gt;Main Track&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href="../casestudy"&gt;Case Study&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
@@ -36,15 +36,15 @@
 &lt;p&gt;The corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign a Consent-to-Publish form. The corresponding author signing the copyright form should match the corresponding author marked on the paper. Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made.&lt;/p&gt;
 &lt;p&gt;Authors interested in contributing in Open Access or Open Choice should refer to the corresponding
 &lt;a href="https://www.springer.com/gp/computer-science/lncs/open-access-publishing-in-computer-proceedings" target="_blank" rel="noopener"&gt;Springer webpage&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>ABZ 2027 – 13th International Conference on Rigorous State Based Methods</title><link>/site/2027/casestudy/</link><pubDate>Fri, 18 Sep 2026 19:00:00 +0900</pubDate><guid>/site/2027/casestudy/</guid><description>&lt;h2 id="case-study"&gt;Case Study&lt;/h2&gt;
-&lt;p&gt;As successfully practiced in previous editions of ABZ, the 13th edition of ABZ will include again special sessions dedicated to a shared real-life case study.&lt;/p&gt;
+&lt;p&gt;As successfully practiced in previous editions of ABZ, the 13th edition of ABZ will again include special sessions dedicated to a shared real-life case study.&lt;/p&gt;
 &lt;p&gt;The objective of this session is to enrich the set of case studies (
 &lt;a href="https://abz-conf.org/case-studies/" target="_blank" rel="noopener"&gt;https://abz-conf.org/case-studies/&lt;/a&gt;) developed with Rigorous State Based Methods with a practical and real-life case study.
-Its goal is also cross-fertilisation, enabling practitioners of the individual formal methods to
-better understand each other.&lt;/p&gt;
+Its goal is also cross-fertilisation, enabling practitioners of the individual formal methods to better understand each other.&lt;/p&gt;
+&lt;p&gt;We explicitly invite you to also submit contributions to case studies from previous conferences, which substantially extend the solutions presented there in one aspect or another. Possible enhancements could be new proof techniques, more elegant modeling, generation, verification, or validation of executable code, etc.&lt;/p&gt;
 &lt;p&gt;The ABZ 2027 case study will be announced soon.&lt;/p&gt;
 &lt;h3 id="abz-2027-invites"&gt;ABZ 2027 invites:&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Case study papers&lt;/strong&gt;: Full papers reporting on the experiments conducted with any of the state based techniques in the scope of ABZ 2027 case study. A paper of no more than &lt;em&gt;16 pages (excluding references)&lt;/em&gt; in
+&lt;li&gt;&lt;strong&gt;Case study papers&lt;/strong&gt;: Full papers reporting on the experiments conducted with any of the state based techniques in the scope of ABZ 2027 case study or previous case studies. A paper of no more than &lt;em&gt;16 pages (excluding references)&lt;/em&gt; in
 &lt;a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" target="_blank" rel="noopener"&gt;LNCS format&lt;/a&gt; is expected and will be reviewed.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Accepted papers will appear in the Springer LNCS proceedings. Page limits (including references and all appendices) for the final versions are 18 for case study papers.&lt;/p&gt;
@@ -282,7 +282,8 @@ better understand each other.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;a href="https://nmacedo.github.io" target="_blank" rel="noopener"&gt;Nuno Macedo, INESC TEC &amp;amp; University of Minho, Braga, Portugal&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;TBA&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://www.cienciavitae.pt/pt/FA1F-D3C1-5CE2" target="_blank" rel="noopener"&gt;Patrícia Jerónimo, Law School, University of Minho, Braga, Portugal&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id="local-chair"&gt;Local Chair&lt;/h3&gt;
 &lt;ul&gt;
