@@ -26,13 +26,13 @@ Its goal is also cross-fertilisation, enabling practitioners of the individual f
 
 We explicitly invite you to also submit contributions to case studies from previous conferences, which substantially extend the solutions presented there in one aspect or another. Possible enhancements could be new proof techniques, more elegant modeling, generation, verification, or validation of executable code, etc.
 
-The ABZ 2027 case study will be announced soon.
+The ABZ 2027 case study will be about the 1961 UN Convention on the Reduction of Statelessness. More details will be announced soon.
 
 ### ABZ 2027 invites:
 
 - **Case study papers**: Full papers reporting on the experiments conducted with any of the state based techniques in the scope of ABZ 2027 case study or previous case studies. A paper of no more than *16 pages (excluding references)* in [LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) is expected and will be reviewed.
 
-Accepted papers will appear in the Springer LNCS proceedings. Page limits (including references and all appendices) for the final versions are 18 for case study papers.
+Accepted papers will appear in the Springer LNCS proceedings. The page limits (including references and all appendices) for the final version of case study papers is 18 pages.
 
 <div style="display: flex; align-items: center; gap: 40px; flex-wrap: wrap;">
 <img src="/img/Springer_Logo.jpg"><img src="/img/LNCS-Logo.jpg">

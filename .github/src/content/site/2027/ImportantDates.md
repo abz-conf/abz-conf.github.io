@@ -34,8 +34,10 @@ All submission dates are anywhere on earth.
 
 |                          |                       |
 |--------------------------|-----------------------|
-| **Workshop and tutorial proposals:** | December 7, 2026      |
-| **Notification:**        | January 11, 2027        |
+| **Workshop proposals:** | December 7, 2026      |
+| **Workshop notification:**        | January 11, 2027        |
+| **Tutorial proposals:** | February 8, 2027      |
+| **Tutorial notification:**        | March 22, 2027        |
 
 
 ### Conference

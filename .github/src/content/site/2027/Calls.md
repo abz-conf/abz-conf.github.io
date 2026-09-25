@@ -35,7 +35,7 @@ Accepted papers will appear in the Springer LNCS proceedings.
 
 ### Submission Process
 
-Papers will be submitted via EasyChair. Workshops and tutorial proposals should be submitted directly to [alcino@di.uminho.pt](mailto:alcino@di.uminho.pt).
+Papers, along with workshop and tutorial proposals, will be submitted via EasyChair.
 
 Authors should consult [Springer Authors Guidelines](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) and use their proceedings templates. Springer encourages authors to include their [ORCIDs](https://www.springer.com/gp/authors-editors/orcid) in their papers. Authors should also check [Springer Authors Code of Conduct](https://www.springernature.com/gp/authors/book-authors-code-of-conduct)
 

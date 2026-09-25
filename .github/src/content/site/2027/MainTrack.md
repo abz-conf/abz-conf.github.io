@@ -24,12 +24,11 @@ Contributions are solicited on all aspects of the theory and applications of ASM
 ### ABZ 2027 invites:
 
 - **Full research papers**: Full research papers which have to be original, unpublished and not submitted elsewhere. A paper of no more than 16 pages (excluding references) in [LNCS](https://link.springer.com/series/558/information-for-authors-and-editors) format is expected and will be reviewed.
-- **Short papers**: Short papers to present and validate a work in progress or tool demonstrations. A paper of no more than 6 pages (excluding references) in [LNCS](https://link.springer.com/series/558/information-for-authors-and-editors) format is expected and will be reviewed.
+- **Short papers**: Short papers to present and validate a work in progress or tool demonstrations. A paper of no more than 8 pages (excluding references) in [LNCS](https://link.springer.com/series/558/information-for-authors-and-editors) format is expected and will be reviewed.
 - **Application in industry papers**: Reporting on work or experiences on the application of state based formal methods in industry. A paper of no more than 8 pages (excluding references) in [LNCS](https://link.springer.com/series/558/information-for-authors-and-editors) format is expected and will be reviewed. It is also an interesting option for industrial practitioners who sometimes face too many constraints to prepare a full paper.
-- **Journal-first papers**: Journal-First papers summarize recently published papers in high-quality journals. The aim of journal-first papers is to further enrich the program of ABZ and to provide more visibility to already published journal papers in the scope of the ABZ conference. An extended abstract of no more than 6 pages (excluding references) in [LNCS](https://link.springer.com/series/558/information-for-authors-and-editors) format is expected and will be reviewed.
+- **Journal-first papers**: Journal-First papers summarize recently published papers in high-quality journals. The aim of journal-first papers is to further enrich the program of ABZ and to provide more visibility to already published journal papers in the scope of the ABZ conference. An extended abstract of no more than 4 pages (excluding references) in [LNCS](https://link.springer.com/series/558/information-for-authors-and-editors) format is expected and will be reviewed.
 
-
-Accepted papers will appear in the Springer LNCS proceedings. Page limits (including references and all appendices) for the final versions are 18 pages for full papers and 8 pages for the other paper categories.
+Accepted papers will appear in the Springer LNCS proceedings. Page limits (including references and all appendices) for the final versions are 18 pages for full papers, 10 pages for short and industry papers, and 5 pages for journal-first papers.
 
 <div style="display: flex; align-items: center; gap: 40px; flex-wrap: wrap;">
 <img src="/img/Springer_Logo.jpg"><img src="/img/LNCS-Logo.jpg">

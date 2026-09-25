@@ -43,7 +43,7 @@ Preferably, submissions should include
 - Current results and assessment
 - Future work
 
-Accepted papers will be published in the Springer LNCS proceedings. Page limits (including references and all appendices) for the final versions are 5 pages for doctoral symposium contributions.
+Accepted papers will be published in the Springer LNCS proceedings. The page limits (including references and all appendices) for the final version of the doctoral symposium papers is 5 pages.
 
 <div style="display: flex; align-items: center; gap: 40px; flex-wrap: wrap;">
 <img src="/img/Springer_Logo.jpg"><img src="/img/LNCS-Logo.jpg">
@@ -60,7 +60,7 @@ Accepted papers will be published in the Springer LNCS proceedings. Page limits 
 
 ### Submission Process
 
-Papers will be submitted via EasyChair. 
+Papers will be submitted via EasyChair.  
 
 Authors should consult [Springer Authors Guidelines](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) and use their proceedings templates. Springer encourages authors to include their [ORCIDs](https://www.springer.com/gp/authors-editors/orcid) in their papers. Authors should also check [Springer Authors Code of Conduct](https://www.springernature.com/gp/authors/book-authors-code-of-conduct)
 
