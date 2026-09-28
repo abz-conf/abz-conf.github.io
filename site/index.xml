@@ -358,7 +358,7 @@ Gualtar Campus&lt;/br&gt;
 &lt;p&gt;The ABZ conference is dedicated to the cross-fertilization of state-based and machine-based formal methods, like Abstract State Machines (ASM), Alloy, B, TLA, VDM and Z, that share a common conceptual foundation and are widely used in both academia and industry for the design and analysis of hardware and software systems. The conference aims for a vital exchange of knowledge and experience among the research communities around different formal methods.&lt;/p&gt;
 &lt;p&gt;The 13th instalment of the ABZ conference will be held in the
 &lt;a href="https://www.uminho.pt" target="_blank" rel="noopener"&gt;University of Minho&lt;/a&gt;, Braga, Portugal.&lt;/p&gt;
-&lt;h3 id="supporters"&gt;Supporters&lt;/h3&gt;
+&lt;h3 id="organization"&gt;Organization&lt;/h3&gt;
 &lt;div style="display: flex; align-items: center; gap: 40px; flex-wrap: wrap;"&gt;
 &lt;a href="https://www.uminho.pt"&gt;
 &lt;img src="/img/uminho.png" width="170" alt="University of Minho"&gt;
@@ -366,6 +366,9 @@ Gualtar Campus&lt;/br&gt;
 &lt;a href="https://www.inesctec.pt"&gt;
 &lt;img src="/img/inesctec.png" width="350" alt="INESC TEC"&gt;
 &lt;/a&gt;
+&lt;/div&gt;
+&lt;h3 id="supporters"&gt;Supporters&lt;/h3&gt;
+&lt;div style="display: flex; align-items: center; gap: 40px; flex-wrap: wrap;"&gt;
 &lt;a href="https://www.fmeurope.org"&gt;
 &lt;img src="/img/FME.png" width="170" alt="Formal Methods Europe"&gt;
 &lt;/a&gt;
