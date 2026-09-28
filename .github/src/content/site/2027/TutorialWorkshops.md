@@ -36,4 +36,4 @@ A tutorial proposal (of no more than 4 pages) should contain the title of the tu
 
 ### Submission Process
 
-Workshop and tutorial proposals will be submitted via EasyChair. 
+<p class="text-center"><a href="https://easychair.org/conferences/?conf=abz2027" class="btn btn-primary btn-lg" role="button" target="_blank">Submit proposal<br><br><br><small>via EasyChair</small></a></p>

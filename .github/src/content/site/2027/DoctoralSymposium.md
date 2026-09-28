@@ -60,7 +60,7 @@ Accepted papers will be published in the Springer LNCS proceedings. The page lim
 
 ### Submission Process
 
-Papers will be submitted via EasyChair.  
+<p class="text-center"><a href="https://easychair.org/conferences/?conf=abz2027" class="btn btn-primary btn-lg" role="button" target="_blank">Submit contribution<br><br><br><small>via EasyChair</small></a></p>
 
 Authors should consult [Springer Authors Guidelines](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) and use their proceedings templates. Springer encourages authors to include their [ORCIDs](https://www.springer.com/gp/authors-editors/orcid) in their papers. Authors should also check [Springer Authors Code of Conduct](https://www.springernature.com/gp/authors/book-authors-code-of-conduct)
 
