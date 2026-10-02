@@ -39,7 +39,8 @@
 &lt;a href="https://abz-conf.org/case-studies/" target="_blank" rel="noopener"&gt;https://abz-conf.org/case-studies/&lt;/a&gt;) developed with Rigorous State Based Methods with a practical and real-life case study.
 Its goal is also cross-fertilisation, enabling practitioners of the individual formal methods to better understand each other.&lt;/p&gt;
 &lt;p&gt;We explicitly invite you to also submit contributions to case studies from previous conferences, which substantially extend the solutions presented there in one aspect or another. Possible enhancements could be new proof techniques, more elegant modeling, generation, verification, or validation of executable code, etc.&lt;/p&gt;
-&lt;p&gt;The ABZ 2027 case study will be about the 1961 UN Convention on the Reduction of Statelessness. More details will be announced soon.&lt;/p&gt;
+&lt;p&gt;The ABZ 2027 case study will be about the 1961 UN Convention on the Reduction of Statelessness. More details can be found in the dedicated
+&lt;a href="https://github.com/haslab/ABZ27-Case-Study" target="_blank" rel="noopener"&gt;GitHub repository&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id="abz-2027-invites"&gt;ABZ 2027 invites:&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Case study papers&lt;/strong&gt;: Full papers reporting on the experiments conducted with any of the state based techniques in the scope of ABZ 2027 case study or previous case studies. A paper of no more than &lt;em&gt;16 pages (excluding references)&lt;/em&gt; in
