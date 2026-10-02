@@ -26,7 +26,7 @@ Its goal is also cross-fertilisation, enabling practitioners of the individual f
 
 We explicitly invite you to also submit contributions to case studies from previous conferences, which substantially extend the solutions presented there in one aspect or another. Possible enhancements could be new proof techniques, more elegant modeling, generation, verification, or validation of executable code, etc.
 
-The ABZ 2027 case study will be about the 1961 UN Convention on the Reduction of Statelessness. More details can be found in the dedicated [GitHub repository](https://github.com/haslab/ABZ27-Case-Study).
+The ABZ 2027 case study will be related to the 1961 UN Convention on the Reduction of Statelessness. More details can be found in the dedicated [GitHub repository](https://github.com/haslab/ABZ27-Case-Study).
 
 ### ABZ 2027 invites:
 
