@@ -368,12 +368,14 @@ Gualtar Campus&lt;/br&gt;
 &lt;img src="/img/inesctec.png" width="350" alt="INESC TEC"&gt;
 &lt;/a&gt;
 &lt;/div&gt;
-&lt;h3 id="support"&gt;Support&lt;/h3&gt;
+&lt;!--
+### Support
 &lt;div style="display: flex; align-items: center; gap: 40px; flex-wrap: wrap;"&gt;
 &lt;a href="https://www.fmeurope.org"&gt;
 &lt;img src="/img/FME.png" width="170" alt="Formal Methods Europe"&gt;
 &lt;/a&gt;
-&lt;/div&gt;</description></item><item><title>ABZ 2026 – 12th International Conference on Rigorous State Based Methods</title><link>/site/2026/accommodation/</link><pubDate>Tue, 29 Jul 2025 19:00:00 +0900</pubDate><guid>/site/2026/accommodation/</guid><description>&lt;h2 id="accomodation"&gt;Accomodation&lt;/h2&gt;
+&lt;/div&gt;
+--&gt;</description></item><item><title>ABZ 2026 – 12th International Conference on Rigorous State Based Methods</title><link>/site/2026/accommodation/</link><pubDate>Tue, 29 Jul 2025 19:00:00 +0900</pubDate><guid>/site/2026/accommodation/</guid><description>&lt;h2 id="accomodation"&gt;Accomodation&lt;/h2&gt;
 &lt;p&gt;The accomodation information is on &lt;a href="https://conf.researchr.org/attending/fm-2026/accommodations"&gt;the FM 2026 website&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>ABZ 2026 – 12th International Conference on Rigorous State Based Methods</title><link>/site/2026/casestudy/</link><pubDate>Tue, 29 Jul 2025 19:00:00 +0900</pubDate><guid>/site/2026/casestudy/</guid><description>&lt;h2 id="case-study-planetary-rover---call-for-papers"&gt;Case Study: Planetary Rover - Call for Papers&lt;/h2&gt;
 &lt;p&gt;As successfully practiced in previous editions of ABZ, the 12th edition of ABZ will include again special sessions dedicated to a shared case study.&lt;/p&gt;
 &lt;p&gt;The objective of this session is to enrich the set of case studies (
