@@ -32,7 +32,7 @@ The ABZ 2027 case study will be related to the 1961 UN Convention on the Reducti
 
 - **Case study papers**: Full papers reporting on the experiments conducted with any of the state based techniques in the scope of ABZ 2027 case study or previous case studies. A paper of no more than *16 pages (excluding references)* in [LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) is expected and will be reviewed.
 
-Accepted papers will appear in the Springer LNCS proceedings. The page limits (including references and all appendices) for the final version of case study papers is 18 pages.
+Accepted papers are planned to appear in the Springer LNCS proceedings. The page limits (including references and all appendices) for the final version of case study papers is 18 pages.
 
 <div style="display: flex; align-items: center; gap: 40px; flex-wrap: wrap;">
 <img src="/img/Springer_Logo.jpg"><img src="/img/LNCS-Logo.jpg">

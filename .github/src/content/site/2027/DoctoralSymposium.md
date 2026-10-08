@@ -43,7 +43,7 @@ Preferably, submissions should include
 - Current results and assessment
 - Future work
 
-Accepted papers will be published in the Springer LNCS proceedings. The page limits (including references and all appendices) for the final version of the doctoral symposium papers is 5 pages.
+Accepted papers are planned to appear in the Springer LNCS proceedings. The page limits (including references and all appendices) for the final version of the doctoral symposium papers is 5 pages.
 
 <div style="display: flex; align-items: center; gap: 40px; flex-wrap: wrap;">
 <img src="/img/Springer_Logo.jpg"><img src="/img/LNCS-Logo.jpg">

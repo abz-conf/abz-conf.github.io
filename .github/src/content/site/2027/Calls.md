@@ -27,7 +27,7 @@ ABZ 2027 will have a main conference track, a case study track, a doctoral sympo
 * [Doctoral Symposium](../doctoralsymposium)
 * [Tutorials and Workshops](../tutorialworkshops)
 
-Accepted papers will appear in the Springer LNCS proceedings.
+Accepted papers are planned to appear in the Springer LNCS proceedings.
 
 <div style="display: flex; align-items: center; gap: 40px; flex-wrap: wrap;">
 <img src="/img/Springer_Logo.jpg"><img src="/img/LNCS-Logo.jpg">
