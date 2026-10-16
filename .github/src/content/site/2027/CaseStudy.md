@@ -17,9 +17,7 @@ skyline:
   url: "https://en.wikipedia.org/wiki/Braga"
 ---
 
-## Case Study
-
-As successfully practiced in previous editions of ABZ, the 13th edition of ABZ will again include special sessions dedicated to a shared real-life case study.
+As successfully practiced in previous editions of ABZ, the 13th edition of ABZ will again include a special session dedicated to a shared real-life case study.
 
 The objective of this session is to enrich the set of case studies ([https://abz-conf.org/case-studies/](https://abz-conf.org/case-studies/)) developed with Rigorous State Based Methods with a practical and real-life case study.
 Its goal is also cross-fertilisation, enabling practitioners of the individual formal methods to better understand each other.

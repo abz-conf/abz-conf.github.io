@@ -17,8 +17,6 @@ skyline:
   url: "https://en.wikipedia.org/wiki/Braga"
 ---
 
-## Important Dates 
-
 All submission dates are anywhere on earth.
 
 ### Papers (all tracks)

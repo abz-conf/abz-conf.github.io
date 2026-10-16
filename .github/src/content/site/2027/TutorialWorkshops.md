@@ -17,8 +17,6 @@ skyline:
   url: "https://en.wikipedia.org/wiki/Braga"
 ---
 
-## Workshops and Tutorials
-
 Researchers and practitioners are invited to submit proposals for workshops and tutorials held in conjunction with ABZ 2027. Workshops and tutorials will be held on June 14-15, 2027 (right before the main conference). Proposals are solicited in areas related to the conference topics.
 
 A workshop proposal (of no more than 4 pages) should contain the title and acronym of the workshop, the contact information of the workshop organizers, a short abstract for ABZ 2027 website (if accepted), a description of the workshop, the intended format (regular paper presentations, invited talks, panel discussions, breakout sessions, etc.), the expected number of participants, and the duration (half-day or full-day). 

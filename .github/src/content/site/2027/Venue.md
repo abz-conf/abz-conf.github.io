@@ -17,8 +17,6 @@ skyline:
   url: "https://en.wikipedia.org/wiki/Braga"
 ---
 
-## Venue: University of Minho
-
 ### Location
 
 Auditorium B1, Building 2</br>

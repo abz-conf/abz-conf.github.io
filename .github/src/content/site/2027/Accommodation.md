@@ -17,8 +17,6 @@ skyline:
   url: "https://en.wikipedia.org/wiki/Braga"
 ---
 
-## Accommodation
-
 The following list of hotels is just a suggestion of hotels within a short walking distance to the venue:
 
 - [Meliã Braga](https://www.meliabraga.com/)

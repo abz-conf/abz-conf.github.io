@@ -17,6 +17,4 @@ skyline:
   url: "https://en.wikipedia.org/wiki/Braga"
 ---
 
-## Keynote Speakers
-
 More information coming soon...

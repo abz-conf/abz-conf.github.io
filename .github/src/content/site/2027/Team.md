@@ -17,8 +17,6 @@ skyline:
   url: "https://en.wikipedia.org/wiki/Braga"
 ---
 
-## Team
-
 ### Program Chairs
 
 * [Alcino Cunha, INESC TEC & University of Minho, Braga, Portugal](https://alcinocunha.github.io/)
@@ -41,7 +39,7 @@ skyline:
 
 * Paula Rodrigues, INESC TEC, Braga, Portugal
 
-## Program Committee
+### Program Committee
 
 * Yamine Ait Ameur, ENSEEIHT, France
 * Toshiaki Aoki, JAIST, Japan

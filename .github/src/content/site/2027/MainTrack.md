@@ -17,8 +17,6 @@ skyline:
   url: "https://en.wikipedia.org/wiki/Braga"
 ---
 
-## Call for Papers
-
 Contributions are solicited on all aspects of the theory and applications of ASMs, Alloy, B, TLA, VDM, Z and other state-based rigour approaches in software/hardware engineering, including the development of tools and industrial applications. The program spans from theoretical and methodological foundations to practical applications, emphasizing system engineering methods and tools that are distinguished by mathematical rigor and have proved to be industrially viable. The main goal of the conference is to contribute to the integration of accurate state- and machine-based system development methods, clarifying their commonalities and differences to better understand how to combine different approaches for accomplishing the various tasks in modeling, experimental validation, mathematical verification of reliable high-quality hardware/software systems. Although organized to host several formal methods in a single event, editorial control of the joint conference is vested in one integrated program committee.
 
 ### ABZ 2027 invites:

@@ -17,8 +17,6 @@ skyline:
   url: "https://en.wikipedia.org/wiki/Braga"
 ---
 
-## Doctoral Symposium
-
 The ABZ PhD Symposium is an international forum for PhD students studying all areas related to state based formal methods for software and system development.
 
 This forum is a good opportunity to

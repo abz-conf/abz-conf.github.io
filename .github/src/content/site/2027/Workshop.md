@@ -17,6 +17,4 @@ skyline:
   url: "https://en.wikipedia.org/wiki/Braga"
 ---
 
-## Workshops and Tutorials
-
 More information coming soon...
