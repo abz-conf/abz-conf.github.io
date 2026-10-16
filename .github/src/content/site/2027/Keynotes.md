@@ -1,5 +1,5 @@
 ---
-title: ABZ 2027 – 13th International Conference on Rigorous State Based Methods
+title: ABZ 2027 – Keynotes
 date:  "2026-09-18T19:00:00+09:00"
 draft: false
 share: false
