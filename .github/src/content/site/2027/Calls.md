@@ -38,6 +38,8 @@ Accepted papers will appear in the Springer LNCS proceedings.
 
 Authors should consult [Springer Authors Guidelines](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) and use their proceedings templates. Springer encourages authors to include their [ORCIDs](https://www.springer.com/gp/authors-editors/orcid) in their papers. Authors should also check [Springer Authors Code of Conduct](https://www.springernature.com/gp/authors/book-authors-code-of-conduct)
 
+Concerning the use of AI in research or writing, please refer to the respective Springer guidelines: [AI use in research practice](https://www.springernature.com/gp/policies/editorial-policies/using-ai-in-research) and [AI use in manuscript preparation](https://www.springernature.com/gp/policies/editorial-policies/ai-manuscript-preparation). As recommended, the use of AI should be declared (e.g., in the Acknowledgements section of the paper).
+
 The corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign a Consent-to-Publish form. The corresponding author signing the copyright form should match the corresponding author marked on the paper. Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made.
 
 Authors interested in contributing in Open Access or Open Choice should refer to the corresponding [Springer webpage](https://www.springer.com/gp/computer-science/lncs/open-access-publishing-in-computer-proceedings).
